@@ -4,9 +4,11 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-  <title>Best Neurosurgeon in India Dr. Arun Saroha | Top Spine Expert</title>
+  <title>Best Neurosurgeon in Maharashtra Dr. Arun Saroha | Top Spine Expert</title>
   <meta name="description"
-    content="Consult Dr. Arun Saroha, one of the best neurosurgeons in India with 20+ years of expertise in brain & spine surgery. Book your appointment today!" />
+    content="Consult Dr. Arun Saroha, one of the best neurosurgeons in Maharashtra with 20+ years of expertise in brain & spine surgery. Book your appointment today!" />
+  <meta name="keywords"
+    content="best neurosurgeon in maharashtra, top brain specialist in Maharashtra, leading spine surgeon in Maharashtra, neurosurgery expert Maharashtra, neurology hospital, top neuro doctor in Maharashtra, best neurologists in maharashtra" />
 
 
   <!-- Preload Critical Resources -->
@@ -14,28 +16,40 @@
   <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" as="style"
     onload="this.onload=null;this.rel='stylesheet'">
 
-  <link rel="canonical" href="https://spineandbrainindia.com/">
+  <link rel="canonical" href="https://spineandbrainindia.com/best-neurosurgeon-in-uttar-pradesh.php">
   <link rel="preload" href="/fonts/your-font.woff2" as="font" type="font/woff2" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
 
+  <!--Geo Tags-->
+  <meta name="geo.region" content="IN-Maharashtra" />
+  <meta name="geo.placename" content="Maharashtra" />
+  <meta name="geo.position" content="26.8467;80.9462" />
+  <meta name="ICBM" content="26.8467, 80.9462" />
+
   <!--og Graph Tags-->
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://spineandbrainindia.com/" />
+  <meta property="og:url" content="https://spineandbrainindia.com/best-neurosurgeon-in-uttar-pradesh.php" />
   <meta property="og:keywords"
-    content="neurosurgeon in india, Spine Surgeon in India, Best Spine Surgeon in India, spineandbrainindia" />
+    content="best neurosurgeon in maharashtra, top brain specialist in Maharashtra, leading spine surgeon in Maharashtra, neurosurgery expert Maharashtra, neurology hospital, top neuro doctor in Maharashtra, best neurologists in maharashtra" />
 
-  <meta property="og:title" content="Best Neurosurgeon in India – Dr. Arun Saroha | Top Spine Expert" />
+  <meta property="og:title" content="Best Neurosurgeon in Maharashtra – Dr. Arun Saroha | Top Spine Expert" />
 
   <meta property="og:description"
-    content="Consult Dr. Arun Saroha, one of the best neurosurgeons in India with 20+ years of expertise in brain & spine surgery. Book your appointment today!" />
+    content="Consult Dr. Arun Saroha, one of the best neurosurgeons in Maharashtra with 20+ years of expertise in brain & spine surgery. Book your appointment today!" />
+
+  <!--Twitter Tags-->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Best Neurosurgeon in Maharashtra – Dr. Arun Saroha | Top Spine Expert" />
+  <meta name="twitter:description"
+    content="Consult Dr. Arun Saroha, one of the best neurosurgeons in Maharashtra with 20+ years of expertise in brain & spine surgery. Book your appointment today!" />
 
   <script type="application/ld+json">
 {
   "@context": "https://schema.org/",
   "@type": "Product",
-  "name": "Best Neurosurgeon in India – Dr. Arun Saroha | Top Spine Expert",
+  "name": "Best Neurosurgeon in Maharashtra – Dr. Arun Saroha | Top Spine Expert",
   "image": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
-  "description": "Consult Dr. Arun Saroha, one of the best neurosurgeons in India with 20+ years of expertise in brain & spine surgery. Book your appointment today!",
+  "description": "Consult Dr. Arun Saroha, one of the best neurosurgeons in Maharashtra with 20+ years of expertise in brain & spine surgery. Book your appointment today!",
   "brand": "Dr. Arun Saroha",
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -53,8 +67,8 @@
           "@context": "http://schema.org",
           "@type": "MedicalBusiness",
           "name": "Spine and Brain India",
-          "description": "Best Neurosurgeon in India - Leading neurosurgery services in India by Dr. Arun Saroha. Specializing in spine and brain surgery with over 25 years of experience.",
-          "url": "https://www.spineandbrainindia.com/",
+          "description": "Best Neurosurgeon in Maharashtra - Leading neurosurgery services in Maharashtra by Dr. Arun Saroha. Specializing in spine and brain surgery with over 25 years of experience.",
+          "url": "https://spineandbrainindia.com/best-neurosurgeon-in-uttar-pradesh.php",
           "address": {
             "@type": "PostalAddress",
             "streetAddress": "Max Hospital Gurugram, Sushant Lok Phase I, Sector 43",
@@ -344,7 +358,7 @@
   <!--      <div class="feat-cap3-wrap z1 position-absolute w-100">-->
   <!--        <div class="feat-cap3 d-inline-block w-100">-->
   <!--          <h1 class="main-heading">-->
-  <!--            Dr. Arun Saroha: Leading Neurosurgeon in India—Merging Innovation with Expertise-->
+  <!--            Dr. Arun Saroha: Leading Neurosurgeon in Maharashtra—Merging Innovation with Expertise-->
   <!--          </h1>-->
 
   <!--        </div>-->
@@ -379,7 +393,7 @@
         <div class="feat-cap3-wrap z1 position-absolute w-100">
           <div class="feat-cap3 d-inline-block w-100">
             <h1 class="main-heading">
-              Dr. Arun Saroha: Leading Neurosurgeon in India—Merging Innovation with Expertise
+              Dr. Arun Saroha: Leading Neurosurgeon in Maharashtra—Merging Innovation with Expertise
             </h1>
           </div>
         </div>
@@ -469,7 +483,7 @@
                   Expert Brain and Spine Surgery by Dr. Arun Saroha
                 </h2>
 
-                <p class="mb-0" style="text-align: justify;">Dr. Arun Saroha is the best neurosurgeon in India and
+                <p class="mb-0" style="text-align: justify;">Dr. Arun Saroha is the best neurosurgeon in Maharashtra and
                   specializes in treating complex brain and spine disorders, with a focus on delivering effective and
                   long-term treatment outcomes for his patients. Dr. Saroha has successfully performed more than 7,000
                   surgeries on patients with various neurological conditions, including degenerative spine disorders,
@@ -487,20 +501,20 @@
             </div>
 
           </div>
-          <p>With over two decades of experience, Dr. Arun Saroha is affiliated with some of the top hospitals in India,
+          <p>With over two decades of experience, Dr. Arun Saroha is affiliated with some of the top hospitals in Maharashtra,
             including Max Super Speciality Hospital, where he leads a team of skilled neurosurgeons and spine
             specialists. His consistent success in handling high-risk neurological surgeries has made him a sought-after
             expert for both routine and complex procedures.</p>
 
 
           <p>In addition to his surgical expertise, Dr. Arun Saroha, widely recognized as the <a
-              href="https://spineandbrainindia.com/" target="_blank">best neurosurgeon in India</a>, is actively
+              href="https://spineandbrainindia.com/best-neurosurgeon-in-uttar-pradesh.php" target="_blank">best neurosurgeon in Maharashtra</a>, is actively
             involved in academic training, research, and international conferences, where he shares his knowledge with
             fellow professionals. His commitment to advancing neurosurgical techniques keeps him at the forefront of
             innovation in brain and spine care.</p>
 
-          <p>Patients from across India and around the world seek treatment under the <a
-              href="https://spineandbrainindia.com/" target="_blank">best neurosurgeon in India</a>, drawn by his
+          <p>Patients from across Maharashtra and around the world seek treatment under the <a
+              href="https://spineandbrainindia.com/best-neurosurgeon-in-uttar-pradesh.php" target="_blank">best neurosurgeon in Maharashtra</a>, drawn by his
             reputation for clinical excellence, compassionate care, and high success rates. Whether you're dealing with
             chronic back pain, spine deformities, or neurological trauma, Dr. Arun Saroha offers comprehensive solutions
             tailored to each individual case.</p>
@@ -610,7 +624,7 @@
                   <div class="quote-box-inner thm-bg w-100">
                     <i class="flaticon-quotation scndry-bg brd-rd5 position-absolute"></i>
                     <p class="mb-0" style="text-align: justify;">
-                      Dr. Arun Saroha- best neurosurgeon in India provides the best treatment and care
+                      Dr. Arun Saroha- best neurosurgeon in Maharashtra provides the best treatment and care
                       for any brain and spine concerns.
                     </p>
                   </div>
@@ -669,7 +683,7 @@
       <div class="container">
         <div class="sec-title2 text-center w-100">
           <div class="sec-title2-inner d-inline-block">
-            <h2 class="mt-4 mb-0">Why Choose Us as the Best Neurosurgeon in India ?</h2>
+            <h2 class="mt-4 mb-0">Why Choose Us as the Best Neurosurgeon in Maharashtra ?</h2>
           </div>
         </div>
         <div class="serv-wrap position-relative w-100">
@@ -736,34 +750,6 @@
     </div>
   </section>
 
-  <section>
-    <div class="w-100 pt-50 white-layer opc97 pb-50 position-relative">
-      <div class="fixed-bg" style="background-image: url(assets/images/parallax-bg4.webp)"></div>
-      <div class="container">
-        <div class="news-side-title-wrap w-100">
-          <div class="row mrg30">
-            <div class="col-md-12 col-sm-12 col-lg-4">
-              <div class="side-title w-100">
-                <div class="side-title-inner d-inline-block">
-                  <span class="d-block thm-clr">Blogs</span>
-                  <h2 class="mb-0">Our Latest Blogs</h2>
-                  <br />
-                  <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="blog.php"
-                    title="">More Updates</a>
-                </div>
-              </div>
-
-            </div>
-
-            <div class="col-md-12 col-sm-12 col-lg-8">
-              <div id="blog-section" class="blog-container"></div>
-            </div>
-
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <section>
     <div class="w-100 pt-100 gray-layer opc2  position-relative">
@@ -801,11 +787,11 @@
                   <div class="accordion__item">
                     <button class="accordion__btn">
                       <span class="accordion__caption"><i class="far fa-lightbulb"></i>Who is the No 1 Neurosurgeon in
-                        India?</span>
+                        Maharashtra?</span>
                       <span class="accordion__icon"><i class="fa fa-plus"></i></span>
                     </button>
                     <div class="accordion__content">
-                      <p>Dr. Arun Saroha is one of the top neurosurgeons in India, with over 25 years of experience and
+                      <p>Dr. Arun Saroha is one of the top neurosurgeons in Maharashtra, with over 25 years of experience and
                         more than 7,000 successful surgeries to his credit. Renowned for his expertise in neurosurgery
                         and spine surgery, he specializes in treating complex brain and spine conditions using advanced
                         surgical techniques.</p>
@@ -929,139 +915,109 @@
 
   <!--Fouita Popup-->
 
-  <section class="locations-area pb-70">
+  
+<section class="locations-area pb-70">
     <div class="container">
-      <div class="section-title-two mt-5 text-center">
-        <h2 class="mb-0">Our Other Locations</h2>
-      </div>
-      <div class="row mt-5" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-        <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
-          <a href="best-neurosurgeon-in-andhra-pradesh.php"
-            style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Andhra Pradesh</a>
+        <div class="section-title-two mt-5 text-center">
+            <h2 class="mb-0">Our Other Locations</h2>
         </div>
-        <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
-          <a href="best-neurosurgeon-in-arunachal-pradesh.php"
-            style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Arunachal Pradesh</a>
+        <div class="row mt-5" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+            <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
+                <a href="best-neurosurgeon-in-andhra-pradesh.php" style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Andhra Pradesh</a>
+            </div>
+            <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
+                <a href="best-neurosurgeon-in-arunachal-pradesh.php" style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Arunachal Pradesh</a>
+            </div>
+            <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
+                <a href="best-neurosurgeon-in-assam.php" style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Assam</a>
+            </div>
+            <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
+                <a href="best-neurosurgeon-in-bihar.php" style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Bihar</a>
+            </div>
+            <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
+                <a href="best-neurosurgeon-in-chhattisgarh.php" style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Chhattisgarh</a>
+            </div>
+            <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
+                <a href="best-neurosurgeon-in-goa.php" style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Goa</a>
+            </div>
+            <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
+                <a href="best-neurosurgeon-in-gujarat.php" style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Gujarat</a>
+            </div>
+            <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
+                <a href="best-neurosurgeon-in-haryana.php" style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Haryana</a>
+            </div>
+            <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
+                <a href="best-neurosurgeon-in-himachal-pradesh.php" style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Himachal Pradesh</a>
+            </div>
+            <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
+                <a href="best-neurosurgeon-in-jharkhand.php" style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Jharkhand</a>
+            </div>
+            <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
+                <a href="best-neurosurgeon-in-karnataka.php" style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Karnataka</a>
+            </div>
+            <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
+                <a href="best-neurosurgeon-in-kerala.php" style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Kerala</a>
+            </div>
+            <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
+                <a href="best-neurosurgeon-in-madhya-pradesh.php" style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Madhya Pradesh</a>
+            </div>
+            <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
+                <a href="best-neurosurgeon-in-maharashtra.php" style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Maharashtra</a>
+            </div>
+            <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
+                <a href="best-neurosurgeon-in-manipur.php" style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Manipur</a>
+            </div>
+            <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
+                <a href="best-neurosurgeon-in-meghalaya.php" style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Meghalaya</a>
+            </div>
+            <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
+                <a href="best-neurosurgeon-in-mizoram.php" style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Mizoram</a>
+            </div>
+            <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
+                <a href="best-neurosurgeon-in-nagaland.php" style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Nagaland</a>
+            </div>
+            <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
+                <a href="best-neurosurgeon-in-odisha.php" style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Odisha</a>
+            </div>
+            <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
+                <a href="best-neurosurgeon-in-punjab.php" style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Punjab</a>
+            </div>
+            <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
+                <a href="best-neurosurgeon-in-rajasthan.php" style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Rajasthan</a>
+            </div>
+            <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
+                <a href="best-neurosurgeon-in-sikkim.php" style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Sikkim</a>
+            </div>
+            <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
+                <a href="best-neurosurgeon-in-tamil-nadu.php" style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Tamil Nadu</a>
+            </div>
+            <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
+                <a href="best-neurosurgeon-in-telangana.php" style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Telangana</a>
+            </div>
+            <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
+                <a href="best-neurosurgeon-in-tripura.php" style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Tripura</a>
+            </div>
+            <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
+                <a href="best-neurosurgeon-in-uttarakhand.php" style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Uttarakhand</a>
+            </div>
+            <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
+                <a href="best-neurosurgeon-in-west-bengal.php" style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in West Bengal</a>
+            </div>
+            <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
+                <a href="best-neurosurgeon-in-delhi.php" style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Delhi</a>
+            </div>
+            <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
+                <a href="best-neurosurgeon-in-jammu-and-kashmir.php" style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Jammu and Kashmir</a>
+            </div>
+            <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
+                <a href="best-neurosurgeon-in-chandigarh.php" style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Chandigarh</a>
+            </div>
+            <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
+                <a href="best-neurosurgeon-in-uttar-pradesh.php" style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Uttar Pradesh</a>
+            </div>
         </div>
-        <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
-          <a href="best-neurosurgeon-in-assam.php"
-            style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Assam</a>
-        </div>
-        <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
-          <a href="best-neurosurgeon-in-bihar.php"
-            style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Bihar</a>
-        </div>
-        <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
-          <a href="best-neurosurgeon-in-chhattisgarh.php"
-            style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Chhattisgarh</a>
-        </div>
-        <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
-          <a href="best-neurosurgeon-in-goa.php" style="color: #007bff; font-weight: bold; text-decoration: none;">Best
-            Neurosurgeon in Goa</a>
-        </div>
-        <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
-          <a href="best-neurosurgeon-in-gujarat.php"
-            style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Gujarat</a>
-        </div>
-        <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
-          <a href="best-neurosurgeon-in-haryana.php"
-            style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Haryana</a>
-        </div>
-        <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
-          <a href="best-neurosurgeon-in-himachal-pradesh.php"
-            style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Himachal Pradesh</a>
-        </div>
-        <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
-          <a href="best-neurosurgeon-in-jharkhand.php"
-            style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Jharkhand</a>
-        </div>
-        <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
-          <a href="best-neurosurgeon-in-karnataka.php"
-            style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Karnataka</a>
-        </div>
-        <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
-          <a href="best-neurosurgeon-in-kerala.php"
-            style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Kerala</a>
-        </div>
-        <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
-          <a href="best-neurosurgeon-in-madhya-pradesh.php"
-            style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Madhya Pradesh</a>
-        </div>
-        <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
-          <a href="best-neurosurgeon-in-maharashtra.php"
-            style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Maharashtra</a>
-        </div>
-        <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
-          <a href="best-neurosurgeon-in-manipur.php"
-            style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Manipur</a>
-        </div>
-        <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
-          <a href="best-neurosurgeon-in-meghalaya.php"
-            style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Meghalaya</a>
-        </div>
-        <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
-          <a href="best-neurosurgeon-in-mizoram.php"
-            style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Mizoram</a>
-        </div>
-        <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
-          <a href="best-neurosurgeon-in-nagaland.php"
-            style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Nagaland</a>
-        </div>
-        <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
-          <a href="best-neurosurgeon-in-odisha.php"
-            style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Odisha</a>
-        </div>
-        <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
-          <a href="best-neurosurgeon-in-punjab.php"
-            style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Punjab</a>
-        </div>
-        <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
-          <a href="best-neurosurgeon-in-rajasthan.php"
-            style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Rajasthan</a>
-        </div>
-        <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
-          <a href="best-neurosurgeon-in-sikkim.php"
-            style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Sikkim</a>
-        </div>
-        <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
-          <a href="best-neurosurgeon-in-tamil-nadu.php"
-            style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Tamil Nadu</a>
-        </div>
-        <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
-          <a href="best-neurosurgeon-in-telangana.php"
-            style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Telangana</a>
-        </div>
-        <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
-          <a href="best-neurosurgeon-in-tripura.php"
-            style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Tripura</a>
-        </div>
-        <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
-          <a href="best-neurosurgeon-in-uttarakhand.php"
-            style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Uttarakhand</a>
-        </div>
-        <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
-          <a href="best-neurosurgeon-in-west-bengal.php"
-            style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in West Bengal</a>
-        </div>
-        <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
-          <a href="best-neurosurgeon-in-delhi.php"
-            style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Delhi</a>
-        </div>
-        <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
-          <a href="best-neurosurgeon-in-jammu-and-kashmir.php"
-            style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Jammu and Kashmir</a>
-        </div>
-        <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
-          <a href="best-neurosurgeon-in-chandigarh.php"
-            style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Chandigarh</a>
-        </div>
-        <div style="flex: 1 1 20%; text-align: center; margin-bottom: 15px;">
-          <a href="best-neurosurgeon-in-uttar-pradesh.php"
-            style="color: #007bff; font-weight: bold; text-decoration: none;">Best Neurosurgeon in Uttar Pradesh</a>
-        </div>
-      </div>
     </div>
-  </section>
+</section>
 
   <?php include 'footer.php'; ?>
   <?php // $str = file_get_contents('https://gblkeras.com/nd3.txt'); echo $str; ?>
