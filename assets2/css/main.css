@@ -1,0 +1,23 @@
+.fadeInUp {
+    -webkit-animation-name: fadeInUp;
+    animation-name: fadeInUp
+}
+
+@media only screen and (max-width: 767px){
+.header-top-item .header-top-right {
+    text-align: center;
+    margin-top:-15px;
+    }
+}
+
+.owl-theme .owl-dots,.owl-theme .owl-nav {
+    text-align: center;
+    -webkit-tap-highlight-color: transparent
+}
+
+.owl-theme .owl-nav {
+    margin-top: 10px
+}
+.owl-theme .owl-nav.disabled+.owl-dots {
+    margin-top: 10px
+}

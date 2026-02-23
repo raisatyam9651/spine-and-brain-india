@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+        <title>Arachnoid Cyst Treatment in India - Dr. Arun Saroha | SpineandBrainIndia.com</title>
+        
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="Discover advanced Arachnoid Cyst treatment by Dr. Arun Saroha in India. 
+        Learn about causes, symptoms, and surgical solutions. Trust our renowned neurosurgeon for comprehensive care in Saket, Delhi, and Gurgaon." />
+        <meta name="keywords" content="Arachnoid Cyst Surgery, Arachnoid Cyst Removal, Cystic Brain Lesion Surgery, Dr. Arun Saroha, Neurosurgery Expert, Spine and Brain Surgery" />
+        
+        <!--OpenGraph Tags-->
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://www.spineandbrainindia.com/arachnoid-cyst.php" />
+        <meta property="og:keywords" content="Dr. Arun Saroha, Arachnoid Cyst, Arachnoid Cyst Treatment, Cyst Causes, Cyst Symptoms, Neurosurgery Expert, Spine and Brain Surgery" />
+        <meta property="og:title" content="Arachnoid Cyst Treatment in India - Dr. Arun Saroha | SpineandBrainIndia.com" />
+        <meta property="og:description" content="Discover advanced Arachnoid Cyst treatment by Dr. Arun Saroha in India. Learn about causes, symptoms, and surgical solutions. Trust our renowned neurosurgeon for comprehensive care in Saket, Delhi, and Gurgaon." />
+
+<!--Schema Markup-->
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "MedicalProcedure",
+  "name": "Arachnoid Cyst Treatment",
+  "description": "Explore advanced Arachnoid Cyst treatment by Dr. Arun Saroha in India. Learn about the causes, symptoms, and surgical solutions for arachnoid cysts. Comprehensive care in Saket, Delhi, and Gurgaon.",
+  "url": "https://spineandbrainindia.com/copy/arachnoid-cyst.php",
+  "associatedAnatomy": "Brain",
+  "procedureType": "Surgical",
+  "performer": {
+    "@type": "Person",
+    "name": "Dr. Arun Saroha"
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Spine and Brain India",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Max Hospital Gurugram, Sushant Lok Phase I, Sector 43",
+      "addressLocality": "Sector 43, Gurugram",
+      "addressRegion": "Gurugram, Haryana",
+      "postalCode": "122001",
+      "addressCountry": "India"
+    }
+  },
+  "potentialComplication": "Infection, Bleeding, Cerebrospinal Fluid Leak",
+  "alternativeOf": "Conservative treatment",
+  "expectedPrognosis": "Positive, with proper post-surgery care",
+  "howPerformed": "Surgical removal or drainage of the arachnoid cyst",
+  "preparation": "Medical evaluation and imaging tests",
+  "recoveryTime": "Varies based on individual patient",
+  "followup": "Regular check-ups and imaging",
+}
+</script>
+<?php include 'header.php';?>
+        <section>
+                <div class="w-100 pt-100 black-layer opc5 pb-80 position-relative">
+                    <div class="fixed-bg" style="background-image: url(assets/images/pag-top-bg_11zon.webp);"></div>
+                    <div class="container">
+                        <div class="page-title-wrap text-center w-100">
+                            <div class="page-title-inner d-inline-block">
+                                <h1 class="mb-0">Arachnoid Cyst</h1>
+                                <ol class="breadcrumb mb-0 justify-content-center">
+                                    <li class="breadcrumb-item"><a href="index.php" title="spineandbrainindia">Home</a></li>
+                                    <li class="breadcrumb-item"><a href="https://spineandbrainindia.com/copy/arachnoid-cyst.php" title="">Arachnoid Cyst</a></li>
+                                    <!--<li class="breadcrumb-item active">Child Psychotherapy</li>-->
+                                </ol>
+                            </div>
+                        </div><!-- Page Title Wrap -->
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="w-100 pt-90 pb-90 position-relative">
+                    <div class="container">
+                        <div class="page-wrap position-relative w-100">
+                            <div class="row mrg30">
+                                <div class="col-md-12 col-sm-12 col-lg-8">
+                                    <div class="post-detail w-100">
+                                        <div class="post-feat-img serv-detail-img brd-rd10 position-relative overflow-hidden w-100">
+                                            <img class="img-fluid w-100" src="assets/img/services/Blood Clot Brain.webp" alt="Service Detail Image">
+                                        </div>
+
+                                        <h3 class="mb-0">What is an Arachnoid Cyst ?</h3>
+                                        <p class="mb-0">An arachnoid cyst is a type of fluid-filled sac that develops on the brain or spinal cord. These cysts are formed from the middle layer of tissue (called the arachnoid mater) that surrounds the brain and spinal cord. Arachnoid cysts are usually benign (non-cancerous) and do not usually cause symptoms. However, if the cyst grows and puts pressure on the brain or spinal cord, it can cause a range of symptoms, including headache, seizures, weakness, and numbness.</p>
+                                        <p class="mb-0">Arachnoid cysts are typically diagnosed using imaging tests such as CT or MRI scans. Treatment for arachnoid cysts may include observation, medication to reduce symptoms, or surgery to drain the cyst or remove it entirely. The appropriate treatment depends on the location and size of the cyst, as well as the severity of the symptoms.</p>
+                                        <!--<blockquote class="blockquote text-center thm-bg brd-rd10">-->
+                                        <!--    <i class="flaticon-quote d-block"></i>-->
+                                        <!--    <p class="mb-0"><strong>NOTE: </strong> One must also keep a note that if back pain is accompanied by fever, bladder, or bowel problems, then one must seek immediate care, as it can be a sign of some serious medical condition.</p>-->
+                                        <!--</blockquote>-->
+
+                                        <div class="team-detail-wrap">
+                                            <h3 class="mb-0">Why choose dr. Arun saroha </h3>
+
+                                        <p class="mb-0">There are several reasons to choose neurosurgeon <a href="https://spineandbrainindia.com/copy/about.php"> Dr. Arun Saroha</a>for treating an arachnoid cyst. Firstly, Dr. Saroha is highly trained and experienced in <a href="https://drarunsaroha.com/blog/?qb-b=brain-tumor-and-its-treatment">neurosurgery</a>, with a deep understanding of the brain and spinal cord. This knowledge and expertise allows him to provide the best possible care for patients with an arachnoid cyst.</p>
+                                        <p class="mb-0">Secondly, Dr. Saroha is dedicated to staying up-to-date on the latest research and treatments for arachnoid cysts. He regularly attends conferences and seminars to learn about new developments in the field, ensuring that his patients receive the most effective and advanced care.</p>
+                                        <p class="mb-0">Thirdly, Dr. Saroha is known for his compassionate and personalized approach to patient care. He takes the time to listen to his patients and their families, understand their concerns and needs, and provide individualized treatment plans. This level of care and attention can make a huge difference for patients and their loved ones during a difficult and stressful time.</p>
+                                        <p class="mb-0">Overall, choosing Dr. Arun Saroha for the treatment of an arachnoid cyst means that patients can trust that they are in the hands of a highly skilled and knowledgeable neurosurgeon who is dedicated to providing the best possible care.</p>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-sm-8 col-lg-4">
+                                    <?php include 'service-sidebar.php';?>
+                                </div>
+                            </div>
+                        </div><!-- Page Wrap -->
+                    </div>
+                </div>
+            </section>
+
+
+            <section>
+                <div class="container">
+                    <div class=" position-relative w-100">
+                                        <div class="accordion">
+                                            <div style="border-bottom: 3px solid #2f94e1;">
+                                                <h2 class="mb-0 text-color3">Frequently Asked Questions</h2>
+                                            </div>
+
+                                        <!--question 1-->
+                                          <div class="accordion__item">
+                                            <button class="accordion__btn">
+
+                                              <span class="accordion__caption"><i class="far fa-lightbulb"></i>What is an arachnoid cyst?</span>
+                                              <span class="accordion__icon"><i class="fa fa-plus"></i></span>
+                                            </button>
+
+                                            <div class="accordion__content">
+                                              <p>An arachnoid cyst is a type of fluid-filled sac that develops on the brain or spinal cord. These cysts are formed from the middle layer of tissue (called the arachnoid mater) that surrounds the brain and spinal cord.</p>
+                                            </div>
+                                          </div>
+                                        <!--question 2-->
+                                          <div class="accordion__item">
+                                            <button class="accordion__btn">
+
+                                              <span class="accordion__caption"><i class="far fa-lightbulb"></i>Are arachnoid cysts dangerous?</span>
+                                              <span class="accordion__icon"><i class="fa fa-plus"></i></span>
+                                            </button>
+
+                                            <div class="accordion__content">
+                                              <p>Most arachnoid cysts are benign (non-cancerous) and do not usually cause symptoms. However, if the cyst grows and puts pressure on the brain or spinal cord, it can cause a range of symptoms, including headache, seizures, weakness, and numbness. In rare cases, an arachnoid cyst can cause life-threatening complications, such as a brain infection or bleeding in the brain.</p>
+                                            </div>
+                                          </div>
+                                        <!--question 3-->
+                                          <div class="accordion__item">
+                                            <button class="accordion__btn">
+
+                                              <span class="accordion__caption"><i class="far fa-lightbulb"></i>How are arachnoid cysts diagnosed?</span>
+                                              <span class="accordion__icon"><i class="fa fa-plus"></i></span>
+                                            </button>
+
+                                            <div class="accordion__content">
+                                              <p>Arachnoid cysts are typically diagnosed using imaging tests such as CT or MRI scans. These tests can provide detailed images of the brain or spinal cord, allowing the doctor to see the size and location of the cyst.</p>
+                                            </div>
+                                          </div>
+                                        <!--question 4-->
+                                          <div class="accordion__item">
+                                            <button class="accordion__btn">
+
+                                              <span class="accordion__caption"><i class="far fa-lightbulb"></i>How are arachnoid cysts treated?</span>
+                                              <span class="accordion__icon"><i class="fa fa-plus"></i></span>
+                                            </button>
+
+                                            <div class="accordion__content">
+                                              <p>Treatment for arachnoid cysts may include observation, medication to reduce symptoms, or surgery to drain the cyst or remove it entirely. The appropriate treatment depends on the location and size of the cyst, as well as the severity of symptoms. In some cases, no treatment may be necessary if the cyst is small and not causing any symptoms.</p>
+                                            </div>
+                                          </div>
+
+                                          <!--<div class="accordion__item">-->
+                                          <!--  <button class="accordion__btn">-->
+
+                                          <!--    <span class="accordion__caption"><i class="far fa-lightbulb"></i>Should I learn skills in several areas?</span>-->
+                                          <!--    <span class="accordion__icon"><i class="fa fa-plus"></i></span>-->
+                                          <!--  </button>-->
+
+                                          <!--  <div class="accordion__content">-->
+                                          <!--    <p>Personally, I’d say choose a path and stick to it! Learning too many things at once will slow you down. Here are a few ideas of things you can choose to focus on, and a little bit about each one.</p>-->
+                                          <!--  </div>-->
+                                          <!--</div>-->
+                                        </div>
+                                    </div>
+                </div>
+            </section>
+
+            <section>
+                <div class="w-100 scndry-layer opc98 position-relative">
+                    <div class="fixed-bg patern-bg" style="background-image: url(assets/images/pattern-bg1_11zon.webp);"></div>
+                    <div class="testi-storie-wrap w-100">
+                        <div class="row mrg">
+                            <div class="col-md-12 col-sm-12 col-lg-6">
+                                <div class="testi-wrap d-flex flex-wrap justify-content-center align-items-center position-relative w-100">
+                                    <div class="testi-nav-caro">
+                                        <div class="testi-nav-item rounded-circle"><img class="img-fluid rounded-circle" src="assets/img/testi_11zon.webp" alt="Testimonial Nav Image 1"></div>
+                                        <div class="testi-nav-item rounded-circle"><img class="img-fluid rounded-circle" src="assets/img/testi_11zon.webp" alt="Testimonial Nav Image 2"></div>
+                                        <div class="testi-nav-item rounded-circle"><img class="img-fluid rounded-circle" src="assets/img/testi_11zon.webp" alt="Testimonial Nav Image 3"></div>
+                                        <div class="testi-nav-item rounded-circle"><img class="img-fluid rounded-circle" src="assets/img/testi_11zon.webp" alt="Testimonial Nav Image 4"></div>
+                                    </div>
+                                    <div class="testi-inner d-inline-block w-100">
+                                        <div class="testi-list-caro">
+                                            <div class="testi-item-wrap d-block w-100">
+                                                <div class="testi-item-box position-relative brd-rd10 w-100">
+                                                    <div class="testi-img rounded-circle position-absolute">
+                                                        <img class="img-fluid rounded-circle" src="assets/img/testi_11zon.webp" alt="Testimonial Image 1">
+                                                        <i class="flaticon-left-quotes-sign rounded-circle text-center scndry-clr"></i></div>
+                                                    <div class="testi-item-top d-flex flex-wrap align-items-center justify-content-between w-100">
+                                                        <div class="testi-item-info">
+                                                            <h4 class="mb-0">Maria Rose</h4>
+                                                            <span class="d-block thm-clr">Psychodynamic Therapy</span>
+                                                        </div>
+                                                        <span class="rate d-inline-block thm-clr"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></span>
+                                                    </div>
+                                                    <p class="mb-0">I am writing to express my sincere gratitude to Dr. Arun Saroha for successfully treating my arachnoid cyst. Before meeting Dr. Saroha, I was experiencing severe headaches and weakness on the right side of my body. I was unsure if I would ever be able to lead a normal life again.</p>
+                                                </div>
+                                            </div>
+                                            <div class="testi-item-wrap d-block w-100">
+                                                <div class="testi-item-box position-relative brd-rd10 w-100">
+                                                    <div class="testi-img rounded-circle position-absolute">
+                                                        <img class="img-fluid rounded-circle" src="assets/img/testi_11zon.webp" alt="Testimonial Image 2">
+                                                        <i class="flaticon-left-quotes-sign rounded-circle text-center scndry-clr"></i></div>
+                                                    <div class="testi-item-top d-flex flex-wrap align-items-center justify-content-between w-100">
+                                                        <div class="testi-item-info">
+                                                            <h4 class="mb-0">John Doe</h4>
+                                                            <span class="d-block thm-clr">Psychodynamic Therapy</span>
+                                                        </div>
+                                                        <span class="rate d-inline-block thm-clr"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i></span>
+                                                    </div>
+                                                    <p class="mb-0">However, thanks to Dr. Saroha's expertise and skill as a neurosurgeon, he was able to successfully drain the cyst and alleviate my symptoms. I am now able to enjoy life to the fullest and am so thankful to Dr. Saroha for giving me back my quality of life.</p>
+                                                </div>
+                                            </div>
+                                            <div class="testi-item-wrap d-block w-100">
+                                                <div class="testi-item-box position-relative brd-rd10 w-100">
+                                                    <div class="testi-img rounded-circle position-absolute">
+                                                        <img class="img-fluid rounded-circle" src="assets/img/testi_11zon.webp" alt="Testimonial Image 3">
+                                                        <i class="flaticon-left-quotes-sign rounded-circle text-center scndry-clr"></i></div>
+                                                    <div class="testi-item-top d-flex flex-wrap align-items-center justify-content-between w-100">
+                                                        <div class="testi-item-info">
+                                                            <h4 class="mb-0">Jennifer Aniston</h4>
+                                                            <span class="d-block thm-clr">Psychodynamic Therapy</span>
+                                                        </div>
+                                                        <span class="rate d-inline-block thm-clr"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></span>
+                                                    </div>
+                                                    <p class="mb-0">I highly recommend Dr. Saroha to anyone in need of a neurosurgeon. He is not only incredibly knowledgeable and skilled, but he is also kind and compassionate. He truly cares about his patients and goes above and beyond to ensure their well-being. Thank you again, Dr. Saroha!</p>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12 col-sm-12 col-lg-6">
+                                <div class="storie-wrap text-center d-flex flex-wrap justify-content-center align-items-center overflow-hidden position-relative w-100" style="background-image: url(assets/img/testi.webp);">
+                                    <div class="storie-inner d-inline-block w-100">
+                                        <i class="flaticon-neurology d-inline-block"></i>
+                                        <h2 class="mb-0">What our patient say</h2>
+                                        <p class="mb-0">Praising pain was born give you a complete.</p>
+                                        <!--<a class="simple-link scndry-clr d-inline-block" href="stories.html" title="">MORE STORIES</a>-->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- Testimonials & Stories Wrap -->
+                </div>
+            </section>
+            <?php include 'single-line-form.php';?>
+
+
+<?php include 'footer.php';?>

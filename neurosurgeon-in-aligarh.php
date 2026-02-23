@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        
+<title>Best Neurosurgeon in Aligarh | Dr. Arun Saroha</title>
+        
+<meta name="description" content="Seeking the best neurosurgeon in Aligarh? Dr. Arun Saroha offers expert care for brain & spine conditions, utilizing advanced techniques for effective treatments" />
+        
+<meta name="keywords" content="Best neurosurgeon in Aligarh, neurosurgeon in Aligarh, Spine Surgeon in Aligarh" />
+<link rel="canonical" href="https://spineandbrainindia.com/neurosurgeon-in-aligarh" />
+       
+       <!--OpenGraph Tags-->
+       <meta property="og:type" content="website" />
+       <meta property="og:url" content="https://spineandbrainindia.com/neurosurgeon-in-aligarh" />
+       
+       <meta property="og:keywords" content="Best neurosurgeon in Aligarh, neurosurgeon in Aligarh, Spine Surgeon in Aligarh" />
+       
+       <meta property="og:title" content="Best Neurosurgeon in Aligarh | Dr. Arun Saroha" />
+       
+       <meta property="og:description" content="Seeking the best neurosurgeon in Aligarh? Dr. Arun Saroha offers expert care for brain & spine conditions, utilizing advanced techniques for effective treatments"/>
+
+        <!--Schema Markup-->
+        
+      <script type="application/ld+json">  
+        {
+  "@context": "http://schema.org",
+  "@type": "MedicalClinic",
+  "name": "Spine and Brain India",
+  "url": "https://spineandbrainindia.com/neurosurgeon-in-aligarh",
+  "logo": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
+  "description": "Seeking the best neurosurgeon in Aligarh? Dr. Arun Saroha offers expert care for brain & spine conditions, utilizing advanced techniques for effective treatments",
+  "medicalSpecialty": "Neurosurgery",
+  "availableService": {
+    "@type": "MedicalProcedure",
+    "name": "Neurosurgeon",
+    "procedureType": "Non-invasive, Minimally Invasive, and Surgical",
+    "additionalType": "http://www.wikidata.org/entity/Q1070520",
+    "bodyLocation": "Brain",
+    "followup": "Regular follow-ups to monitor recovery",
+    "preparation": "Consultation with the doctor",
+    "indication": "neurosurgery",
+    "url": "https://spineandbrainindia.com/neurosurgeon-in-aligarh"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Plot No. 1, Sector 10",
+    "addressLocality": "Dwarka",
+    "addressRegion": "New Delhi",
+    "postalCode": "110075",
+    "addressCountry": "India"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+91 9990778811",
+    "contactType": "Customer Service"
+  },
+  "sameAs": [
+    "https://www.facebook.com/SpineAndBrainIndia",
+    "https://twitter.com/SpineBrainIndia",
+    "https://www.instagram.com/SpineAndBrainIndia"
+  ]
+}
+</script>
+
+        
+<?php include 'header.php';?>
+        <section>
+                <div class="w-100 pt-100 black-layer opc5 pb-80 position-relative">
+                    <div class="fixed-bg" style="background-image: url(assets/images/pag-top-bg_11zon.webp);"></div>
+                    <div class="container">
+                        <div class="page-title-wrap text-center w-100">
+                            <div class="page-title-inner d-inline-block">
+                                <h1 class="mb-0">Best Neurosurgeon in Alwar: Dr. Arun Saroha </h1>
+                                
+                            </div>
+                        </div><!-- Page Title Wrap -->
+                    </div>
+                </div>
+            </section>
+           
+
+      <section>
+        <div class="w-100 white-layer opc8 pb-120 position-relative">
+          <div class="container">
+            <div class="about-wrap3 mt-60 position-relative w-100">
+              <div class="row mrg30">
+                <div class="col-md-12 col-sm-12 col-lg-6 order-lg-1">
+                  <div class="about-img position-relative w-100">
+                    <img
+                      class="img-fluid w-100"
+                      src="assets/img/drimg.webp"
+                      alt="About Image"
+                    />
+                    <div class="about-info z1 scndry-bg position-absolute">
+                      <i class="flaticon-coach position-absolute"></i>
+                      <h3 class="d-block">
+                        Dr. Arun Saroha
+                        <span class="d-block thm-clr">Neurosurgeon</span>
+                      </h3>
+                      <!--<span class="d-block">- Certified Life Coach</span>-->
+                      <a
+                        class="thm-btn thm-bg d-inline-block position-relative overflow-hidden"
+                        href="about.php"
+                        title="About Dr. Saroha"
+                        >Read More</a
+                      >
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-12 col-sm-12 col-lg-6">
+                  <div class="about-desc v2 w-100">
+                    <span
+                      class="thm-clr font-weight-extrabold d-inline-block border-0"
+                      ><h2>About Doctor</h2></span>
+                    
+                    <!--<strong>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis.</strong>-->
+                    <p class="mb-0">Dr. Arun Saroha is widely regarded as the Best Neurosurgeon in Alwar, offering expert care with over 20 years of experience in the field of neurosurgery. His expertise lies in treating a wide range of complex neurological conditions, including brain tumors, spine disorders, cerebrovascular conditions, and degenerative diseases of the spine. As a leading Spine Surgeon in Alwar, Dr. Saroha’s approach is rooted in the latest medical advancements and minimally invasive techniques, ensuring reduced pain, faster recovery, and enhanced outcomes for his patients.</p>
+                     <p class="mb-0">
+                     With a strong commitment to precision and patient safety, Dr. Saroha is dedicated to providing the highest level of care to each patient. His method combines advanced neurosurgical techniques with compassionate, personalized treatment plans that cater to the specific needs of every individual. His patients appreciate the thorough consultations, where he explains their condition, the available treatment options, and the best approach for their recovery. 
+                    </p>
+                    
+                    <p class= "mb-0">
+                        Dr. Saroha stays updated on the latest developments in the neurosurgical field, continually refining his skills and knowledge to offer cutting-edge solutions for conditions like <a href="https://spineandbrainindia.com/brain-tumor-surgery-in-India">brain tumors</a>, <a href="https://spineandbrainindia.com/spinal-stenosis-surgery-in-India">spinal stenosis surgery</a>, and nerve disorders. Known as top Neurosurgeon in Alwar, he excels in treating complex conditions such as <a href="https://spineandbrainindia.com/degenerative-disc-disease-treatment-in-India">degenerative disc diseases</a> and cerebrovascular disorders, utilizing state-of-the-art technology to ensure precision and successful outcomes.</p>
+
+                    <!--<span class="about-time d-block"><span class="scndry-clr">Every Week:</span> Monday To Friday: 9:00am to 5:00pm</span>-->
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section>
+        <div class="w-100 blue-layer opc1 pb-120 position-relative">
+          <div class="fixed-bg back-blend-multiply bg-color5"></div>
+          <div class="container">
+            <div class="quote-facts-wrap position-relative w-100">
+              <div class="row mrg30 align-items-end">
+                <div class="col-md-8 col-sm-12 col-lg-8">
+                  <div class="quote-box-wrap position-relative w-100">
+                    <img
+                      class="img-fluid brd-rd5 overlap65"
+                      src="assets/img/home.webp"
+                      alt="Quote Image"
+                    />
+                    <div class="quote-box position-absolute w-100">
+                      <div class="quote-box-inner thm-bg w-100">
+                        <i
+                          class="flaticon-quotation scndry-bg brd-rd5 position-absolute"
+                        ></i>
+                        <p class="mb-0">
+                          Dr. Arun Saroha provide the best treatment and care
+                          for any brain and spine concerns.
+                        </p>
+                      </div>
+                      <div
+                        class="quote-box-info position-relative overflow-hidden thm-bg brd-rd5 w-100"
+                      >
+                        <a
+                          href="assets/images/resources/Dr-Arun-Saroha-Ebook .pdf"
+                          download
+                          ><h3
+                            class="mb-0 icon"
+                            style="color: #ffffff; font-size: 18px"
+                          >
+                            <i
+                              class="fa fa-download"
+                              style="margin-right: 10px; color: black"
+                              aria-hidden="true"
+                            ></i
+                            >Download Profile
+                          </h3></a
+                        >
+                        <span class="d-block"
+                          >Get to know about Dr. Arun Saroha</span
+                        >
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-4 col-sm-12 col-lg-4">
+                  <div class="facts-wrap position-relative w-100 blue-layer-text-div">
+                    <div
+                      class="fact-box position-relative d-flex flex-wrap w-100 blue-layer-text-small-div"
+                    >
+                      <i style="font-size: 0px"
+                        ><img
+                          class="icon-img1"
+                          src="assets/img/icons/icon_6.webp" alt="A Happy Smiley Face potraying a happy face."
+                      /></i>
+                      <div class="fact-box-inner">
+                        <span style="color: white" class="scndry-clr d-block"
+                          ><i class="counter">100</i>%</span
+                        >
+                        <h4 class="mb-0">Patient Satisfaction Rate</h4>
+                      </div>
+                    </div>
+                    <div
+                      class="fact-box position-relative d-flex flex-wrap w-100 blue-layer-text-small-div"
+                    >
+                      <i style="font-size: 0px"
+                        ><img
+                          class="icon-img1"
+                          src="assets/img/icons/icon_7.webp" alt="A start Badge Icon Displaying Years of Experience."
+                      /></i>
+                      <div class="fact-box-inner">
+                        <span style="color: white" class="scndry-clr d-block"
+                          ><i class="counter">25</i>+</span
+                        >
+                        <h4 class="mb-0">Years of Experience</h4>
+                      </div>
+                    </div>
+                    <div
+                      class="fact-box position-relative d-flex flex-wrap w-100 blue-layer-text-small-div"
+                    >
+                      <i style="font-size: 0px"
+                        ><img
+                          class="icon-img1"
+                          src="assets/img/icons/icon_5.webp" alt = "A Brain Image Illustrating Successful Surgeries."
+                      /></i>
+                      <div class="fact-box-inner">
+                        <span style="color: white" class="scndry-clr d-block"
+                          ><i class="counter">7000</i>+</span
+                        >
+                        <h4 class="mb-0">
+                          Brain & Spine Surgeries
+                        </h4>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      
+        
+      <section>
+        <div class="w-100 pb-80 position-relative">
+          <img
+            class="img-fluid w-100 position-absolute lft-btm-shp z-1"
+            src="assets/images/shp1_11zon.webp"
+            alt="Shape 1"
+          />
+          <div class="container">
+            <div class="sec-title2 text-center w-100">
+              <div class="sec-title2-inner d-inline-block">
+                <h2 class="mb-0">Why choose us?</h2>
+              </div>
+            </div>
+            <div class="serv-wrap position-relative w-100">
+              <div class="row mrg30 choose-large-div">
+                <div class="col-md-4 col-sm-4 col-lg-3 choose-large-div">
+                  <div
+                    class="serv-box d-flex flex-wrap position-relative w-100"
+                  >
+                    <i
+                      ><img class="icon-img2" src="assets/img/icons/icon_8.webp" alt="A of group of people depicting highest patient satisfactory rate"
+                    /></i>
+                    <div class="serv-box-inner position-relative">
+                      <h4 class="mb-0">Highest Patient Satisfactory Rate</h4>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-4 col-sm-4 col-lg-3 choose-large-div">
+                  <div
+                    class="serv-box d-flex flex-wrap position-relative w-100"
+                  >
+                    <i
+                      ><img class="icon-img2" src="assets/img/icons/icon_9.webp" alt = "A Clipboard illustrating safe and effective result."
+                    /></i>
+                    <div class="serv-box-inner position-relative">
+                      <h4 class="mb-0">Safe And Effective Results</h4>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-4 col-sm-4 col-lg-3 choose-large-div">
+                  <div
+                    class="serv-box d-flex flex-wrap position-relative w-100"
+                  >
+                    <i
+                      ><img class="icon-img2" src="assets/img/icons/icon_10.webp" alt="A hand protecting a person illustrating high patient priority."
+                    /></i>
+                    <div class="serv-box-inner position-relative">
+                      <h4 class="mb-0">Patient Safety Priority</h4>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-4 col-sm-4 col-lg-3 choose-large-div">
+                  <div
+                    class="serv-box d-flex flex-wrap position-relative w-100"
+                  >
+                    <i
+                      ><img class="icon-img2" src="assets/img/icons/icon_11.webp" alt="A patient on a hospital bed in a sanitized and fully equipped room."
+                    /></i>
+                    <div class="serv-box-inner position-relative">
+                      <h4 class="mb-0">
+                        Sanitized & Fully Equipped Rooms
+                      </h4>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </section>
+      
+      <section>
+              <div class="row mrg">
+              <div class="col-md-6 col-sm-6 col-lg-3">
+                <div
+                  class="special-box v3 text-center z1 scndry-bg grad-bg2 d-flex position-relative justify-content-center flex-wrap w-100"
+                >
+                  <i
+                    ><img class="icon-img" src="assets/img/icons/icon_1.webp" alt="A telephone to Icon"
+                  /></i>   
+         <div class="special-box-inner">
+                    <h4 class="mb-0">Emergency Call</h4>
+                    <p><a href="tel:+91 78600 00705">+91 78600 00705</a></p>ine
+
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6 col-sm-6 col-lg-3">
+                <div
+                  class="special-box v3 text-center z1 scndry-bg grad-bg2 d-flex position-relative justify-content-center flex-wrap w-100"
+                >
+                  <i
+                    ><img class="icon-img" src="assets/img/icons/icon_2.webp" alt="A mobile Icon to show Online Consultation Booking"
+                  /></i>
+                  <div class="special-box-inner">
+                    <h4 class="mb-0">Online Consultation</h4>
+                    <p><a href="tel:+91 78600 00705">+91 78600 00705</a></p>
+
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6 col-sm-6 col-lg-3">
+                <div
+                  class="special-box v3 text-center z1 scndry-bg grad-bg2 d-flex position-relative justify-content-center flex-wrap w-100"
+                >
+                  <i
+                    ><img class="icon-img" src="assets/img/icons/icon_3.webp" alt="Location Icon"
+                  /></i>
+                  <div class="special-box-inner">
+                    <h4 class="mb-0">Location</h4>
+                    <p class="mb-0">
+                      Max Hospital, Director & Unit Head of Spine and Neurosurgery B Block, Sushant Lok 1, Near Huda City Centre Gurugram- 122001
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6 col-sm-6 col-lg-3">
+                <div
+                  class="special-box v3 text-center z1 scndry-bg grad-bg2 d-flex position-relative justify-content-center flex-wrap w-100"
+                >
+                  <i
+                    ><img class="icon-img" src="assets/img/icons/icon_4.webp" alt="Medicine Icon to Show Second Location"
+                  /></i>
+                  <div class="special-box-inner">
+                    <h4 class="mb-0">Location</h4>
+                    <p class="mb-0">
+                      Max Super Speciality Hospital Dwarka, Plot No. 1, Sector 10 Dwarka, Dwarka, Delhi - 110075
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      
+      <!--Google Reviews Test-->
+    <section>
+         <div class="w-100 scndry-layer opc98 position-relative">
+          <div
+            class="fixed-bg patern-bg"
+            style="background-image: url(assets/images/pattern-bg1.webp)"
+          ></div>
+          <div class="testi-storie-wrap w-100" style="padding:20px">
+            <div id="wid_1681813594518"></div>
+           <!-- Review Pixel --> <script type="text/javascript"> !function(){var e,t=document;e=function(){if(window.EMRPixel)return console.info("EMR: Pixel already loaded");var e=t.createElement("script");e.defer=!0,e.src="https://app.reviewmagnet.in/js/pixel.js?t="+864e5*Math.ceil(new Date/864e5);var n=t.getElementsByTagName("script")[0];n.charset="utf-8",n.parentNode.insertBefore(e,n),e.onload=function(){EMRPixel.init("app.reviewmagnet.in",2)}},"interactive"===t.readyState||"complete"===t.readyState?e():t.addEventListener("DOMContentLoaded",e())}(); </script><emr-simple-carousel widget-id="7c2c0c48-635a-471f-b57c-be250744e779"></emr-simple-carousel> <!-- Review Pixel End -->
+          
+          </div>
+
+        </div>
+    </section>
+   
+      
+      <!--footer-->
+      
+      <!--Fouita Popup-->
+        
+         <div data-key="Popup Shop Elegant Sale" class="ft" id="ft8mizfv2">
+         </div>
+         <script src="https://cdn.fouita.com/widgets/0x171b1f.js"></script>
+ 
+      <!--Fouita Popup-->
+      
+      <?php include 'footer.php';?>
+    </section>

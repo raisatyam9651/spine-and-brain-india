@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="Explore advanced Acoustic Neuroma treatment options in India led 
+        by Dr. Arun Saroha. Discover how our expertise can help you overcome this condition." />
+        <meta name="keywords" content="Acoustic Neuroma, Vestibular Schwannoma, Acoustic Neuroma Causes, Acoustic Neuroma Symptoms, Acoustic Neuroma Treatment, Arun Saroha" />
+
+        <title>Expert Acoustic Neuroma Treatment in India by Dr. Arun Saroha | SpineandBrainIndia.com</title>
+        
+        <!--og Graph Tags-->
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://www.spineandbrainindia.com/services/acoustic-neuroma-treatment/" />
+        <meta property="og:keywords" content="Acoustic Neuroma, Vestibular Schwannoma, Acoustic Neuroma Causes, Acoustic Neuroma Symptoms, Acoustic Neuroma Treatment, Arun Saroha" />
+        <meta property="og:title" content="Expert Acoustic Neuroma Treatment in India by Dr. Arun Saroha | SpineandBrainIndia.com" />
+        <meta property="og:description" content="Discover advanced Acoustic Neuroma treatment options in India led by Dr. Arun Saroha. Your path to overcoming this condition starts here." />
+        
+        
+        <!--Schema Markup-->
+       
+        <script type="application/ld+json">
+         {
+  "@context": "http://schema.org",
+  "@type": "MedicalBusiness",
+  "name": "Spine and Brain India - Acoustic Neuroma",
+  "description": "Learn about Acoustic Neuroma, its causes, symptoms, and treatment options. Get expert insights from Dr. Arun Saroha. We provide comprehensive care for Acoustic Neuroma patients.",
+  "url": "https://www.spineandbrainindia.com/acoustic-neuroma/",
+   "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Max Hospital Gurugram, Sushant Lok Phase I, Sector 43",
+            "addressLocality": "Sector 43, Gurugram",
+            "addressRegion": "Gurugram, Haryana",
+            "postalCode": "122001",
+            "addressCountry": "India"
+           },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "098917 78811",
+    "contactType": "Customer Service"
+  }
+}
+</script>
+<?php include 'header.php';?>
+        <section>
+                <div class="w-100 pt-100 black-layer opc5 pb-80 position-relative">
+                    <div class="fixed-bg" style="background-image: url(assets/images/pag-top-bg_11zon.webp);"></div>
+                    <div class="container">
+                        <div class="page-title-wrap text-center w-100">
+                            <div class="page-title-inner d-inline-block">
+                                <h1 class="mb-0">Acoustic neuroma</h1>
+                                <ol class="breadcrumb mb-0 justify-content-center">
+                                    <li class="breadcrumb-item"><a href="index.php" title="">Home</a></li>
+                                    <li class="breadcrumb-item"><a href="services.html" title="">Acoustic neuroma</a></li>
+                                    <!--<li class="breadcrumb-item active">Child Psychotherapy</li>-->
+                                </ol>
+                            </div>
+                        </div><!-- Page Title Wrap -->
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="w-100 pt-90 pb-90 position-relative">
+                    <div class="container">
+                        <div class="page-wrap position-relative w-100">
+                            <div class="row mrg30">
+                                <div class="col-md-12 col-sm-12 col-lg-8">
+                                    <div class="post-detail w-100">
+                                        <div class="post-feat-img serv-detail-img brd-rd10 position-relative overflow-hidden w-100">
+                                            <img class="img-fluid w-100" src="assets/img/services/Blood Clot Brain.webp" alt="Service Detail Image">
+                                        </div>
+
+
+                                        <h3 class="mb-0">What is Acoustic neuroma ?</h3>
+                                        <p class="mb-0">Acoustic neuroma is a type of non-cancerous (benign) brain tumor that develops on the main nerve leading from the inner ear to the brain. This nerve is called the vestibulocochlear nerve, and it is responsible for transmitting sound and balance information to the brain. Acoustic neuromas can cause a variety of symptoms, including hearing loss, dizziness, and tinnitus (ringing in the ears), depending on their size and location. Treatment options for acoustic neuromas may include surgical removal of the tumor, radiation therapy, or observation if the tumor is small and not causing any symptoms.</p>
+
+
+                                        <!--<blockquote class="blockquote text-center thm-bg brd-rd10">-->
+                                        <!--    <i class="flaticon-quote d-block"></i>-->
+                                        <!--    <p class="mb-0"><strong>NOTE: </strong> One must also keep a note that if back pain is accompanied by fever, bladder, or bowel problems, then one must seek immediate care, as it can be a sign of some serious medical condition.</p>-->
+                                        <!--</blockquote>-->
+
+                                        <div class="team-detail-wrap">
+                                            <h3 class="mb-0">Why choose neurosurgeon Dr. Arun Saroha for Acoustic neuroma treatment </h3>
+                                        <!--<p class="mb-0"></p>-->
+
+                                        <p class="mb-0">As a highly skilled and experienced neurosurgeon, Dr. Arun Saroha has a proven track record of successfully treating patients with acoustic neuroma. He has a deep understanding of the latest techniques and technologies in neurosurgery, which allows him to provide his patients with the most effective and personalized treatment plan possible.</p>
+                                        <p class="mb-0">One of the key reasons to choose Dr. Saroha for your acoustic neuroma treatment is his commitment to staying up-to-date with the latest advances in neurosurgery. He regularly attends conferences and workshops to learn about the latest research and treatments, and he is always looking for ways to improve his practice. This means that his patients can be confident that they are receiving the most advanced and effective care available.</p>
+                                        <p class="mb-0">Another reason to choose Dr. Saroha for your treatment is his compassionate and caring approach to patient care. He understands that a diagnosis of an acoustic neuroma can be frightening, and he takes the time to listen to his patients and answer any questions they may have. He is dedicated to making sure that his patients feel comfortable and well-informed throughout their treatment.</p>
+                                        <p class="mb-0">Overall, if you are looking for a neurosurgeon who is skilled, experienced, and compassionate, Dr. Arun Saroha is an excellent choice for your acoustic neuroma treatment.</p>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-sm-8 col-lg-4">
+                                    <?php include 'service-sidebar.php';?>
+                                </div>
+                            </div>
+                        </div><!-- Page Wrap -->
+                    </div>
+                </div>
+            </section>
+
+
+            <!--FAQs-->
+            <section>
+                <div class="container">
+                    <div class=" position-relative w-100">
+                                        <div class="accordion">
+                                            <div style="border-bottom: 3px solid #2f94e1;">
+                                                <h2 class="mb-0 text-color3">Frequently Asked Questions</h2>
+                                            </div>
+
+                                        <!--question 1-->
+                                          <div class="accordion__item">
+                                            <button class="accordion__btn">
+
+                                              <span class="accordion__caption"><i class="far fa-lightbulb"></i>what are the causes of acoustic neuroma?</span>
+                                              <span class="accordion__icon"><i class="fa fa-plus"></i></span>
+                                            </button>
+
+                                            <div class="accordion__content">
+                                              <p>Acoustic neuroma, also known as vestibular schwannoma, is a type of benign (non-cancerous) tumor that affects the vestibulocochlear nerve, which is responsible for transmitting sound and balance information from the inner ear to the brain. The exact cause of acoustic neuroma is not well understood, but it is thought to be related to the growth of Schwann cells, which are a type of cell that forms the protective sheath around nerve fibers.</p>
+                                            </div>
+                                          </div>
+                                        <!--question 2-->
+                                          <div class="accordion__item">
+                                            <button class="accordion__btn">
+
+                                              <span class="accordion__caption"><i class="far fa-lightbulb"></i> What are the symptoms of an acoustic neuroma?</span>
+                                              <span class="accordion__icon"><i class="fa fa-plus"></i></span>
+                                            </button>
+
+                                            <div class="accordion__content">
+                                                <p>The symptoms of an acoustic neuroma can vary depending on the size and location of the tumor. Some of the most common symptoms include</p>
+                                                <ul style="padding: 0rem 3.8rem;">
+                                                    <li>Hearing loss, usually in only one ear</li>
+                                                    <li>Tinnitus, which is a ringing or buzzing sound in the ear</li>
+                                                    <li>Dizziness or vertigo</li>
+                                                    <li>Balance problems</li>
+                                                    <li>Facial numbness or weakness</li>
+                                                </ul>
+                                                <p>In some cases, the symptoms of acoustic neuroma may be mild and go unnoticed for a long time. As the tumor grows, the symptoms may become more severe and may include difficulty with swallowing, problems with coordination and balance, and changes in facial appearance.</p>
+                                            </div>
+                                          </div>
+                                        <!--question 3-->
+                                          <div class="accordion__item">
+                                            <button class="accordion__btn">
+
+                                              <span class="accordion__caption"><i class="far fa-lightbulb"></i>How is an acoustic neuroma treated?</span>
+                                              <span class="accordion__icon"><i class="fa fa-plus"></i></span>
+                                            </button>
+
+                                            <div class="accordion__content">
+                                                <p>Acoustic neuroma is typically treated with surgery, radiation therapy, or a combination of the two. The specific treatment approach will depend on factors such as the size and location of the tumor, the symptoms the patient is experiencing, and the patient's overall health.</p>
+                                                <p>Surgery is the most common treatment for acoustic neuroma. The goal of surgery is to remove the tumor and preserve as much of the healthy tissue as possible. There are several different surgical techniques that may be used, including microsurgery, which uses a microscope to remove the tumor, and stereotactic radiosurgery, which uses focused radiation to destroy the tumor.</p>
+                                                <p>Radiation therapy is another option for treating acoustic neuroma. This type of treatment uses high-energy rays to kill the tumor cells. It may be used alone or in combination with surgery.</p>
+                                            </div>
+                                          </div>
+
+
+                                          <!--<div class="accordion__item">-->
+                                          <!--  <button class="accordion__btn">-->
+
+                                          <!--    <span class="accordion__caption"><i class="far fa-lightbulb"></i>Should I learn skills in several areas?</span>-->
+                                          <!--    <span class="accordion__icon"><i class="fa fa-plus"></i></span>-->
+                                          <!--  </button>-->
+
+                                          <!--  <div class="accordion__content">-->
+                                          <!--    <p>Personally, I’d say choose a path and stick to it! Learning too many things at once will slow you down. Here are a few ideas of things you can choose to focus on, and a little bit about each one.</p>-->
+                                          <!--  </div>-->
+                                          <!--</div>-->
+                                        </div>
+                                    </div>
+                </div>
+            </section>
+
+            <section>
+                <div class="w-100 scndry-layer opc98 position-relative">
+                    <div class="fixed-bg patern-bg" style="background-image: url(assets/images/pattern-bg1_11zon.webp);"></div>
+                    <div class="testi-storie-wrap w-100">
+                        <div class="row mrg">
+                            <div class="col-md-12 col-sm-12 col-lg-6">
+                                <div class="testi-wrap d-flex flex-wrap justify-content-center align-items-center position-relative w-100">
+                                    <div class="testi-nav-caro">
+                                        <div class="testi-nav-item rounded-circle"><img class="img-fluid rounded-circle" src="assets/img/testi_11zon.webp" alt="Testimonial Nav Image 1"></div>
+                                        <div class="testi-nav-item rounded-circle"><img class="img-fluid rounded-circle" src="assets/img/testi_11zon.webp" alt="Testimonial Nav Image 2"></div>
+                                        <div class="testi-nav-item rounded-circle"><img class="img-fluid rounded-circle" src="assets/img/testi_11zon.webp" alt="Testimonial Nav Image 3"></div>
+                                        <div class="testi-nav-item rounded-circle"><img class="img-fluid rounded-circle" src="assets/img/testi_11zon.webp" alt="Testimonial Nav Image 4"></div>
+                                    </div>
+                                    <div class="testi-inner d-inline-block w-100">
+                                        <div class="testi-list-caro">
+                                            <div class="testi-item-wrap d-block w-100">
+                                                <div class="testi-item-box position-relative brd-rd10 w-100">
+                                                    <div class="testi-img rounded-circle position-absolute">
+                                                        <img class="img-fluid rounded-circle" src="assets/img/testi_11zon.webp" alt="Testimonial Image 1">
+                                                        <i class="flaticon-left-quotes-sign rounded-circle text-center scndry-clr"></i></div>
+                                                    <div class="testi-item-top d-flex flex-wrap align-items-center justify-content-between w-100">
+                                                        <div class="testi-item-info">
+                                                            <h4 class="mb-0">Maria Rose</h4>
+                                                            <span class="d-block thm-clr">Psychodynamic Therapy</span>
+                                                        </div>
+                                                        <span class="rate d-inline-block thm-clr"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></span>
+                                                    </div>
+                                                    <p class="mb-0">I am writing to express my sincere gratitude to Dr. Arun Saroha for successfully treating my acoustic neuroma. Before meeting Dr. Saroha, I was suffering from severe headaches, hearing loss, and balance problems. I was unsure if I would ever be able to lead a normal life again.</p>
+                                                </div>
+                                            </div>
+                                            <div class="testi-item-wrap d-block w-100">
+                                                <div class="testi-item-box position-relative brd-rd10 w-100">
+                                                    <div class="testi-img rounded-circle position-absolute">
+                                                        <img class="img-fluid rounded-circle" src="assets/img/testi_11zon.webp" alt="Testimonial Image 2">
+                                                        <i class="flaticon-left-quotes-sign rounded-circle text-center scndry-clr"></i></div>
+                                                    <div class="testi-item-top d-flex flex-wrap align-items-center justify-content-between w-100">
+                                                        <div class="testi-item-info">
+                                                            <h4 class="mb-0">John Doe</h4>
+                                                            <span class="d-block thm-clr">Psychodynamic Therapy</span>
+                                                        </div>
+                                                        <span class="rate d-inline-block thm-clr"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i></span>
+                                                    </div>
+                                                    <p class="mb-0">However, thanks to Dr. Saroha's expertise and skill as a neurosurgeon, he was able to successfully remove the tumor and restore my hearing and balance. I am now able to enjoy life to the fullest and am so thankful to Dr. Saroha for giving me back my quality of life.</p>
+                                                </div>
+                                            </div>
+                                            <div class="testi-item-wrap d-block w-100">
+                                                <div class="testi-item-box position-relative brd-rd10 w-100">
+                                                    <div class="testi-img rounded-circle position-absolute">
+                                                        <img class="img-fluid rounded-circle" src="assets/img/testi_11zon.webp" alt="Testimonial Image 3">
+                                                        <i class="flaticon-left-quotes-sign rounded-circle text-center scndry-clr"></i></div>
+                                                    <div class="testi-item-top d-flex flex-wrap align-items-center justify-content-between w-100">
+                                                        <div class="testi-item-info">
+                                                            <h4 class="mb-0">Jennifer Aniston</h4>
+                                                            <span class="d-block thm-clr">Psychodynamic Therapy</span>
+                                                        </div>
+                                                        <span class="rate d-inline-block thm-clr"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></span>
+                                                    </div>
+                                                    <p class="mb-0">I highly recommend Dr. Saroha to anyone in need of a neurosurgeon. He is not only incredibly knowledgeable and skilled, but he is also kind and compassionate. He truly cares about his patients and goes above and beyond to ensure their well-being. Thank you again, Dr. Saroha!</p>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12 col-sm-12 col-lg-6">
+                                <div class="storie-wrap text-center d-flex flex-wrap justify-content-center align-items-center overflow-hidden position-relative w-100" style="background-image: url(assets/img/testi.webp);">
+                                    <div class="storie-inner d-inline-block w-100">
+                                        <i class="flaticon-neurology d-inline-block"></i>
+                                        <h2 class="mb-0">What our patient say</h2>
+                                        <p class="mb-0">Praising pain was born give you a complete.</p>
+                                        <!--<a class="simple-link scndry-clr d-inline-block" href="stories.html" title="">MORE STORIES</a>-->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- Testimonials & Stories Wrap -->
+                </div>
+            </section>
+            <?php include 'single-line-form.php';?>
+
+
+<?php include 'footer.php';?>
