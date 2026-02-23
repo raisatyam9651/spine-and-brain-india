@@ -750,34 +750,6 @@
     </div>
   </section>
 
-  <section>
-    <div class="w-100 pt-50 white-layer opc97 pb-50 position-relative">
-      <div class="fixed-bg" style="background-image: url(assets/images/parallax-bg4.webp)"></div>
-      <div class="container">
-        <div class="news-side-title-wrap w-100">
-          <div class="row mrg30">
-            <div class="col-md-12 col-sm-12 col-lg-4">
-              <div class="side-title w-100">
-                <div class="side-title-inner d-inline-block">
-                  <span class="d-block thm-clr">Blogs</span>
-                  <h2 class="mb-0">Our Latest Blogs</h2>
-                  <br />
-                  <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="blog.php"
-                    title="">More Updates</a>
-                </div>
-              </div>
-
-            </div>
-
-            <div class="col-md-12 col-sm-12 col-lg-8">
-              <div id="blog-section" class="blog-container"></div>
-            </div>
-
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <section>
     <div class="w-100 pt-100 gray-layer opc2  position-relative">
