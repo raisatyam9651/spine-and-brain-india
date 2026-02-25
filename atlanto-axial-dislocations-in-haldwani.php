@@ -4,20 +4,20 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="Explore expert diagnosis and treatment options for Atlantoaxial Dislocation with Dr. Arun Saroha, a leading specialist in India." />
+        <meta name="description" content="Explore expert diagnosis and treatment options for Atlantoaxial Dislocation with Dr. Arun Saroha, a leading specialist in Haldwani." />
         <meta name="keywords" content="" />
-        <link rel="canonical" href="https://spineandbrainindia.com/atlanto-axial-dislocations" />
+        <link rel="canonical" href="https://spineandbrainindia.com/atlanto-axial-dislocations-in-haldwani" />
        
-        <title>Atlanto Axial Dislocations Treatment in India | Dr Arun Saroha</title>
+        <title>Atlanto Axial Dislocations Treatment in Haldwani | Dr Arun Saroha</title>
         
         <script type="application/ld+json">
         {
   "@context": "http://schema.org",
   "@type": "MedicalClinic",
-  "name": "Spine and Brain India",
-  "url": "https://spineandbrainindia.com/atlanto-axial-dislocations",
+  "name": "Spine and Brain Haldwani",
+  "url": "https://spineandbrainindia.com/atlanto-axial-dislocations-in-haldwani",
   "logo": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
-  "description": "Specialized treatment for atlanto-axial dislocations by Dr. Arun Saroha in India.",
+  "description": "Specialized treatment for atlanto-axial dislocations by Dr. Arun Saroha in Haldwani.",
   "medicalSpecialty": "Orthopedic",
   "availableService": {
     "@type": "MedicalProcedure",
@@ -28,7 +28,7 @@
     "followup": "Regular follow-ups to monitor recovery",
     "preparation": "Consultation with the doctor",
     "indication": "Atlanto-axial dislocation, cervical spine instability, neurological deficits",
-    "url": "https://spineandbrainindia.com/atlanto-axial-dislocations"
+    "url": "https://spineandbrainindia.com/atlanto-axial-dislocations-in-haldwani"
   },
   "address": {
     "@type": "PostalAddress",
@@ -58,10 +58,10 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is Atlanto Axial Dislocation and how is it treated in India?",
+      "name": "What is Atlanto Axial Dislocation and how is it treated in Haldwani?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Atlanto Axial Dislocation is a cervical spine misalignment. In India, it’s treated using braces or surgery. Dr. Arun Saroha offers advanced correction through minimally invasive spine techniques."
+        "text": "Atlanto Axial Dislocation is a cervical spine misalignment. In Haldwani, it’s treated using braces or surgery. Dr. Arun Saroha offers advanced correction through minimally invasive spine techniques."
       }
     },
     {
@@ -82,7 +82,7 @@
     },
     {
       "@type": "Question",
-      "name": "Is AAD treatment in India safe and effective?",
+      "name": "Is AAD treatment in Haldwani safe and effective?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Yes. India offers advanced surgical care. Dr. Arun Saroha ensures safety and success through thorough planning and expert execution."
@@ -448,10 +448,10 @@
                     <div class="container">
                         <div class="page-title-wrap text-center w-100">
                             <div class="page-title-inner d-inline-block">
-                                <h1 class="mb-0">Atlanto Axial Dislocations Treatment in India</h1>
+                                <h1 class="mb-0">Atlanto Axial Dislocations Treatment in Haldwani</h1>
                                 <ol class="breadcrumb mb-0 justify-content-center">
                                     <li class="breadcrumb-item"><a href="index.php" title="">Home</a></li>
-                                    <li class="breadcrumb-item"><a href="atlanto-axial-dislocations.php" title="">Atlanto Axial Dislocations Treatment</a></li>
+                                    <li class="breadcrumb-item"><a href="atlanto-axial-dislocations-in-haldwani.php" title="">Atlanto Axial Dislocations Treatment</a></li>
                                     <!--<li class="breadcrumb-item active">Child Psychotherapy</li>-->
                                 </ol>
                             </div>
@@ -548,17 +548,17 @@
     </div>
                                         
                                         
-                                        <h3 class="mb-0 mt-5">Atlantoaxial Dislocation & Atlantoaxial Subluxation Diagnosis and Treatment in India</h3>
+                                        <h3 class="mb-0 mt-5">Atlantoaxial Dislocation & Atlantoaxial Subluxation Diagnosis and Treatment in Haldwani</h3>
                                         <p  class="mb-0">The human body is intricately designed, featuring an extensive network of nerves. Among the most delicate and vital parts is the spine, which houses the spinal cord—a crucial nerve bundle that facilitates communication between the brain and the rest of the body. Encased within a protective membrane, the spinal column shields the spinal cord with its vertebrae. Damage to these vertebrae demands meticulous care and specialized treatment.</p>
                                         <p>Atlantoaxial dislocation, though rare, poses significant risks and affects certain patient groups more frequently. Various factors contribute to this condition, and understanding the root causes or predisposing elements is essential for timely and effective intervention. Both anterior and posterior surgical methods are employed for atlantoaxial fusion, each with specific indications, contraindications, associated risks, and levels of complexity. Ongoing and future clinical trials are crucial to determine the most effective surgical approach based on individual patient conditions. For professional care in managing Atlantoaxial dislocation, Atlantoaxial subluxation, and Rotatory subluxation C1 C2, consult Dr. Arun Saroha in Gurgaon, India.</p>
                                        
                                        <h3> Why You Need Treatment for Atlantoaxial Dislocation ?</h3>
                                        <ul class="mb-0 list-unstyled">
                                            <li>Minimally Invasive: The surgery involves only small incisions, leading to minimal scarring.</li>
-                                           <li>High Success Rate: Success rates for Atlantoaxial dislocation treatment in India surpass those seen in many other countries.</li>
+                                           <li>High Success Rate: Success rates for Atlantoaxial dislocation treatment in Haldwani surpass those seen in many other countries.</li>
                                            <li>Quick Recovery: Patients typically experience a faster recovery period.</li>
                                            <li>Reduced Blood Loss: The procedure is characterized by minimal blood loss.</li>
-                                           <li>Cost-Effectiveness: The cost of Atlantoaxial dislocation treatment in India is considerably lower than in other nations.</li>
+                                           <li>Cost-Effectiveness: The cost of Atlantoaxial dislocation treatment in Haldwani is considerably lower than in other nations.</li>
                                        </ul>
                                        
                                        
@@ -595,7 +595,7 @@
                              
                              <div class="container mt-5">
         <div class="service-header">
-            <h1>Why Choose Dr. Arun Saroha for Atlantoaxial Dislocation in India?</h1>
+            <h1>Why Choose Dr. Arun Saroha for Atlantoaxial Dislocation in Haldwani?</h1>
         </div>
         
         <div class="container">
@@ -609,7 +609,7 @@
                 </div>
                 <div class="col-lg-7 col-md-12 mb-4 mb-lg-0">
                     
-                    <p>When considering Atlantoaxial dislocation Treatment in India, Dr. Arun Saroha is one of the most trusted and renowned spine surgeons. With over two decades of experience in treating complex spinal conditions, Dr. Saroha has successfully performed numerous scoliosis surgeries, helping patients regain their quality of life. He is known for his patient-centric approach, taking the time to understand each case individually and developing personalized treatment plans that prioritize safety, comfort, and long-term outcomes.
+                    <p>When considering Atlantoaxial dislocation Treatment in Haldwani, Dr. Arun Saroha is one of the most trusted and renowned spine surgeons. With over two decades of experience in treating complex spinal conditions, Dr. Saroha has successfully performed numerous scoliosis surgeries, helping patients regain their quality of life. He is known for his patient-centric approach, taking the time to understand each case individually and developing personalized treatment plans that prioritize safety, comfort, and long-term outcomes.
                     </p>
                     <p>Dr. Saroha's expertise in minimally invasive spine surgeries ensures that patients experience less pain, quicker recovery times, and reduced risks of complications. His advanced surgical techniques, coupled with cutting-edge technology, make him a top choice for patients seeking the best possible care for scoliosis. Whether you're in need of bracing, physical therapy, or spinal fusion surgery, Dr. Saroha provides comprehensive care throughout every stage of the treatment process.</p>
                     
@@ -627,12 +627,12 @@
         
         <div class="faq-item">
             <div class="faq-question" onclick="toggleFAQ(this)">
-                <span> What is Atlanto Axial Dislocation and how is it treated in India?</span>
+                <span> What is Atlanto Axial Dislocation and how is it treated in Haldwani?</span>
                 <div class="plus-icon"></div>
             </div>
             <div class="faq-answer">
                 <div class="faq-answer-content">
-                    Atlanto Axial Dislocation (AAD) is a misalignment between the first two cervical vertebrae. In India, treatment may involve neck braces, traction, or surgical stabilization. Dr. Arun Saroha specializes in precise correction using advanced fixation techniques and minimally invasive spine surgery.
+                    Atlanto Axial Dislocation (AAD) is a misalignment between the first two cervical vertebrae. In Haldwani, treatment may involve neck braces, traction, or surgical stabilization. Dr. Arun Saroha specializes in precise correction using advanced fixation techniques and minimally invasive spine surgery.
                 </div>
             </div>
         </div>
@@ -663,7 +663,7 @@
         
         <div class="faq-item">
             <div class="faq-question" onclick="toggleFAQ(this)">
-                <span> Is AAD treatment in India safe and effective?</span>
+                <span> Is AAD treatment in Haldwani safe and effective?</span>
                 <div class="plus-icon"></div>
             </div>
             <div class="faq-answer">
@@ -773,160 +773,39 @@
         <div class="d-flex justify-content-between align-items-center mb-4" style="border-bottom: 1px solid #1e293b; padding-bottom: 15px; flex-wrap: wrap; gap: 15px;">
             <h3 class="mb-0 text-white" style="font-size: 20px; font-weight: 600; display: flex; align-items: center; gap: 10px;">
                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Serving Patients Across India
+                Leading Districts in Uttarakhand
             </h3>
-            <button id="toggleLocations" style="background: transparent; border: 1px solid #4a5568; color: #e2e8f0; padding: 6px 16px; border-radius: 20px; font-size: 14px; cursor: pointer; display: flex; align-items: center; gap: 8px; transition: background 0.2s;" onmouseover="this.style.background='#1e293b'" onmouseout="this.style.background='transparent'">
-                <span id="toggleText">Hide Locations</span>
-                <svg id="toggleIcon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
-            </button>
         </div>
-        <div id="locationsGrid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 15px 20px;">
-            <a href="atlanto-axial-dislocations-in-andhra-pradesh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 15px 20px;">
+            <a href="atlanto-axial-dislocations-in-dehradun.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Atlanto-Axial Dislocations in Andhra Pradesh
+                Atlanto-Axial Dislocations in Dehradun
             </a>
-            <a href="atlanto-axial-dislocations-in-arunachal-pradesh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="atlanto-axial-dislocations-in-haridwar.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Atlanto-Axial Dislocations in Arunachal Pradesh
+                Atlanto-Axial Dislocations in Haridwar
             </a>
-            <a href="atlanto-axial-dislocations-in-assam.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="atlanto-axial-dislocations-in-roorkee.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Atlanto-Axial Dislocations in Assam
+                Atlanto-Axial Dislocations in Roorkee
             </a>
-            <a href="atlanto-axial-dislocations-in-bihar.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="atlanto-axial-dislocations-in-haldwani.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Atlanto-Axial Dislocations in Bihar
+                Atlanto-Axial Dislocations in Haldwani
             </a>
-            <a href="atlanto-axial-dislocations-in-chhattisgarh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="atlanto-axial-dislocations-in-rudrapur.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Atlanto-Axial Dislocations in Chhattisgarh
+                Atlanto-Axial Dislocations in Rudrapur
             </a>
-            <a href="atlanto-axial-dislocations-in-goa.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="atlanto-axial-dislocations-in-rishikesh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Atlanto-Axial Dislocations in Goa
+                Atlanto-Axial Dislocations in Rishikesh
             </a>
-            <a href="atlanto-axial-dislocations-in-gujarat.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="atlanto-axial-dislocations-in-kashipur.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Atlanto-Axial Dislocations in Gujarat
-            </a>
-            <a href="atlanto-axial-dislocations-in-haryana.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Atlanto-Axial Dislocations in Haryana
-            </a>
-            <a href="atlanto-axial-dislocations-in-himachal-pradesh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Atlanto-Axial Dislocations in Himachal Pradesh
-            </a>
-            <a href="atlanto-axial-dislocations-in-jharkhand.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Atlanto-Axial Dislocations in Jharkhand
-            </a>
-            <a href="atlanto-axial-dislocations-in-karnataka.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Atlanto-Axial Dislocations in Karnataka
-            </a>
-            <a href="atlanto-axial-dislocations-in-kerala.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Atlanto-Axial Dislocations in Kerala
-            </a>
-            <a href="atlanto-axial-dislocations-in-madhya-pradesh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Atlanto-Axial Dislocations in Madhya Pradesh
-            </a>
-            <a href="atlanto-axial-dislocations-in-maharashtra.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Atlanto-Axial Dislocations in Maharashtra
-            </a>
-            <a href="atlanto-axial-dislocations-in-manipur.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Atlanto-Axial Dislocations in Manipur
-            </a>
-            <a href="atlanto-axial-dislocations-in-meghalaya.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Atlanto-Axial Dislocations in Meghalaya
-            </a>
-            <a href="atlanto-axial-dislocations-in-mizoram.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Atlanto-Axial Dislocations in Mizoram
-            </a>
-            <a href="atlanto-axial-dislocations-in-nagaland.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Atlanto-Axial Dislocations in Nagaland
-            </a>
-            <a href="atlanto-axial-dislocations-in-odisha.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Atlanto-Axial Dislocations in Odisha
-            </a>
-            <a href="atlanto-axial-dislocations-in-punjab.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Atlanto-Axial Dislocations in Punjab
-            </a>
-            <a href="atlanto-axial-dislocations-in-rajasthan.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Atlanto-Axial Dislocations in Rajasthan
-            </a>
-            <a href="atlanto-axial-dislocations-in-sikkim.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Atlanto-Axial Dislocations in Sikkim
-            </a>
-            <a href="atlanto-axial-dislocations-in-tamil-nadu.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Atlanto-Axial Dislocations in Tamil Nadu
-            </a>
-            <a href="atlanto-axial-dislocations-in-telangana.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Atlanto-Axial Dislocations in Telangana
-            </a>
-            <a href="atlanto-axial-dislocations-in-tripura.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Atlanto-Axial Dislocations in Tripura
-            </a>
-            <a href="atlanto-axial-dislocations-in-uttarakhand.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Atlanto-Axial Dislocations in Uttarakhand
-            </a>
-            <a href="atlanto-axial-dislocations-in-west-bengal.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Atlanto-Axial Dislocations in West Bengal
-            </a>
-            <a href="atlanto-axial-dislocations-in-delhi.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Atlanto-Axial Dislocations in Delhi
-            </a>
-            <a href="atlanto-axial-dislocations-in-jammu-and-kashmir.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Atlanto-Axial Dislocations in Jammu and Kashmir
-            </a>
-            <a href="atlanto-axial-dislocations-in-uttar-pradesh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Atlanto-Axial Dislocations in Uttar Pradesh
-            </a>
-            <a href="atlanto-axial-dislocations-in-ladakh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Atlanto-Axial Dislocations in Ladakh
-            </a>
-            <a href="atlanto-axial-dislocations-in-puducherry.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Atlanto-Axial Dislocations in Puducherry
+                Atlanto-Axial Dislocations in Kashipur
             </a>
         </div>
     </div>
 </section>
-<script>
-    document.getElementById("toggleLocations")?.addEventListener("click", function() {
-        var grid = document.getElementById("locationsGrid");
-        var text = document.getElementById("toggleText");
-        var icon = document.getElementById("toggleIcon");
-        if (grid.style.display === "none") {
-            grid.style.display = "grid";
-            text.textContent = "Hide Locations";
-            icon.innerHTML = "<polyline points='6 9 12 15 18 9'></polyline>";
-        } else {
-            grid.style.display = "none";
-            text.textContent = "Show Locations";
-            icon.innerHTML = "<polyline points='6 15 12 9 18 15'></polyline>";
-        }
-    });
-</script>
-
 <?php include 'footer.php';?>
