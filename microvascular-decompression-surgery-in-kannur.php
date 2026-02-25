@@ -5,13 +5,13 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         
-<title>Microvascular Decompression Surgery in India | Cost of MVD Surgery
+<title>Microvascular Decompression Surgery in Kannur | Cost of MVD Surgery
 </title>
 
-<meta name="description" content="Dr. Arun Saroha provides the best Microvascular Decompression Surgery in India. Learn about the cost and options for Microvascular Decompression Surgery." />
+<meta name="description" content="Dr. Arun Saroha provides the best Microvascular Decompression Surgery in Kannur. Learn about the cost and options for Microvascular Decompression Surgery." />
         
 <meta name="keywords" content="" />
-<link rel="canonical" href="https://spineandbrainindia.com/microvascular-decompression-surgery-in-india" />
+<link rel="canonical" href="https://spineandbrainindia.com/microvascular-decompression-surgery-in-kannur" />
         
         <!--Open Graph Tags-->
         <meta property="og:type" content="website" />
@@ -26,10 +26,10 @@
         {
   "@context": "http://schema.org",
   "@type": "MedicalClinic",
-  "name": "Spine and Brain India",
-  "url": "https://spineandbrainindia.com/microvascular-decompression-surgery-in-india",
+  "name": "Spine and Brain Kannur",
+  "url": "https://spineandbrainindia.com/microvascular-decompression-surgery-in-kannur",
   "logo": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
-  "description": "Advanced microvascular decompression surgery by Dr. Arun Saroha in India.",
+  "description": "Advanced microvascular decompression surgery by Dr. Arun Saroha in Kannur.",
   "medicalSpecialty": "Neurosurgery",
   "availableService": {
     "@type": "MedicalProcedure",
@@ -40,7 +40,7 @@
     "followup": "Regular follow-ups to monitor recovery",
     "preparation": "Consultation with the doctor",
     "indication": "Trigeminal neuralgia, hemifacial spasm, glossopharyngeal neuralgia",
-    "url": "https://spineandbrainindia.com/microvascular-decompression-surgery-in-india"
+    "url": "https://spineandbrainindia.com/microvascular-decompression-surgery-in-kannur"
   },
   "address": {
     "@type": "PostalAddress",
@@ -86,7 +86,7 @@
     },
     {
       "@type": "Question",
-      "name": "Is MVD surgery safe and effective in India?",
+      "name": "Is MVD surgery safe and effective in Kannur?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Yes. Dr. Arun Saroha performs MVD using advanced techniques with excellent success rates in top Indian hospitals."
@@ -118,10 +118,10 @@
     },
     {
       "@type": "Question",
-      "name": "Why choose Dr. Arun Saroha for MVD surgery in India?",
+      "name": "Why choose Dr. Arun Saroha for MVD surgery in Kannur?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "He is a leading neurosurgeon in India with vast experience in MVD. Patients trust him for precision, care, and excellent outcomes."
+        "text": "He is a leading neurosurgeon in Kannur with vast experience in MVD. Patients trust him for precision, care, and excellent outcomes."
       }
     }
   ]
@@ -325,10 +325,10 @@
                     <div class="container">
                         <div class="page-title-wrap text-center w-100">
                             <div class="page-title-inner d-inline-block">
-                                <h1 class="mb-0">Microvascular Decompression Surgery in India</h1>
+                                <h1 class="mb-0">Microvascular Decompression Surgery in Kannur</h1>
                                 <ol class="breadcrumb mb-0 justify-content-center">
                                     <li class="breadcrumb-item"><a href="index.php" title="spineandbrainindia.com">Home</a></li>
-                                    <li class="breadcrumb-item"><a href="microvascular-decompression-surgery-in-india.php" title="A Doctor operating on patient's spine.">Microvascular Decompression Surgery in India</a></li>
+                                    <li class="breadcrumb-item"><a href="microvascular-decompression-surgery-in-kannur.php" title="A Doctor operating on patient's spine.">Microvascular Decompression Surgery in Kannur</a></li>
                                     
                                 </ol>
                             </div>
@@ -367,13 +367,13 @@
                                         <p class="mb-0">Microvascular decompression (MVD) surgery involves performing a craniotomy, which opens the skull to access and relieve nerves at the brainstem's base. This procedure is often used to treat trigeminal neuralgia. During MVD, a sponge is placed between the nerve and any compressing vessels, effectively shielding the nerve from pulsating vessel pressure and alleviating the intense pain caused by nerve compression. This separation is what gives microvascular decompression its name and its efficacy in treating painful neural conditions.</p>
                                         
                                         
-                                        <h3 class="mb-0 mt-3">What is the price of the treatment in India?</h3>
+                                        <h3 class="mb-0 mt-3">What is the price of the treatment in Kannur?</h3>
                                         <p class="mb-0">The cost of Microvascular Decompression (MVD) surgery can vary because this highly specialized medical field deals with diverse types of cases. Therefore, the exact cost cannot be determined until the specific details of the case are reviewed. However, the general cost for this particular treatment is approximately INR 4 lakhs.</p>
                                         
                                         
                                          <div class="container mt-5">
         <div class="service-header">
-        <h1>Why Choose Dr. Arun Saroha for Microvascular Decompression Surgery in India?</h1>
+        <h1>Why Choose Dr. Arun Saroha for Microvascular Decompression Surgery in Kannur?</h1>
         </div>
         
         <div class="container">
@@ -387,7 +387,7 @@
                 </div>
                 <div class="col-lg-7 col-md-12 mb-4 mb-lg-0">
                     
-                    <p>Dr. Arun Saroha is a highly regarded neurosurgeon with over two decades of experience specializing in Microvascular Decompression Surgery, including spine tumor surgery in India. He is renowned for his expertise in treating both benign and malignant spinal tumors using advanced techniques like endoscopic and minimally invasive spine surgeries, which ensure quicker recovery, reduced pain, and minimal scarring. Dr. Saroha leads a multidisciplinary team that works together to provide comprehensive care tailored to each patient’s needs.
+                    <p>Dr. Arun Saroha is a highly regarded neurosurgeon with over two decades of experience specializing in Microvascular Decompression Surgery, including spine tumor surgery in Kannur. He is renowned for his expertise in treating both benign and malignant spinal tumors using advanced techniques like endoscopic and minimally invasive spine surgeries, which ensure quicker recovery, reduced pain, and minimal scarring. Dr. Saroha leads a multidisciplinary team that works together to provide comprehensive care tailored to each patient’s needs.
                     </p>
                     <p>He uses cutting-edge technologies like robotic navigation systems and intraoperative imaging to ensure precision during surgery, making him one of the most trusted specialists in the field. Choosing Dr. Arun Saroha for spine tumor surgery not only ensures access to world-class medical care but also personalized treatment plans that prioritize patient well-being and long-term recovery.</p>
                     
@@ -429,7 +429,7 @@
         
         <div class="faq-item">
             <div class="faq-question" onclick="toggleFAQ(this)">
-                <span> Is MVD surgery safe and effective in India?</span>
+                <span> Is MVD surgery safe and effective in Kannur?</span>
                 <div class="plus-icon"></div>
             </div>
             <div class="faq-answer">
@@ -477,12 +477,12 @@
         
         <div class="faq-item">
             <div class="faq-question" onclick="toggleFAQ(this)">
-                <span> Why choose Dr. Arun Saroha for MVD surgery in India?</span>
+                <span> Why choose Dr. Arun Saroha for MVD surgery in Kannur?</span>
                 <div class="plus-icon"></div>
             </div>
             <div class="faq-answer">
                 <div class="faq-answer-content">
-                     Dr. Arun Saroha is a highly skilled neurosurgeon with expertise in cranial nerve decompression. His success rate, precision, and patient-first care make him a top choice for MVD in India.
+                     Dr. Arun Saroha is a highly skilled neurosurgeon with expertise in cranial nerve decompression. His success rate, precision, and patient-first care make him a top choice for MVD in Kannur.
                 </div>
             </div>
         </div>
@@ -543,11 +543,11 @@
                     <div class="container">
                         <div class="request-consult-wrap d-flex flex-wrap align-items-center position-relative w-100">
                             <div class="request-consult-title">
-                                <h3 class="mb-0">Consult Dr. Arun Saroha, For Microvascular Decompression Surgery in India</h3>
+                                <h3 class="mb-0">Consult Dr. Arun Saroha, For Microvascular Decompression Surgery in Kannur</h3>
                                
                             </div>
                             <div class="request-consult-form">
-                                <p class="mb-0">Schedule your Microvascular Decompression Surgery in India today – take the first step towards healing.</p>
+                                <p class="mb-0">Schedule your Microvascular Decompression Surgery in Kannur today – take the first step towards healing.</p>
                                 
                                <!--form-->
                                <?php include 'cta-form.php'; ?>
@@ -565,160 +565,51 @@
         <div class="d-flex justify-content-between align-items-center mb-4" style="border-bottom: 1px solid #1e293b; padding-bottom: 15px; flex-wrap: wrap; gap: 15px;">
             <h3 class="mb-0 text-white" style="font-size: 20px; font-weight: 600; display: flex; align-items: center; gap: 10px;">
                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Serving Patients Across India
+                Leading Districts in Kerala
             </h3>
-            <button id="toggleLocations" style="background: transparent; border: 1px solid #4a5568; color: #e2e8f0; padding: 6px 16px; border-radius: 20px; font-size: 14px; cursor: pointer; display: flex; align-items: center; gap: 8px; transition: background 0.2s;" onmouseover="this.style.background='#1e293b'" onmouseout="this.style.background='transparent'">
-                <span id="toggleText">Hide Locations</span>
-                <svg id="toggleIcon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
-            </button>
         </div>
-        <div id="locationsGrid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 15px 20px;">
-            <a href="microvascular-decompression-surgery-in-andhra-pradesh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 15px 20px;">
+            <a href="microvascular-decompression-surgery-in-thiruvananthapuram.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Microvascular Decompression Surgery in Andhra Pradesh
+                Microvascular Decompression Surgery in Thiruvananthapuram
             </a>
-            <a href="microvascular-decompression-surgery-in-arunachal-pradesh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="microvascular-decompression-surgery-in-kochi.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Microvascular Decompression Surgery in Arunachal Pradesh
+                Microvascular Decompression Surgery in Kochi
             </a>
-            <a href="microvascular-decompression-surgery-in-assam.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="microvascular-decompression-surgery-in-kozhikode.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Microvascular Decompression Surgery in Assam
+                Microvascular Decompression Surgery in Kozhikode
             </a>
-            <a href="microvascular-decompression-surgery-in-bihar.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="microvascular-decompression-surgery-in-kollam.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Microvascular Decompression Surgery in Bihar
+                Microvascular Decompression Surgery in Kollam
             </a>
-            <a href="microvascular-decompression-surgery-in-chhattisgarh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="microvascular-decompression-surgery-in-thrissur.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Microvascular Decompression Surgery in Chhattisgarh
+                Microvascular Decompression Surgery in Thrissur
             </a>
-            <a href="microvascular-decompression-surgery-in-goa.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="microvascular-decompression-surgery-in-kannur.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Microvascular Decompression Surgery in Goa
+                Microvascular Decompression Surgery in Kannur
             </a>
-            <a href="microvascular-decompression-surgery-in-gujarat.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="microvascular-decompression-surgery-in-alappuzha.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Microvascular Decompression Surgery in Gujarat
+                Microvascular Decompression Surgery in Alappuzha
             </a>
-            <a href="microvascular-decompression-surgery-in-haryana.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="microvascular-decompression-surgery-in-kottayam.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Microvascular Decompression Surgery in Haryana
+                Microvascular Decompression Surgery in Kottayam
             </a>
-            <a href="microvascular-decompression-surgery-in-himachal-pradesh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="microvascular-decompression-surgery-in-palakkad.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Microvascular Decompression Surgery in Himachal Pradesh
+                Microvascular Decompression Surgery in Palakkad
             </a>
-            <a href="microvascular-decompression-surgery-in-jharkhand.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="microvascular-decompression-surgery-in-ernakulam.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Microvascular Decompression Surgery in Jharkhand
-            </a>
-            <a href="microvascular-decompression-surgery-in-karnataka.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Microvascular Decompression Surgery in Karnataka
-            </a>
-            <a href="microvascular-decompression-surgery-in-kerala.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Microvascular Decompression Surgery in Kerala
-            </a>
-            <a href="microvascular-decompression-surgery-in-madhya-pradesh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Microvascular Decompression Surgery in Madhya Pradesh
-            </a>
-            <a href="microvascular-decompression-surgery-in-maharashtra.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Microvascular Decompression Surgery in Maharashtra
-            </a>
-            <a href="microvascular-decompression-surgery-in-manipur.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Microvascular Decompression Surgery in Manipur
-            </a>
-            <a href="microvascular-decompression-surgery-in-meghalaya.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Microvascular Decompression Surgery in Meghalaya
-            </a>
-            <a href="microvascular-decompression-surgery-in-mizoram.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Microvascular Decompression Surgery in Mizoram
-            </a>
-            <a href="microvascular-decompression-surgery-in-nagaland.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Microvascular Decompression Surgery in Nagaland
-            </a>
-            <a href="microvascular-decompression-surgery-in-odisha.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Microvascular Decompression Surgery in Odisha
-            </a>
-            <a href="microvascular-decompression-surgery-in-punjab.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Microvascular Decompression Surgery in Punjab
-            </a>
-            <a href="microvascular-decompression-surgery-in-rajasthan.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Microvascular Decompression Surgery in Rajasthan
-            </a>
-            <a href="microvascular-decompression-surgery-in-sikkim.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Microvascular Decompression Surgery in Sikkim
-            </a>
-            <a href="microvascular-decompression-surgery-in-tamil-nadu.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Microvascular Decompression Surgery in Tamil Nadu
-            </a>
-            <a href="microvascular-decompression-surgery-in-telangana.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Microvascular Decompression Surgery in Telangana
-            </a>
-            <a href="microvascular-decompression-surgery-in-tripura.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Microvascular Decompression Surgery in Tripura
-            </a>
-            <a href="microvascular-decompression-surgery-in-uttarakhand.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Microvascular Decompression Surgery in Uttarakhand
-            </a>
-            <a href="microvascular-decompression-surgery-in-west-bengal.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Microvascular Decompression Surgery in West Bengal
-            </a>
-            <a href="microvascular-decompression-surgery-in-delhi.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Microvascular Decompression Surgery in Delhi
-            </a>
-            <a href="microvascular-decompression-surgery-in-jammu-and-kashmir.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Microvascular Decompression Surgery in Jammu and Kashmir
-            </a>
-            <a href="microvascular-decompression-surgery-in-uttar-pradesh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Microvascular Decompression Surgery in Uttar Pradesh
-            </a>
-            <a href="microvascular-decompression-surgery-in-ladakh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Microvascular Decompression Surgery in Ladakh
-            </a>
-            <a href="microvascular-decompression-surgery-in-puducherry.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Microvascular Decompression Surgery in Puducherry
+                Microvascular Decompression Surgery in Ernakulam
             </a>
         </div>
     </div>
 </section>
-<script>
-    document.getElementById("toggleLocations")?.addEventListener("click", function() {
-        var grid = document.getElementById("locationsGrid");
-        var text = document.getElementById("toggleText");
-        var icon = document.getElementById("toggleIcon");
-        if (grid.style.display === "none") {
-            grid.style.display = "grid";
-            text.textContent = "Hide Locations";
-            icon.innerHTML = "<polyline points='6 9 12 15 18 9'></polyline>";
-        } else {
-            grid.style.display = "none";
-            text.textContent = "Show Locations";
-            icon.innerHTML = "<polyline points='6 15 12 9 18 15'></polyline>";
-        }
-    });
-</script>
-
 <?php include 'footer.php';?>
