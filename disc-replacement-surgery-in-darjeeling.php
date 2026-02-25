@@ -5,29 +5,29 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         
-<title>Artificial Disc Replacement Surgery in India | Dr. Arun Saroha</title>
+<title>Artificial Disc Replacement Surgery in Darjeeling | Dr. Arun Saroha</title>
         
-<meta name="description" content="Seeking Artificial Disc Replacement Surgery in India? Dr. Arun Saroha offers expert care with minimally invasive techniques, ensuring effective treatment." />
+<meta name="description" content="Seeking Artificial Disc Replacement Surgery in Darjeeling? Dr. Arun Saroha offers expert care with minimally invasive techniques, ensuring effective treatment." />
         
-<meta name="keywords" content="Disc Replacement Surgery in India, Disc Replacement Surgeon, Best Disc Replacement Care" />
-<link rel="canonical" href="https://spineandbrainindia.com/disc-replacement-surgery-in-india" />
+<meta name="keywords" content="Disc Replacement Surgery in Darjeeling, Disc Replacement Surgeon, Best Disc Replacement Care" />
+<link rel="canonical" href="https://spineandbrainindia.com/disc-replacement-surgery-in-west-bengal" />
         
         <!--Open Graph Tags-->
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.spineandbrainindia.com/disc-replacement-surgery-in-india.php" />
+        <meta property="og:url" content="https://www.spineandbrainindia.com/disc-replacement-surgery-in-west-bengal.php" />
         <meta property="og:keywords" content="Disc Replacement Surgery, Spinal Disc Replacement, Spine Surgery, Neurosurgery Expert, Spine and Brain Surgery" />
-        <meta property="og:title" content="Artificial Disc Replacement Surgery in India | Dr. Arun Saroha" />
-        <meta property="og:description" content="Seeking Artificial Disc Replacement Surgery in India? Dr. Arun Saroha offers expert care with minimally invasive techniques, ensuring effective treatment." />
+        <meta property="og:title" content="Artificial Disc Replacement Surgery in Darjeeling | Dr. Arun Saroha" />
+        <meta property="og:description" content="Seeking Artificial Disc Replacement Surgery in Darjeeling? Dr. Arun Saroha offers expert care with minimally invasive techniques, ensuring effective treatment." />
         
         <!--Schema Markup-->
         <script type="application/ld+json">
       {
   "@context": "http://schema.org",
   "@type": "MedicalClinic",
-  "name": "Spine and Brain India",
-  "url": "https://spineandbrainindia.com/disc-replacement-surgery-in-india",
+  "name": "Spine and Brain Darjeeling",
+  "url": "https://spineandbrainindia.com/disc-replacement-surgery-in-west-bengal",
   "logo": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
-  "description": "Advanced disc replacement surgery by Dr. Arun Saroha in India.",
+  "description": "Advanced disc replacement surgery by Dr. Arun Saroha in Darjeeling.",
   "medicalSpecialty": "Orthopedic",
   "availableService": {
     "@type": "MedicalProcedure",
@@ -38,7 +38,7 @@
     "followup": "Regular follow-ups to monitor recovery",
     "preparation": "Consultation with the doctor",
     "indication": "Herniated discs, degenerative disc disease, chronic back pain",
-    "url": "https://spineandbrainindia.com/disc-replacement-surgery-in-india"
+    "url": "https://spineandbrainindia.com/disc-replacement-surgery-in-west-bengal"
   },
   "address": {
     "@type": "PostalAddress",
@@ -100,7 +100,7 @@
     },
     {
       "@type": "Question",
-      "name": "Is artificial disc replacement surgery safe in India?",
+      "name": "Is artificial disc replacement surgery safe in Darjeeling?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Yes, it's safe and widely practiced. Dr. Arun Saroha uses FDA-approved implants and works in advanced hospitals with top-tier safety protocols."
@@ -108,7 +108,7 @@
     },
     {
       "@type": "Question",
-      "name": "How much does artificial disc replacement cost in India?",
+      "name": "How much does artificial disc replacement cost in Darjeeling?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "The cost ranges from ₹3 to ₹6 lakhs. Dr. Arun Saroha offers affordable, world-class spine care with transparent pricing."
@@ -319,10 +319,10 @@
                     <div class="container">
                         <div class="page-title-wrap text-center w-100">
                             <div class="page-title-inner d-inline-block">
-                                <h1 class="mb-0">Disc Replacement Surgery in India: Dr. Arun Saroha</h1>
+                                <h1 class="mb-0">Disc Replacement Surgery in Darjeeling: Dr. Arun Saroha</h1>
                                 <!--<ol class="breadcrumb mb-0 justify-content-center">-->
                                 <!--    <li class="breadcrumb-item"><a href="index.php" title="spineandbrainindia.com">Home</a></li>-->
-                                <!--    <li class="breadcrumb-item"><a href="disc-replacement-surgery-in-india" title="Disc Replacement Surgery in India">Disc replacement surgery in india</a></li>-->
+                                <!--    <li class="breadcrumb-item"><a href="disc-replacement-surgery-in-west-bengal" title="Disc Replacement Surgery in Darjeeling">Disc replacement surgery in darjeeling</a></li>-->
                                     <!--<li class="breadcrumb-item active">Child Psychotherapy</li>-->
                                 <!--</ol>-->
                             </div>
@@ -350,10 +350,10 @@
                                         
                                         <h3 class="mb-0 mt-5">What is Disc Replacement Surgery?</h3><br>
                                         <p>Disc Replacement Surgery is a minimally invasive procedure designed to replace a damaged or degenerated spinal disc with an artificial one. It is primarily used to treat chronic back pain caused by conditions like degenerative disc disease, where conservative treatments like medication, physical therapy, or injections have failed to provide relief. The surgery involves removing the problematic disc and implanting a synthetic disc that mimics the natural movement and function of a healthy disc.</p>
-                                        <p>Disc replacement surgery in India is performed by highly skilled spine specialists using cutting-edge technology and medical equipment. It offers excellent outcomes, allowing patients to regain their mobility, reduce pain, and improve their overall quality of life. If you're exploring options for back pain relief, Disc Replacement Surgery in India could be an ideal solution for long-term results.</p>
+                                        <p>Disc replacement surgery in Darjeeling is performed by highly skilled spine specialists using cutting-edge technology and medical equipment. It offers excellent outcomes, allowing patients to regain their mobility, reduce pain, and improve their overall quality of life. If you're exploring options for back pain relief, Disc Replacement Surgery in Darjeeling could be an ideal solution for long-term results.</p>
                                         
                                         <h3 class="mb-0 mt-5">Conditions Treated with Disc Replacement</h3>
-                                        <p>Disc Replacement Surgery in India can be an effective treatment for a variety of spinal conditions, particularly those that have not responded well to more conservative treatments.</p>
+                                        <p>Disc Replacement Surgery in Darjeeling can be an effective treatment for a variety of spinal conditions, particularly those that have not responded well to more conservative treatments.</p>
 
                                         <ul class="mb-0 list-unstyled">
                                             <li><b>Degenerative Disc Disease: </b>This condition, where spinal discs break down and cause pain, is a primary candidate for Disc Replacement.</li>
@@ -375,12 +375,12 @@
                                         </div>
                                         
                                         
-                                        <!--<h2 class="mb-0 mt-5">Why Choose Dr. Arun Saroha for Disc Replacement Surgery in India?</h2><br><br>-->
-                                        <!--<p>When it comes to Disc Replacement Surgery in India, Dr. Arun Saroha stands out as one of the most trusted and experienced spine surgeons. With over two decades of expertise in spine and brain surgeries, Dr. Saroha has performed numerous successful disc replacement procedures, helping patients regain their mobility and live pain-free lives. As the Director of Spine and Brain India, Dr. Saroha is renowned for his minimally invasive surgical techniques, ensuring quicker recovery times and fewer complications for his patients.</p>-->
+                                        <!--<h2 class="mb-0 mt-5">Why Choose Dr. Arun Saroha for Disc Replacement Surgery in Darjeeling?</h2><br><br>-->
+                                        <!--<p>When it comes to Disc Replacement Surgery in Darjeeling, Dr. Arun Saroha stands out as one of the most trusted and experienced spine surgeons. With over two decades of expertise in spine and brain surgeries, Dr. Saroha has performed numerous successful disc replacement procedures, helping patients regain their mobility and live pain-free lives. As the Director of Spine and Brain Darjeeling, Dr. Saroha is renowned for his minimally invasive surgical techniques, ensuring quicker recovery times and fewer complications for his patients.</p>-->
                                         <!--<p>Dr. Saroha uses the latest advancements in spinal surgery and state-of-the-art equipment to provide personalized care for each patient. His approach includes a thorough diagnosis, treatment plan, and follow-up to ensure long-lasting results. His proficiency in disc replacement surgery, combined with a patient-centric focus, makes him a top choice for patients seeking the best care for their spine health.</p>-->
                                         
                         <div class="service-header mt-4">
-                <h1>Why Choose Dr. Arun Saroha for Cervical Spine Surgery in India?</h1>
+                <h1>Why Choose Dr. Arun Saroha for Cervical Spine Surgery in Darjeeling?</h1>
               </div>
               
               <div class="container">
@@ -395,7 +395,7 @@
                 <div class="col-lg-7 col-md-12 mb-4 mb-lg-0">
                     
                     <p class="lead mt-3 fs-6 fs-md-5">
-                        Dr. Arun Saroha is widely recognized as the Best Doctor for Back Pain Treatment in India, offering unparalleled expertise and compassionate care for patients suffering from various spine-related conditions. With over 29 years of experience in neurosurgery and spine surgery, Dr. Saroha has successfully treated thousands of patients with chronic back pain, providing them with long-lasting relief and improved quality of life.
+                        Dr. Arun Saroha is widely recognized as the Best Doctor for Back Pain Treatment in Darjeeling, offering unparalleled expertise and compassionate care for patients suffering from various spine-related conditions. With over 29 years of experience in neurosurgery and spine surgery, Dr. Saroha has successfully treated thousands of patients with chronic back pain, providing them with long-lasting relief and improved quality of life.
                     </p>    
                     <p class="lead fs-6 fs-md-5">
                         Dr. Saroha's approach to back pain treatment is comprehensive, addressing both medical and surgical options. He specializes in treating complex spine conditions such as degenerative spine disorders, herniated discs, and spinal stenosis. His expertise in minimally invasive spine surgery ensures faster recovery times, less post-operative pain, and reduced scarring, making him a top choice for patients looking for advanced back pain treatment.
@@ -460,7 +460,7 @@
         
         <div class="faq-item">
             <div class="faq-question" onclick="toggleFAQ(this)">
-                <span> Is artificial disc replacement surgery safe in India?</span>
+                <span> Is artificial disc replacement surgery safe in Darjeeling?</span>
                 <div class="plus-icon"></div>
             </div>
             <div class="faq-answer">
@@ -473,7 +473,7 @@
         
         <div class="faq-item">
             <div class="faq-question" onclick="toggleFAQ(this)">
-                <span> How much does artificial disc replacement cost in India?</span>
+                <span> How much does artificial disc replacement cost in Darjeeling?</span>
                 <div class="plus-icon"></div>
             </div>
             <div class="faq-answer">
@@ -564,11 +564,11 @@
                     <div class="container">
                         <div class="request-consult-wrap d-flex flex-wrap align-items-center position-relative w-100">
                             <div class="request-consult-title">
-                                <h3 class="mb-0"> Consult Dr. Arun Saroha, For The Best Disc Replacement Surgery in India</h3>
+                                <h3 class="mb-0"> Consult Dr. Arun Saroha, For The Best Disc Replacement Surgery in Darjeeling</h3>
                                
                             </div>
                             <div class="request-consult-form">
-                                <p class="mb-0">Explore advanced Disc Replacement Surgery in India. Contact us for Artificial Disc Replacement – book your appointment today.</p>
+                                <p class="mb-0">Explore advanced Disc Replacement Surgery in Darjeeling. Contact us for Artificial Disc Replacement – book your appointment today.</p>
                             
                             <!--CTA Form-->
                             <?php include 'cta-form.php';?>
@@ -580,6 +580,58 @@
             </section>
 
 
+<section class="locations-area pt-50 pb-50" style="background-color: #0f172a; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+    <div class="container">
+        <div class="d-flex justify-content-between align-items-center mb-4" style="border-bottom: 1px solid #1e293b; padding-bottom: 15px; flex-wrap: wrap; gap: 15px;">
+            <h3 class="mb-0 text-white" style="font-size: 20px; font-weight: 600; display: flex; align-items: center; gap: 10px;">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Leading Districts in West Bengal
+            </h3>
+        </div>
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 15px 20px;">
+            <a href="disc-replacement-surgery-in-kolkata.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Disc Replacement Surgery in Kolkata
+            </a>
+            <a href="disc-replacement-surgery-in-asansol.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Disc Replacement Surgery in Asansol
+            </a>
+            <a href="disc-replacement-surgery-in-siliguri.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Disc Replacement Surgery in Siliguri
+            </a>
+            <a href="disc-replacement-surgery-in-durgapur.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Disc Replacement Surgery in Durgapur
+            </a>
+            <a href="disc-replacement-surgery-in-howrah.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Disc Replacement Surgery in Howrah
+            </a>
+            <a href="disc-replacement-surgery-in-darjeeling.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Disc Replacement Surgery in Darjeeling
+            </a>
+            <a href="disc-replacement-surgery-in-malda.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Disc Replacement Surgery in Malda
+            </a>
+            <a href="disc-replacement-surgery-in-kharagpur.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Disc Replacement Surgery in Kharagpur
+            </a>
+            <a href="disc-replacement-surgery-in-haldia.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Disc Replacement Surgery in Haldia
+            </a>
+            <a href="disc-replacement-surgery-in-burdwan.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Disc Replacement Surgery in Burdwan
+            </a>
+        </div>
+    </div>
+</section>
 <section class="locations-area pt-50 pb-50" style="background-color: #0f172a; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
     <div class="container">
         <div class="d-flex justify-content-between align-items-center mb-4" style="border-bottom: 1px solid #1e293b; padding-bottom: 15px; flex-wrap: wrap; gap: 15px;">
