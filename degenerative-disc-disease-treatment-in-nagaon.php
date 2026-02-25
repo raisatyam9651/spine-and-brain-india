@@ -5,30 +5,30 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         
-        <title>Degenerative Disc Disease Treatment in India | Degenerative Disc Treatment </title>
+        <title>Degenerative Disc Disease Treatment in Nagaon | Degenerative Disc Treatment </title>
         
-        <meta name="description" content="Meet Dr. Arun Saroha a leading expert in Degenerative Disc Disease Treatment in India. Offering artificial discs for Degenerative Disc Surgery in India." />
+        <meta name="description" content="Meet Dr. Arun Saroha a leading expert in Degenerative Disc Disease Treatment in Nagaon. Offering artificial discs for Degenerative Disc Surgery in Nagaon." />
         
-        <meta name="keywords" content="Degenerative Disc Disease Treatment in India, Disc Disease Specialist" />
-        <link rel="canonical" href="https://spineandbrainindia.com/degenerative-disc-disease-treatment-in-India" />
+        <meta name="keywords" content="Degenerative Disc Disease Treatment in Nagaon, Disc Disease Specialist" />
+        <link rel="canonical" href="https://spineandbrainindia.com/degenerative-disc-disease-treatment-in-nagaon" />
        
        <!--OpenGraph Tags-->
        
        <meta property="og:type" content="website" />
-       <meta property="og:url" content="https://www.spineandbrainindia.com/degenerative-disc-disease-treatment-in-india.php" />
+       <meta property="og:url" content="https://www.spineandbrainindia.com/degenerative-disc-disease-treatment-in-nagaon.php" />
        <meta property="og:keywords" content="Degenerative Disc Disease Treatment, Spinal Disc Degeneration, Spine Surgery, Neurosurgery Expert, Spine and Brain Surgery" />
-       <meta property="og:title" content="Degenerative Disc Disease Treatment in India | Degenerative Disc Treatment" />
-       <meta property="og:description" content="Meet Dr. Arun Saroha a leading expert in Degenerative Disc Disease Treatment in India. Offering artificial discs for Degenerative Disc Surgery in India." />
+       <meta property="og:title" content="Degenerative Disc Disease Treatment in Nagaon | Degenerative Disc Treatment" />
+       <meta property="og:description" content="Meet Dr. Arun Saroha a leading expert in Degenerative Disc Disease Treatment in Nagaon. Offering artificial discs for Degenerative Disc Surgery in Nagaon." />
        
        <!--Schema Markup-->
        <script type="application/ld+json">
         {
   "@context": "http://schema.org",
   "@type": "MedicalClinic",
-  "name": "Spine and Brain India",
-  "url": "https://spineandbrainindia.com/degenerative-disc-disease-treatment-in-India",
+  "name": "Spine and Brain Nagaon",
+  "url": "https://spineandbrainindia.com/degenerative-disc-disease-treatment-in-nagaon",
   "logo": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
-  "description": "Specialized degenerative disc disease treatment by Dr. Arun Saroha in India.",
+  "description": "Specialized degenerative disc disease treatment by Dr. Arun Saroha in Nagaon.",
   "medicalSpecialty": "Orthopedic",
   "availableService": {
     "@type": "MedicalProcedure",
@@ -39,7 +39,7 @@
     "followup": "Regular follow-ups to monitor recovery",
     "preparation": "Consultation with the doctor",
     "indication": "Degenerative disc disease, chronic back pain",
-    "url": "https://spineandbrainindia.com/degenerative-disc-disease-treatment-in-India"
+    "url": "https://spineandbrainindia.com/degenerative-disc-disease-treatment-in-nagaon"
   },
   "address": {
     "@type": "PostalAddress",
@@ -70,10 +70,10 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is degenerative disc disease and how is it treated in India?",
+      "name": "What is degenerative disc disease and how is it treated in Nagaon?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Degenerative disc disease causes back or neck pain due to worn-out discs. In India, treatments include physiotherapy, medication, and spine surgery. Dr. Arun Saroha offers personalized, minimally invasive treatment plans with fast recovery."
+        "text": "Degenerative disc disease causes back or neck pain due to worn-out discs. In Nagaon, treatments include physiotherapy, medication, and spine surgery. Dr. Arun Saroha offers personalized, minimally invasive treatment plans with fast recovery."
       }
     },
     {
@@ -94,10 +94,10 @@
     },
     {
       "@type": "Question",
-      "name": "Is degenerative disc disease treatment in India affordable?",
+      "name": "Is degenerative disc disease treatment in Nagaon affordable?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, treatment in India is cost-effective. With Dr. Arun Saroha’s expertise and top hospital facilities, patients receive affordable, high-quality care."
+        "text": "Yes, treatment in Nagaon is cost-effective. With Dr. Arun Saroha’s expertise and top hospital facilities, patients receive affordable, high-quality care."
       }
     },
     {
@@ -118,7 +118,7 @@
     },
     {
       "@type": "Question",
-      "name": "Why choose Dr. Arun Saroha for spine treatment in India?",
+      "name": "Why choose Dr. Arun Saroha for spine treatment in Nagaon?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Dr. Arun Saroha is an experienced neurosurgeon known for advanced spinal care, patient-focused treatment, and a strong record of successful surgeries."
@@ -458,10 +458,10 @@
                     <div class="container">
                         <div class="page-title-wrap text-center w-100">
                             <div class="page-title-inner d-inline-block">
-                                <h1 class="mb-0">Degenerative Disc Disease Treatment in India</h1>
+                                <h1 class="mb-0">Degenerative Disc Disease Treatment in Nagaon</h1>
                                 <ol class="breadcrumb mb-0 justify-content-center">
                                     <li class="breadcrumb-item"><a href="index.php" title="spineandbrainindia.com">Home</a></li>
-                                    <li class="breadcrumb-item"><a href="degenerative-disc-disease-treatment-in-India" title="Degenerative Disc Disease Treatment in India: Expert Care by Dr. Arun Saroha">Degenerative disc disease treatment</a></li>
+                                    <li class="breadcrumb-item"><a href="degenerative-disc-disease-treatment-in-nagaon" title="Degenerative Disc Disease Treatment in Nagaon: Expert Care by Dr. Arun Saroha">Degenerative disc disease treatment</a></li>
                                     <!--<li class="breadcrumb-item active">Child Psychotherapy</li>-->
                                 </ol>
                             </div>
@@ -480,11 +480,11 @@
                                             <img class="img-fluid w-100" src="assets/img/services/Degenerative disc disease_11zon.webp" alt="A woman with neck and lower back pain.">
                                         </div>
                                         
-                                        <h3 class="mb-0">Degenerative Disc Treatment in India: Dr. Arun Saroha at Max Super Specialty Hospital</h3>
+                                        <h3 class="mb-0">Degenerative Disc Treatment in Nagaon: Dr. Arun Saroha at Max Super Specialty Hospital</h3>
                                         
                                         
                                         
-                                        <p class="mb-0"> Degenerative disc disease (DDD) is a common condition affecting millions of people worldwide. The disease occurs when the cushioning discs between the vertebrae in the spine begin to wear down, causing pain, discomfort, and in severe cases, disability. While there is no cure for DDD, there are many treatment options available to help manage the symptoms and improve quality of life. In India, Dr. Arun Saroha is one of the most renowned neurosurgeons who specializes in the treatment of degenerative disc disease. He practices at Max Super Specialty Hospital in Saket and offers comprehensive care for all types of neurological problems.<p>
+                                        <p class="mb-0"> Degenerative disc disease (DDD) is a common condition affecting millions of people worldwide. The disease occurs when the cushioning discs between the vertebrae in the spine begin to wear down, causing pain, discomfort, and in severe cases, disability. While there is no cure for DDD, there are many treatment options available to help manage the symptoms and improve quality of life. In Nagaon, Dr. Arun Saroha is one of the most renowned neurosurgeons who specializes in the treatment of degenerative disc disease. He practices at Max Super Specialty Hospital in Saket and offers comprehensive care for all types of neurological problems.<p>
                                         
                                         
                                         <!--<blockquote class="blockquote text-center thm-bg brd-rd10">-->
@@ -493,7 +493,7 @@
                                         <!--</blockquote>-->
                                         
                                         
-                                        <p class="mb-0">Expertise and Experience <a href="https://spineandbrainindia.com/about.php" title="Know more about Dr. Arun Saroha">Dr. Saroha</a> is a highly qualified neurosurgeon who has been practicing for over 20 years. He graduated and post-graduated from Rabindranath Tagore Medical College in Udaipur and obtained his M.Ch in Neurosurgery from the Postgraduate Institute of Medical Education & Research (PGIMER) in Chandigarh. Over the years, he has honed his skills and expertise in various domains of neurosurgery and spine surgery. He has worked with some of the most reputed neurosurgical hospitals in India, including VIMHANS, Paras Hospital, and Artemis Hospitals. At present, he provides his services at Max Hospital in Gurgaon and Saket.
+                                        <p class="mb-0">Expertise and Experience <a href="https://spineandbrainindia.com/about.php" title="Know more about Dr. Arun Saroha">Dr. Saroha</a> is a highly qualified neurosurgeon who has been practicing for over 20 years. He graduated and post-graduated from Rabindranath Tagore Medical College in Udaipur and obtained his M.Ch in Neurosurgery from the Postgraduate Institute of Medical Education & Research (PGIMER) in Chandigarh. Over the years, he has honed his skills and expertise in various domains of neurosurgery and spine surgery. He has worked with some of the most reputed neurosurgical hospitals in Nagaon, including VIMHANS, Paras Hospital, and Artemis Hospitals. At present, he provides his services at Max Hospital in Gurgaon and Saket.
                                         </p>
                                         
                                         <br>   <br>  
@@ -518,17 +518,17 @@
 
 
                                   <h3 class="mt-3">Professional Memberships and Awards</h3>
-                                       <p>Dr. Saroha is a member of many prestigious organizations in the field of neurology and spine surgery in India and the USA. He has been honored with many prestigious awards in the field of neurosurgery, including the Spine Surgeon Award by Big Research Awards. He has participated in various symposiums and workshops and has attended numerous national and international conferences.</p>
+                                       <p>Dr. Saroha is a member of many prestigious organizations in the field of neurology and spine surgery in Nagaon and the USA. He has been honored with many prestigious awards in the field of neurosurgery, including the Spine Surgeon Award by Big Research Awards. He has participated in various symposiums and workshops and has attended numerous national and international conferences.</p>
                                        
-                                  <h3>Degenerative Disc Surgery in India</h3>
+                                  <h3>Degenerative Disc Surgery in Nagaon</h3>
                                         <p>Degenerative disc surgery is a treatment option for patients with severe symptoms of degenerative disc disease that have not responded to non-surgical treatments. Dr. Saroha has performed more than eight thousand surgeries successfully over the years and is an expert in the field of degenerative disc surgery.</p>
 
 
 
 
-                                <h3 class="mb-0">Cost of Degenerative Disc Surgery in India</h3>          
+                                <h3 class="mb-0">Cost of Degenerative Disc Surgery in Nagaon</h3>          
          
-                                   <p class="mb-0">The cost of degenerative disc surgery in India is significantly lower than that in developed countries like the USA and the UK. The cost may vary depending on the type of surgery, the hospital, and the surgeon's fees. However, patients can expect to save up to 60-70% of the cost of surgery compared to developed countries.</p>
+                                   <p class="mb-0">The cost of degenerative disc surgery in Nagaon is significantly lower than that in developed countries like the USA and the UK. The cost may vary depending on the type of surgery, the hospital, and the surgeon's fees. However, patients can expect to save up to 60-70% of the cost of surgery compared to developed countries.</p>
                                    
                                    </div>
                                 </div>
@@ -546,13 +546,13 @@
                         <div class="container">
                             
                             <div class="team-detail-wrap">
-                               <h3 class="mb-0">Best Doctor for Degenerative Disc in India</h3>
+                               <h3 class="mb-0">Best Doctor for Degenerative Disc in Nagaon</h3>
                                
                                
                                
                                
                                
-                               <p>Dr. Arun Saroha is widely regarded as one of the best doctors for degenerative discs in India. His vast experience, skills, and expertise in the field of neurosurgery and spine surgery make him a sought-after specialist for the treatment of degenerative disc disease. He is known for his compassionate approach toward patients and his commitment to providing the best possible care and treatment.</p>
+                               <p>Dr. Arun Saroha is widely regarded as one of the best doctors for degenerative discs in Nagaon. His vast experience, skills, and expertise in the field of neurosurgery and spine surgery make him a sought-after specialist for the treatment of degenerative disc disease. He is known for his compassionate approach toward patients and his commitment to providing the best possible care and treatment.</p>
                                
                             </div>
                             
@@ -560,8 +560,8 @@
                        
                                             
                             <!--<div class="team-detail-wrap">-->
-                            <!--    <h3 class="mb-0">Degenerative Disc Treatment in India</h3>-->
-                            <!--    <p class="mb-0">Degenerative disc disorder is a common condition that occurs when the discs in the spine start to wear down due to age or injury. It can lead to pain, numbness, and tingling sensations in the back and legs, making it difficult for individuals to perform daily activities. Luckily, there are several treatment options available for degenerative disc disorder in India. Dr. Arun Saroha provides consultation for degenerative spine disorders and offers various treatment options, including:</p>-->
+                            <!--    <h3 class="mb-0">Degenerative Disc Treatment in Nagaon</h3>-->
+                            <!--    <p class="mb-0">Degenerative disc disorder is a common condition that occurs when the discs in the spine start to wear down due to age or injury. It can lead to pain, numbness, and tingling sensations in the back and legs, making it difficult for individuals to perform daily activities. Luckily, there are several treatment options available for degenerative disc disorder in Nagaon. Dr. Arun Saroha provides consultation for degenerative spine disorders and offers various treatment options, including:</p>-->
                             
                             
                             <!--     <p><ol>-->
@@ -584,8 +584,8 @@
                                             
                              <div class="container">
         <div class="service-header">
-            <h1>Degenerative Disc Treatment in India</h1>
-            <p class="mb-0">Degenerative disc disorder is a common condition that occurs when the discs in the spine start to wear down due to age or injury. It can lead to pain, numbness, and tingling sensations in the back and legs, making it difficult for individuals to perform daily activities. Luckily, there are several treatment options available for degenerative disc disorder in India. Dr. Arun Saroha provides consultation for degenerative spine disorders and offers various treatment options, including:</p>
+            <h1>Degenerative Disc Treatment in Nagaon</h1>
+            <p class="mb-0">Degenerative disc disorder is a common condition that occurs when the discs in the spine start to wear down due to age or injury. It can lead to pain, numbness, and tingling sensations in the back and legs, making it difficult for individuals to perform daily activities. Luckily, there are several treatment options available for degenerative disc disorder in Nagaon. Dr. Arun Saroha provides consultation for degenerative spine disorders and offers various treatment options, including:</p>
         </div>
         
         <div class="service-cards-grid">
@@ -627,15 +627,15 @@
                 
                           
                              <div class="team-detail-wrap">
-                                <h3 class="mb-0">Degenerative Disc Surgery in India</h3>
+                                <h3 class="mb-0">Degenerative Disc Surgery in Nagaon</h3>
                                 
                                 <p>If non-surgical treatments do not provide relief, surgery may be necessary for degenerative disc disorder. Dr. Arun Saroha is an expert in performing various spine surgeries, including disc replacement and complex spine fixation.</p>
                                
                                
-                               <h3 class="mb-0"> Degenerative Disc Cost in India
+                               <h3 class="mb-0"> Degenerative Disc Cost in Nagaon
 
                                                                                </h3>
-                                 <p>The cost of degenerative disc treatment in India can vary depending on several factors, including the severity of the condition, the treatment option chosen, and the hospital or facility where the treatment is provided. However, the cost of degenerative disc treatment in India is generally lower compared to other countries, making it an affordable option for patients.</p>
+                                 <p>The cost of degenerative disc treatment in Nagaon can vary depending on several factors, including the severity of the condition, the treatment option chosen, and the hospital or facility where the treatment is provided. However, the cost of degenerative disc treatment in Nagaon is generally lower compared to other countries, making it an affordable option for patients.</p>
                         </div>
                         
         
@@ -648,13 +648,13 @@
                                
 
 <!--                                            <p><ol>-->
-<!--                                                <li>Vast Experience: Dr. Saroha has over 20 years of experience in the field of neurosurgery, having worked with some of the top neurosurgical hospitals in India, including VIMHANS, Paras Hospital, Artemis Hospital, and Max Hospital. He has performed over eight thousand successful surgeries, making him a highly skilled and experienced surgeon.</li></p>-->
+<!--                                                <li>Vast Experience: Dr. Saroha has over 20 years of experience in the field of neurosurgery, having worked with some of the top neurosurgical hospitals in Nagaon, including VIMHANS, Paras Hospital, Artemis Hospital, and Max Hospital. He has performed over eight thousand successful surgeries, making him a highly skilled and experienced surgeon.</li></p>-->
                                                
 <!--                                               <li>Specialization in Spine Disorders: Dr. Saroha has a particular interest in treating spine disorders and is an expert in degenerative spine disorders, disc replacements, and complex spine fixation. He offers comprehensive care for all types of neurological problems, and his team provides the best possible treatment options for patients.-->
 <!--</li>-->
 <!--                                                <li>Awards and Accolades: Dr. Saroha has received many prestigious awards in the field of neurosurgery, including the Spine Surgeon Award by Big Research Awards. He has also participated in various symposiums and workshops and has attended numerous national and international conferences, showcasing his expertise in the field.-->
 
-<!--</li>                                         <li>Association with Prestigious Organizations: Dr. Saroha is associated with many prestigious organizations in the field of neurology and spine surgery in India and the USA. He is a member of the American Association of Neurological Surgeons, the Neurological Society of India, and the Spinal Cord Society, to name a few.-->
+<!--</li>                                         <li>Association with Prestigious Organizations: Dr. Saroha is associated with many prestigious organizations in the field of neurology and spine surgery in Nagaon and the USA. He is a member of the American Association of Neurological Surgeons, the Neurological Society of India, and the Spinal Cord Society, to name a few.-->
 <!--</li>-->
 <!--<li>Passion for Patient Care: Dr. Saroha has a passion for improving the quality of life of patients who are suffering from brain and spine problems. He offers individualized care, and his skills and knowledge provide patients with the best possible treatment options.</li>-->
 
@@ -684,13 +684,13 @@
                                
 
                                             <p><ol>
-                                                <li>Vast Experience: Dr. Saroha has over 20 years of experience in the field of neurosurgery, having worked with some of the top neurosurgical hospitals in India, including VIMHANS, Paras Hospital, Artemis Hospital, and Max Hospital. He has performed over eight thousand successful surgeries, making him a highly skilled and experienced surgeon.</li></p>
+                                                <li>Vast Experience: Dr. Saroha has over 20 years of experience in the field of neurosurgery, having worked with some of the top neurosurgical hospitals in Nagaon, including VIMHANS, Paras Hospital, Artemis Hospital, and Max Hospital. He has performed over eight thousand successful surgeries, making him a highly skilled and experienced surgeon.</li></p>
                                                
                                                <li>Specialization in Spine Disorders: Dr. Saroha has a particular interest in treating spine disorders and is an expert in degenerative spine disorders, disc replacements, and complex spine fixation. He offers comprehensive care for all types of neurological problems, and his team provides the best possible treatment options for patients.
 </li>
                                                 <li>Awards and Accolades: Dr. Saroha has received many prestigious awards in the field of neurosurgery, including the Spine Surgeon Award by Big Research Awards. He has also participated in various symposiums and workshops and has attended numerous national and international conferences, showcasing his expertise in the field.
 
-</li>                                         <li>Association with Prestigious Organizations: Dr. Saroha is associated with many prestigious organizations in the field of neurology and spine surgery in India and the USA. He is a member of the American Association of Neurological Surgeons, the Neurological Society of India, and the Spinal Cord Society, to name a few.
+</li>                                         <li>Association with Prestigious Organizations: Dr. Saroha is associated with many prestigious organizations in the field of neurology and spine surgery in Nagaon and the USA. He is a member of the American Association of Neurological Surgeons, the Neurological Society of India, and the Spinal Cord Society, to name a few.
 </li>
 <li>Passion for Patient Care: Dr. Saroha has a passion for improving the quality of life of patients who are suffering from brain and spine problems. He offers individualized care, and his skills and knowledge provide patients with the best possible treatment options.</li>
 
@@ -699,7 +699,7 @@
                                             
                                             </div>
                     
-                    <!--<p class="lead mb-4 mb-md-5 fs-6 fs-md-5">Dr. Arun Saroha is a renowned <a href="https://spineandbrainindia.com/">Best neurosurgeon in india</a> specializing in advanced Cervical Spine Surgery in India with over 25+ years of experience, making him one of the top specialists for Cervical Spine Surgery in India. His expertise in treating complex spine conditions, including degenerative disc disease, herniated discs, and spinal cord compression, has earned him a reputation for delivering excellent outcomes. As a leading cervical surgeon, Dr. Saroha has successfully performed thousands of surgeries, including minimally invasive procedures like Anterior Cervical Discectomy and Fusion (ACDF) and cervical disc replacement, which are known for their precision and faster recovery times. He is committed to offering personalized care, ensuring that each patient receives a thorough evaluation and the most appropriate treatment for their specific condition.-->
+                    <!--<p class="lead mb-4 mb-md-5 fs-6 fs-md-5">Dr. Arun Saroha is a renowned <a href="https://spineandbrainindia.com/">Best neurosurgeon in nagaon</a> specializing in advanced Cervical Spine Surgery in Nagaon with over 25+ years of experience, making him one of the top specialists for Cervical Spine Surgery in Nagaon. His expertise in treating complex spine conditions, including degenerative disc disease, herniated discs, and spinal cord compression, has earned him a reputation for delivering excellent outcomes. As a leading cervical surgeon, Dr. Saroha has successfully performed thousands of surgeries, including minimally invasive procedures like Anterior Cervical Discectomy and Fusion (ACDF) and cervical disc replacement, which are known for their precision and faster recovery times. He is committed to offering personalized care, ensuring that each patient receives a thorough evaluation and the most appropriate treatment for their specific condition.-->
                     <!--</p>                   -->
                     <!--<div class="d-flex gap-3">-->
                     <!--    <a href="#quote" class="btn btn-primary">Book an Appointment</a>-->
@@ -715,12 +715,12 @@
         
         <div class="faq-item">
             <div class="faq-question" onclick="toggleFAQ(this)">
-                <span>What is degenerative disc disease and how is it treated in India?</span>
+                <span>What is degenerative disc disease and how is it treated in Nagaon?</span>
                 <div class="plus-icon"></div>
             </div>
             <div class="faq-answer">
                 <div class="faq-answer-content">
-                    Degenerative disc disease is a spinal condition causing back or neck pain due to worn-out discs. In India, treatments range from physiotherapy and medications to advanced spine surgeries. Dr. Arun Saroha offers personalized care using minimally invasive techniques for faster recovery and long-term relief.
+                    Degenerative disc disease is a spinal condition causing back or neck pain due to worn-out discs. In Nagaon, treatments range from physiotherapy and medications to advanced spine surgeries. Dr. Arun Saroha offers personalized care using minimally invasive techniques for faster recovery and long-term relief.
                 </div>
             </div>
         </div>
@@ -751,7 +751,7 @@
         
         <div class="faq-item">
             <div class="faq-question" onclick="toggleFAQ(this)">
-                <span>Is degenerative disc disease treatment in India affordable?</span>
+                <span>Is degenerative disc disease treatment in Nagaon affordable?</span>
                 <div class="plus-icon"></div>
             </div>
             <div class="faq-answer">
@@ -787,7 +787,7 @@
         
         <div class="faq-item">
             <div class="faq-question" onclick="toggleFAQ(this)">
-                <span> Why choose Dr. Arun Saroha for spine treatment in India?</span>
+                <span> Why choose Dr. Arun Saroha for spine treatment in Nagaon?</span>
                 <div class="plus-icon"></div>
             </div>
             <div class="faq-answer">
@@ -842,11 +842,11 @@
                     <div class="container">
                         <div class="request-consult-wrap d-flex flex-wrap align-items-center position-relative w-100">
                             <div class="request-consult-title">
-                                <h3 class="mb-0"> Consult Dr. Arun Saroha, For The Best Degenerative Disc Disease Treatment in India</h3>
+                                <h3 class="mb-0"> Consult Dr. Arun Saroha, For The Best Degenerative Disc Disease Treatment in Nagaon</h3>
                                
                             </div>
                             <div class="request-consult-form">
-                                <p class="mb-0">Begin your journey to relief with Degenerative Disc Disease Treatment in India. Schedule your consultation for Degenerative Disc Treatment today.</p>
+                                <p class="mb-0">Begin your journey to relief with Degenerative Disc Disease Treatment in Nagaon. Schedule your consultation for Degenerative Disc Treatment today.</p>
                             
                             <!--CTA Form-->
                             <?php include 'cta-form.php';?>
@@ -858,6 +858,46 @@
             </section>
 
 
+<section class="locations-area pt-50 pb-50" style="background-color: #0f172a; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+    <div class="container">
+        <div class="d-flex justify-content-between align-items-center mb-4" style="border-bottom: 1px solid #1e293b; padding-bottom: 15px; flex-wrap: wrap; gap: 15px;">
+            <h3 class="mb-0 text-white" style="font-size: 20px; font-weight: 600; display: flex; align-items: center; gap: 10px;">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Leading Districts in Assam
+            </h3>
+        </div>
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 15px 20px;">
+            <a href="degenerative-disc-disease-treatment-in-guwahati.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Degenerative Disc Disease Treatment in Guwahati
+            </a>
+            <a href="degenerative-disc-disease-treatment-in-silchar.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Degenerative Disc Disease Treatment in Silchar
+            </a>
+            <a href="degenerative-disc-disease-treatment-in-dibrugarh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Degenerative Disc Disease Treatment in Dibrugarh
+            </a>
+            <a href="degenerative-disc-disease-treatment-in-jorhat.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Degenerative Disc Disease Treatment in Jorhat
+            </a>
+            <a href="degenerative-disc-disease-treatment-in-nagaon.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Degenerative Disc Disease Treatment in Nagaon
+            </a>
+            <a href="degenerative-disc-disease-treatment-in-tinsukia.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Degenerative Disc Disease Treatment in Tinsukia
+            </a>
+            <a href="degenerative-disc-disease-treatment-in-tezpur.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Degenerative Disc Disease Treatment in Tezpur
+            </a>
+        </div>
+    </div>
+</section>
 <section class="locations-area pt-50 pb-50" style="background-color: #0f172a; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
     <div class="container">
         <div class="d-flex justify-content-between align-items-center mb-4" style="border-bottom: 1px solid #1e293b; padding-bottom: 15px; flex-wrap: wrap; gap: 15px;">
