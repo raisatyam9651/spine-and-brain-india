@@ -5,18 +5,18 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         
-<title>Spinal Stenosis Surgery in India | Dr. Arun Saroha</title>
+<title>Spinal Stenosis Surgery in Bhavnagar | Dr. Arun Saroha</title>
 
-<meta name="description" content="Seeking expert Spinal Stenosis Surgery in India? Dr. Arun Saroha offers advanced, minimally invasive techniques for effective relief and faster recovery." />
+<meta name="description" content="Seeking expert Spinal Stenosis Surgery in Bhavnagar? Dr. Arun Saroha offers advanced, minimally invasive techniques for effective relief and faster recovery." />
         
-<link rel="canonical" href="https://spineandbrainindia.com/spinal-stenosis-surgery-in-India" />
+<link rel="canonical" href="https://spineandbrainindia.com/spinal-stenosis-surgery-in-bhavnagar" />
         
         <!--Open Graph Tags-->
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.spineandbrainindia.com/spinal-stenosis-surgery-in-india.php" />
+        <meta property="og:url" content="https://www.spineandbrainindia.com/spinal-stenosis-surgery-in-bhavnagar.php" />
         <meta property="og:keywords" content="Spinal Stenosis Surgery, Spinal Stenosis Treatment " />
-        <meta property="og:title" content="Spinal Stenosis Surgery in India | Dr. Arun Saroha" />
-        <meta property="og:description" content="Seeking expert Spinal Stenosis Surgery in India? Dr. Arun Saroha offers advanced, minimally invasive techniques for effective relief and faster recovery." />
+        <meta property="og:title" content="Spinal Stenosis Surgery in Bhavnagar | Dr. Arun Saroha" />
+        <meta property="og:description" content="Seeking expert Spinal Stenosis Surgery in Bhavnagar? Dr. Arun Saroha offers advanced, minimally invasive techniques for effective relief and faster recovery." />
         
         
         <!--Schema Markup-->
@@ -24,10 +24,10 @@
         {
   "@context": "http://schema.org",
   "@type": "MedicalClinic",
-  "name": "Spine and Brain India",
-  "url": "https://spineandbrainindia.com/spinal-stenosis-surgery-in-India",
+  "name": "Spine and Brain Bhavnagar",
+  "url": "https://spineandbrainindia.com/spinal-stenosis-surgery-in-bhavnagar",
   "logo": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
-  "description": "Advanced spinal stenosis surgery by Dr. Arun Saroha in India.",
+  "description": "Advanced spinal stenosis surgery by Dr. Arun Saroha in Bhavnagar.",
   "medicalSpecialty": "Orthopedic",
   "availableService": {
     "@type": "MedicalProcedure",
@@ -38,7 +38,7 @@
     "followup": "Regular follow-ups to monitor recovery",
     "preparation": "Consultation with the doctor",
     "indication": "Spinal stenosis, nerve compression, chronic back pain",
-    "url": "https://spineandbrainindia.com/spinal-stenosis-surgery-in-India"
+    "url": "https://spineandbrainindia.com/spinal-stenosis-surgery-in-bhavnagar"
   },
   "address": {
     "@type": "PostalAddress",
@@ -69,10 +69,10 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is scoliosis and how is it treated in India?",
+      "name": "What is scoliosis and how is it treated in Bhavnagar?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Scoliosis is a sideways curve in the spine. In India, treatments include bracing, physiotherapy, or surgery. Dr. Arun Saroha offers both non-surgical and surgical options based on the curve's severity."
+        "text": "Scoliosis is a sideways curve in the spine. In Bhavnagar, treatments include bracing, physiotherapy, or surgery. Dr. Arun Saroha offers both non-surgical and surgical options based on the curve's severity."
       }
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "@type": "Question",
-      "name": "Is scoliosis treatment in India safe and affordable?",
+      "name": "Is scoliosis treatment in Bhavnagar safe and affordable?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Yes, India offers expert scoliosis care at affordable rates. Dr. Arun Saroha follows global surgical standards and practices in top hospitals."
@@ -117,7 +117,7 @@
     },
     {
       "@type": "Question",
-      "name": "Why choose Dr. Arun Saroha for scoliosis treatment in India?",
+      "name": "Why choose Dr. Arun Saroha for scoliosis treatment in Bhavnagar?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Dr. Arun Saroha is a senior neurosurgeon with vast scoliosis surgery experience. Patients trust his surgical skill, precision, and personalized care."
@@ -457,7 +457,7 @@
                     <div class="container">
                         <div class="page-title-wrap text-center w-100">
                             <div class="page-title-inner d-inline-block">
-                                <h1 class="mb-0">Spinal Stenosis Surgery in India: Dr. Arun Saroha</h1>
+                                <h1 class="mb-0">Spinal Stenosis Surgery in Bhavnagar: Dr. Arun Saroha</h1>
                                
                             </div>
                         </div><!-- Page Title Wrap -->
@@ -574,7 +574,7 @@
     
     <div class="container mt-5">
         <div class="service-header">
-            <h1>Why Choose Dr. Arun Saroha for Spinal Stenosis Surgery in India?</h1>
+            <h1>Why Choose Dr. Arun Saroha for Spinal Stenosis Surgery in Bhavnagar?</h1>
         </div>
         
         <div class="container">
@@ -588,9 +588,9 @@
                 </div>
                 <div class="col-lg-7 col-md-12 mb-4 mb-lg-0">
                     
-                    <p>When it comes to Spinal Stenosis Surgery in India, Dr. Arun Saroha is one of the most trusted and highly regarded spine surgeons. With extensive experience in treating complex spine conditions, Dr. Saroha has performed numerous successful spinal stenosis surgeries, helping patients regain their mobility and lead pain-free lives. His expertise in both traditional and minimally invasive surgical techniques ensures that patients receive the most appropriate and effective treatment tailored to their specific condition.
+                    <p>When it comes to Spinal Stenosis Surgery in Bhavnagar, Dr. Arun Saroha is one of the most trusted and highly regarded spine surgeons. With extensive experience in treating complex spine conditions, Dr. Saroha has performed numerous successful spinal stenosis surgeries, helping patients regain their mobility and lead pain-free lives. His expertise in both traditional and minimally invasive surgical techniques ensures that patients receive the most appropriate and effective treatment tailored to their specific condition.
                     </p>
-                    <p>Dr. Saroha is known for his patient-centric approach, offering personalized care from the initial consultation through to recovery. He uses cutting-edge technology and advanced surgical methods to ensure the best possible outcomes with minimal risk and quicker recovery times. Whether it’s a laminectomy, laminotomy, or spinal fusion, Dr. Saroha’s extensive knowledge and skill make him a top choice for those seeking Spinal Stenosis Surgery in India.</p>
+                    <p>Dr. Saroha is known for his patient-centric approach, offering personalized care from the initial consultation through to recovery. He uses cutting-edge technology and advanced surgical methods to ensure the best possible outcomes with minimal risk and quicker recovery times. Whether it’s a laminectomy, laminotomy, or spinal fusion, Dr. Saroha’s extensive knowledge and skill make him a top choice for those seeking Spinal Stenosis Surgery in Bhavnagar.</p>
                     
                     <!--<div class="d-flex gap-3">-->
                     <!--    <a href="#quote" class="btn btn-primary">Book an Appointment</a>-->
@@ -606,12 +606,12 @@
         
         <div class="faq-item">
             <div class="faq-question" onclick="toggleFAQ(this)">
-                <span>What is scoliosis and how is it treated in India?</span>
+                <span>What is scoliosis and how is it treated in Bhavnagar?</span>
                 <div class="plus-icon"></div>
             </div>
             <div class="faq-answer">
                 <div class="faq-answer-content">
-                     Scoliosis is an abnormal sideways curvature of the spine. In India, treatment depends on the severity and may include bracing, physiotherapy, or surgery. Dr. Arun Saroha provides advanced scoliosis care, using both non-surgical and surgical options for effective spine correction and long-term relief.
+                     Scoliosis is an abnormal sideways curvature of the spine. In Bhavnagar, treatment depends on the severity and may include bracing, physiotherapy, or surgery. Dr. Arun Saroha provides advanced scoliosis care, using both non-surgical and surgical options for effective spine correction and long-term relief.
                 </div>
             </div>
         </div>
@@ -642,7 +642,7 @@
         
         <div class="faq-item">
             <div class="faq-question" onclick="toggleFAQ(this)">
-                <span> Is scoliosis treatment in India safe and affordable?</span>
+                <span> Is scoliosis treatment in Bhavnagar safe and affordable?</span>
                 <div class="plus-icon"></div>
             </div>
             <div class="faq-answer">
@@ -678,7 +678,7 @@
         
          <div class="faq-item">
             <div class="faq-question" onclick="toggleFAQ(this)">
-                <span> Why choose Dr. Arun Saroha for scoliosis treatment in India?</span>
+                <span> Why choose Dr. Arun Saroha for scoliosis treatment in Bhavnagar?</span>
                 <div class="plus-icon"></div>
             </div>
             <div class="faq-answer">
@@ -741,11 +741,11 @@
                     <div class="container">
                         <div class="request-consult-wrap d-flex flex-wrap align-items-center position-relative w-100">
                             <div class="request-consult-title">
-                                <h3 class="mb-0">Consult Dr. Arun Saroha, For Spinal Stenosis Surgery in India </h3>
+                                <h3 class="mb-0">Consult Dr. Arun Saroha, For Spinal Stenosis Surgery in Bhavnagar </h3>
                                
                             </div>
                             <div class="request-consult-form">
-                                <p class="mb-0">Schedule your Spinal Stenosis Surgery in India today – take the first step towards healing.</p>
+                                <p class="mb-0">Schedule your Spinal Stenosis Surgery in Bhavnagar today – take the first step towards healing.</p>
                                 
                                <!--form-->
                                <?php include 'cta-form.php'; ?>
@@ -763,160 +763,51 @@
         <div class="d-flex justify-content-between align-items-center mb-4" style="border-bottom: 1px solid #1e293b; padding-bottom: 15px; flex-wrap: wrap; gap: 15px;">
             <h3 class="mb-0 text-white" style="font-size: 20px; font-weight: 600; display: flex; align-items: center; gap: 10px;">
                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Serving Patients Across India
+                Leading Districts in Gujarat
             </h3>
-            <button id="toggleLocations" style="background: transparent; border: 1px solid #4a5568; color: #e2e8f0; padding: 6px 16px; border-radius: 20px; font-size: 14px; cursor: pointer; display: flex; align-items: center; gap: 8px; transition: background 0.2s;" onmouseover="this.style.background='#1e293b'" onmouseout="this.style.background='transparent'">
-                <span id="toggleText">Hide Locations</span>
-                <svg id="toggleIcon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
-            </button>
         </div>
-        <div id="locationsGrid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 15px 20px;">
-            <a href="spinal-stenosis-surgery-in-andhra-pradesh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 15px 20px;">
+            <a href="spinal-stenosis-surgery-in-ahmedabad.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Stenosis Surgery in Andhra Pradesh
+                Spinal Stenosis Surgery in Ahmedabad
             </a>
-            <a href="spinal-stenosis-surgery-in-arunachal-pradesh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="spinal-stenosis-surgery-in-surat.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Stenosis Surgery in Arunachal Pradesh
+                Spinal Stenosis Surgery in Surat
             </a>
-            <a href="spinal-stenosis-surgery-in-assam.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="spinal-stenosis-surgery-in-vadodara.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Stenosis Surgery in Assam
+                Spinal Stenosis Surgery in Vadodara
             </a>
-            <a href="spinal-stenosis-surgery-in-bihar.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="spinal-stenosis-surgery-in-rajkot.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Stenosis Surgery in Bihar
+                Spinal Stenosis Surgery in Rajkot
             </a>
-            <a href="spinal-stenosis-surgery-in-chhattisgarh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="spinal-stenosis-surgery-in-bhavnagar.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Stenosis Surgery in Chhattisgarh
+                Spinal Stenosis Surgery in Bhavnagar
             </a>
-            <a href="spinal-stenosis-surgery-in-goa.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="spinal-stenosis-surgery-in-jamnagar.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Stenosis Surgery in Goa
+                Spinal Stenosis Surgery in Jamnagar
             </a>
-            <a href="spinal-stenosis-surgery-in-gujarat.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="spinal-stenosis-surgery-in-junagadh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Stenosis Surgery in Gujarat
+                Spinal Stenosis Surgery in Junagadh
             </a>
-            <a href="spinal-stenosis-surgery-in-haryana.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="spinal-stenosis-surgery-in-gandhinagar.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Stenosis Surgery in Haryana
+                Spinal Stenosis Surgery in Gandhinagar
             </a>
-            <a href="spinal-stenosis-surgery-in-himachal-pradesh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="spinal-stenosis-surgery-in-anand.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Stenosis Surgery in Himachal Pradesh
+                Spinal Stenosis Surgery in Anand
             </a>
-            <a href="spinal-stenosis-surgery-in-jharkhand.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="spinal-stenosis-surgery-in-navsari.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Stenosis Surgery in Jharkhand
-            </a>
-            <a href="spinal-stenosis-surgery-in-karnataka.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Stenosis Surgery in Karnataka
-            </a>
-            <a href="spinal-stenosis-surgery-in-kerala.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Stenosis Surgery in Kerala
-            </a>
-            <a href="spinal-stenosis-surgery-in-madhya-pradesh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Stenosis Surgery in Madhya Pradesh
-            </a>
-            <a href="spinal-stenosis-surgery-in-maharashtra.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Stenosis Surgery in Maharashtra
-            </a>
-            <a href="spinal-stenosis-surgery-in-manipur.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Stenosis Surgery in Manipur
-            </a>
-            <a href="spinal-stenosis-surgery-in-meghalaya.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Stenosis Surgery in Meghalaya
-            </a>
-            <a href="spinal-stenosis-surgery-in-mizoram.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Stenosis Surgery in Mizoram
-            </a>
-            <a href="spinal-stenosis-surgery-in-nagaland.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Stenosis Surgery in Nagaland
-            </a>
-            <a href="spinal-stenosis-surgery-in-odisha.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Stenosis Surgery in Odisha
-            </a>
-            <a href="spinal-stenosis-surgery-in-punjab.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Stenosis Surgery in Punjab
-            </a>
-            <a href="spinal-stenosis-surgery-in-rajasthan.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Stenosis Surgery in Rajasthan
-            </a>
-            <a href="spinal-stenosis-surgery-in-sikkim.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Stenosis Surgery in Sikkim
-            </a>
-            <a href="spinal-stenosis-surgery-in-tamil-nadu.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Stenosis Surgery in Tamil Nadu
-            </a>
-            <a href="spinal-stenosis-surgery-in-telangana.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Stenosis Surgery in Telangana
-            </a>
-            <a href="spinal-stenosis-surgery-in-tripura.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Stenosis Surgery in Tripura
-            </a>
-            <a href="spinal-stenosis-surgery-in-uttarakhand.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Stenosis Surgery in Uttarakhand
-            </a>
-            <a href="spinal-stenosis-surgery-in-west-bengal.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Stenosis Surgery in West Bengal
-            </a>
-            <a href="spinal-stenosis-surgery-in-delhi.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Stenosis Surgery in Delhi
-            </a>
-            <a href="spinal-stenosis-surgery-in-jammu-and-kashmir.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Stenosis Surgery in Jammu and Kashmir
-            </a>
-            <a href="spinal-stenosis-surgery-in-uttar-pradesh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Stenosis Surgery in Uttar Pradesh
-            </a>
-            <a href="spinal-stenosis-surgery-in-ladakh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Stenosis Surgery in Ladakh
-            </a>
-            <a href="spinal-stenosis-surgery-in-puducherry.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Stenosis Surgery in Puducherry
+                Spinal Stenosis Surgery in Navsari
             </a>
         </div>
     </div>
 </section>
-<script>
-    document.getElementById("toggleLocations")?.addEventListener("click", function() {
-        var grid = document.getElementById("locationsGrid");
-        var text = document.getElementById("toggleText");
-        var icon = document.getElementById("toggleIcon");
-        if (grid.style.display === "none") {
-            grid.style.display = "grid";
-            text.textContent = "Hide Locations";
-            icon.innerHTML = "<polyline points='6 9 12 15 18 9'></polyline>";
-        } else {
-            grid.style.display = "none";
-            text.textContent = "Show Locations";
-            icon.innerHTML = "<polyline points='6 15 12 9 18 15'></polyline>";
-        }
-    });
-</script>
-
 <?php include 'footer.php';?>
