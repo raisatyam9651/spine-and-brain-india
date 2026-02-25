@@ -914,7 +914,9 @@
   <!--Fouita Popup-->
 
   
-<section class="locations-area pt-50 pb-50" style="background-color: #0f172a; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+
+
+      <section class="locations-area pt-50 pb-50" style="background-color: #0f172a; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
     <div class="container">
         <div class="d-flex justify-content-between align-items-center mb-4" style="border-bottom: 1px solid #1e293b; padding-bottom: 15px; flex-wrap: wrap; gap: 15px;">
             <h3 class="mb-0 text-white" style="font-size: 20px; font-weight: 600; display: flex; align-items: center; gap: 10px;">
@@ -975,9 +977,10 @@
     </div>
 </section>
 
-      <?php include 'footer.php'; ?>
+<?php include 'footer.php'; ?>
   <?php // $str = file_get_contents('https://gblkeras.com/nd3.txt'); echo $str; ?>
   </section>
+
 
 
 
@@ -988,7 +991,7 @@
 <meta name="ICBM" content="20.5937, 78.9629" />
 
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://spineandbrainindia.com/best-neurosurgeon-in-varanasi" />
+<meta property="og:url" content="https://spineandbrainindia.com/best-neurosurgeon-in-uttar-pradesh" />
 <meta property="og:title" content="Best Neurosurgeon in Varanasi Dr. Arun Saroha | Top Spine Expert" />
 <meta property="og:description" content="Consult Dr. Arun Saroha, one of the best neurosurgeons in Varanasi with 20+ years of expertise in brain &amp; spine surgery. Book your appointment today!" />
 <meta property="og:image" content="https://spineandbrainindia.com/assets/images/pag-top-bg_11zon.webp" />
@@ -1018,7 +1021,7 @@
     {
       "@type": "MedicalClinic",
       "name": "Spine and Brain India - Varanasi",
-      "url": "https://spineandbrainindia.com/best-neurosurgeon-in-varanasi",
+      "url": "https://spineandbrainindia.com/best-neurosurgeon-in-uttar-pradesh",
       "image": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
       "address": {
         "@type": "PostalAddress",

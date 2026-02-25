@@ -413,6 +413,7 @@
 
        
 
+
 <!-- Unified SEO Schema and Tags -->
 <meta name="geo.region" content="IN" />
 <meta name="geo.placename" content="Karnataka" />

