@@ -5,12 +5,12 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         
-<title>Spinal Tuberculosis Treatment in India | Dr Arun Saroha</title>
+<title>Spinal Tuberculosis Treatment in Abohar | Dr Arun Saroha</title>
 
-<meta name="description" content="Receive expert spinal tuberculosis treatment in India with Dr. Arun Saroha, specializing in advanced therapies for optimal health outcomes." />
+<meta name="description" content="Receive expert spinal tuberculosis treatment in Abohar with Dr. Arun Saroha, specializing in advanced therapies for optimal health outcomes." />
         
 <meta name="keywords" content="" />
-<link rel="canonical" href="https://spineandbrainindia.com/spinal-tuberculosis-treatment-in-india" />
+<link rel="canonical" href="https://spineandbrainindia.com/spinal-tuberculosis-treatment-in-abohar" />
         
         <!--Open Graph Tags-->
         <meta property="og:type" content="website" />
@@ -25,10 +25,10 @@
         {
   "@context": "http://schema.org",
   "@type": "MedicalClinic",
-  "name": "Spine and Brain India",
-  "url": "https://spineandbrainindia.com/spinal-tuberculosis-treatment-in-india",
+  "name": "Spine and Brain Abohar",
+  "url": "https://spineandbrainindia.com/spinal-tuberculosis-treatment-in-abohar",
   "logo": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
-  "description": "Specialized treatment for spinal tuberculosis by Dr. Arun Saroha in India.",
+  "description": "Specialized treatment for spinal tuberculosis by Dr. Arun Saroha in Abohar.",
   "medicalSpecialty": "Orthopedic",
   "availableService": {
     "@type": "MedicalProcedure",
@@ -39,7 +39,7 @@
     "followup": "Regular follow-ups to monitor recovery",
     "preparation": "Consultation with the doctor",
     "indication": "Spinal tuberculosis, Pott's disease, chronic back pain",
-    "url": "https://spineandbrainindia.com/spinal-tuberculosis-treatment-in-india"
+    "url": "https://spineandbrainindia.com/spinal-tuberculosis-treatment-in-abohar"
   },
   "address": {
     "@type": "PostalAddress",
@@ -69,10 +69,10 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is spinal tuberculosis and how is it treated in India?",
+      "name": "What is spinal tuberculosis and how is it treated in Abohar?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Spinal TB affects the vertebrae and spinal discs. In India, it's treated with medication and, in severe cases, surgery. Dr. Arun Saroha offers expert care for both non-surgical and surgical treatment."
+        "text": "Spinal TB affects the vertebrae and spinal discs. In Abohar, it's treated with medication and, in severe cases, surgery. Dr. Arun Saroha offers expert care for both non-surgical and surgical treatment."
       }
     },
     {
@@ -93,10 +93,10 @@
     },
     {
       "@type": "Question",
-      "name": "Is spinal tuberculosis treatment in India effective?",
+      "name": "Is spinal tuberculosis treatment in Abohar effective?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. With proper medication and timely surgery, spinal TB is effectively managed in India. Dr. Arun Saroha follows national protocols for best results."
+        "text": "Yes. With proper medication and timely surgery, spinal TB is effectively managed in Abohar. Dr. Arun Saroha follows national protocols for best results."
       }
     },
     {
@@ -458,10 +458,10 @@
                     <div class="container">
                         <div class="page-title-wrap text-center w-100">
                             <div class="page-title-inner d-inline-block">
-                                <h1 class="mb-0">Spinal Tuberculosis Treatment in India: Dr. Arun Saroha</h1>
+                                <h1 class="mb-0">Spinal Tuberculosis Treatment in Abohar: Dr. Arun Saroha</h1>
                                 <!--<ol class="breadcrumb mb-0 justify-content-center">-->
                                 <!--    <li class="breadcrumb-item"><a href="index.php" title="spineandbrainindia.com">Home</a></li>-->
-                                <!--    <li class="breadcrumb-item"><a href="https://spineandbrainindia.com/spinal-tuberculosis-treatment-in-india" title="A Doctor operating on patient's spine.">Spinal Tuberculosis Treatment in India</a></li>-->
+                                <!--    <li class="breadcrumb-item"><a href="https://spineandbrainindia.com/spinal-tuberculosis-treatment-in-abohar" title="A Doctor operating on patient's spine.">Spinal Tuberculosis Treatment in Abohar</a></li>-->
                                     
                                 <!--</ol>-->
                             </div>
@@ -514,14 +514,14 @@
                                         <h3 class="mb-0 mt-3">Symptoms of Spinal Tuberculosis</h3>
                                         <p class="mb-0">Spinal tuberculosis typically affects the lower thoracic and upper lumbar regions of the spine. The primary symptom experienced by those with this condition is back pain. Additional early indicators include fever, night sweats, weight loss, and general malaise. As the disease progresses, patients may find it increasingly difficult to stand, and may experience stiffness when walking, a rigid posture, and swelling at the affected site. Leg weakness is also commonly reported. Without appropriate treatment, spinal tuberculosis can result in leg paralysis.</p>
                                         
-                                        <!--<h4 class="mb-0 mt-3">Why Choose Dr. Arun Saroha for Spinal Tuberculosis Treatment in India?</h4>-->
+                                        <!--<h4 class="mb-0 mt-3">Why Choose Dr. Arun Saroha for Spinal Tuberculosis Treatment in Abohar?</h4>-->
                                         
-                                        <!--<p class="mb-0 mt-3">When it comes to Spinal Tuberculosis treatment in India, Dr. Arun Saroha is a leading expert in managing this complex condition. With years of experience treating spinal infections and diseases, Dr. Saroha provides highly specialized care, ensuring an accurate diagnosis and a personalized treatment plan tailored to each patient’s needs. His extensive knowledge of both surgical and non-surgical treatments for spinal tuberculosis allows him to offer the best possible care, reducing the risk of complications and promoting faster recovery.</p>-->
+                                        <!--<p class="mb-0 mt-3">When it comes to Spinal Tuberculosis treatment in Abohar, Dr. Arun Saroha is a leading expert in managing this complex condition. With years of experience treating spinal infections and diseases, Dr. Saroha provides highly specialized care, ensuring an accurate diagnosis and a personalized treatment plan tailored to each patient’s needs. His extensive knowledge of both surgical and non-surgical treatments for spinal tuberculosis allows him to offer the best possible care, reducing the risk of complications and promoting faster recovery.</p>-->
                                         <!--<p class="mb-0 mt-3">Dr. Saroha utilizes advanced medical technologies and minimally invasive techniques where applicable, ensuring less discomfort and a quicker return to normal life for his patients. With a patient-first approach, Dr. Saroha takes the time to educate and guide patients through every step of their treatment, from diagnosis to recovery. </p>-->
                                         
                                         <div class="container mt-5">
         <div class="service-header">
-            <h1>Why Choose Dr. Arun Saroha for Spinal Tuberculosis Treatment in India?</h1>
+            <h1>Why Choose Dr. Arun Saroha for Spinal Tuberculosis Treatment in Abohar?</h1>
         </div>
         
         <div class="container">
@@ -535,7 +535,7 @@
                 </div>
                 <div class="col-lg-7 col-md-12 mb-4 mb-lg-0">
                     
-                    <p>When it comes to Spinal Tuberculosis treatment in India, Dr. Arun Saroha is a leading expert in managing this complex condition. With years of experience treating spinal infections and diseases, Dr. Saroha provides highly specialized care, ensuring an accurate diagnosis and a personalized treatment plan tailored to each patient’s needs. His extensive knowledge of both surgical and non-surgical treatments for spinal tuberculosis allows him to offer the best possible care, reducing the risk of complications and promoting faster recovery.
+                    <p>When it comes to Spinal Tuberculosis treatment in Abohar, Dr. Arun Saroha is a leading expert in managing this complex condition. With years of experience treating spinal infections and diseases, Dr. Saroha provides highly specialized care, ensuring an accurate diagnosis and a personalized treatment plan tailored to each patient’s needs. His extensive knowledge of both surgical and non-surgical treatments for spinal tuberculosis allows him to offer the best possible care, reducing the risk of complications and promoting faster recovery.
                     </p>
                     <p>Dr. Saroha utilizes advanced medical technologies and minimally invasive techniques where applicable, ensuring less discomfort and a quicker return to normal life for his patients. With a patient-first approach, Dr. Saroha takes the time to educate and guide patients through every step of their treatment, from diagnosis to recovery.</p>
                     
@@ -553,12 +553,12 @@
         
         <div class="faq-item">
             <div class="faq-question" onclick="toggleFAQ(this)">
-                <span>What is spinal tuberculosis and how is it treated in India?</span>
+                <span>What is spinal tuberculosis and how is it treated in Abohar?</span>
                 <div class="plus-icon"></div>
             </div>
             <div class="faq-answer">
                 <div class="faq-answer-content">
-                     Spinal tuberculosis (Pott’s spine) is a TB infection affecting the spine, causing back pain, stiffness, and sometimes paralysis. In India, it’s treated with anti-TB medications and, in severe cases, surgery. Dr. Arun Saroha offers expert care for spinal TB with precise diagnosis and surgical expertise when needed.
+                     Spinal tuberculosis (Pott’s spine) is a TB infection affecting the spine, causing back pain, stiffness, and sometimes paralysis. In Abohar, it’s treated with anti-TB medications and, in severe cases, surgery. Dr. Arun Saroha offers expert care for spinal TB with precise diagnosis and surgical expertise when needed.
                 </div>
             </div>
         </div>
@@ -589,7 +589,7 @@
         
         <div class="faq-item">
             <div class="faq-question" onclick="toggleFAQ(this)">
-                <span>Is spinal tuberculosis treatment in India effective?</span>
+                <span>Is spinal tuberculosis treatment in Abohar effective?</span>
                 <div class="plus-icon"></div>
             </div>
             <div class="faq-answer">
@@ -690,11 +690,11 @@
                     <div class="container">
                         <div class="request-consult-wrap d-flex flex-wrap align-items-center position-relative w-100">
                             <div class="request-consult-title">
-                                <h3 class="mb-0">Consult Dr. Arun Saroha, For Spinal Tuberculosis Treatment in India </h3>
+                                <h3 class="mb-0">Consult Dr. Arun Saroha, For Spinal Tuberculosis Treatment in Abohar </h3>
                                
                             </div>
                             <div class="request-consult-form">
-                                <p class="mb-0">Schedule your Spinal Tuberculosis Treatment in India today – take the first step towards healing.</p>
+                                <p class="mb-0">Schedule your Spinal Tuberculosis Treatment in Abohar today – take the first step towards healing.</p>
                                 
                                <!--form-->
                                <?php include 'cta-form.php'; ?>
@@ -712,160 +712,51 @@
         <div class="d-flex justify-content-between align-items-center mb-4" style="border-bottom: 1px solid #1e293b; padding-bottom: 15px; flex-wrap: wrap; gap: 15px;">
             <h3 class="mb-0 text-white" style="font-size: 20px; font-weight: 600; display: flex; align-items: center; gap: 10px;">
                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Serving Patients Across India
+                Leading Districts in Punjab
             </h3>
-            <button id="toggleLocations" style="background: transparent; border: 1px solid #4a5568; color: #e2e8f0; padding: 6px 16px; border-radius: 20px; font-size: 14px; cursor: pointer; display: flex; align-items: center; gap: 8px; transition: background 0.2s;" onmouseover="this.style.background='#1e293b'" onmouseout="this.style.background='transparent'">
-                <span id="toggleText">Hide Locations</span>
-                <svg id="toggleIcon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
-            </button>
         </div>
-        <div id="locationsGrid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 15px 20px;">
-            <a href="spinal-tuberculosis-treatment-in-andhra-pradesh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 15px 20px;">
+            <a href="spinal-tuberculosis-treatment-in-ludhiana.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Tuberculosis Treatment in Andhra Pradesh
+                Spinal Tuberculosis Treatment in Ludhiana
             </a>
-            <a href="spinal-tuberculosis-treatment-in-arunachal-pradesh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="spinal-tuberculosis-treatment-in-amritsar.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Tuberculosis Treatment in Arunachal Pradesh
+                Spinal Tuberculosis Treatment in Amritsar
             </a>
-            <a href="spinal-tuberculosis-treatment-in-assam.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="spinal-tuberculosis-treatment-in-jalandhar.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Tuberculosis Treatment in Assam
+                Spinal Tuberculosis Treatment in Jalandhar
             </a>
-            <a href="spinal-tuberculosis-treatment-in-bihar.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="spinal-tuberculosis-treatment-in-patiala.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Tuberculosis Treatment in Bihar
+                Spinal Tuberculosis Treatment in Patiala
             </a>
-            <a href="spinal-tuberculosis-treatment-in-chhattisgarh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="spinal-tuberculosis-treatment-in-bathinda.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Tuberculosis Treatment in Chhattisgarh
+                Spinal Tuberculosis Treatment in Bathinda
             </a>
-            <a href="spinal-tuberculosis-treatment-in-goa.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="spinal-tuberculosis-treatment-in-mohali.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Tuberculosis Treatment in Goa
+                Spinal Tuberculosis Treatment in Mohali
             </a>
-            <a href="spinal-tuberculosis-treatment-in-gujarat.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="spinal-tuberculosis-treatment-in-pathankot.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Tuberculosis Treatment in Gujarat
+                Spinal Tuberculosis Treatment in Pathankot
             </a>
-            <a href="spinal-tuberculosis-treatment-in-haryana.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="spinal-tuberculosis-treatment-in-moga.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Tuberculosis Treatment in Haryana
+                Spinal Tuberculosis Treatment in Moga
             </a>
-            <a href="spinal-tuberculosis-treatment-in-himachal-pradesh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="spinal-tuberculosis-treatment-in-abohar.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Tuberculosis Treatment in Himachal Pradesh
+                Spinal Tuberculosis Treatment in Abohar
             </a>
-            <a href="spinal-tuberculosis-treatment-in-jharkhand.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="spinal-tuberculosis-treatment-in-khanna.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Tuberculosis Treatment in Jharkhand
-            </a>
-            <a href="spinal-tuberculosis-treatment-in-karnataka.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Tuberculosis Treatment in Karnataka
-            </a>
-            <a href="spinal-tuberculosis-treatment-in-kerala.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Tuberculosis Treatment in Kerala
-            </a>
-            <a href="spinal-tuberculosis-treatment-in-madhya-pradesh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Tuberculosis Treatment in Madhya Pradesh
-            </a>
-            <a href="spinal-tuberculosis-treatment-in-maharashtra.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Tuberculosis Treatment in Maharashtra
-            </a>
-            <a href="spinal-tuberculosis-treatment-in-manipur.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Tuberculosis Treatment in Manipur
-            </a>
-            <a href="spinal-tuberculosis-treatment-in-meghalaya.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Tuberculosis Treatment in Meghalaya
-            </a>
-            <a href="spinal-tuberculosis-treatment-in-mizoram.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Tuberculosis Treatment in Mizoram
-            </a>
-            <a href="spinal-tuberculosis-treatment-in-nagaland.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Tuberculosis Treatment in Nagaland
-            </a>
-            <a href="spinal-tuberculosis-treatment-in-odisha.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Tuberculosis Treatment in Odisha
-            </a>
-            <a href="spinal-tuberculosis-treatment-in-punjab.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Tuberculosis Treatment in Punjab
-            </a>
-            <a href="spinal-tuberculosis-treatment-in-rajasthan.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Tuberculosis Treatment in Rajasthan
-            </a>
-            <a href="spinal-tuberculosis-treatment-in-sikkim.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Tuberculosis Treatment in Sikkim
-            </a>
-            <a href="spinal-tuberculosis-treatment-in-tamil-nadu.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Tuberculosis Treatment in Tamil Nadu
-            </a>
-            <a href="spinal-tuberculosis-treatment-in-telangana.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Tuberculosis Treatment in Telangana
-            </a>
-            <a href="spinal-tuberculosis-treatment-in-tripura.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Tuberculosis Treatment in Tripura
-            </a>
-            <a href="spinal-tuberculosis-treatment-in-uttarakhand.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Tuberculosis Treatment in Uttarakhand
-            </a>
-            <a href="spinal-tuberculosis-treatment-in-west-bengal.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Tuberculosis Treatment in West Bengal
-            </a>
-            <a href="spinal-tuberculosis-treatment-in-delhi.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Tuberculosis Treatment in Delhi
-            </a>
-            <a href="spinal-tuberculosis-treatment-in-jammu-and-kashmir.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Tuberculosis Treatment in Jammu and Kashmir
-            </a>
-            <a href="spinal-tuberculosis-treatment-in-uttar-pradesh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Tuberculosis Treatment in Uttar Pradesh
-            </a>
-            <a href="spinal-tuberculosis-treatment-in-ladakh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Tuberculosis Treatment in Ladakh
-            </a>
-            <a href="spinal-tuberculosis-treatment-in-puducherry.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Spinal Tuberculosis Treatment in Puducherry
+                Spinal Tuberculosis Treatment in Khanna
             </a>
         </div>
     </div>
 </section>
-<script>
-    document.getElementById("toggleLocations")?.addEventListener("click", function() {
-        var grid = document.getElementById("locationsGrid");
-        var text = document.getElementById("toggleText");
-        var icon = document.getElementById("toggleIcon");
-        if (grid.style.display === "none") {
-            grid.style.display = "grid";
-            text.textContent = "Hide Locations";
-            icon.innerHTML = "<polyline points='6 9 12 15 18 9'></polyline>";
-        } else {
-            grid.style.display = "none";
-            text.textContent = "Show Locations";
-            icon.innerHTML = "<polyline points='6 15 12 9 18 15'></polyline>";
-        }
-    });
-</script>
-
 <?php include 'footer.php';?>
