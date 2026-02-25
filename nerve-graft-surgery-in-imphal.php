@@ -5,19 +5,19 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         
-<title>Nerve Graft Surgery in India | Dr Arun Saroha</title>
+<title>Nerve Graft Surgery in Imphal | Dr Arun Saroha</title>
 
-<meta name="description" content="Seeking expert care for nerve graft surgery in India? Dr. Arun Saroha offers advanced nerve repair techniques to restore function after spinal cord injuries." />
+<meta name="description" content="Seeking expert care for nerve graft surgery in Imphal? Dr. Arun Saroha offers advanced nerve repair techniques to restore function after spinal cord injuries." />
         
 <meta name="keywords" content="" />
-<link rel="canonical" href="https://spineandbrainindia.com/nerve-graft-surgery-in-india" />
+<link rel="canonical" href="https://spineandbrainindia.com/nerve-graft-surgery-in-imphal" />
         
         <!--Open Graph Tags-->
         <meta property="og:type" content="Article" />
-        <meta property="og:url" content="https://www.spineandbrainindia.com/nerve-graft-surgery-in-india" />
-        <meta property="og:keywords" content="Nerve Graft Surgery in India, Nerve Graft Surgery" />
-        <meta property="og:title" content="NNerve Graft Surgery in India | Dr Arun Saroha" />
-        <meta property="og:description" content="Seeking expert care for nerve graft surgery in India? Dr. Arun Saroha offers advanced nerve repair techniques to restore function after spinal cord injuries." />
+        <meta property="og:url" content="https://www.spineandbrainindia.com/nerve-graft-surgery-in-imphal" />
+        <meta property="og:keywords" content="Nerve Graft Surgery in Imphal, Nerve Graft Surgery" />
+        <meta property="og:title" content="NNerve Graft Surgery in Imphal | Dr Arun Saroha" />
+        <meta property="og:description" content="Seeking expert care for nerve graft surgery in Imphal? Dr. Arun Saroha offers advanced nerve repair techniques to restore function after spinal cord injuries." />
         <meta property="og:image" content="https://www.spineandbrainindia.com/assets/images/pag-top-bg_11zon.webp" />
         <link rel=“canonical” href=“https://spineandbrainindia.com/nerve-graft-surgery-in-india”/>
         
@@ -26,10 +26,10 @@
        {
   "@context": "http://schema.org",
   "@type": "MedicalClinic",
-  "name": "Spine and Brain India",
-  "url": "https://spineandbrainindia.com/nerve-graft-surgery-in-india",
+  "name": "Spine and Brain Imphal",
+  "url": "https://spineandbrainindia.com/nerve-graft-surgery-in-imphal",
   "logo": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
-  "description": "Specialized nerve graft surgery in India by Dr. Arun Saroha",
+  "description": "Specialized nerve graft surgery in Imphal by Dr. Arun Saroha",
   "medicalSpecialty": "Neurosurgery",
   "availableService": {
     "@type": "MedicalProcedure",
@@ -40,7 +40,7 @@
     "followup": "Regular follow-ups to monitor recovery",
     "preparation": "Consultation with the doctor",
     "indication": "Nerve injuries, spinal cord injuries, nerve damage",
-    "url": "https://spineandbrainindia.com/nerve-graft-surgery-in-india"
+    "url": "https://spineandbrainindia.com/nerve-graft-surgery-in-imphal"
   },
   "address": {
     "@type": "PostalAddress",
@@ -102,7 +102,7 @@
     },
     {
       "@type": "Question",
-      "name": "Is artificial disc replacement surgery safe in India?",
+      "name": "Is artificial disc replacement surgery safe in Imphal?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Yes, it's safe and widely practiced. Dr. Arun Saroha uses FDA-approved implants and works in advanced hospitals with top-tier safety protocols."
@@ -110,7 +110,7 @@
     },
     {
       "@type": "Question",
-      "name": "How much does artificial disc replacement cost in India?",
+      "name": "How much does artificial disc replacement cost in Imphal?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "The cost ranges from ₹3 to ₹6 lakhs. Dr. Arun Saroha offers affordable, world-class spine care with transparent pricing."
@@ -456,10 +456,10 @@
                     <div class="container">
                         <div class="page-title-wrap text-center w-100">
                             <div class="page-title-inner d-inline-block">
-                                <h1 class="mb-0">Nerve Graft Surgery in India: Dr. Arun Saroha</h1>
+                                <h1 class="mb-0">Nerve Graft Surgery in Imphal: Dr. Arun Saroha</h1>
                                 <ol class="breadcrumb mb-0 justify-content-center">
                                     <li class="breadcrumb-item"><a href="index.php" title="spineandbrainindia.com">Home</a></li>
-                                    <li class="breadcrumb-item"><a href="nerve-graft-surgery-in-india" title="A Doctor operating on patient's spine.">Nerve Graft Surgery in India</a></li>
+                                    <li class="breadcrumb-item"><a href="nerve-graft-surgery-in-imphal" title="A Doctor operating on patient's spine.">Nerve Graft Surgery in Imphal</a></li>
                                     
                                 </ol>
                             </div>
@@ -483,7 +483,7 @@
                                         <p class="mb-0">Nerve Graft surgery is employed when there is a nerve injury leading to total loss of muscle function or sensation. In this surgical approach, less critical nerves are harvested from one part of the body and connected to more vital, damaged nerves to restore function. This rerouted nerve then takes over the role of the damaged nerve. Such surgeries are particularly beneficial for patients with specific types of spinal cord injuries, notably those who have quadriplegia due to damage at the mid-cervical motor level of the spinal cord.</p>
                                         
                                         <p class="mb-0">
-                                            Regarding nerve graft surgery, nearly half of all spinal cord injuries affect the cervical spine, leading to tetraplegia, or paralysis of all four limbs. For individuals with tetraplegia, regaining hand function is often more crucial than bladder control, sexual function, standing ability, or other functionalities. Enhancing arm function through nerve graft surgery in India can significantly enhance the quality of life for these patients.
+                                            Regarding nerve graft surgery, nearly half of all spinal cord injuries affect the cervical spine, leading to tetraplegia, or paralysis of all four limbs. For individuals with tetraplegia, regaining hand function is often more crucial than bladder control, sexual function, standing ability, or other functionalities. Enhancing arm function through nerve graft surgery in Imphal can significantly enhance the quality of life for these patients.
 
                                         </p>
                                        
@@ -562,7 +562,7 @@
 
         <div class="container mt-5">
         <div class="service-header">
-        <h1>Why Choose Dr. Arun Saroha for Nerve Graft Surgery in India?</h1>
+        <h1>Why Choose Dr. Arun Saroha for Nerve Graft Surgery in Imphal?</h1>
         </div>
         
         <div class="container">
@@ -576,9 +576,9 @@
                 </div>
                 <div class="col-lg-7 col-md-12 mb-4 mb-lg-0">
                     
-                    <p>When it comes to nerve graft surgery in India, Dr. Arun Saroha is one of the leading neurosurgeons you can trust. With over two decades of experience in neurosurgery, Dr. Saroha specializes in complex nerve graft and nerve transfer surgeries, providing life-changing solutions for patients with spinal cord injuries. His expertise, especially in restoring function to paralyzed limbs due to spinal cord injuries, has transformed the lives of many patients.
+                    <p>When it comes to nerve graft surgery in Imphal, Dr. Arun Saroha is one of the leading neurosurgeons you can trust. With over two decades of experience in neurosurgery, Dr. Saroha specializes in complex nerve graft and nerve transfer surgeries, providing life-changing solutions for patients with spinal cord injuries. His expertise, especially in restoring function to paralyzed limbs due to spinal cord injuries, has transformed the lives of many patients.
                     </p>
-                    <p>Dr. Saroha’s state-of-the-art techniques, coupled with his deep understanding of spinal cord and nerve anatomy, make him a top choice for those seeking the best possible outcomes from nerve graft surgery in India. His approach is patient-centered, ensuring that every individual receives a customized treatment plan designed to maximize recovery and improve quality of life.</p>
+                    <p>Dr. Saroha’s state-of-the-art techniques, coupled with his deep understanding of spinal cord and nerve anatomy, make him a top choice for those seeking the best possible outcomes from nerve graft surgery in Imphal. His approach is patient-centered, ensuring that every individual receives a customized treatment plan designed to maximize recovery and improve quality of life.</p>
                     
                     <!--<div class="d-flex gap-3">-->
                     <!--    <a href="#quote" class="btn btn-primary">Book an Appointment</a>-->
@@ -618,7 +618,7 @@
         
         <div class="faq-item">
             <div class="faq-question" onclick="toggleFAQ(this)">
-                <span>Is nerve graft surgery effective in India?</span>
+                <span>Is nerve graft surgery effective in Imphal?</span>
                 <div class="plus-icon"></div>
             </div>
             <div class="faq-answer">
@@ -667,12 +667,12 @@
         
         <div class="faq-item">
             <div class="faq-question" onclick="toggleFAQ(this)">
-                <span> Why choose Dr. Arun Saroha for nerve graft surgery in India?</span>
+                <span> Why choose Dr. Arun Saroha for nerve graft surgery in Imphal?</span>
                 <div class="plus-icon"></div>
             </div>
             <div class="faq-answer">
                 <div class="faq-answer-content">
-                    Dr. Arun Saroha is a top neurosurgeon specializing in nerve repair. His experience with microsurgical grafting, personalized treatment plans, and consistent outcomes make him a trusted choice for complex nerve injuries in India.
+                    Dr. Arun Saroha is a top neurosurgeon specializing in nerve repair. His experience with microsurgical grafting, personalized treatment plans, and consistent outcomes make him a trusted choice for complex nerve injuries in Imphal.
                 </div>
             </div>
         </div>
@@ -733,11 +733,11 @@
                     <div class="container">
                         <div class="request-consult-wrap d-flex flex-wrap align-items-center position-relative w-100">
                             <div class="request-consult-title">
-                                <h3 class="mb-0">Consult Dr. Arun Saroha, For Nerve Graft Surgery in India</h3>
+                                <h3 class="mb-0">Consult Dr. Arun Saroha, For Nerve Graft Surgery in Imphal</h3>
                                
                             </div>
                             <div class="request-consult-form">
-                                <p class="mb-0">Schedule your Nerve Graft Surgery in India today – take the first step towards healing.</p>
+                                <p class="mb-0">Schedule your Nerve Graft Surgery in Imphal today – take the first step towards healing.</p>
                                 
                                <!--form-->
                                <?php include 'cta-form.php'; ?>
@@ -755,160 +755,31 @@
         <div class="d-flex justify-content-between align-items-center mb-4" style="border-bottom: 1px solid #1e293b; padding-bottom: 15px; flex-wrap: wrap; gap: 15px;">
             <h3 class="mb-0 text-white" style="font-size: 20px; font-weight: 600; display: flex; align-items: center; gap: 10px;">
                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Serving Patients Across India
+                Leading Districts in Manipur
             </h3>
-            <button id="toggleLocations" style="background: transparent; border: 1px solid #4a5568; color: #e2e8f0; padding: 6px 16px; border-radius: 20px; font-size: 14px; cursor: pointer; display: flex; align-items: center; gap: 8px; transition: background 0.2s;" onmouseover="this.style.background='#1e293b'" onmouseout="this.style.background='transparent'">
-                <span id="toggleText">Hide Locations</span>
-                <svg id="toggleIcon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
-            </button>
         </div>
-        <div id="locationsGrid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 15px 20px;">
-            <a href="nerve-graft-surgery-in-andhra-pradesh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 15px 20px;">
+            <a href="nerve-graft-surgery-in-imphal.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Nerve Graft Surgery in Andhra Pradesh
+                Nerve Graft Surgery in Imphal
             </a>
-            <a href="nerve-graft-surgery-in-arunachal-pradesh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="nerve-graft-surgery-in-churachandpur.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Nerve Graft Surgery in Arunachal Pradesh
+                Nerve Graft Surgery in Churachandpur
             </a>
-            <a href="nerve-graft-surgery-in-assam.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="nerve-graft-surgery-in-ukhrul.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Nerve Graft Surgery in Assam
+                Nerve Graft Surgery in Ukhrul
             </a>
-            <a href="nerve-graft-surgery-in-bihar.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="nerve-graft-surgery-in-thoubal.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Nerve Graft Surgery in Bihar
+                Nerve Graft Surgery in Thoubal
             </a>
-            <a href="nerve-graft-surgery-in-chhattisgarh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+            <a href="nerve-graft-surgery-in-kakching.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Nerve Graft Surgery in Chhattisgarh
-            </a>
-            <a href="nerve-graft-surgery-in-goa.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Nerve Graft Surgery in Goa
-            </a>
-            <a href="nerve-graft-surgery-in-gujarat.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Nerve Graft Surgery in Gujarat
-            </a>
-            <a href="nerve-graft-surgery-in-haryana.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Nerve Graft Surgery in Haryana
-            </a>
-            <a href="nerve-graft-surgery-in-himachal-pradesh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Nerve Graft Surgery in Himachal Pradesh
-            </a>
-            <a href="nerve-graft-surgery-in-jharkhand.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Nerve Graft Surgery in Jharkhand
-            </a>
-            <a href="nerve-graft-surgery-in-karnataka.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Nerve Graft Surgery in Karnataka
-            </a>
-            <a href="nerve-graft-surgery-in-kerala.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Nerve Graft Surgery in Kerala
-            </a>
-            <a href="nerve-graft-surgery-in-madhya-pradesh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Nerve Graft Surgery in Madhya Pradesh
-            </a>
-            <a href="nerve-graft-surgery-in-maharashtra.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Nerve Graft Surgery in Maharashtra
-            </a>
-            <a href="nerve-graft-surgery-in-manipur.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Nerve Graft Surgery in Manipur
-            </a>
-            <a href="nerve-graft-surgery-in-meghalaya.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Nerve Graft Surgery in Meghalaya
-            </a>
-            <a href="nerve-graft-surgery-in-mizoram.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Nerve Graft Surgery in Mizoram
-            </a>
-            <a href="nerve-graft-surgery-in-nagaland.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Nerve Graft Surgery in Nagaland
-            </a>
-            <a href="nerve-graft-surgery-in-odisha.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Nerve Graft Surgery in Odisha
-            </a>
-            <a href="nerve-graft-surgery-in-punjab.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Nerve Graft Surgery in Punjab
-            </a>
-            <a href="nerve-graft-surgery-in-rajasthan.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Nerve Graft Surgery in Rajasthan
-            </a>
-            <a href="nerve-graft-surgery-in-sikkim.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Nerve Graft Surgery in Sikkim
-            </a>
-            <a href="nerve-graft-surgery-in-tamil-nadu.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Nerve Graft Surgery in Tamil Nadu
-            </a>
-            <a href="nerve-graft-surgery-in-telangana.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Nerve Graft Surgery in Telangana
-            </a>
-            <a href="nerve-graft-surgery-in-tripura.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Nerve Graft Surgery in Tripura
-            </a>
-            <a href="nerve-graft-surgery-in-uttarakhand.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Nerve Graft Surgery in Uttarakhand
-            </a>
-            <a href="nerve-graft-surgery-in-west-bengal.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Nerve Graft Surgery in West Bengal
-            </a>
-            <a href="nerve-graft-surgery-in-delhi.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Nerve Graft Surgery in Delhi
-            </a>
-            <a href="nerve-graft-surgery-in-jammu-and-kashmir.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Nerve Graft Surgery in Jammu and Kashmir
-            </a>
-            <a href="nerve-graft-surgery-in-uttar-pradesh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Nerve Graft Surgery in Uttar Pradesh
-            </a>
-            <a href="nerve-graft-surgery-in-ladakh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Nerve Graft Surgery in Ladakh
-            </a>
-            <a href="nerve-graft-surgery-in-puducherry.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                Nerve Graft Surgery in Puducherry
+                Nerve Graft Surgery in Kakching
             </a>
         </div>
     </div>
 </section>
-<script>
-    document.getElementById("toggleLocations")?.addEventListener("click", function() {
-        var grid = document.getElementById("locationsGrid");
-        var text = document.getElementById("toggleText");
-        var icon = document.getElementById("toggleIcon");
-        if (grid.style.display === "none") {
-            grid.style.display = "grid";
-            text.textContent = "Hide Locations";
-            icon.innerHTML = "<polyline points='6 9 12 15 18 9'></polyline>";
-        } else {
-            grid.style.display = "none";
-            text.textContent = "Show Locations";
-            icon.innerHTML = "<polyline points='6 15 12 9 18 15'></polyline>";
-        }
-    });
-</script>
-
 <?php include 'footer.php';?>
