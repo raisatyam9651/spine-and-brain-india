@@ -12,60 +12,89 @@
 <meta name="keywords" content="Best neurosurgeon in Sonipat, neurosurgeon in Sonipat, Spine Surgeon in Sonipat, Neurologist in Sonipat, Best Neurologist in Sonipat" />
 <link rel="canonical" href="https://spineandbrainindia.com/neurologist-in-sonipat" />
        
-       <!--OpenGraph Tags-->
-       <meta property="og:type" content="website" />
-       <meta property="og:url" content="https://spineandbrainindia.com/neurologist-in-sonipat" />
        
-       <meta property="og:keywords" content="Best neurosurgeon in Sonipat, neurosurgeon in Sonipat, Spine Surgeon in Sonipat, Neurologist in Sonipat, Best Neurologist in Sonipat" />
        
-       <meta property="og:title" content="Best Neurologist in Sonipat | Dr. Arun Saroha" />
        
-       <meta property="og:description" content="Seeking the Best Neurologist in Sonipat? Consult Dr. Arun Saroha, renowned for over 20 years of expertise in treating brain, spine, and neurological conditions."/>
+       
+       
+       
+       
+       
+       
 
-        <!--Schema Markup-->
         
-      <script type="application/ld+json">  
-        {
-  "@context": "http://schema.org",
-  "@type": "MedicalClinic",
-  "name": "Spine and Brain India",
-  "url": "https://spineandbrainindia.com/neurologist-in-sonipat",
-  "logo": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
-  "description": "Seeking the Best Neurologist in Sonipat? Consult Dr. Arun Saroha, renowned for over 20 years of expertise in treating brain, spine, and neurological conditions.",
-  "medicalSpecialty": "Neurosurgery",
-  "availableService": {
-    "@type": "MedicalProcedure",
-    "name": "Neurosurgeon",
-    "procedureType": "Non-invasive, Minimally Invasive, and Surgical",
-    "additionalType": "http://www.wikidata.org/entity/Q1070520",
-    "bodyLocation": "Brain",
-    "followup": "Regular follow-ups to monitor recovery",
-    "preparation": "Consultation with the doctor",
-    "indication": "neurosurgery",
-    "url": "https://spineandbrainindia.com/neurologist-in-sonipat"
-  },
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "Plot No. 1, Sector 10",
-    "addressLocality": "Dwarka",
-    "addressRegion": "New Delhi",
-    "postalCode": "110075",
-    "addressCountry": "India"
-  },
-  "contactPoint": {
-    "@type": "ContactPoint",
-    "telephone": "+91 9990778811",
-    "contactType": "Customer Service"
-  },
-  "sameAs": [
-    "https://www.facebook.com/SpineAndBrainIndia",
-    "https://twitter.com/SpineBrainIndia",
-    "https://www.instagram.com/SpineAndBrainIndia"
+        
+      
+
+        
+
+<!-- Unified SEO Schema and Tags -->
+<meta name="geo.region" content="IN" />
+<meta name="geo.placename" content="Sonipat" />
+<meta name="geo.position" content="20.5937;78.9629" />
+<meta name="ICBM" content="20.5937, 78.9629" />
+
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://spineandbrainindia.com/neurologist-in-sonipat" />
+<meta property="og:title" content="Best Neurologist in Sonipat | Dr. Arun Saroha" />
+<meta property="og:description" content="Seeking the Best Neurologist in Sonipat? Consult Dr. Arun Saroha, renowned for over 20 years of expertise in treating brain, spine, and neurological conditions." />
+<meta property="og:image" content="https://spineandbrainindia.com/assets/images/pag-top-bg_11zon.webp" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Physician",
+      "name": "Dr. Arun Saroha",
+      "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
+      "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "medicalSpecialty": "Neurosurgery",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "1045"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Sonipat",
+        "addressCountry": "IN"
+      }
+    },
+    {
+      "@type": "MedicalClinic",
+      "name": "Spine and Brain India - Sonipat",
+      "url": "https://spineandbrainindia.com/neurologist-in-sonipat",
+      "image": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Sonipat",
+        "addressCountry": "IN"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "850"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "20.5937",
+        "longitude": "78.9629"
+      }
+    },
+    {
+      "@type": "MedicalProcedure",
+      "name": "Neurologist",
+      "provider": {
+        "@id": "https://spineandbrainindia.com/dr-arun-saroha.php"
+      }
+    }
   ]
 }
 </script>
+<!-- End Unified SEO Schema and Tags -->
 
-        
 <?php include 'header.php';?>
         <section>
                 <div class="w-100 pt-100 black-layer opc5 pb-80 position-relative">

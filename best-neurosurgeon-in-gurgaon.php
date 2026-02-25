@@ -15,13 +15,13 @@
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
 
     <!--og Graph Tags-->
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://spineandbrainindia.com/" />
-    <meta property="og:keywords" content="neurosurgeon in india, Spine Surgeon in India, Best Spine Surgeon in India, spineandbrainindia" />
     
-    <meta property="og:title" content="Best Neurosurgeon in India – Dr. Arun Saroha | Top Spine Expert" />
     
-    <meta property="og:description" content="Consult Dr. Arun Saroha, one of the best neurosurgeons in Gurgaon with 20+ years of expertise in brain & spine surgery. Book your appointment today!" />
+    
+    
+    
+    
+    
     
     <script type="application/ld+json">
 {
@@ -41,7 +41,7 @@
 }
 </script>
     
-    <!--Schema Markup-->
+    
     <script type="application/ld+json">
         {
           "@context": "http://schema.org",
@@ -895,5 +895,75 @@
       
       <?php include 'footer.php';?>
     </section>
-  </head>
+  
+
+
+<!-- Unified SEO Schema and Tags -->
+<meta name="geo.region" content="IN" />
+<meta name="geo.placename" content="Gurgaon" />
+<meta name="geo.position" content="20.5937;78.9629" />
+<meta name="ICBM" content="20.5937, 78.9629" />
+
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://spineandbrainindia.com/best-neurosurgeon-in-gurgaon" />
+<meta property="og:title" content="Best Neurosurgeon in Gurgaon – Dr. Arun Saroha | Top Spine Expert" />
+<meta property="og:description" content="Consult Dr. Arun Saroha, one of the best neurosurgeons in Gurgaon with 20+ years of expertise in brain &amp; spine surgery. Book your appointment today!" />
+<meta property="og:image" content="https://spineandbrainindia.com/assets/images/pag-top-bg_11zon.webp" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Physician",
+      "name": "Dr. Arun Saroha",
+      "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
+      "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "medicalSpecialty": "Neurosurgery",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "1045"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Gurgaon",
+        "addressCountry": "IN"
+      }
+    },
+    {
+      "@type": "MedicalClinic",
+      "name": "Spine and Brain India - Gurgaon",
+      "url": "https://spineandbrainindia.com/best-neurosurgeon-in-gurgaon",
+      "image": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Gurgaon",
+        "addressCountry": "IN"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "850"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "20.5937",
+        "longitude": "78.9629"
+      }
+    },
+    {
+      "@type": "MedicalProcedure",
+      "name": "Best Neurosurgeon",
+      "provider": {
+        "@id": "https://spineandbrainindia.com/dr-arun-saroha.php"
+      }
+    }
+  ]
+}
+</script>
+<!-- End Unified SEO Schema and Tags -->
+
+</head>
 </html>

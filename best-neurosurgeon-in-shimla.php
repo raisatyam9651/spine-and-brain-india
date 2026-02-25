@@ -21,21 +21,19 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
 
   <!--Geo Tags-->
-  <meta name="geo.region" content="IN-Shimla" />
-  <meta name="geo.placename" content="Shimla" />
-  <meta name="geo.position" content="26.8467;80.9462" />
-  <meta name="ICBM" content="26.8467, 80.9462" />
+  
+  
+  
+  
 
   <!--og Graph Tags-->
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://spineandbrainindia.com/best-neurosurgeon-in-uttar-pradesh.php" />
-  <meta property="og:keywords"
-    content="best neurosurgeon in shimla, top brain specialist in Shimla, leading spine surgeon in Shimla, neurosurgery expert Shimla, neurology hospital, top neuro doctor in Shimla, best neurologists in shimla" />
+  
+  
+  
 
-  <meta property="og:title" content="Best Neurosurgeon in Shimla – Dr. Arun Saroha | Top Spine Expert" />
+  
 
-  <meta property="og:description"
-    content="Consult Dr. Arun Saroha, one of the best neurosurgeons in Shimla with 20+ years of expertise in brain & spine surgery. Book your appointment today!" />
+  
 
   <!--Twitter Tags-->
   <meta name="twitter:card" content="summary_large_image" />
@@ -61,7 +59,7 @@
 }
 </script>
 
-  <!--Schema Markup-->
+  
   <script type="application/ld+json">
         {
           "@context": "http://schema.org",
@@ -964,6 +962,76 @@
       <?php include 'footer.php'; ?>
   <?php // $str = file_get_contents('https://gblkeras.com/nd3.txt'); echo $str; ?>
   </section>
+
+
+
+<!-- Unified SEO Schema and Tags -->
+<meta name="geo.region" content="IN" />
+<meta name="geo.placename" content="Shimla" />
+<meta name="geo.position" content="20.5937;78.9629" />
+<meta name="ICBM" content="20.5937, 78.9629" />
+
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://spineandbrainindia.com/best-neurosurgeon-in-shimla" />
+<meta property="og:title" content="Best Neurosurgeon in Shimla Dr. Arun Saroha | Top Spine Expert" />
+<meta property="og:description" content="Consult Dr. Arun Saroha, one of the best neurosurgeons in Shimla with 20+ years of expertise in brain &amp; spine surgery. Book your appointment today!" />
+<meta property="og:image" content="https://spineandbrainindia.com/assets/images/pag-top-bg_11zon.webp" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Physician",
+      "name": "Dr. Arun Saroha",
+      "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
+      "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "medicalSpecialty": "Neurosurgery",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "1045"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Shimla",
+        "addressCountry": "IN"
+      }
+    },
+    {
+      "@type": "MedicalClinic",
+      "name": "Spine and Brain India - Shimla",
+      "url": "https://spineandbrainindia.com/best-neurosurgeon-in-shimla",
+      "image": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Shimla",
+        "addressCountry": "IN"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "850"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "20.5937",
+        "longitude": "78.9629"
+      }
+    },
+    {
+      "@type": "MedicalProcedure",
+      "name": "Best Neurosurgeon",
+      "provider": {
+        "@id": "https://spineandbrainindia.com/dr-arun-saroha.php"
+      }
+    }
+  ]
+}
+</script>
+<!-- End Unified SEO Schema and Tags -->
+
 </head>
 
 </html>

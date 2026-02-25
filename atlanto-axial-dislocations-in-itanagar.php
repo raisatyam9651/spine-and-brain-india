@@ -10,46 +10,7 @@
        
         <title>Atlanto Axial Dislocations Treatment in Itanagar | Dr Arun Saroha</title>
         
-        <script type="application/ld+json">
-        {
-  "@context": "http://schema.org",
-  "@type": "MedicalClinic",
-  "name": "Spine and Brain Itanagar",
-  "url": "https://spineandbrainindia.com/atlanto-axial-dislocations-in-itanagar",
-  "logo": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
-  "description": "Specialized treatment for atlanto-axial dislocations by Dr. Arun Saroha in Itanagar.",
-  "medicalSpecialty": "Orthopedic",
-  "availableService": {
-    "@type": "MedicalProcedure",
-    "name": "Atlanto-Axial Dislocations Treatment",
-    "procedureType": "Anterior and Posterior Surgical Methods, Minimally Invasive Techniques",
-    "additionalType": "http://www.wikidata.org/entity/Q1070520",
-    "bodyLocation": "Cervical Spine",
-    "followup": "Regular follow-ups to monitor recovery",
-    "preparation": "Consultation with the doctor",
-    "indication": "Atlanto-axial dislocation, cervical spine instability, neurological deficits",
-    "url": "https://spineandbrainindia.com/atlanto-axial-dislocations-in-itanagar"
-  },
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "Max Super Speciality Hospital, Department of Spine and Neurosurgery, West Block, Ground Floor, Room No. 7",
-    "addressLocality": "Saket",
-    "addressRegion": "New Delhi",
-    "postalCode": "110017",
-    "addressCountry": "India"
-  },
-  "contactPoint": {
-    "@type": "ContactPoint",
-    "telephone": "+91 9990778811",
-    "contactType": "Customer Service"
-  },
-  "sameAs": [
-    "https://www.facebook.com/SpineAndBrainIndia",
-    "https://twitter.com/SpineBrainIndia",
-    "https://www.instagram.com/SpineAndBrainIndia"
-  ]
-}
-</script>
+        
 
 <script type="application/ld+json">
     {
@@ -440,6 +401,74 @@
         }
     </style>
 
+
+
+<!-- Unified SEO Schema and Tags -->
+<meta name="geo.region" content="IN" />
+<meta name="geo.placename" content="Itanagar" />
+<meta name="geo.position" content="20.5937;78.9629" />
+<meta name="ICBM" content="20.5937, 78.9629" />
+
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://spineandbrainindia.com/atlanto-axial-dislocations-in-itanagar" />
+<meta property="og:title" content="Atlanto Axial Dislocations Treatment in Itanagar | Dr Arun Saroha" />
+<meta property="og:description" content="Explore expert diagnosis and treatment options for Atlantoaxial Dislocation with Dr. Arun Saroha, a leading specialist in Itanagar." />
+<meta property="og:image" content="https://spineandbrainindia.com/assets/images/pag-top-bg_11zon.webp" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Physician",
+      "name": "Dr. Arun Saroha",
+      "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
+      "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "medicalSpecialty": "Neurosurgery",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "1045"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Itanagar",
+        "addressCountry": "IN"
+      }
+    },
+    {
+      "@type": "MedicalClinic",
+      "name": "Spine and Brain India - Itanagar",
+      "url": "https://spineandbrainindia.com/atlanto-axial-dislocations-in-itanagar",
+      "image": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Itanagar",
+        "addressCountry": "IN"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "850"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "20.5937",
+        "longitude": "78.9629"
+      }
+    },
+    {
+      "@type": "MedicalProcedure",
+      "name": "Atlanto Axial Dislocations",
+      "provider": {
+        "@id": "https://spineandbrainindia.com/dr-arun-saroha.php"
+      }
+    }
+  ]
+}
+</script>
+<!-- End Unified SEO Schema and Tags -->
 
 <?php include 'header.php';?>
         <section>

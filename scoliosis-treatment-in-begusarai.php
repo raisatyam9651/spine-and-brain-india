@@ -12,55 +12,16 @@
         <meta name="keywords" content="Scoliosis Treatment in Begusarai, Expert Scoliosis Specialist, Best Scoliosis Care" />
         <link rel="canonical" href="https://spineandbrainindia.com/scoliosis-treatment-in-begusarai" />
         
-        <!--Open Graph Tags-->
-        <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.spineandbrainindia.com/scoliosis-treatment-in-begusarai.php" />
-        <meta property="og:keywords" content="Scoliosis Treatment, Scoliosis Surgery" />
-        <meta property="og:title" content="Scoliosis Treatment in Begusarai | Dr. Arun Saroha" />
-        <meta property="og:description" content="Seeking expert scoliosis treatment in Begusarai? Dr. Arun Saroha offers advanced, personalized care with minimally invasive techniques for effective recovery." />
         
         
-        <!--Schema Markup-->
-        <script type="application/ld+json">
-            {
-  "@context": "http://schema.org",
-  "@type": "MedicalClinic",
-  "name": "Spine and Brain Begusarai",
-  "url": "https://spineandbrainindia.com/scoliosis-treatment-in-begusarai",
-  "logo": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
-  "description": "Advanced scoliosis treatment by Dr. Arun Saroha in Begusarai.",
-  "medicalSpecialty": "Orthopedic",
-  "availableService": {
-    "@type": "MedicalProcedure",
-    "name": "Scoliosis Treatment",
-    "procedureType": "Bracing, Spinal Fusion, Rod Insertion, Vertebral Body Tethering",
-    "additionalType": "http://www.wikidata.org/entity/Q1070520",
-    "bodyLocation": "Spine",
-    "followup": "Regular follow-ups to monitor recovery",
-    "preparation": "Consultation with the doctor",
-    "indication": "Scoliosis, abnormal spine curvature, chronic back pain",
-    "url": "https://spineandbrainindia.com/scoliosis-treatment-in-begusarai"
-  },
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "Max Super Speciality Hospital, Department of Spine and Neurosurgery, West Block, Ground Floor, Room No. 7",
-    "addressLocality": "Saket",
-    "addressRegion": "New Delhi",
-    "postalCode": "110017",
-    "addressCountry": "India"
-  },
-  "contactPoint": {
-    "@type": "ContactPoint",
-    "telephone": "+91 9990778811",
-    "contactType": "Customer Service"
-  },
-  "sameAs": [
-    "https://www.facebook.com/SpineAndBrainIndia",
-    "https://twitter.com/SpineBrainIndia",
-    "https://www.instagram.com/SpineAndBrainIndia"
-  ]
-}
-        </script>
+        
+        
+        
+        
+        
+        
+        
+        
         
      <script>
          {
@@ -446,6 +407,74 @@
         }
     </style>
         
+
+<!-- Unified SEO Schema and Tags -->
+<meta name="geo.region" content="IN" />
+<meta name="geo.placename" content="Begusarai" />
+<meta name="geo.position" content="20.5937;78.9629" />
+<meta name="ICBM" content="20.5937, 78.9629" />
+
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://spineandbrainindia.com/scoliosis-treatment-in-begusarai" />
+<meta property="og:title" content="Scoliosis Treatment in Begusarai | Dr. Arun Saroha" />
+<meta property="og:description" content="Seeking expert scoliosis treatment in Begusarai? Dr. Arun Saroha offers advanced, personalized care with minimally invasive techniques for effective recovery." />
+<meta property="og:image" content="https://spineandbrainindia.com/assets/images/pag-top-bg_11zon.webp" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Physician",
+      "name": "Dr. Arun Saroha",
+      "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
+      "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "medicalSpecialty": "Neurosurgery",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "1045"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Begusarai",
+        "addressCountry": "IN"
+      }
+    },
+    {
+      "@type": "MedicalClinic",
+      "name": "Spine and Brain India - Begusarai",
+      "url": "https://spineandbrainindia.com/scoliosis-treatment-in-begusarai",
+      "image": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Begusarai",
+        "addressCountry": "IN"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "850"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "20.5937",
+        "longitude": "78.9629"
+      }
+    },
+    {
+      "@type": "MedicalProcedure",
+      "name": "Scoliosis Treatment",
+      "provider": {
+        "@id": "https://spineandbrainindia.com/dr-arun-saroha.php"
+      }
+    }
+  ]
+}
+</script>
+<!-- End Unified SEO Schema and Tags -->
+
 <?php include 'header.php';?>
         <section>
                 <div class="w-100 pt-100 black-layer opc5 pb-80 position-relative">

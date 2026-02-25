@@ -12,80 +12,20 @@
 <meta name="keywords" content="best back pain treatment in karimnagar, Back Pain Specialist in Karimnagar" />
 <link rel="canonical" href="https://spineandbrainindia.com/back-pain-treatment-in-karimnagar" />
        
-       <!--OpenGraph Tags-->
-       <meta property="og:type" content="website" />
-       <meta property="og:url" content="https://www.spineandbrainindia.com/back-pain-treatment-in-karimnagar.php" />
        
-       <meta property="og:keywords" content="Best Spine Surgeon in Karimnagar, best back pain treatment in karimnagar, Back Pain Specialist in Karimnagar, best neurosurgeon in Karimnagar" />
        
-       <meta property="og:title" content="Back Pain Treatment in Karimnagar | best back pain doctor in karimnagar" />
        
-       <meta property="og:description" content="Experience the best back pain treatment in Karimnagar with Dr. Arun Saroha, renowned as one of the best back pain doctor in karimnagar for lower back pain management." />
+       
+       
+       
+       
+       
+       
        <link rel=“canonical” href=“https://spineandbrainindia.com/back-pain-treatment-in-karimnagar”/>
 
-        <!--Schema Markup-->
-        
-        <script type="application/ld+json">
-{
-  "@context": "https://schema.org/",
-  "@type": "Product",
-  "name": "Back Pain Treatment in Karimnagar | Dr. Arun Saroha",
-  "image": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
-  "description": "Get expert back pain treatment in Karimnagar with Dr. Arun Saroha, top spine surgeon offering advanced, minimally invasive solutions for lasting relief. ",
-  "brand": "Dr. Arun Saroha",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.9",
-    "bestRating": "5",
-    "worstRating": "2",
-    "ratingCount": "300"
-  }
-}
-</script>
         
         
         
-        
-      <script type="application/ld+json">  
-        {
-  "@context": "http://schema.org",
-  "@type": "MedicalClinic",
-  "name": "Spine and Brain Karimnagar",
-  "url": "https://spineandbrainindia.com/back-pain-treatment-in-karimnagar",
-  "logo": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
-  "description": "Comprehensive back pain treatment in Karimnagar.",
-  "medicalSpecialty": "Orthopedic",
-  "availableService": {
-    "@type": "MedicalProcedure",
-    "name": "Back Pain Treatment",
-    "procedureType": "Non-invasive, Minimally Invasive, and Surgical",
-    "additionalType": "http://www.wikidata.org/entity/Q1070520",
-    "bodyLocation": "Spine",
-    "followup": "Regular follow-ups to monitor recovery",
-    "preparation": "Consultation with the doctor",
-    "indication": "Chronic back pain, disc issues, spinal injuries",
-    "url": "https://spineandbrainindia.com/back-pain-treatment-in-karimnagar"
-  },
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "Max Super Speciality Hospital, Department of Spine and Neurosurgery, West Block, Ground Floor, Room No. 7",
-    "addressLocality": "Saket",
-    "addressRegion": "New Delhi",
-    "postalCode": "110017",
-    "addressCountry": "India"
-  },
-  "contactPoint": {
-    "@type": "ContactPoint",
-    "telephone": "+91 9990778811",
-    "contactType": "Customer Service"
-  },
-  "sameAs": [
-    "https://www.facebook.com/SpineAndBrainIndia",
-    "https://twitter.com/SpineBrainIndia",
-    "https://www.instagram.com/SpineAndBrainIndia"
-  ]
-}
-</script>
 
  <style>
         .container {
@@ -562,6 +502,74 @@
     
 </style>
         
+
+<!-- Unified SEO Schema and Tags -->
+<meta name="geo.region" content="IN" />
+<meta name="geo.placename" content="Karimnagar" />
+<meta name="geo.position" content="20.5937;78.9629" />
+<meta name="ICBM" content="20.5937, 78.9629" />
+
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://spineandbrainindia.com/back-pain-treatment-in-karimnagar" />
+<meta property="og:title" content="Back Pain Treatment in Karimnagar | Dr. Arun Saroha" />
+<meta property="og:description" content="Get expert back pain treatment in Karimnagar with Dr. Arun Saroha, top spine surgeon offering advanced, minimally invasive solutions for lasting relief." />
+<meta property="og:image" content="https://spineandbrainindia.com/assets/images/pag-top-bg_11zon.webp" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Physician",
+      "name": "Dr. Arun Saroha",
+      "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
+      "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "medicalSpecialty": "Neurosurgery",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "1045"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Karimnagar",
+        "addressCountry": "IN"
+      }
+    },
+    {
+      "@type": "MedicalClinic",
+      "name": "Spine and Brain India - Karimnagar",
+      "url": "https://spineandbrainindia.com/back-pain-treatment-in-karimnagar",
+      "image": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Karimnagar",
+        "addressCountry": "IN"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "850"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "20.5937",
+        "longitude": "78.9629"
+      }
+    },
+    {
+      "@type": "MedicalProcedure",
+      "name": "Back Pain Treatment",
+      "provider": {
+        "@id": "https://spineandbrainindia.com/dr-arun-saroha.php"
+      }
+    }
+  ]
+}
+</script>
+<!-- End Unified SEO Schema and Tags -->
+
 <?php include 'header.php';?>
         <section>
                 <div class="w-100 pt-100 black-layer opc5 pb-80 position-relative">

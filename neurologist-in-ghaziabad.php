@@ -12,60 +12,89 @@
 <meta name="keywords" content="Best neurosurgeon in Ghaziabad, neurosurgeon in Ghaziabad, Spine Surgeon in Ghaziabad, Neurologist in Ghaziabad, Best Neurologist in Ghaziabad" />
 <link rel="canonical" href="https://spineandbrainindia.com/neurologist-in-ghaziabad" />
        
-       <!--OpenGraph Tags-->
-       <meta property="og:type" content="website" />
-       <meta property="og:url" content="https://spineandbrainindia.com/neurologist-in-ghaziabad" />
        
-       <meta property="og:keywords" content="Best neurosurgeon in Ghaziabad, neurosurgeon in Ghaziabad, Spine Surgeon in Ghaziabad, Neurologist in Ghaziabad, Best Neurologist in Ghaziabad" />
        
-       <meta property="og:title" content="Best Neurologist in Ghaziabad | Dr. Arun Saroha" />
        
-       <meta property="og:description" content="Seeking the Best Neurologist in Ghaziabad? Dr. Arun Saroha is an expert in treating brain and spine disorders with over 20 years of experience and advanced care."/>
+       
+       
+       
+       
+       
+       
 
-        <!--Schema Markup-->
         
-      <script type="application/ld+json">  
-        {
-  "@context": "http://schema.org",
-  "@type": "MedicalClinic",
-  "name": "Spine and Brain India",
-  "url": "https://spineandbrainindia.com/neurologist-in-ghaziabad",
-  "logo": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
-  "description": "Seeking the Best Neurologist in Ghaziabad? Dr. Arun Saroha is an expert in treating brain and spine disorders with over 20 years of experience and advanced care.",
-  "medicalSpecialty": "Neurosurgery",
-  "availableService": {
-    "@type": "MedicalProcedure",
-    "name": "Neurosurgeon",
-    "procedureType": "Non-invasive, Minimally Invasive, and Surgical",
-    "additionalType": "http://www.wikidata.org/entity/Q1070520",
-    "bodyLocation": "Brain",
-    "followup": "Regular follow-ups to monitor recovery",
-    "preparation": "Consultation with the doctor",
-    "indication": "neurosurgery",
-    "url": "https://spineandbrainindia.com/neurologist-in-ghaziabad"
-  },
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "Plot No. 1, Sector 10",
-    "addressLocality": "Dwarka",
-    "addressRegion": "New Delhi",
-    "postalCode": "110075",
-    "addressCountry": "India"
-  },
-  "contactPoint": {
-    "@type": "ContactPoint",
-    "telephone": "+91 9990778811",
-    "contactType": "Customer Service"
-  },
-  "sameAs": [
-    "https://www.facebook.com/SpineAndBrainIndia",
-    "https://twitter.com/SpineBrainIndia",
-    "https://www.instagram.com/SpineAndBrainIndia"
+        
+      
+
+        
+
+<!-- Unified SEO Schema and Tags -->
+<meta name="geo.region" content="IN" />
+<meta name="geo.placename" content="Ghaziabad" />
+<meta name="geo.position" content="20.5937;78.9629" />
+<meta name="ICBM" content="20.5937, 78.9629" />
+
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://spineandbrainindia.com/neurologist-in-ghaziabad" />
+<meta property="og:title" content="Best Neurologist in Ghaziabad | Dr. Arun Saroha" />
+<meta property="og:description" content="Seeking the Best Neurologist in Ghaziabad? Dr. Arun Saroha is an expert in treating brain and spine disorders with over 20 years of experience and advanced care." />
+<meta property="og:image" content="https://spineandbrainindia.com/assets/images/pag-top-bg_11zon.webp" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Physician",
+      "name": "Dr. Arun Saroha",
+      "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
+      "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "medicalSpecialty": "Neurosurgery",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "1045"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Ghaziabad",
+        "addressCountry": "IN"
+      }
+    },
+    {
+      "@type": "MedicalClinic",
+      "name": "Spine and Brain India - Ghaziabad",
+      "url": "https://spineandbrainindia.com/neurologist-in-ghaziabad",
+      "image": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Ghaziabad",
+        "addressCountry": "IN"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "850"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "20.5937",
+        "longitude": "78.9629"
+      }
+    },
+    {
+      "@type": "MedicalProcedure",
+      "name": "Neurologist",
+      "provider": {
+        "@id": "https://spineandbrainindia.com/dr-arun-saroha.php"
+      }
+    }
   ]
 }
 </script>
+<!-- End Unified SEO Schema and Tags -->
 
-        
 <?php include 'header.php';?>
         <section>
                 <div class="w-100 pt-100 black-layer opc5 pb-80 position-relative">

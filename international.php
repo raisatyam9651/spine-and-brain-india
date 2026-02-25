@@ -11,13 +11,13 @@
         
         <meta name="keywords" content="International Patients, International Healthcare, International Patients Services, Dr. Arun Saroha, Spine and Brain Surgery" />
         
-        <!--OpenGraph Tags-->
-        <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://spineandbrainindia.com/international.php" />
-        <meta property="og:title" content="International Patients - Spine and Brain India - Premier Neurosurgery Clinic" />
-        <meta property="og:description" content="Spine and Brain India welcomes international patients seeking world-class neurosurgery in India. Discover our international patients' services, medical tourism assistance, and how to obtain a medical visa." />
         
-        <!--Schema Markup-->
+        
+        
+        
+        
+        
+        
         <script type="application/ld+json">
         {
             "@context": "http://schema.org",
@@ -295,6 +295,74 @@
   margin-top: 35px;
 }
         </style>
+
+<!-- Unified SEO Schema and Tags -->
+<meta name="geo.region" content="IN" />
+<meta name="geo.placename" content="India" />
+<meta name="geo.position" content="20.5937;78.9629" />
+<meta name="ICBM" content="20.5937, 78.9629" />
+
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://spineandbrainindia.com/international" />
+<meta property="og:title" content="International Patients: Seek Expert Neurosurgery Care by Dr. Arun Saroha" />
+<meta property="og:description" content="Spine and Brain India welcomes international patients seeking world-class neurosurgery . Explore our international patient services for expert neurosurgery care by Dr. Arun Saroha. Our international patients" />
+<meta property="og:image" content="https://spineandbrainindia.com/assets/images/pag-top-bg_11zon.webp" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Physician",
+      "name": "Dr. Arun Saroha",
+      "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
+      "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "medicalSpecialty": "Neurosurgery",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "1045"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "India",
+        "addressCountry": "IN"
+      }
+    },
+    {
+      "@type": "MedicalClinic",
+      "name": "Spine and Brain India - India",
+      "url": "https://spineandbrainindia.com/international",
+      "image": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "India",
+        "addressCountry": "IN"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "850"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "20.5937",
+        "longitude": "78.9629"
+      }
+    },
+    {
+      "@type": "MedicalProcedure",
+      "name": "International",
+      "provider": {
+        "@id": "https://spineandbrainindia.com/dr-arun-saroha.php"
+      }
+    }
+  ]
+}
+</script>
+<!-- End Unified SEO Schema and Tags -->
+
 <?php include 'header.php';?>
             <section>
                 <div class="w-100 pt-100 black-layer opc5 pb-80 position-relative">

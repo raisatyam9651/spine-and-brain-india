@@ -12,80 +12,20 @@
 <meta name="keywords" content="best back pain treatment in janakpuri, Back Pain Specialist in Janakpuri" />
 <link rel="canonical" href="https://spineandbrainindia.com/back-pain-treatment-in-janakpuri" />
        
-       <!--OpenGraph Tags-->
-       <meta property="og:type" content="website" />
-       <meta property="og:url" content="https://www.spineandbrainindia.com/back-pain-treatment-in-janakpuri.php" />
        
-       <meta property="og:keywords" content="Best Spine Surgeon in Janakpuri, best back pain treatment in janakpuri, Back Pain Specialist in Janakpuri, best neurosurgeon in Janakpuri" />
        
-       <meta property="og:title" content="Back Pain Treatment in Janakpuri | best back pain doctor in janakpuri" />
        
-       <meta property="og:description" content="Experience the best back pain treatment in Janakpuri with Dr. Arun Saroha, renowned as one of the best back pain doctor in janakpuri for lower back pain management." />
+       
+       
+       
+       
+       
+       
        <link rel=“canonical” href=“https://spineandbrainindia.com/back-pain-treatment-in-janakpuri”/>
 
-        <!--Schema Markup-->
-        
-        <script type="application/ld+json">
-{
-  "@context": "https://schema.org/",
-  "@type": "Product",
-  "name": "Back Pain Treatment in Janakpuri | Dr. Arun Saroha",
-  "image": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
-  "description": "Get expert back pain treatment in Janakpuri with Dr. Arun Saroha, top spine surgeon offering advanced, minimally invasive solutions for lasting relief. ",
-  "brand": "Dr. Arun Saroha",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.9",
-    "bestRating": "5",
-    "worstRating": "2",
-    "ratingCount": "300"
-  }
-}
-</script>
         
         
         
-        
-      <script type="application/ld+json">  
-        {
-  "@context": "http://schema.org",
-  "@type": "MedicalClinic",
-  "name": "Spine and Brain Janakpuri",
-  "url": "https://spineandbrainindia.com/back-pain-treatment-in-janakpuri",
-  "logo": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
-  "description": "Comprehensive back pain treatment in Janakpuri.",
-  "medicalSpecialty": "Orthopedic",
-  "availableService": {
-    "@type": "MedicalProcedure",
-    "name": "Back Pain Treatment",
-    "procedureType": "Non-invasive, Minimally Invasive, and Surgical",
-    "additionalType": "http://www.wikidata.org/entity/Q1070520",
-    "bodyLocation": "Spine",
-    "followup": "Regular follow-ups to monitor recovery",
-    "preparation": "Consultation with the doctor",
-    "indication": "Chronic back pain, disc issues, spinal injuries",
-    "url": "https://spineandbrainindia.com/back-pain-treatment-in-janakpuri"
-  },
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "Max Super Speciality Hospital, Department of Spine and Neurosurgery, West Block, Ground Floor, Room No. 7",
-    "addressLocality": "Saket",
-    "addressRegion": "New Janakpuri",
-    "postalCode": "110017",
-    "addressCountry": "India"
-  },
-  "contactPoint": {
-    "@type": "ContactPoint",
-    "telephone": "+91 9990778811",
-    "contactType": "Customer Service"
-  },
-  "sameAs": [
-    "https://www.facebook.com/SpineAndBrainIndia",
-    "https://twitter.com/SpineBrainIndia",
-    "https://www.instagram.com/SpineAndBrainIndia"
-  ]
-}
-</script>
 
  <style>
         .container {
@@ -562,6 +502,74 @@
     
 </style>
         
+
+<!-- Unified SEO Schema and Tags -->
+<meta name="geo.region" content="IN" />
+<meta name="geo.placename" content="Janakpuri" />
+<meta name="geo.position" content="20.5937;78.9629" />
+<meta name="ICBM" content="20.5937, 78.9629" />
+
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://spineandbrainindia.com/back-pain-treatment-in-janakpuri" />
+<meta property="og:title" content="Back Pain Treatment in Janakpuri | Dr. Arun Saroha" />
+<meta property="og:description" content="Get expert back pain treatment in Janakpuri with Dr. Arun Saroha, top spine surgeon offering advanced, minimally invasive solutions for lasting relief." />
+<meta property="og:image" content="https://spineandbrainindia.com/assets/images/pag-top-bg_11zon.webp" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Physician",
+      "name": "Dr. Arun Saroha",
+      "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
+      "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "medicalSpecialty": "Neurosurgery",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "1045"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Janakpuri",
+        "addressCountry": "IN"
+      }
+    },
+    {
+      "@type": "MedicalClinic",
+      "name": "Spine and Brain India - Janakpuri",
+      "url": "https://spineandbrainindia.com/back-pain-treatment-in-janakpuri",
+      "image": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Janakpuri",
+        "addressCountry": "IN"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "850"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "20.5937",
+        "longitude": "78.9629"
+      }
+    },
+    {
+      "@type": "MedicalProcedure",
+      "name": "Back Pain Treatment",
+      "provider": {
+        "@id": "https://spineandbrainindia.com/dr-arun-saroha.php"
+      }
+    }
+  ]
+}
+</script>
+<!-- End Unified SEO Schema and Tags -->
+
 <?php include 'header.php';?>
         <section>
                 <div class="w-100 pt-100 black-layer opc5 pb-80 position-relative">

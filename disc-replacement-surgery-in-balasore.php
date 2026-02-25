@@ -12,54 +12,15 @@
 <meta name="keywords" content="Disc Replacement Surgery in Balasore, Disc Replacement Surgeon, Best Disc Replacement Care" />
 <link rel="canonical" href="https://spineandbrainindia.com/disc-replacement-surgery-in-balasore" />
         
-        <!--Open Graph Tags-->
-        <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.spineandbrainindia.com/disc-replacement-surgery-in-balasore.php" />
-        <meta property="og:keywords" content="Disc Replacement Surgery, Spinal Disc Replacement, Spine Surgery, Neurosurgery Expert, Spine and Brain Surgery" />
-        <meta property="og:title" content="Artificial Disc Replacement Surgery in Balasore | Dr. Arun Saroha" />
-        <meta property="og:description" content="Seeking Artificial Disc Replacement Surgery in Balasore? Dr. Arun Saroha offers expert care with minimally invasive techniques, ensuring effective treatment." />
         
-        <!--Schema Markup-->
-        <script type="application/ld+json">
-      {
-  "@context": "http://schema.org",
-  "@type": "MedicalClinic",
-  "name": "Spine and Brain Balasore",
-  "url": "https://spineandbrainindia.com/disc-replacement-surgery-in-balasore",
-  "logo": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
-  "description": "Advanced disc replacement surgery by Dr. Arun Saroha in Balasore.",
-  "medicalSpecialty": "Orthopedic",
-  "availableService": {
-    "@type": "MedicalProcedure",
-    "name": "Disc Replacement Surgery",
-    "procedureType": "Artificial Disc Replacement, Anterior Cervical Discectomy and Fusion (ACDF)",
-    "additionalType": "http://www.wikidata.org/entity/Q1070520",
-    "bodyLocation": "Spine",
-    "followup": "Regular follow-ups to monitor recovery",
-    "preparation": "Consultation with the doctor",
-    "indication": "Herniated discs, degenerative disc disease, chronic back pain",
-    "url": "https://spineandbrainindia.com/disc-replacement-surgery-in-balasore"
-  },
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "Max Super Speciality Hospital, Department of Spine and Neurosurgery, West Block, Ground Floor, Room No. 7",
-    "addressLocality": "Saket",
-    "addressRegion": "New Delhi",
-    "postalCode": "110017",
-    "addressCountry": "India"
-  },
-  "contactPoint": {
-    "@type": "ContactPoint",
-    "telephone": "+91 9990778811",
-    "contactType": "Customer Service"
-  },
-  "sameAs": [
-    "https://www.facebook.com/SpineAndBrainIndia",
-    "https://twitter.com/SpineBrainIndia",
-    "https://www.instagram.com/SpineAndBrainIndia"
-  ]
-}
-        </script>
+        
+        
+        
+        
+        
+        
+        
+        
         
      <script type="application/ld+json">
          {
@@ -312,6 +273,74 @@
     </style>
         
         
+
+<!-- Unified SEO Schema and Tags -->
+<meta name="geo.region" content="IN" />
+<meta name="geo.placename" content="Balasore" />
+<meta name="geo.position" content="20.5937;78.9629" />
+<meta name="ICBM" content="20.5937, 78.9629" />
+
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://spineandbrainindia.com/disc-replacement-surgery-in-balasore" />
+<meta property="og:title" content="Artificial Disc Replacement Surgery in Balasore | Dr. Arun Saroha" />
+<meta property="og:description" content="Seeking Artificial Disc Replacement Surgery in Balasore? Dr. Arun Saroha offers expert care with minimally invasive techniques, ensuring effective treatment." />
+<meta property="og:image" content="https://spineandbrainindia.com/assets/images/pag-top-bg_11zon.webp" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Physician",
+      "name": "Dr. Arun Saroha",
+      "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
+      "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "medicalSpecialty": "Neurosurgery",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "1045"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Balasore",
+        "addressCountry": "IN"
+      }
+    },
+    {
+      "@type": "MedicalClinic",
+      "name": "Spine and Brain India - Balasore",
+      "url": "https://spineandbrainindia.com/disc-replacement-surgery-in-balasore",
+      "image": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Balasore",
+        "addressCountry": "IN"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "850"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "20.5937",
+        "longitude": "78.9629"
+      }
+    },
+    {
+      "@type": "MedicalProcedure",
+      "name": "Disc Replacement Surgery",
+      "provider": {
+        "@id": "https://spineandbrainindia.com/dr-arun-saroha.php"
+      }
+    }
+  ]
+}
+</script>
+<!-- End Unified SEO Schema and Tags -->
+
 <?php include 'header.php';?>
         <section>
                 <div class="w-100 pt-100 black-layer opc5 pb-80 position-relative">

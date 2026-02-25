@@ -12,62 +12,20 @@
 <meta name="keywords" content="Cervical Spine Surgery in Himachal Pradesh, Cervical Spine Surgeon, Cervical Disc Surgery" />
 <link rel="canonical" href="https://spineandbrainindia.com/cervical-spine-surgery-in-himachal-pradesh" />
         
-        <!--Open Graph Tags-->
-        <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.spineandbrainindia.com/cervical-spine-surgery-in-himachal-pradesh.php" />
-        <meta property="og:keywords" content="Cervical Spine Surgery, Cervical Spine Conditions, Neck Surgery, Neurosurgery Expert, Spine and Brain Surgery" />
-        <meta property="og:title" content="Best Cervical Spine Surgery in Himachal Pradesh | Dr. Arun Saroha" />
-        <meta property="og:description" content="Looking for the best cervical spine surgery in Himachal Pradesh? Dr. Arun Saroha offers advanced surgical solutions for spine conditions, ensuring successful outcomes." />
         
         
         
         
         
-        <!--Schema Markup-->
         
-        <script type="application/ld+json">{ "@context": "https://schema.org/", "@type": "Product", "name": "Expert Cervical Spine Surgery in Himachal Pradesh - Dr. Arun Saroha, Leading Spine Specialist", "image": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp", "description": "Expert cervical spine surgery in Himachal Pradesh with Dr. Arun Saroha, leading spine specialist offering advanced treatment for neck pain, herniated discs, and spinal stenosis.", "brand": "Dr. Arun Saroha", "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.8", "bestRating": "5", "worstRating": "1", "ratingCount": "358" }}</script>
-      
         
-        <script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "MedicalClinic",
-  "name": "Spine and Brain Himachal Pradesh",
-  "url": "https://spineandbrainindia.com/cervical-spine-surgery-in-himachal-pradesh",
-  "logo": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
-  "description": "Specialized cervical spine surgery by Dr. Arun Saroha in Himachal Pradesh.",
-  "medicalSpecialty": "Orthopedic",
-  "availableService": {
-    "@type": "MedicalProcedure",
-    "name": "Cervical Spine Surgery",
-    "procedureType": "Anterior Cervical Discectomy and Fusion (ACDF), Artificial Disc Replacement, Posterior Cervical Laminectomy, Posterior Cervical Fusion",
-    "additionalType": "http://www.wikidata.org/entity/Q1070520",
-    "bodyLocation": "Cervical Spine",
-    "followup": "Regular follow-ups to monitor recovery",
-    "preparation": "Consultation with the doctor",
-    "indication": "Herniated discs, spinal stenosis, cervical spondylosis",
-    "url": "https://spineandbrainindia.com/cervical-spine-surgery-in-himachal-pradesh"
-  },
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "Max Super Speciality Hospital, Department of Spine and Neurosurgery, West Block, Ground Floor, Room No. 7",
-    "addressLocality": "Saket",
-    "addressRegion": "New Delhi",
-    "postalCode": "110017",
-    "addressCountry": "India"
-  },
-  "contactPoint": {
-    "@type": "ContactPoint",
-    "telephone": "+91 9990778811",
-    "contactType": "Customer Service"
-  },
-  "sameAs": [
-    "https://www.facebook.com/SpineAndBrainIndia",
-    "https://twitter.com/SpineBrainIndia",
-    "https://www.instagram.com/SpineAndBrainIndia"
-  ]
-}
-</script>
+        
+        
+        
+        
+        
+        
+        
 
 
 <!-- FAQ Schema Markup -->
@@ -434,6 +392,74 @@
 }
 </style>
         
+
+<!-- Unified SEO Schema and Tags -->
+<meta name="geo.region" content="IN" />
+<meta name="geo.placename" content="Himachal Pradesh" />
+<meta name="geo.position" content="20.5937;78.9629" />
+<meta name="ICBM" content="20.5937, 78.9629" />
+
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://spineandbrainindia.com/cervical-spine-surgery-in-himachal-pradesh" />
+<meta property="og:title" content="Expert Cervical Spine Surgery in Himachal Pradesh - Dr. Arun Saroha, Leading Spine Specialist" />
+<meta property="og:description" content="Expert cervical spine surgery in Himachal Pradesh with Dr. Arun Saroha, leading spine specialist offering advanced treatment for neck pain, herniated discs, and spinal stenosis." />
+<meta property="og:image" content="https://spineandbrainindia.com/assets/images/pag-top-bg_11zon.webp" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Physician",
+      "name": "Dr. Arun Saroha",
+      "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
+      "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "medicalSpecialty": "Neurosurgery",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "1045"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Himachal Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    {
+      "@type": "MedicalClinic",
+      "name": "Spine and Brain India - Himachal Pradesh",
+      "url": "https://spineandbrainindia.com/cervical-spine-surgery-in-himachal-pradesh",
+      "image": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Himachal Pradesh",
+        "addressCountry": "IN"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "850"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "20.5937",
+        "longitude": "78.9629"
+      }
+    },
+    {
+      "@type": "MedicalProcedure",
+      "name": "Cervical Spine Surgery",
+      "provider": {
+        "@id": "https://spineandbrainindia.com/dr-arun-saroha.php"
+      }
+    }
+  ]
+}
+</script>
+<!-- End Unified SEO Schema and Tags -->
+
 <?php include 'header.php';?>
         <section>
                 <div class="w-100 pt-100 black-layer opc5 pb-80 position-relative">

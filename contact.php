@@ -7,14 +7,14 @@
         <meta name="description" content="Contact Spine and Brain India, the premier neurosurgery clinic in India led by Dr. Arun Saroha. Get in touch for expert neurological care, appointments, and inquiries." />
         <meta name="keywords" content="Contact Spine and Brain, Spine and Brain India, Neurosurgery Clinic, Get in Touch, Appointments, Expert Neurological Care" />
        
-       <!--Open Graph Tags-->
-       <meta property="og:type" content="website" />
-       <meta property="og:url" content="https://www.spineandbrainindia.com/contact/" />
-       <meta property="og:title" content="Contact Spine and Brain India - Premier Neurosurgery Clinic" />
-       <meta property="og:keywords" content="Contact Spine and Brain, Spine and Brain India, Neurosurgery Clinic, Get in Touch, Appointments, Expert Neurological Care" />
-       <meta property="og:description" content="Contact Spine and Brain India, the premier neurosurgery clinic in India led by Dr. Arun Saroha. Get in touch for expert neurological care, appointments, and inquiries." />
        
-       <!--Schema Markup-->
+       
+       
+       
+       
+       
+       
+       
        <script type="application/ld+json">
         {
            "@context": "http://schema.org",
@@ -40,6 +40,74 @@
 
        
         <title>Contact Spine and Brain India - Dr. Arun Saroha's Neurosurgery Clinic</title>
+
+<!-- Unified SEO Schema and Tags -->
+<meta name="geo.region" content="IN" />
+<meta name="geo.placename" content="India" />
+<meta name="geo.position" content="20.5937;78.9629" />
+<meta name="ICBM" content="20.5937, 78.9629" />
+
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://spineandbrainindia.com/contact" />
+<meta property="og:title" content="Contact Spine and Brain India - Dr. Arun Saroha&#039;s Neurosurgery Clinic" />
+<meta property="og:description" content="Contact Spine and Brain India, the premier neurosurgery clinic in India led by Dr. Arun Saroha. Get in touch for expert neurological care, appointments, and inquiries." />
+<meta property="og:image" content="https://spineandbrainindia.com/assets/images/pag-top-bg_11zon.webp" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Physician",
+      "name": "Dr. Arun Saroha",
+      "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
+      "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "medicalSpecialty": "Neurosurgery",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "1045"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "India",
+        "addressCountry": "IN"
+      }
+    },
+    {
+      "@type": "MedicalClinic",
+      "name": "Spine and Brain India - India",
+      "url": "https://spineandbrainindia.com/contact",
+      "image": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "India",
+        "addressCountry": "IN"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "850"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "20.5937",
+        "longitude": "78.9629"
+      }
+    },
+    {
+      "@type": "MedicalProcedure",
+      "name": "Contact",
+      "provider": {
+        "@id": "https://spineandbrainindia.com/dr-arun-saroha.php"
+      }
+    }
+  ]
+}
+</script>
+<!-- End Unified SEO Schema and Tags -->
+
 <?php include 'header.php';?>
             <section>
                 <div class="w-100 pt-100 black-layer opc5 pb-80 position-relative">

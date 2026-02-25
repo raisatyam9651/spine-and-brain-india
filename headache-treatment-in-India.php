@@ -12,55 +12,16 @@
 <meta name="keywords" content="Best Headache Treatment in India" />
 <link rel="canonical" href="https://spineandbrainindia.com/headache-treatment-in-India" />
        
-       <!--OpenGraph Tags-->
-       <meta property="og:type" content="website" />
-       <meta property="og:url" content="https://spineandbrainindia.com/headache-treatment-in-India" />
-       <meta property="og:keywords" content="Best Headache Treatment in India" />
        
-       <meta property="og:title" content="Migraine Headache Treatment In India | Dr. Arun Saroha" />
-       <meta property="og:description" content="Discover the best headache and migraine treatment in India with Dr. Arun Saroha at Spine and Brain India, ensuring relief and wellness." />
+       
+       
+       
+       
+       
+       
 
-       <!--Schema Markup-->
-       <script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "MedicalClinic",
-  "name": "Spine and Brain India",
-  "url": "https://spineandbrainindia.com/headache-treatment-in-India",
-  "logo": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
-  "description": "Specialized treatment for headaches and migraines by Dr. Arun Saroha in India.",
-  "medicalSpecialty": "Neurosurgery",
-  "availableService": {
-    "@type": "MedicalProcedure",
-    "name": "Headache Treatment",
-    "procedureType": "Medication, Therapy, Lifestyle Changes",
-    "additionalType": "http://www.wikidata.org/entity/Q1070520",
-    "bodyLocation": "Head",
-    "followup": "Regular follow-ups to monitor recovery",
-    "preparation": "Consultation with the doctor",
-    "indication": "Migraines, tension headaches, cluster headaches",
-    "url": "https://spineandbrainindia.com/headache-treatment-in-India"
-  },
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "Max Super Speciality Hospital, Department of Spine and Neurosurgery, West Block, Ground Floor, Room No. 7",
-    "addressLocality": "Saket",
-    "addressRegion": "New Delhi",
-    "postalCode": "110017",
-    "addressCountry": "India"
-  },
-  "contactPoint": {
-    "@type": "ContactPoint",
-    "telephone": "+91 9990778811",
-    "contactType": "Customer Service"
-  },
-  "sameAs": [
-    "https://www.facebook.com/SpineAndBrainIndia",
-    "https://twitter.com/SpineBrainIndia",
-    "https://www.instagram.com/SpineAndBrainIndia"
-  ]
-}
-</script>
+       
+       
 
 <style>
 
@@ -382,6 +343,74 @@
             }
         }
     </style>
+
+
+<!-- Unified SEO Schema and Tags -->
+<meta name="geo.region" content="IN" />
+<meta name="geo.placename" content="India" />
+<meta name="geo.position" content="20.5937;78.9629" />
+<meta name="ICBM" content="20.5937, 78.9629" />
+
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://spineandbrainindia.com/headache-treatment-in-India" />
+<meta property="og:title" content="Migraine Headache Treatment In India | Dr. Arun Saroha" />
+<meta property="og:description" content="Discover the best migraine Headache treatment in India with Dr. Arun Saroha at Spine and Brain India, ensuring Best Headache relief." />
+<meta property="og:image" content="https://spineandbrainindia.com/assets/images/pag-top-bg_11zon.webp" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Physician",
+      "name": "Dr. Arun Saroha",
+      "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
+      "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "medicalSpecialty": "Neurosurgery",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "1045"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "India",
+        "addressCountry": "IN"
+      }
+    },
+    {
+      "@type": "MedicalClinic",
+      "name": "Spine and Brain India - India",
+      "url": "https://spineandbrainindia.com/headache-treatment-in-India",
+      "image": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "India",
+        "addressCountry": "IN"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "850"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "20.5937",
+        "longitude": "78.9629"
+      }
+    },
+    {
+      "@type": "MedicalProcedure",
+      "name": "Headache Treatment",
+      "provider": {
+        "@id": "https://spineandbrainindia.com/dr-arun-saroha.php"
+      }
+    }
+  ]
+}
+</script>
+<!-- End Unified SEO Schema and Tags -->
 
 <?php include 'header.php';?>
         <section>
