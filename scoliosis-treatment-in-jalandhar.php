@@ -5,19 +5,19 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         
-        <title>Scoliosis Treatment in India | Dr. Arun Saroha</title>
+        <title>Scoliosis Treatment in Jalandhar | Dr. Arun Saroha</title>
         
-        <meta name="description" content="Seeking expert scoliosis treatment in India? Dr. Arun Saroha offers advanced, personalized care with minimally invasive techniques for effective recovery." />
+        <meta name="description" content="Seeking expert scoliosis treatment in Jalandhar? Dr. Arun Saroha offers advanced, personalized care with minimally invasive techniques for effective recovery." />
         
-        <meta name="keywords" content="Scoliosis Treatment in India, Expert Scoliosis Specialist, Best Scoliosis Care" />
-        <link rel="canonical" href="https://spineandbrainindia.com/scoliosis-treatment-in-India" />
+        <meta name="keywords" content="Scoliosis Treatment in Jalandhar, Expert Scoliosis Specialist, Best Scoliosis Care" />
+        <link rel="canonical" href="https://spineandbrainindia.com/scoliosis-treatment-in-jalandhar" />
         
         <!--Open Graph Tags-->
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.spineandbrainindia.com/scoliosis-treatment-in-india.php" />
+        <meta property="og:url" content="https://www.spineandbrainindia.com/scoliosis-treatment-in-jalandhar.php" />
         <meta property="og:keywords" content="Scoliosis Treatment, Scoliosis Surgery" />
-        <meta property="og:title" content="Scoliosis Treatment in India | Dr. Arun Saroha" />
-        <meta property="og:description" content="Seeking expert scoliosis treatment in India? Dr. Arun Saroha offers advanced, personalized care with minimally invasive techniques for effective recovery." />
+        <meta property="og:title" content="Scoliosis Treatment in Jalandhar | Dr. Arun Saroha" />
+        <meta property="og:description" content="Seeking expert scoliosis treatment in Jalandhar? Dr. Arun Saroha offers advanced, personalized care with minimally invasive techniques for effective recovery." />
         
         
         <!--Schema Markup-->
@@ -25,10 +25,10 @@
             {
   "@context": "http://schema.org",
   "@type": "MedicalClinic",
-  "name": "Spine and Brain India",
-  "url": "https://spineandbrainindia.com/scoliosis-treatment-in-India",
+  "name": "Spine and Brain Jalandhar",
+  "url": "https://spineandbrainindia.com/scoliosis-treatment-in-jalandhar",
   "logo": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
-  "description": "Advanced scoliosis treatment by Dr. Arun Saroha in India.",
+  "description": "Advanced scoliosis treatment by Dr. Arun Saroha in Jalandhar.",
   "medicalSpecialty": "Orthopedic",
   "availableService": {
     "@type": "MedicalProcedure",
@@ -39,7 +39,7 @@
     "followup": "Regular follow-ups to monitor recovery",
     "preparation": "Consultation with the doctor",
     "indication": "Scoliosis, abnormal spine curvature, chronic back pain",
-    "url": "https://spineandbrainindia.com/scoliosis-treatment-in-India"
+    "url": "https://spineandbrainindia.com/scoliosis-treatment-in-jalandhar"
   },
   "address": {
     "@type": "PostalAddress",
@@ -69,10 +69,10 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is scoliosis and how is it treated in India?",
+      "name": "What is scoliosis and how is it treated in Jalandhar?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Scoliosis is a sideways spinal curve. In India, it's treated through bracing, physiotherapy, or surgery. Dr. Arun Saroha provides customized care using advanced spine correction methods."
+        "text": "Scoliosis is a sideways spinal curve. In Jalandhar, it's treated through bracing, physiotherapy, or surgery. Dr. Arun Saroha provides customized care using advanced spine correction methods."
       }
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "@type": "Question",
-      "name": "Is scoliosis treatment safe and effective in India?",
+      "name": "Is scoliosis treatment safe and effective in Jalandhar?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Yes, with modern technology and skilled surgeons like Dr. Arun Saroha, India ensures safe and effective scoliosis outcomes."
@@ -453,10 +453,10 @@
                     <div class="container">
                         <div class="page-title-wrap text-center w-100">
                             <div class="page-title-inner d-inline-block">
-                                <h1 class="mb-0">Scoliosis Treatment in India: Dr. Arun Saroha</h1>
+                                <h1 class="mb-0">Scoliosis Treatment in Jalandhar: Dr. Arun Saroha</h1>
                                 <!--<ol class="breadcrumb mb-0 justify-content-center">-->
                                 <!--    <li class="breadcrumb-item"><a href="/" title="spineandbrainindia.com">Home</a></li>-->
-                                <!--    <li class="breadcrumb-item"><a href="scoliosis-treatment-in-India" title="Scoliosis Treatment in India-Comprehensive Care By Dr. Arun Saroha"> Scoliosis treatment in India</a></li>-->
+                                <!--    <li class="breadcrumb-item"><a href="scoliosis-treatment-in-jalandhar" title="Scoliosis Treatment in Jalandhar-Comprehensive Care By Dr. Arun Saroha"> Scoliosis treatment in Jalandhar</a></li>-->
                                     <!--<li class="breadcrumb-item active">Child Psychotherapy</li>-->
                                 <!--</ol>-->
                             </div>
@@ -499,7 +499,7 @@
                                         
                                     <!--        <div class="post-detail w-100">-->
                                     <!--     <h3 class="mt-3">Scoliosis Treatment Options</h3>-->
-                                    <!--     <p class="mb-0"> When it comes to Scoliosis Treatment in India, there are several options available based on the severity of the condition, the age of the patient, and how much the curvature is affecting daily life. The goal of treatment is to stop the progression of the curve, relieve symptoms, and improve quality of life. Below are the most common treatment options:</p>-->
+                                    <!--     <p class="mb-0"> When it comes to Scoliosis Treatment in Jalandhar, there are several options available based on the severity of the condition, the age of the patient, and how much the curvature is affecting daily life. The goal of treatment is to stop the progression of the curve, relieve symptoms, and improve quality of life. Below are the most common treatment options:</p>-->
                                     <!--       <ol type="1">-->
                                     <!--           <li><b>Observation:</b>-->
                                     <!--           <p>For mild scoliosis, especially in children or adolescents still growing, doctors may recommend a "wait and see" approach. Regular check-ups and X-rays are done to monitor if the curve worsens as the child grows. If the curvature remains stable, no immediate treatment may be necessary.</p>-->
@@ -511,15 +511,15 @@
                                     <!--           <p>Physical therapy can help in strengthening muscles around the spine and improving posture. While it doesn’t cure scoliosis, it helps in managing pain and maintaining flexibility. Therapists often design exercises tailored to the patient’s specific needs, focusing on core strength and spinal alignment.</p>-->
                                     <!--           </li>-->
                                     <!--           <li><b>Surgical Treatment</b>-->
-                                    <!--           <p>For severe cases, surgery may be the best option. The most common procedure for scoliosis is spinal fusion. In this surgery, metal rods, screws, and bone grafts are used to fuse the curved vertebrae together, straightening the spine and preventing further curvature. Advances in surgical techniques in Scoliosis Treatment in India have made these procedures safer and more effective, with shorter recovery times.</p>-->
+                                    <!--           <p>For severe cases, surgery may be the best option. The most common procedure for scoliosis is spinal fusion. In this surgery, metal rods, screws, and bone grafts are used to fuse the curved vertebrae together, straightening the spine and preventing further curvature. Advances in surgical techniques in Scoliosis Treatment in Jalandhar have made these procedures safer and more effective, with shorter recovery times.</p>-->
                                     <!--           </li>-->
                                     <!--           <li><b>Minimally Invasive Surgery</b>-->
                                     <!--           <p>In some cases, minimally invasive techniques like video-assisted thoracoscopic surgery (VATS) may be used. These techniques involve smaller incisions and faster recovery, though they are not suitable for all types of scoliosis.</p>-->
                                     <!--           </li>-->
                                     <!--       </ol> -->
                                            
-                                    <!--       <h3>Why Choose Dr. Arun Saroha for Scoliosis Treatment in India?</h3>-->
-                                    <!--       <p>When considering Scoliosis Treatment in India, Dr. Arun Saroha is one of the most trusted and renowned spine surgeons. With over two decades of experience in treating complex spinal conditions, Dr. Saroha has successfully performed numerous scoliosis surgeries, helping patients regain their quality of life. He is known for his patient-centric approach, taking the time to understand each case individually and developing personalized treatment plans that prioritize safety, comfort, and long-term outcomes.</p>-->
+                                    <!--       <h3>Why Choose Dr. Arun Saroha for Scoliosis Treatment in Jalandhar?</h3>-->
+                                    <!--       <p>When considering Scoliosis Treatment in Jalandhar, Dr. Arun Saroha is one of the most trusted and renowned spine surgeons. With over two decades of experience in treating complex spinal conditions, Dr. Saroha has successfully performed numerous scoliosis surgeries, helping patients regain their quality of life. He is known for his patient-centric approach, taking the time to understand each case individually and developing personalized treatment plans that prioritize safety, comfort, and long-term outcomes.</p>-->
                                     <!--       <p>Dr. Saroha's expertise in minimally invasive spine surgeries ensures that patients experience less pain, quicker recovery times, and reduced risks of complications. His advanced surgical techniques, coupled with cutting-edge technology, make him a top choice for patients seeking the best possible care for scoliosis. Whether you're in need of bracing, physical therapy, or spinal fusion surgery, Dr. Saroha provides comprehensive care throughout every stage of the treatment process.</p>-->
                                     
                                     <!--</div>-->
@@ -527,7 +527,7 @@
         <div class="container mt-4">
         <div class="service-header">
             <h1>Scoliosis Treatment Options</h1>
-            <p class="mb-0"> When it comes to Scoliosis Treatment in India, there are several options available based on the severity of the condition, the age of the patient, and how much the curvature is affecting daily life. The goal of treatment is to stop the progression of the curve, relieve symptoms, and improve quality of life. Below are the most common treatment options:</p>
+            <p class="mb-0"> When it comes to Scoliosis Treatment in Jalandhar, there are several options available based on the severity of the condition, the age of the patient, and how much the curvature is affecting daily life. The goal of treatment is to stop the progression of the curve, relieve symptoms, and improve quality of life. Below are the most common treatment options:</p>
         </div>
         
         <div class="service-cards-grid">
@@ -559,7 +559,7 @@
                 <div class="service-card-number">4</div>
                 <h3 class="service-card-title">Surgical Treatment</h3>
                 <p class="service-card-description">
-                    For severe cases, surgery may be the best option. The most common procedure for scoliosis is spinal fusion. In this surgery, metal rods, screws, and bone grafts are used to fuse the curved vertebrae together, straightening the spine and preventing further curvature. Advances in surgical techniques in Scoliosis Treatment in India have made these procedures safer and more effective, with shorter recovery times.
+                    For severe cases, surgery may be the best option. The most common procedure for scoliosis is spinal fusion. In this surgery, metal rods, screws, and bone grafts are used to fuse the curved vertebrae together, straightening the spine and preventing further curvature. Advances in surgical techniques in Scoliosis Treatment in Jalandhar have made these procedures safer and more effective, with shorter recovery times.
                 </p>
             </div>
             
@@ -576,7 +576,7 @@
     
     <div class="container mt-5">
         <div class="service-header">
-            <h1>Why Choose Dr. Arun Saroha for Cervical Spine Surgery in India?</h1>
+            <h1>Why Choose Dr. Arun Saroha for Cervical Spine Surgery in Jalandhar?</h1>
         </div>
         
         <div class="container">
@@ -590,7 +590,7 @@
                 </div>
                 <div class="col-lg-7 col-md-12 mb-4 mb-lg-0">
                     
-                    <p>When considering Scoliosis Treatment in India, Dr. Arun Saroha is one of the most trusted and renowned spine surgeons. With over two decades of experience in treating complex spinal conditions, Dr. Saroha has successfully performed numerous scoliosis surgeries, helping patients regain their quality of life. He is known for his patient-centric approach, taking the time to understand each case individually and developing personalized treatment plans that prioritize safety, comfort, and long-term outcomes.
+                    <p>When considering Scoliosis Treatment in Jalandhar, Dr. Arun Saroha is one of the most trusted and renowned spine surgeons. With over two decades of experience in treating complex spinal conditions, Dr. Saroha has successfully performed numerous scoliosis surgeries, helping patients regain their quality of life. He is known for his patient-centric approach, taking the time to understand each case individually and developing personalized treatment plans that prioritize safety, comfort, and long-term outcomes.
                     </p>
                     <p>Dr. Saroha's expertise in minimally invasive spine surgeries ensures that patients experience less pain, quicker recovery times, and reduced risks of complications. His advanced surgical techniques, coupled with cutting-edge technology, make him a top choice for patients seeking the best possible care for scoliosis. Whether you're in need of bracing, physical therapy, or spinal fusion surgery, Dr. Saroha provides comprehensive care throughout every stage of the treatment process.</p>
                     
@@ -608,12 +608,12 @@
         
         <div class="faq-item">
             <div class="faq-question" onclick="toggleFAQ(this)">
-                <span> What is scoliosis and how is it treated in India?</span>
+                <span> What is scoliosis and how is it treated in Jalandhar?</span>
                 <div class="plus-icon"></div>
             </div>
             <div class="faq-answer">
                 <div class="faq-answer-content">
-                     Scoliosis is a sideways curvature of the spine, often diagnosed in children or teens. In India, treatments include bracing, physiotherapy, and spine surgery. Dr. Arun Saroha offers advanced care tailored to the curve’s severity using minimally invasive and corrective techniques.
+                     Scoliosis is a sideways curvature of the spine, often diagnosed in children or teens. In Jalandhar, treatments include bracing, physiotherapy, and spine surgery. Dr. Arun Saroha offers advanced care tailored to the curve’s severity using minimally invasive and corrective techniques.
                 </div>
             </div>
         </div>
@@ -644,7 +644,7 @@
         
         <div class="faq-item">
             <div class="faq-question" onclick="toggleFAQ(this)">
-                <span> Is scoliosis treatment safe and effective in India?</span>
+                <span> Is scoliosis treatment safe and effective in Jalandhar?</span>
                 <div class="plus-icon"></div>
             </div>
             <div class="faq-answer">
@@ -685,7 +685,7 @@
             </div>
             <div class="faq-answer">
                 <div class="faq-answer-content">
-                     Dr. Arun Saroha is a leading neurosurgeon with vast experience in spinal deformity correction. He combines clinical precision with advanced techniques, making him a trusted name for scoliosis care in India.
+                     Dr. Arun Saroha is a leading neurosurgeon with vast experience in spinal deformity correction. He combines clinical precision with advanced techniques, making him a trusted name for scoliosis care in Jalandhar.
                 </div>
             </div>
         </div>
@@ -794,11 +794,11 @@
                     <div class="container">
                         <div class="request-consult-wrap d-flex flex-wrap align-items-center position-relative w-100">
                             <div class="request-consult-title">
-                                <h3 class="mb-0"> Consult Dr. Arun Saroha, For The Best Scoliosis Treatment in India</h3>
+                                <h3 class="mb-0"> Consult Dr. Arun Saroha, For The Best Scoliosis Treatment in Jalandhar</h3>
                                
                             </div>
                             <div class="request-consult-form">
-                                <p class="mb-0">Act now for Scoliosis Treatment in India – book your consultation today.</p>
+                                <p class="mb-0">Act now for Scoliosis Treatment in Jalandhar – book your consultation today.</p>
                             
                             <!--CTA Form-->
                             <?php include 'cta-form.php';?>
@@ -812,6 +812,58 @@
             
             
 
+<section class="locations-area pt-50 pb-50" style="background-color: #0f172a; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+    <div class="container">
+        <div class="d-flex justify-content-between align-items-center mb-4" style="border-bottom: 1px solid #1e293b; padding-bottom: 15px; flex-wrap: wrap; gap: 15px;">
+            <h3 class="mb-0 text-white" style="font-size: 20px; font-weight: 600; display: flex; align-items: center; gap: 10px;">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Leading Districts in Punjab
+            </h3>
+        </div>
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 15px 20px;">
+            <a href="scoliosis-treatment-in-ludhiana.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Scoliosis Treatment in Ludhiana
+            </a>
+            <a href="scoliosis-treatment-in-amritsar.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Scoliosis Treatment in Amritsar
+            </a>
+            <a href="scoliosis-treatment-in-jalandhar.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Scoliosis Treatment in Jalandhar
+            </a>
+            <a href="scoliosis-treatment-in-patiala.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Scoliosis Treatment in Patiala
+            </a>
+            <a href="scoliosis-treatment-in-bathinda.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Scoliosis Treatment in Bathinda
+            </a>
+            <a href="scoliosis-treatment-in-mohali.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Scoliosis Treatment in Mohali
+            </a>
+            <a href="scoliosis-treatment-in-pathankot.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Scoliosis Treatment in Pathankot
+            </a>
+            <a href="scoliosis-treatment-in-moga.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Scoliosis Treatment in Moga
+            </a>
+            <a href="scoliosis-treatment-in-abohar.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Scoliosis Treatment in Abohar
+            </a>
+            <a href="scoliosis-treatment-in-khanna.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Scoliosis Treatment in Khanna
+            </a>
+        </div>
+    </div>
+</section>
 <section class="locations-area pt-50 pb-50" style="background-color: #0f172a; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
     <div class="container">
         <div class="d-flex justify-content-between align-items-center mb-4" style="border-bottom: 1px solid #1e293b; padding-bottom: 15px; flex-wrap: wrap; gap: 15px;">
