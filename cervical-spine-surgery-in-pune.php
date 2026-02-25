@@ -5,19 +5,19 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         
-<title>Expert Cervical Spine Surgery in India - Dr. Arun Saroha, Leading Spine Specialist</title>
+<title>Expert Cervical Spine Surgery in Pune - Dr. Arun Saroha, Leading Spine Specialist</title>
 
-<meta name="description" content="Expert cervical spine surgery in India with Dr. Arun Saroha, leading spine specialist offering advanced treatment for neck pain, herniated discs, and spinal stenosis." />
+<meta name="description" content="Expert cervical spine surgery in Pune with Dr. Arun Saroha, leading spine specialist offering advanced treatment for neck pain, herniated discs, and spinal stenosis." />
         
-<meta name="keywords" content="Cervical Spine Surgery in India, Cervical Spine Surgeon, Cervical Disc Surgery" />
-<link rel="canonical" href="https://spineandbrainindia.com/cervical-spine-surgery-in-India" />
+<meta name="keywords" content="Cervical Spine Surgery in Pune, Cervical Spine Surgeon, Cervical Disc Surgery" />
+<link rel="canonical" href="https://spineandbrainindia.com/cervical-spine-surgery-in-pune" />
         
         <!--Open Graph Tags-->
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.spineandbrainindia.com/cervical-spine-surgery-in-india.php" />
+        <meta property="og:url" content="https://www.spineandbrainindia.com/cervical-spine-surgery-in-pune.php" />
         <meta property="og:keywords" content="Cervical Spine Surgery, Cervical Spine Conditions, Neck Surgery, Neurosurgery Expert, Spine and Brain Surgery" />
-        <meta property="og:title" content="Best Cervical Spine Surgery in India | Dr. Arun Saroha" />
-        <meta property="og:description" content="Looking for the best cervical spine surgery in India? Dr. Arun Saroha offers advanced surgical solutions for spine conditions, ensuring successful outcomes." />
+        <meta property="og:title" content="Best Cervical Spine Surgery in Pune | Dr. Arun Saroha" />
+        <meta property="og:description" content="Looking for the best cervical spine surgery in Pune? Dr. Arun Saroha offers advanced surgical solutions for spine conditions, ensuring successful outcomes." />
         
         
         
@@ -25,17 +25,17 @@
         
         <!--Schema Markup-->
         
-        <script type="application/ld+json">{ "@context": "https://schema.org/", "@type": "Product", "name": "Expert Cervical Spine Surgery in India - Dr. Arun Saroha, Leading Spine Specialist", "image": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp", "description": "Expert cervical spine surgery in India with Dr. Arun Saroha, leading spine specialist offering advanced treatment for neck pain, herniated discs, and spinal stenosis.", "brand": "Dr. Arun Saroha", "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.8", "bestRating": "5", "worstRating": "1", "ratingCount": "358" }}</script>
+        <script type="application/ld+json">{ "@context": "https://schema.org/", "@type": "Product", "name": "Expert Cervical Spine Surgery in Pune - Dr. Arun Saroha, Leading Spine Specialist", "image": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp", "description": "Expert cervical spine surgery in Pune with Dr. Arun Saroha, leading spine specialist offering advanced treatment for neck pain, herniated discs, and spinal stenosis.", "brand": "Dr. Arun Saroha", "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.8", "bestRating": "5", "worstRating": "1", "ratingCount": "358" }}</script>
       
         
         <script type="application/ld+json">
 {
   "@context": "http://schema.org",
   "@type": "MedicalClinic",
-  "name": "Spine and Brain India",
-  "url": "https://spineandbrainindia.com/cervical-spine-surgery-in-India",
+  "name": "Spine and Brain Pune",
+  "url": "https://spineandbrainindia.com/cervical-spine-surgery-in-pune",
   "logo": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
-  "description": "Specialized cervical spine surgery by Dr. Arun Saroha in India.",
+  "description": "Specialized cervical spine surgery by Dr. Arun Saroha in Pune.",
   "medicalSpecialty": "Orthopedic",
   "availableService": {
     "@type": "MedicalProcedure",
@@ -46,7 +46,7 @@
     "followup": "Regular follow-ups to monitor recovery",
     "preparation": "Consultation with the doctor",
     "indication": "Herniated discs, spinal stenosis, cervical spondylosis",
-    "url": "https://spineandbrainindia.com/cervical-spine-surgery-in-India"
+    "url": "https://spineandbrainindia.com/cervical-spine-surgery-in-pune"
   },
   "address": {
     "@type": "PostalAddress",
@@ -78,10 +78,10 @@
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "How much does cervical spine surgery cost in India?",
+          "name": "How much does cervical spine surgery cost in Pune?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Cervical Spine Surgery in India offers affordable treatment options with costs varying based on procedure complexity, hospital facilities, implants used, and recovery duration. Cervical disc replacement surgery india and other procedures are significantly more cost-effective compared to Western countries while maintaining international quality standards. Contact specialists for detailed cost assessment based on individual medical requirements."
+            "text": "Cervical Spine Surgery in Pune offers affordable treatment options with costs varying based on procedure complexity, hospital facilities, implants used, and recovery duration. Cervical disc replacement surgery india and other procedures are significantly more cost-effective compared to Western countries while maintaining international quality standards. Contact specialists for detailed cost assessment based on individual medical requirements."
           }
         },
         {
@@ -94,10 +94,10 @@
         },
         {
           "@type": "Question",
-          "name": "What is the success rate of cervical spine surgery in India?",
+          "name": "What is the success rate of cervical spine surgery in Pune?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Cervical Spine Surgery in India shows 85-95% success rates. ACDF achieves 90-95% success for arm pain relief and 85-90% for neck pain. Cervical discectomy in india procedures demonstrate excellent outcomes through advanced techniques, experienced cervical surgeons, and international-standard facilities with minimally invasive approaches."
+            "text": "Cervical Spine Surgery in Pune shows 85-95% success rates. ACDF achieves 90-95% success for arm pain relief and 85-90% for neck pain. Cervical discectomy in pune procedures demonstrate excellent outcomes through advanced techniques, experienced cervical surgeons, and international-standard facilities with minimally invasive approaches."
           }
         },
         {
@@ -105,7 +105,7 @@
           "name": "How to book treatment with Dr. Arun Saroha?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Dr. Arun Saroha specializes in Cervical Spine Surgery in India with 25+ years experience. Book consultation by contacting his clinic directly. Provide medical reports and imaging studies. International patients can arrange online consultations. His team assists with treatment planning, cost estimates, and complete care from consultation to recovery."
+            "text": "Dr. Arun Saroha specializes in Cervical Spine Surgery in Pune with 25+ years experience. Book consultation by contacting his clinic directly. Provide medical reports and imaging studies. International patients can arrange online consultations. His team assists with treatment planning, cost estimates, and complete care from consultation to recovery."
           }
         }
       ]
@@ -441,7 +441,7 @@
                     <div class="container">
                         <div class="page-title-wrap text-center w-100">
                             <div class="page-title-inner d-inline-block">
-                                <h1 class="mb-0">Expert Cervical Spine Surgery in India - Dr. Arun Saroha, Leading Spine Specialist</h1>
+                                <h1 class="mb-0">Expert Cervical Spine Surgery in Pune - Dr. Arun Saroha, Leading Spine Specialist</h1>
                                 
                             </div>
                         </div><!-- Page Title Wrap -->
@@ -460,13 +460,13 @@
                                         </div>
                                         
                                         <h3 class="mb-0">Understanding the Cervical Spine</h3>
-                                       <p class="mb-0">The cervical spine is the upper portion of the spine, consisting of seven vertebrae (C1-C7) located in the neck requiring specialized Cervical Spine Surgery in India when damaged. These vertebrae support the head's weight and enable its wide range of motion, including bending, twisting, and tilting. The cervical spine also houses the spinal cord, which serves as a communication pathway between the brain and the rest of the body. When issues arise with the cervical discs, patients often seek cervical discectomy in india as an effective treatment option. Surrounding the vertebrae are discs that act as shock absorbers and allow flexibility, along with muscles and ligaments that provide additional support.</p>
+                                       <p class="mb-0">The cervical spine is the upper portion of the spine, consisting of seven vertebrae (C1-C7) located in the neck requiring specialized Cervical Spine Surgery in Pune when damaged. These vertebrae support the head's weight and enable its wide range of motion, including bending, twisting, and tilting. The cervical spine also houses the spinal cord, which serves as a communication pathway between the brain and the rest of the body. When issues arise with the cervical discs, patients often seek cervical discectomy in pune as an effective treatment option. Surrounding the vertebrae are discs that act as shock absorbers and allow flexibility, along with muscles and ligaments that provide additional support.</p>
                                        <br>
                                        <h3 class="mb-0:">What is Cervical Spine Surgery?</h3>
-                                       <p class="mb-0">Cervical spine surgery is a specialized procedure available through expert Cervical Spine Surgery in India designed to address conditions affecting the neck portion of the spine. The goal of the surgery is to relieve pressure on the spinal cord or nerves, stabilize the spine, and restore normal function. This type of surgery may be necessary for individuals with severe cervical spine issues such as herniated discs, degenerative disc disease, or spinal cord surgery in india complications requiring immediate intervention.</p>
+                                       <p class="mb-0">Cervical spine surgery is a specialized procedure available through expert Cervical Spine Surgery in Pune designed to address conditions affecting the neck portion of the spine. The goal of the surgery is to relieve pressure on the spinal cord or nerves, stabilize the spine, and restore normal function. This type of surgery may be necessary for individuals with severe cervical spine issues such as herniated discs, degenerative disc disease, or spinal cord surgery in pune complications requiring immediate intervention.</p>
                                        
                                        
-                                       <p class="mb-0">There are several approaches to cervical spine surgery in India depending on the patient's condition. Some procedures aim to decompress the nerves by removing parts of the bone or disc material, while others focus on fusing vertebrae to enhance spinal stability. For patients requiring disc replacement, cervical disc replacement surgery india offers an alternative to traditional fusion procedures. Advances in medical technology have allowed many cervical spine surgeries to be minimally invasive, reducing recovery times and minimizing tissue damage. Surgical intervention is often recommended only after non-surgical treatments, such as physical therapy, medications, or injections, have proven ineffective.</p>   
+                                       <p class="mb-0">There are several approaches to cervical spine surgery in Pune depending on the patient's condition. Some procedures aim to decompress the nerves by removing parts of the bone or disc material, while others focus on fusing vertebrae to enhance spinal stability. For patients requiring disc replacement, cervical disc replacement surgery india offers an alternative to traditional fusion procedures. Advances in medical technology have allowed many cervical spine surgeries to be minimally invasive, reducing recovery times and minimizing tissue damage. Surgical intervention is often recommended only after non-surgical treatments, such as physical therapy, medications, or injections, have proven ineffective.</p>   
                                           
                                      <br>      
 <h3 class="mb-0">Types of Cervical Spine Surgery</h3>
@@ -475,10 +475,10 @@
          
         
         <!--<ol class="mb-0 mt-3">-->
-        <!--    <li><b>Anterior Cervical Discectomy and Fusion (ACDF):</b> One of the most common cervical spine surgeries, ACDF involves removing a damaged disc from the front of the neck to relieve nerve compression. This cervical discectomy in india procedure is widely performed by experienced surgeons to address disc-related issues. The affected vertebrae are then fused together using a bone graft and metal hardware to stabilize the spine.</li>-->
+        <!--    <li><b>Anterior Cervical Discectomy and Fusion (ACDF):</b> One of the most common cervical spine surgeries, ACDF involves removing a damaged disc from the front of the neck to relieve nerve compression. This cervical discectomy in pune procedure is widely performed by experienced surgeons to address disc-related issues. The affected vertebrae are then fused together using a bone graft and metal hardware to stabilize the spine.</li>-->
             
             
-        <!--    <li><b>Cervical Disc Replacement:</b>In this procedure, a damaged or degenerated disc is replaced with an artificial one through advanced Cervical Spine Surgery in India to maintain motion in the cervical spine. This cervical disc replacement surgery india technique is an alternative to spinal fusion and is often performed to treat herniated or degenerated discs.</li>-->
+        <!--    <li><b>Cervical Disc Replacement:</b>In this procedure, a damaged or degenerated disc is replaced with an artificial one through advanced Cervical Spine Surgery in Pune to maintain motion in the cervical spine. This cervical disc replacement surgery india technique is an alternative to spinal fusion and is often performed to treat herniated or degenerated discs.</li>-->
             
         <!--    <li><b>Posterior Cervical Laminectomy:</b> This surgery involves removing part of the vertebra (the lamina) from the back of the neck to create more space for the spinal cord and nerves. It is usually performed to relieve pressure caused by spinal stenosis or tumors.</li>-->
         <!--    <li><b>Foraminotomy:</b> In this minimally invasive procedure, the surgeon widens the foramen (the opening where nerves exit the spine) to relieve pressure on compressed nerves. This procedure is often performed to treat nerve pain from a herniated disc or bone spurs.</li>-->
@@ -494,7 +494,7 @@
                 <div class="service-card-number">1</div>
                 <h3 class="service-card-title">Anterior Cervical Discectomy and Fusion (ACDF)</h3>
                 <p class="service-card-description">
-                    One of the most common cervical spine surgeries, ACDF involves removing a damaged disc from the front of the neck to relieve nerve compression. This <span class="service-highlight">cervical discectomy in India</span> procedure is widely performed by experienced surgeons to address disc-related issues. The affected vertebrae are then fused together using a bone graft and metal hardware to stabilize the spine.
+                    One of the most common cervical spine surgeries, ACDF involves removing a damaged disc from the front of the neck to relieve nerve compression. This <span class="service-highlight">cervical discectomy in Pune</span> procedure is widely performed by experienced surgeons to address disc-related issues. The affected vertebrae are then fused together using a bone graft and metal hardware to stabilize the spine.
                 </p>
             </div>
             
@@ -502,7 +502,7 @@
                 <div class="service-card-number">2</div>
                 <h3 class="service-card-title">Cervical Disc Replacement</h3>
                 <p class="service-card-description">
-                    In this procedure, a damaged or degenerated disc is replaced with an artificial one through advanced <span class="service-highlight">Cervical Spine Surgery in India</span> to maintain motion in the cervical spine. This <span class="service-highlight">cervical disc replacement surgery India</span> technique is an alternative to spinal fusion and is often performed to treat herniated or degenerated discs.
+                    In this procedure, a damaged or degenerated disc is replaced with an artificial one through advanced <span class="service-highlight">Cervical Spine Surgery in Pune</span> to maintain motion in the cervical spine. This <span class="service-highlight">cervical disc replacement surgery India</span> technique is an alternative to spinal fusion and is often performed to treat herniated or degenerated discs.
                 </p>
             </div>
             
@@ -569,7 +569,7 @@
     
     <div class="container mt-5">
         <div class="service-header">
-            <h1>Why Choose Dr. Arun Saroha for Cervical Spine Surgery in India?</h1>
+            <h1>Why Choose Dr. Arun Saroha for Cervical Spine Surgery in Pune?</h1>
         </div>
         
         <div class="container">
@@ -583,7 +583,7 @@
                 </div>
                 <div class="col-lg-7 col-md-12 mb-4 mb-lg-0">
                     
-                    <p class="lead mb-4 mb-md-5 fs-6 fs-md-5">Dr. Arun Saroha is a renowned <a href="https://spineandbrainindia.com/">Best neurosurgeon in india</a> specializing in advanced Cervical Spine Surgery in India with over 25+ years of experience, making him one of the top specialists for Cervical Spine Surgery in India. His expertise in treating complex spine conditions, including degenerative disc disease, herniated discs, and spinal cord compression, has earned him a reputation for delivering excellent outcomes. As a leading cervical surgeon, Dr. Saroha has successfully performed thousands of surgeries, including minimally invasive procedures like Anterior Cervical Discectomy and Fusion (ACDF) and cervical disc replacement, which are known for their precision and faster recovery times. He is committed to offering personalized care, ensuring that each patient receives a thorough evaluation and the most appropriate treatment for their specific condition.
+                    <p class="lead mb-4 mb-md-5 fs-6 fs-md-5">Dr. Arun Saroha is a renowned <a href="https://spineandbrainindia.com/">Best neurosurgeon in pune</a> specializing in advanced Cervical Spine Surgery in Pune with over 25+ years of experience, making him one of the top specialists for Cervical Spine Surgery in Pune. His expertise in treating complex spine conditions, including degenerative disc disease, herniated discs, and spinal cord compression, has earned him a reputation for delivering excellent outcomes. As a leading cervical surgeon, Dr. Saroha has successfully performed thousands of surgeries, including minimally invasive procedures like Anterior Cervical Discectomy and Fusion (ACDF) and cervical disc replacement, which are known for their precision and faster recovery times. He is committed to offering personalized care, ensuring that each patient receives a thorough evaluation and the most appropriate treatment for their specific condition.
                     </p>                   
                     <!--<div class="d-flex gap-3">-->
                     <!--    <a href="#quote" class="btn btn-primary">Book an Appointment</a>-->
@@ -599,12 +599,12 @@
         
         <div class="faq-item">
             <div class="faq-question" onclick="toggleFAQ(this)">
-                <span>How much does cervical spine surgery cost in India?</span>
+                <span>How much does cervical spine surgery cost in Pune?</span>
                 <div class="plus-icon"></div>
             </div>
             <div class="faq-answer">
                 <div class="faq-answer-content">
-                    <span class="keyword-highlight">Cervical Spine Surgery in India</span> offers affordable treatment options with costs varying based on procedure complexity, hospital facilities, implants used, and recovery duration. <span class="keyword-highlight">Cervical disc replacement surgery india</span> and other procedures are significantly more cost-effective compared to Western countries while maintaining international quality standards. Contact specialists for detailed cost assessment based on individual medical requirements.
+                    <span class="keyword-highlight">Cervical Spine Surgery in Pune</span> offers affordable treatment options with costs varying based on procedure complexity, hospital facilities, implants used, and recovery duration. <span class="keyword-highlight">Cervical disc replacement surgery india</span> and other procedures are significantly more cost-effective compared to Western countries while maintaining international quality standards. Contact specialists for detailed cost assessment based on individual medical requirements.
                 </div>
             </div>
         </div>
@@ -623,12 +623,12 @@
         
         <div class="faq-item">
             <div class="faq-question" onclick="toggleFAQ(this)">
-                <span>What is the success rate of cervical spine surgery in India?</span>
+                <span>What is the success rate of cervical spine surgery in Pune?</span>
                 <div class="plus-icon"></div>
             </div>
             <div class="faq-answer">
                 <div class="faq-answer-content">
-                    <span class="keyword-highlight">Cervical Spine Surgery in India</span> shows 85-95% success rates. ACDF achieves 90-95% success for arm pain relief and 85-90% for neck pain. <span class="keyword-highlight">Cervical discectomy in india</span> procedures demonstrate excellent outcomes through advanced techniques, experienced <span class="keyword-highlight">cervical surgeons</span>, and international-standard facilities with minimally invasive approaches.
+                    <span class="keyword-highlight">Cervical Spine Surgery in Pune</span> shows 85-95% success rates. ACDF achieves 90-95% success for arm pain relief and 85-90% for neck pain. <span class="keyword-highlight">Cervical discectomy in pune</span> procedures demonstrate excellent outcomes through advanced techniques, experienced <span class="keyword-highlight">cervical surgeons</span>, and international-standard facilities with minimally invasive approaches.
                 </div>
             </div>
         </div>
@@ -640,7 +640,7 @@
             </div>
             <div class="faq-answer">
                 <div class="faq-answer-content">
-                    Dr. Arun Saroha specializes in <span class="keyword-highlight">Cervical Spine Surgery in India</span> with 25+ years experience. Book consultation by contacting his clinic directly. Provide medical reports and imaging studies. International patients can arrange online consultations. His team assists with treatment planning, cost estimates, and complete care from consultation to recovery.
+                    Dr. Arun Saroha specializes in <span class="keyword-highlight">Cervical Spine Surgery in Pune</span> with 25+ years experience. Book consultation by contacting his clinic directly. Provide medical reports and imaging studies. International patients can arrange online consultations. His team assists with treatment planning, cost estimates, and complete care from consultation to recovery.
                 </div>
             </div>
         </div>
@@ -718,11 +718,11 @@
                     <div class="container">
                         <div class="request-consult-wrap d-flex flex-wrap align-items-center position-relative w-100">
                             <div class="request-consult-title">
-                                <h3 class="mb-0"> Consult Dr. Arun Saroha, For The Best Cervical Spine Surgery in India</h3>
+                                <h3 class="mb-0"> Consult Dr. Arun Saroha, For The Best Cervical Spine Surgery in Pune</h3>
                                
                             </div>
                             <div class="request-consult-form">
-                                <p class="mb-0">Choose The Best Cervical Spine Surgery in India. Contact our top Spine Surgeon in India to book your consultation now.</p>
+                                <p class="mb-0">Choose The Best Cervical Spine Surgery in Pune. Contact our top Spine Surgeon in Pune to book your consultation now.</p>
                             
                             <!--CTA Form-->
                             <?php include 'cta-form.php';?>
@@ -734,6 +734,62 @@
             </section>
 
 
+<section class="locations-area pt-50 pb-50" style="background-color: #0f172a; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+    <div class="container">
+        <div class="d-flex justify-content-between align-items-center mb-4" style="border-bottom: 1px solid #1e293b; padding-bottom: 15px; flex-wrap: wrap; gap: 15px;">
+            <h3 class="mb-0 text-white" style="font-size: 20px; font-weight: 600; display: flex; align-items: center; gap: 10px;">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Leading Districts in Maharashtra
+            </h3>
+        </div>
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 15px 20px;">
+            <a href="cervical-spine-surgery-in-mumbai.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Mumbai
+            </a>
+            <a href="cervical-spine-surgery-in-pune.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Pune
+            </a>
+            <a href="cervical-spine-surgery-in-nagpur.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Nagpur
+            </a>
+            <a href="cervical-spine-surgery-in-thane.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Thane
+            </a>
+            <a href="cervical-spine-surgery-in-nashik.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Nashik
+            </a>
+            <a href="cervical-spine-surgery-in-kalyan.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Kalyan
+            </a>
+            <a href="cervical-spine-surgery-in-aurangabad.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Aurangabad
+            </a>
+            <a href="cervical-spine-surgery-in-navi-mumbai.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Navi Mumbai
+            </a>
+            <a href="cervical-spine-surgery-in-solapur.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Solapur
+            </a>
+            <a href="cervical-spine-surgery-in-mira-bhayandar.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Mira Bhayandar
+            </a>
+            <a href="cervical-spine-surgery-in-amravati.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Amravati
+            </a>
+        </div>
+    </div>
+</section>
 <section class="locations-area pt-50 pb-50" style="background-color: #0f172a; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
     <div class="container">
         <div class="d-flex justify-content-between align-items-center mb-4" style="border-bottom: 1px solid #1e293b; padding-bottom: 15px; flex-wrap: wrap; gap: 15px;">

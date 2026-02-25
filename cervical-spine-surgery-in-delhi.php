@@ -2,12 +2,438 @@
 <html lang="en">
     
 <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="" />
-        <meta name="keywords" content="" />
-       
-        <title>Dr. Arun Saroha: Best Neurosurgeon & Spine Surgeon in India</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        
+<title>Expert Cervical Spine Surgery in Delhi - Dr. Arun Saroha, Leading Spine Specialist</title>
+
+<meta name="description" content="Expert cervical spine surgery in Delhi with Dr. Arun Saroha, leading spine specialist offering advanced treatment for neck pain, herniated discs, and spinal stenosis." />
+        
+<meta name="keywords" content="Cervical Spine Surgery in Delhi, Cervical Spine Surgeon, Cervical Disc Surgery" />
+<link rel="canonical" href="https://spineandbrainindia.com/cervical-spine-surgery-in-delhi" />
+        
+        <!--Open Graph Tags-->
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://www.spineandbrainindia.com/cervical-spine-surgery-in-delhi.php" />
+        <meta property="og:keywords" content="Cervical Spine Surgery, Cervical Spine Conditions, Neck Surgery, Neurosurgery Expert, Spine and Brain Surgery" />
+        <meta property="og:title" content="Best Cervical Spine Surgery in Delhi | Dr. Arun Saroha" />
+        <meta property="og:description" content="Looking for the best cervical spine surgery in Delhi? Dr. Arun Saroha offers advanced surgical solutions for spine conditions, ensuring successful outcomes." />
+        
+        
+        
+        
+        
+        <!--Schema Markup-->
+        
+        <script type="application/ld+json">{ "@context": "https://schema.org/", "@type": "Product", "name": "Expert Cervical Spine Surgery in Delhi - Dr. Arun Saroha, Leading Spine Specialist", "image": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp", "description": "Expert cervical spine surgery in Delhi with Dr. Arun Saroha, leading spine specialist offering advanced treatment for neck pain, herniated discs, and spinal stenosis.", "brand": "Dr. Arun Saroha", "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.8", "bestRating": "5", "worstRating": "1", "ratingCount": "358" }}</script>
+      
+        
+        <script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "MedicalClinic",
+  "name": "Spine and Brain Delhi",
+  "url": "https://spineandbrainindia.com/cervical-spine-surgery-in-delhi",
+  "logo": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
+  "description": "Specialized cervical spine surgery by Dr. Arun Saroha in Delhi.",
+  "medicalSpecialty": "Orthopedic",
+  "availableService": {
+    "@type": "MedicalProcedure",
+    "name": "Cervical Spine Surgery",
+    "procedureType": "Anterior Cervical Discectomy and Fusion (ACDF), Artificial Disc Replacement, Posterior Cervical Laminectomy, Posterior Cervical Fusion",
+    "additionalType": "http://www.wikidata.org/entity/Q1070520",
+    "bodyLocation": "Cervical Spine",
+    "followup": "Regular follow-ups to monitor recovery",
+    "preparation": "Consultation with the doctor",
+    "indication": "Herniated discs, spinal stenosis, cervical spondylosis",
+    "url": "https://spineandbrainindia.com/cervical-spine-surgery-in-delhi"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Max Super Speciality Hospital, Department of Spine and Neurosurgery, West Block, Ground Floor, Room No. 7",
+    "addressLocality": "Saket",
+    "addressRegion": "New Delhi",
+    "postalCode": "110017",
+    "addressCountry": "India"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+91 9990778811",
+    "contactType": "Customer Service"
+  },
+  "sameAs": [
+    "https://www.facebook.com/SpineAndBrainIndia",
+    "https://twitter.com/SpineBrainIndia",
+    "https://www.instagram.com/SpineAndBrainIndia"
+  ]
+}
+</script>
+
+
+<!-- FAQ Schema Markup -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does cervical spine surgery cost in Delhi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cervical Spine Surgery in Delhi offers affordable treatment options with costs varying based on procedure complexity, hospital facilities, implants used, and recovery duration. Cervical disc replacement surgery india and other procedures are significantly more cost-effective compared to Western countries while maintaining international quality standards. Contact specialists for detailed cost assessment based on individual medical requirements."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which surgery is best for cervical spine?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The best cervical spine surgeons recommend surgery based on individual conditions. ACDF is ideal for herniated discs with nerve compression. Cervical disc replacement suits younger patients wanting mobility preservation. Top cervical spine surgeons like Dr. Arun Saroha evaluate each case using advanced imaging to determine the optimal surgical approach for long-term success."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the success rate of cervical spine surgery in Delhi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cervical Spine Surgery in Delhi shows 85-95% success rates. ACDF achieves 90-95% success for arm pain relief and 85-90% for neck pain. Cervical discectomy in delhi procedures demonstrate excellent outcomes through advanced techniques, experienced cervical surgeons, and international-standard facilities with minimally invasive approaches."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How to book treatment with Dr. Arun Saroha?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dr. Arun Saroha specializes in Cervical Spine Surgery in Delhi with 25+ years experience. Book consultation by contacting his clinic directly. Provide medical reports and imaging studies. International patients can arrange online consultations. His team assists with treatment planning, cost estimates, and complete care from consultation to recovery."
+          }
+        }
+      ]
+    }
+    </script>
+    
+     <style>
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .service-header {
+            text-align: center;
+            margin-bottom: 40px;
+            color: black;
+        }
+
+        .service-header h1 {
+            font-size: 2.5rem !important;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .service-header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        .service-cards-grid {
+            display: grid;
+            gap: 24px;
+            grid-template-columns: 1fr;
+        }
+
+        .service-card {
+            background: white;
+            border-radius: 16px !important;
+            padding: 28px;
+            box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+            justify-items: center
+        }
+
+        .service-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(90deg, #4facfe 0%, #2f3abd 100%);
+        }
+
+        .service-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 15px 35px rgba(0,0,0,0.2);
+        }
+
+        .service-card-number {
+            display: inline-block;
+            background: linear-gradient(135deg, #1731a3 , #270f3f);
+            color: white;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            font-weight: bold;
+            font-size: 1.2rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 16px;
+        }
+
+        .service-card-title {
+            font-size: 1.4rem;
+            font-weight: 700;
+            color: #2d3748;
+            margin-bottom: 16px;
+            line-height: 1.3;
+        }
+
+        .service-card-description {
+            color: #4a5568;
+            line-height: 1.6;
+            font-size: 0.95rem;
+        }
+
+        .service-highlight {
+            color: #667eea;
+            font-weight: 600;
+        }
+
+        /* Responsive Design */
+        @media (min-width: 576px) {
+            .service-cards-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        @media (max-width: 575px) {
+            .service-header h1 {
+                font-size: 2rem;
+            }
+            
+            .service-card {
+                padding: 20px;
+            }
+            
+            .service-card-title {
+                font-size: 1.2rem;
+            }
+        }
+
+        @media (min-width: 768px) {
+            .container {
+                padding: 0 20px;
+            }
+            
+            .service-header h1 {
+                font-size: 3rem;
+            }
+            
+            .service-card {
+                padding: 32px;
+            }
+        }
+
+        @media (min-width: 992px) {
+            .service-cards-grid {
+                gap: 30px;
+            }
+        }
+    </style>
+    
+    
+      <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: transparent;
+            color: #333;
+            line-height: 1.6;
+        }
+        
+        .faq-container {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 20px;
+            background: transparent;
+            border-radius: 12px;
+            box-shadow: none;
+        }
+        
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 40px;
+            font-size: 2.2em;
+            font-weight: 700;
+        }
+        
+        .faq-item {
+            margin-bottom: 15px;
+            border: 1px solid #e1e8ed;
+            border-radius: 8px;
+            overflow: hidden;
+            transition: all 0.3s ease;
+        }
+        
+        .faq-item:hover {
+            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+        }
+        
+        .faq-question {
+            background: #f8f9fa;
+            color: #333;
+            padding: 20px 25px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: all 0.3s ease;
+            user-select: none;
+            border-bottom: 1px solid #e1e8ed;
+        }
+        
+        .faq-question:hover {
+            background: #e9ecef;
+        }
+        
+        .faq-question.active {
+            background: #dee2e6;
+        }
+        
+        .plus-icon {
+            width: 24px;
+            height: 24px;
+            border: 2px solid #333;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 18px;
+            font-weight: bold;
+            transition: all 0.3s ease;
+            flex-shrink: 0;
+            margin-left: 15px;
+            color: #333;
+        }
+        
+        .plus-icon::before {
+            content: '+';
+            transition: transform 0.3s ease;
+        }
+        
+        .faq-question.active .plus-icon::before {
+            transform: rotate(45deg);
+        }
+        
+        .faq-answer {
+            max-height: 0;
+            overflow: hidden;
+            transition: all 0.4s ease-out;
+            background: #ffffff;
+        }
+        
+        .faq-answer.active {
+            max-height: 500px;
+            padding: 25px;
+        }
+        
+        .faq-answer-content {
+            font-size: 15px;
+            color: #555;
+            line-height: 1.7;
+            text-align: justify;
+        }
+        
+        .keyword-highlight {
+            font-weight: 600;
+            color: #333;
+        }
+        
+        .faq-item:nth-child(even) .faq-question {
+            background: #f8f9fa;
+        }
+        
+        .faq-item:nth-child(even) .faq-question:hover {
+            background: #e9ecef;
+        }
+        
+        .faq-item:nth-child(even) .faq-question.active {
+            background: #dee2e6;
+            color: #333;
+        }
+        
+        .faq-item:nth-child(even) .faq-question.active .plus-icon {
+            border-color: #333;
+            color: #333;
+        }
+        
+        @media (max-width: 768px) {
+            .faq-container {
+                margin: 20px;
+                padding: 15px;
+            }
+            
+            h1 {
+                font-size: 1.8em;
+                margin-bottom: 30px;
+            }
+            
+            .faq-question {
+                padding: 15px 20px;
+                font-size: 15px;
+            }
+            
+            .faq-answer.active {
+                padding: 20px;
+            }
+            
+            .plus-icon {
+                width: 20px;
+                height: 20px;
+                font-size: 16px;
+            }
+        }
+        
+        /* Smooth scrolling animation */
+        .faq-item {
+            animation: fadeInUp 0.6s ease-out forwards;
+            opacity: 0;
+            transform: translateY(20px);
+        }
+        
+        .faq-item:nth-child(1) { animation-delay: 0.1s; }
+        .faq-item:nth-child(2) { animation-delay: 0.2s; }
+        .faq-item:nth-child(3) { animation-delay: 0.3s; }
+        .faq-item:nth-child(4) { animation-delay: 0.4s; }
+        
+        @keyframes fadeInUp {
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+    </style>
+
+
+<style>
+     @media (min-width: 1030px) and (max-width: 2560px) {
+    .request-consult-title {
+        padding-left: 80px;
+    }
+}
+</style>
+        
 <?php include 'header.php';?>
         <section>
                 <div class="w-100 pt-100 black-layer opc5 pb-80 position-relative">
@@ -15,12 +441,8 @@
                     <div class="container">
                         <div class="page-title-wrap text-center w-100">
                             <div class="page-title-inner d-inline-block">
-                                <h1 class="mb-0">Back Pain Treatment In Delhi </h1>
-                                <ol class="breadcrumb mb-0 justify-content-center">
-                                    <li class="breadcrumb-item"><a href="index.php" title="">Home</a></li>
-                                    <li class="breadcrumb-item"><a href="back-pain-treatment.php" title="">Back Pain Treatment In Delhi</a></li>
-                                    <!--<li class="breadcrumb-item active">Child Psychotherapy</li>-->
-                                </ol>
+                                <h1 class="mb-0">Expert Cervical Spine Surgery in Delhi - Dr. Arun Saroha, Leading Spine Specialist</h1>
+                                
                             </div>
                         </div><!-- Page Title Wrap -->
                     </div>
@@ -34,92 +456,233 @@
                                 <div class="col-md-12 col-sm-12 col-lg-8">
                                     <div class="post-detail w-100">
                                         <div class="post-feat-img serv-detail-img brd-rd10 position-relative overflow-hidden w-100">
-                                            <img class="img-fluid w-100" src="assets/img/services/Back pain.webp" alt="Service Detail Image">
+                                            <img class="img-fluid w-100" src="assets/img/services/Cervical spine surgery_11zon.webp" alt="Service Detail Image">
                                         </div>
                                         
-                                        <h3 class="mb-0">The Best Cervical Spine Treatment in Delhi: Dr. Arun Saroha at Max Super Specialty Hospital</h3>
-                                        
-                                        
-                                        
-                                        <p class="mb-0">If you are looking for the best cervical spine treatment in Delhi, you can count on Dr. Arun Saroha at Max Super Specialty Hospital, Saket. Dr. Saroha is a renowned neurosurgeon with over 20 years of experience in neurosurgery and spine surgery. He is a graduate and post-graduate from Rabindranath Tagore Medical College, Udaipur, and has completed his M.Ch in NeuroSurgery from the Post-graduate Institute of Medical Education & Research (PGIMER), Chandigarh.</p>
-                                        <p class="mb-0"> Dr. Saroha is one of the most respected names in neurosurgery and has been honored with many prestigious awards, including the Spine Surgeon Award by Big Research Awards. He has participated in various symposiums and workshops and has attended numerous national and international conferences. Dr. Saroha is a member of many prestigious organizations in the field of Neurology and spine surgery across India and the USA. He is also associated with many social organizations for providing free treatment to poor patients.</p>
-                                        
-                                        
-                                        <!--<blockquote class="blockquote text-center thm-bg brd-rd10">-->
-                                        <!--    <i class="flaticon-quote d-block"></i>-->
-                                        <!--    <p class="mb-0"><strong>NOTE: </strong> One must also keep a note that if back pain is accompanied by fever, bladder, or bowel problems, then one must seek immediate care, as it can be a sign of some serious medical condition.</p>-->
-                                        <!--</blockquote>-->
-                                        
-                                        
-                                        <h3 class="mb-0">Cervical Spine Treatment in Delhi</h3>
-                                        
-                                        <p class="mb-0">Dr. Arun Saroha offers comprehensive care for all types of neurological problems related to the cervical spine. He has expertise in various domains of Neurosurgery and Spine Surgery, including Degenerative Spine Disorders, Brain Tumors, Disc Replacements, and Complex Spine Fixation. Dr. Saroha, with his team, provides consultation for all types of cervical spine problems and offers the best possible treatment to his patients.
-</p>
-                         
-                         
+                                        <h3 class="mb-0">Understanding the Cervical Spine</h3>
+                                       <p class="mb-0">The cervical spine is the upper portion of the spine, consisting of seven vertebrae (C1-C7) located in the neck requiring specialized Cervical Spine Surgery in Delhi when damaged. These vertebrae support the head's weight and enable its wide range of motion, including bending, twisting, and tilting. The cervical spine also houses the spinal cord, which serves as a communication pathway between the brain and the rest of the body. When issues arise with the cervical discs, patients often seek cervical discectomy in delhi as an effective treatment option. Surrounding the vertebrae are discs that act as shock absorbers and allow flexibility, along with muscles and ligaments that provide additional support.</p>
+                                       <br>
+                                       <h3 class="mb-0:">What is Cervical Spine Surgery?</h3>
+                                       <p class="mb-0">Cervical spine surgery is a specialized procedure available through expert Cervical Spine Surgery in Delhi designed to address conditions affecting the neck portion of the spine. The goal of the surgery is to relieve pressure on the spinal cord or nerves, stabilize the spine, and restore normal function. This type of surgery may be necessary for individuals with severe cervical spine issues such as herniated discs, degenerative disc disease, or spinal cord surgery in delhi complications requiring immediate intervention.</p>
+                                       
+                                       
+                                       <p class="mb-0">There are several approaches to cervical spine surgery in Delhi depending on the patient's condition. Some procedures aim to decompress the nerves by removing parts of the bone or disc material, while others focus on fusing vertebrae to enhance spinal stability. For patients requiring disc replacement, cervical disc replacement surgery india offers an alternative to traditional fusion procedures. Advances in medical technology have allowed many cervical spine surgeries to be minimally invasive, reducing recovery times and minimizing tissue damage. Surgical intervention is often recommended only after non-surgical treatments, such as physical therapy, medications, or injections, have proven ineffective.</p>   
+                                          
+                                     <br>      
+<h3 class="mb-0">Types of Cervical Spine Surgery</h3>
+ <img src="/assets/images/Types of Cervical Spine Surgery - visual selection.png" 
+         alt="Types of Cervical Spine Surgery - Visual Selection"> 
+         
+        
+        <!--<ol class="mb-0 mt-3">-->
+        <!--    <li><b>Anterior Cervical Discectomy and Fusion (ACDF):</b> One of the most common cervical spine surgeries, ACDF involves removing a damaged disc from the front of the neck to relieve nerve compression. This cervical discectomy in delhi procedure is widely performed by experienced surgeons to address disc-related issues. The affected vertebrae are then fused together using a bone graft and metal hardware to stabilize the spine.</li>-->
+            
+            
+        <!--    <li><b>Cervical Disc Replacement:</b>In this procedure, a damaged or degenerated disc is replaced with an artificial one through advanced Cervical Spine Surgery in Delhi to maintain motion in the cervical spine. This cervical disc replacement surgery india technique is an alternative to spinal fusion and is often performed to treat herniated or degenerated discs.</li>-->
+            
+        <!--    <li><b>Posterior Cervical Laminectomy:</b> This surgery involves removing part of the vertebra (the lamina) from the back of the neck to create more space for the spinal cord and nerves. It is usually performed to relieve pressure caused by spinal stenosis or tumors.</li>-->
+        <!--    <li><b>Foraminotomy:</b> In this minimally invasive procedure, the surgeon widens the foramen (the opening where nerves exit the spine) to relieve pressure on compressed nerves. This procedure is often performed to treat nerve pain from a herniated disc or bone spurs.</li>-->
+        <!--</ol>-->
+        
+        <div class="container">
+        <div class="service-header">
+            <h1>Cervical Spine Surgery Types</h1>
+        </div>
+        
+        <div class="service-cards-grid">
+            <div class="service-card">
+                <div class="service-card-number">1</div>
+                <h3 class="service-card-title">Anterior Cervical Discectomy and Fusion (ACDF)</h3>
+                <p class="service-card-description">
+                    One of the most common cervical spine surgeries, ACDF involves removing a damaged disc from the front of the neck to relieve nerve compression. This <span class="service-highlight">cervical discectomy in Delhi</span> procedure is widely performed by experienced surgeons to address disc-related issues. The affected vertebrae are then fused together using a bone graft and metal hardware to stabilize the spine.
+                </p>
+            </div>
+            
+            <div class="service-card">
+                <div class="service-card-number">2</div>
+                <h3 class="service-card-title">Cervical Disc Replacement</h3>
+                <p class="service-card-description">
+                    In this procedure, a damaged or degenerated disc is replaced with an artificial one through advanced <span class="service-highlight">Cervical Spine Surgery in Delhi</span> to maintain motion in the cervical spine. This <span class="service-highlight">cervical disc replacement surgery India</span> technique is an alternative to spinal fusion and is often performed to treat herniated or degenerated discs.
+                </p>
+            </div>
+            
+            <div class="service-card">
+                <div class="service-card-number">3</div>
+                <h3 class="service-card-title">Posterior Cervical Laminectomy</h3>
+                <p class="service-card-description">
+                    This surgery involves removing part of the vertebra (the lamina) from the back of the neck to create more space for the spinal cord and nerves. It is usually performed to relieve pressure caused by spinal stenosis or tumors.
+                </p>
+            </div>
+            
+            <div class="service-card">
+                <div class="service-card-number">4</div>
+                <h3 class="service-card-title">Foraminotomy</h3>
+                <p class="service-card-description">
+                    In this minimally invasive procedure, the surgeon widens the foramen (the opening where nerves exit the spine) to relieve pressure on compressed nerves. This procedure is often performed to treat nerve pain from a herniated disc or bone spurs.
+                </p>
+            </div>
+        </div>
+    </div>
 
-                                       
-                                        <h3 class="mb-0">Cervical Spine Treatment Cost in Delhi</h3>
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        <p  class="mb-0">The cost of cervical spine treatment in Delhi may vary depending on the type of treatment required. Dr. Arun Saroha's fees are very reasonable and competitive, making him a popular choice among patients looking for cervical spine treatment in Delhi.</p>
-                                        <p  class="mb-0">Dr. Saroha has a vast experience of 13 years of working with some of the Neurosurgical hospitals like VIMHANS, Paras Hospital, and Artemis Hospitals. Presently, he provides his services in Max Hospital, Gurgaon, and Saket. He and his team offer comprehensive care for all types of neurological problems.</p>
-                                       
-                                       <h3> Back Pain Treatment Cost in India</h3>
-                                       <p>The cost of back pain treatment in India varies depending on the severity and type of treatment needed. In general, the cost of treatment in India is much lower than in Western countries.
-
-At Max Super Specialty Hospital, Saket, the cost of back pain treatment starts at approximately 100,000 INR. However, the final cost will depend on the type of treatment required and other factors. The hospital offers a variety of payment options, including cash, credit/debit card, and insurance.
-</p>
-                                       
-                                       
-                                       <h3>Cervical Spine Surgery in Delhi</h3>
-                                       <p> Cervical spine surgery is a delicate procedure that requires expertise and experience. Dr. Arun Saroha has a vast experience of 13 years of working with some of the best neurosurgical hospitals like VIMHANS, Paras Hospital, and Artemis Hospitals. Presently, he provides his services in Max Hospital, Gurgaon, and Saket. Dr. Saroha and his team perform cervical spine surgery with utmost care and precision, ensuring the best possible outcome for their patients.
-
-If you are looking for the best doctor for cervical spine surgery in Delhi, Dr. Arun Saroha should be your top choice. He has performed more than eight thousand surgeries successfully so far, and his patients have always had a positive experience. Dr. Saroha has a passion for improving the quality of life of patients who are suffering from brain & spine problems, and through his skills and knowledge, he provides them with the best possible treatment.
-</p>
-
-                                       
-                                       
-                                        <h3 class="mb-0">Dr. Arun Saroha's Expertise</h3>
-                                        
-                                        
-                                        
-                                <p class="mb-0">Dr. Arun Saroha is an expert in treating brain and spine disorders like Degenerative Spine Disorders, Brain Tumors, Disc Replacements, Paediatric Neurosurgeries, and many more. Prior to joining Max Healthcare, he was associated as Head-Neurosurgery at Artemis Hospital, Gurgaon. He has a large number of patients coming from across the world, and his expertise in the field of neurosurgery and spine surgery is unparalleled.</p>
-
-                            </div>
-                                
-                                
+    <br>
+    
+    <div class="container">
+        <div class="service-header">
+            <h1>Treatments for Cervical Spine</h1>
+        </div>
+        
+        <div class="service-cards-grid">
+            <div class="service-card">
+                <div class="service-card-number">1</div>
+                <h3 class="service-card-title">Physical Therapy</h3>
+                <p class="service-card-description">
+                   A program of exercises and stretches aimed at strengthening the muscles supporting the cervical spine, improving flexibility, and reducing pain.
+                </p>
+            </div>
+            
+            <div class="service-card">
+                <div class="service-card-number">2</div>
+                <h3 class="service-card-title">Medications</h3>
+                <p class="service-card-description">
+                   Anti-inflammatory drugs, pain relievers, and muscle relaxants are often prescribed to manage symptoms associated with cervical spine conditions.
+                </p>
+            </div>
+            
+            <div class="service-card">
+                <div class="service-card-number">3</div>
+                <h3 class="service-card-title">Epidural Steriod Injections</h3>
+                <p class="service-card-description">
+                   These injections deliver anti-inflammatory medication directly into the affected area of the spine to reduce pain and inflammation, particularly in cases of nerve compression.
+                </p>
+            </div>
+            
+            <div class="service-card">
+                <div class="service-card-number">4</div>
+                <h3 class="service-card-title">Lifestyle Modifications</h3>
+                <p class="service-card-description">
+                    For many cervical spine conditions, lifestyle changes such as maintaining good posture, avoiding heavy lifting, and incorporating ergonomic adjustments can reduce strain on the neck and prevent further injury.
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    
+    <div class="container mt-5">
+        <div class="service-header">
+            <h1>Why Choose Dr. Arun Saroha for Cervical Spine Surgery in Delhi?</h1>
+        </div>
+        
+        <div class="container">
+            <div class="row flex-column-reverse flex-lg-row align-items-center">
+                <div class="col-lg-5 col-md-12 mt-4 mt-lg-0">
+                    <div class="card-body p-3 p-md-4 ">
+                        <div>
+                            <img src="assets/images/resources2/drarundef_11zon.webp" alt="" class=" service-img" style="    margin-top: -100px;">
+                        </div>
+                    </div>
                 </div>
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                                <div class="col-md-6 col-sm-8 col-lg-4">
+                <div class="col-lg-7 col-md-12 mb-4 mb-lg-0">
+                    
+                    <p class="lead mb-4 mb-md-5 fs-6 fs-md-5">Dr. Arun Saroha is a renowned <a href="https://spineandbrainindia.com/">Best neurosurgeon in delhi</a> specializing in advanced Cervical Spine Surgery in Delhi with over 25+ years of experience, making him one of the top specialists for Cervical Spine Surgery in Delhi. His expertise in treating complex spine conditions, including degenerative disc disease, herniated discs, and spinal cord compression, has earned him a reputation for delivering excellent outcomes. As a leading cervical surgeon, Dr. Saroha has successfully performed thousands of surgeries, including minimally invasive procedures like Anterior Cervical Discectomy and Fusion (ACDF) and cervical disc replacement, which are known for their precision and faster recovery times. He is committed to offering personalized care, ensuring that each patient receives a thorough evaluation and the most appropriate treatment for their specific condition.
+                    </p>                   
+                    <!--<div class="d-flex gap-3">-->
+                    <!--    <a href="#quote" class="btn btn-primary">Book an Appointment</a>-->
+                    <!--</div>-->
+                </div>
+            </div>
+        </div>
+        
+    </div>
+    
+ <div class="faq-container">
+        <h1>Frequently Asked Questions - Cervical Spine Surgery</h1>
+        
+        <div class="faq-item">
+            <div class="faq-question" onclick="toggleFAQ(this)">
+                <span>How much does cervical spine surgery cost in Delhi?</span>
+                <div class="plus-icon"></div>
+            </div>
+            <div class="faq-answer">
+                <div class="faq-answer-content">
+                    <span class="keyword-highlight">Cervical Spine Surgery in Delhi</span> offers affordable treatment options with costs varying based on procedure complexity, hospital facilities, implants used, and recovery duration. <span class="keyword-highlight">Cervical disc replacement surgery india</span> and other procedures are significantly more cost-effective compared to Western countries while maintaining international quality standards. Contact specialists for detailed cost assessment based on individual medical requirements.
+                </div>
+            </div>
+        </div>
+        
+        <div class="faq-item">
+            <div class="faq-question" onclick="toggleFAQ(this)">
+                <span>Which surgery is best for cervical spine?</span>
+                <div class="plus-icon"></div>
+            </div>
+            <div class="faq-answer">
+                <div class="faq-answer-content">
+                    The <span class="keyword-highlight">best cervical spine surgeons</span> recommend surgery based on individual conditions. ACDF is ideal for herniated discs with nerve compression. Cervical disc replacement suits younger patients wanting mobility preservation. <span class="keyword-highlight">Top cervical spine surgeons</span> like Dr. Arun Saroha evaluate each case using advanced imaging to determine the optimal surgical approach for long-term success.
+                </div>
+            </div>
+        </div>
+        
+        <div class="faq-item">
+            <div class="faq-question" onclick="toggleFAQ(this)">
+                <span>What is the success rate of cervical spine surgery in Delhi?</span>
+                <div class="plus-icon"></div>
+            </div>
+            <div class="faq-answer">
+                <div class="faq-answer-content">
+                    <span class="keyword-highlight">Cervical Spine Surgery in Delhi</span> shows 85-95% success rates. ACDF achieves 90-95% success for arm pain relief and 85-90% for neck pain. <span class="keyword-highlight">Cervical discectomy in delhi</span> procedures demonstrate excellent outcomes through advanced techniques, experienced <span class="keyword-highlight">cervical surgeons</span>, and international-standard facilities with minimally invasive approaches.
+                </div>
+            </div>
+        </div>
+        
+        <div class="faq-item">
+            <div class="faq-question" onclick="toggleFAQ(this)">
+                <span>How to book treatment with Dr. Arun Saroha?</span>
+                <div class="plus-icon"></div>
+            </div>
+            <div class="faq-answer">
+                <div class="faq-answer-content">
+                    Dr. Arun Saroha specializes in <span class="keyword-highlight">Cervical Spine Surgery in Delhi</span> with 25+ years experience. Book consultation by contacting his clinic directly. Provide medical reports and imaging studies. International patients can arrange online consultations. His team assists with treatment planning, cost estimates, and complete care from consultation to recovery.
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function toggleFAQ(element) {
+            const faqItem = element.parentElement;
+            const answer = faqItem.querySelector('.faq-answer');
+            const question = faqItem.querySelector('.faq-question');
+            
+            // Close all other FAQs
+            const allFAQs = document.querySelectorAll('.faq-item');
+            allFAQs.forEach(item => {
+                if (item !== faqItem) {
+                    item.querySelector('.faq-answer').classList.remove('active');
+                    item.querySelector('.faq-question').classList.remove('active');
+                }
+            });
+            
+            // Toggle current FAQ
+            answer.classList.toggle('active');
+            question.classList.toggle('active');
+        }
+        
+        // Add smooth scroll behavior
+        document.addEventListener('DOMContentLoaded', function() {
+            const faqItems = document.querySelectorAll('.faq-item');
+            faqItems.forEach((item, index) => {
+                setTimeout(() => {
+                    item.style.opacity = '1';
+                    item.style.transform = 'translateY(0)';
+                }, index * 100);
+            });
+        });
+    </script>
+                                       
+   
+
+                                    </div>
+                                </div>
+                                <div class="col-md-12 col-sm-8 col-lg-4">
                                     <?php include 'service-sidebar.php';?>
                                 </div>
                             </div>
@@ -128,88 +691,256 @@ If you are looking for the best doctor for cervical spine surgery in Delhi, Dr. 
                 </div>
             </section>
             <section>
+               
+                
+            </section>
+
+            
+            <section>
                 <div class="w-100  pb-90 position-relative">
                         <div class="container">
                             
-                            <div class="team-detail-wrap">
-                               <h3 class="mb-0">Best Doctor for Cervical Spondylosis in India</h3>
-                               <p>Dr. Arun Saroha is a renowned neurosurgeon with expertise in treating cervical spondylosis. He has participated in various symposiums and workshops and has attended various national and international</p>
-                               
-                            </div>
-                            <div class="team-detail-wrap">
-                                <h3 class="mb-0">Back Pain Treatment in India: Get Relief from Your Aches with Dr. Arun Saroha</h3>
-
-                                <p class="mb-0"><img class="img-fluid brd-rd10 alignright" src="assets/img/services/back pain 1.webp" alt="Course Detail Image 2">Are you tired of dealing with chronic back pain? Do you want to find the best doctor for back pain in India who can help alleviate your discomfort? Look no further than Dr. Arun Saroha, a renowned neurosurgeon with over 20 years of experience in treating various brain and spine disorders.</p>
-                                     <p>In this article, we'll provide you with all the information you need to know about back pain treatment in India, including the best doctor for back pain, treatment costs, and available surgical options. We'll also discuss cervical spondylosis, another common condition that can cause neck and shoulder pain, and how Dr. Saroha can help treat it.</p>
-                                  
-                                
-                            </div>
-                            <div class="team-detail-wrap">
-                                <h3 class="mb-0">Best Doctor for Back Pain in India: Meet Dr. Arun Saroha</h3>
-                                <p class="mb-0">Dr. Arun Saroha is a highly qualified and experienced neurosurgeon who practices at Max Super Specialty Hospital in Saket, Delhi. He has completed his medical education from prestigious institutions such as Rabindranath Tagore Medical College and Postgraduate Institute of Medical Education & Research (PGIMER), and has been honored with numerous awards for his contributions to the field of neurosurgery.</p>
-                                <p>With his extensive experience and expertise, Dr. Saroha has become one of the best doctors for back pain in India. He specializes in treating degenerative spine disorders, brain tumors, disc replacements, and complex spine fixation. His team offers comprehensive care for all types of neurological problems, and he has helped thousands of patients achieve relief from chronic pain and discomfort.</p>
-                            </div>
+                         
                             
-                            
-                            
-                            <div class="team-detail-wrap">
-                                <h3 class="mb-0">Back Pain Treatment Cost in India: How Much Does it Cost?</h3>
-                                <p class="mb-0">The cost of back pain treatment in India can vary depending on several factors, such as the type of treatment required, the severity of the condition, and the location of the hospital. Generally, non-surgical treatments such as physical therapy and medication are less expensive than surgery.
-
-However, it's important to note that choosing the cheapest option may not always be the best decision when it comes to your health. It's crucial to prioritize the quality of care and the expertise of the doctor, which may require a higher cost.
-</p>
-                            </div>
-                            
-                            
+                         
                             
                              <div class="team-detail-wrap">
-                                <h3 class="mb-0">Back Pain Surgery in India: What are Your Options?</h3>
-                                <p>If non-surgical treatments are not effective in relieving your back pain, surgery may be recommended. There are several surgical options available for back pain treatment in India, including:</p>
-                                <div class="container">
-                                    <div class="row">
-                                        <div class="col-lg-12 col-sm-12 team-detail-wrap">
-                                            <ul class="mb-0 list-unstyled">
-                                                <li><b>Microdiscectomy:</b> This minimally invasive surgery involves removing a herniated or bulging disc that is pressing on a nerve root, causing pain and discomfort.</li>
-                                                <li><b>Lumbar Fusion:</b> This surgery involves fusing two or more vertebrae together to stabilize the spine and reduce pain.
-</li>
-                                                <li><b>Spinal Decompression: </b> This procedure involves removing the bony overgrowth that may be pressing on spinal nerves and causing pain.
-
-</li>
-                                            </ul>
-                                            <p>Dr. Arun Saroha is experienced in performing these and many other surgical procedures to treat back pain. He will carefully evaluate your condition and recommend the best treatment option based on your individual needs.</p>
-                                        </div>
-                                        
-                                    </div>
-                                    <div class="team-detail-wrap">
-                                        <h3 class="mb-0">Cervical Spondylosis Treatment in India: What You Need to Know</h3>
-                                    <p style="margin-top:1rem">Cervical spondylosis is a common condition that affects the neck and shoulder area, causing pain and discomfort. It occurs when the discs between the vertebrae in the neck begin to deteriorate, leading to bone spurs and narrowing of the spinal canal.</p>
-                                    <p>If you're looking for the best doctor for cervical spondylosis in India, Dr. Arun Saroha is a great choice. He has extensive experience in treating this condition and offers various treatment options such as physical therapy, medication, and surgery.</p>
-                                    </div>
-                                </div>
                                 
-                                
-                            </div>
-                            <div class="team-detail-wrap post-detail">
-                                <h3 class="mb-0">Ways to Prevent Back Pain</h3>
-                                <p class="mb-0">One must refrain themselves from performing strenuous heavy physical activities and bending activities, as it might actually harm your back. Inactiveness can make the bones and muscles stiff. Hence, one can perform brisk activities like walking and stretching, as recommended by the doctor. If someone is suffering from back pain, then one must consult with a spine specialist to cure the condition.</p>
-                                
-                                 <ul class="mb-0 list-unstyled">
-                                    <li>Do not try to lift heavy objects that are too heavy.</li>
-                                    <li>Wear comfortable and short heeled shoes.</li>
-                                    <li>Maintain a healthy weight and eat a nutritious diet that is rich in calcium and vitamin D to maintain bone strength.</li>
-                                    <li>Sit straight and maintain a good sitting posture and use ergonomically designed furniture.</li>
-                                    <li>Sleep in a fetal position can help the spine and joint to relieve pressure by reducing the spine curvature.</li>
-                                    <li>Quit smoking and alcohol consumption, as they reduce the blow flow to the lower spine and cause spinal disc degeneration and osteoporosis</li>
-                                    <li>Perform low-impact, age-appropriate exercises regularly to keep muscles strong and flexible.</li>
-                                 </ul>
-                                 
-                                <p class="mb-0">Dr. Arun Saroha is an expert back pain doctor in Delhi, India with more than 25 + years of experience and has provided the best results to the patient suffering from back pain concerns. He has performed more than 6,000+ successful surgeries for brain and spinal problems. His surgical skills and using cutting-edge technology help him deliver the patients with excellent outcomes and bring more patients worldwide.</p>
-                            </div>
-                        </div>
                 </div>
                 
             </section>
-            <?php include 'single-line-form.php';?>
+            
+            
+                        <!--Call To Action-->
+            <section>
+                <div class="w-100 pt-65 opc98 pb-65 position-relative" style="background:#e3ca94f2">
+                    <div class="fixed-bg patern-bg" style="background-image: url(assets/images/pattern-bg1.jpg);"></div>
+                    <div class="container">
+                        <div class="request-consult-wrap d-flex flex-wrap align-items-center position-relative w-100">
+                            <div class="request-consult-title">
+                                <h3 class="mb-0"> Consult Dr. Arun Saroha, For The Best Cervical Spine Surgery in Delhi</h3>
+                               
+                            </div>
+                            <div class="request-consult-form">
+                                <p class="mb-0">Choose The Best Cervical Spine Surgery in Delhi. Contact our top Spine Surgeon in Delhi to book your consultation now.</p>
+                            
+                            <!--CTA Form-->
+                            <?php include 'cta-form.php';?>
+                            <!--CTA Form End-->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
+
+<section class="locations-area pt-50 pb-50" style="background-color: #0f172a; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+    <div class="container">
+        <div class="d-flex justify-content-between align-items-center mb-4" style="border-bottom: 1px solid #1e293b; padding-bottom: 15px; flex-wrap: wrap; gap: 15px;">
+            <h3 class="mb-0 text-white" style="font-size: 20px; font-weight: 600; display: flex; align-items: center; gap: 10px;">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Leading Districts in Delhi
+            </h3>
+        </div>
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 15px 20px;">
+            <a href="cervical-spine-surgery-in-new-delhi.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in New Delhi
+            </a>
+            <a href="cervical-spine-surgery-in-south-delhi.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in South Delhi
+            </a>
+            <a href="cervical-spine-surgery-in-north-delhi.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in North Delhi
+            </a>
+            <a href="cervical-spine-surgery-in-east-delhi.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in East Delhi
+            </a>
+            <a href="cervical-spine-surgery-in-west-delhi.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in West Delhi
+            </a>
+            <a href="cervical-spine-surgery-in-dwarka.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Dwarka
+            </a>
+            <a href="cervical-spine-surgery-in-rohini.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Rohini
+            </a>
+            <a href="cervical-spine-surgery-in-vasant-kunj.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Vasant Kunj
+            </a>
+            <a href="cervical-spine-surgery-in-janakpuri.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Janakpuri
+            </a>
+        </div>
+    </div>
+</section>
+<section class="locations-area pt-50 pb-50" style="background-color: #0f172a; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+    <div class="container">
+        <div class="d-flex justify-content-between align-items-center mb-4" style="border-bottom: 1px solid #1e293b; padding-bottom: 15px; flex-wrap: wrap; gap: 15px;">
+            <h3 class="mb-0 text-white" style="font-size: 20px; font-weight: 600; display: flex; align-items: center; gap: 10px;">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Serving Patients Across India
+            </h3>
+            <button id="toggleLocations" style="background: transparent; border: 1px solid #4a5568; color: #e2e8f0; padding: 6px 16px; border-radius: 20px; font-size: 14px; cursor: pointer; display: flex; align-items: center; gap: 8px; transition: background 0.2s;" onmouseover="this.style.background='#1e293b'" onmouseout="this.style.background='transparent'">
+                <span id="toggleText">Hide Locations</span>
+                <svg id="toggleIcon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
+            </button>
+        </div>
+        <div id="locationsGrid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 15px 20px;">
+            <a href="cervical-spine-surgery-in-andhra-pradesh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Andhra Pradesh
+            </a>
+            <a href="cervical-spine-surgery-in-arunachal-pradesh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Arunachal Pradesh
+            </a>
+            <a href="cervical-spine-surgery-in-assam.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Assam
+            </a>
+            <a href="cervical-spine-surgery-in-bihar.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Bihar
+            </a>
+            <a href="cervical-spine-surgery-in-chhattisgarh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Chhattisgarh
+            </a>
+            <a href="cervical-spine-surgery-in-goa.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Goa
+            </a>
+            <a href="cervical-spine-surgery-in-gujarat.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Gujarat
+            </a>
+            <a href="cervical-spine-surgery-in-haryana.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Haryana
+            </a>
+            <a href="cervical-spine-surgery-in-himachal-pradesh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Himachal Pradesh
+            </a>
+            <a href="cervical-spine-surgery-in-jharkhand.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Jharkhand
+            </a>
+            <a href="cervical-spine-surgery-in-karnataka.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Karnataka
+            </a>
+            <a href="cervical-spine-surgery-in-kerala.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Kerala
+            </a>
+            <a href="cervical-spine-surgery-in-madhya-pradesh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Madhya Pradesh
+            </a>
+            <a href="cervical-spine-surgery-in-maharashtra.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Maharashtra
+            </a>
+            <a href="cervical-spine-surgery-in-manipur.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Manipur
+            </a>
+            <a href="cervical-spine-surgery-in-meghalaya.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Meghalaya
+            </a>
+            <a href="cervical-spine-surgery-in-mizoram.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Mizoram
+            </a>
+            <a href="cervical-spine-surgery-in-nagaland.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Nagaland
+            </a>
+            <a href="cervical-spine-surgery-in-odisha.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Odisha
+            </a>
+            <a href="cervical-spine-surgery-in-punjab.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Punjab
+            </a>
+            <a href="cervical-spine-surgery-in-rajasthan.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Rajasthan
+            </a>
+            <a href="cervical-spine-surgery-in-sikkim.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Sikkim
+            </a>
+            <a href="cervical-spine-surgery-in-tamil-nadu.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Tamil Nadu
+            </a>
+            <a href="cervical-spine-surgery-in-telangana.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Telangana
+            </a>
+            <a href="cervical-spine-surgery-in-tripura.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Tripura
+            </a>
+            <a href="cervical-spine-surgery-in-uttarakhand.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Uttarakhand
+            </a>
+            <a href="cervical-spine-surgery-in-west-bengal.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in West Bengal
+            </a>
+            <a href="cervical-spine-surgery-in-delhi.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Delhi
+            </a>
+            <a href="cervical-spine-surgery-in-jammu-and-kashmir.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Jammu and Kashmir
+            </a>
+            <a href="cervical-spine-surgery-in-uttar-pradesh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Uttar Pradesh
+            </a>
+            <a href="cervical-spine-surgery-in-ladakh.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Ladakh
+            </a>
+            <a href="cervical-spine-surgery-in-puducherry.php" style="color: #94a3b8; text-decoration: none; font-size: 14px; display: flex; align-items: flex-start; gap: 8px; transition: color 0.2s;" onmouseover="this.style.color='#60a5fa'" onmouseout="this.style.color='#94a3b8'">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                Cervical Spine Surgery in Puducherry
+            </a>
+        </div>
+    </div>
+</section>
+<script>
+document.getElementById("toggleLocations").addEventListener("click", function() {
+    var grid = document.getElementById("locationsGrid");
+    var icon = document.getElementById("toggleIcon");
+    var text = document.getElementById("toggleText");
+    if (grid.style.display === "none") {
+        grid.style.display = "grid";
+        text.innerText = "Hide Locations";
+        icon.innerHTML = '<polyline points="6 9 12 15 18 9"></polyline>';
+    } else {
+        grid.style.display = "none";
+        text.innerText = "Show Locations";
+        icon.innerHTML = '<polyline points="6 15 12 9 18 15"></polyline>';
+    }
+});
+</script>
 
 <?php include 'footer.php';?>
