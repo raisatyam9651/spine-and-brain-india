@@ -5,23 +5,23 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         
-<title>Back Pain Treatment in India | Dr. Arun Saroha </title>
+<title>Back Pain Treatment in Mizoram | Dr. Arun Saroha </title>
         
-<meta name="description" content="Get expert back pain treatment in India with Dr. Arun Saroha, top spine surgeon offering advanced, minimally invasive solutions for lasting relief. " />
+<meta name="description" content="Get expert back pain treatment in Mizoram with Dr. Arun Saroha, top spine surgeon offering advanced, minimally invasive solutions for lasting relief. " />
         
-<meta name="keywords" content="best back pain treatment in india, Back Pain Specialist in India" />
-<link rel="canonical" href="https://spineandbrainindia.com/back-pain-treatment-in-India" />
+<meta name="keywords" content="best back pain treatment in mizoram, Back Pain Specialist in Mizoram" />
+<link rel="canonical" href="https://spineandbrainindia.com/back-pain-treatment-in-mizoram" />
        
        <!--OpenGraph Tags-->
        <meta property="og:type" content="website" />
-       <meta property="og:url" content="https://www.spineandbrainindia.com/back-pain-treatment-in-india.php" />
+       <meta property="og:url" content="https://www.spineandbrainindia.com/back-pain-treatment-in-mizoram.php" />
        
-       <meta property="og:keywords" content="Best Spine Surgeon in India, best back pain treatment in india, Back Pain Specialist in India, best neurosurgeon in India" />
+       <meta property="og:keywords" content="Best Spine Surgeon in Mizoram, best back pain treatment in mizoram, Back Pain Specialist in Mizoram, best neurosurgeon in Mizoram" />
        
-       <meta property="og:title" content="Back Pain Treatment in India | best back pain doctor in india" />
+       <meta property="og:title" content="Back Pain Treatment in Mizoram | best back pain doctor in mizoram" />
        
-       <meta property="og:description" content="Experience the best back pain treatment in India with Dr. Arun Saroha, renowned as one of the best back pain doctor in india for lower back pain management." />
-       <link rel=“canonical” href=“https://spineandbrainindia.com/back-pain-treatment-in-India”/>
+       <meta property="og:description" content="Experience the best back pain treatment in Mizoram with Dr. Arun Saroha, renowned as one of the best back pain doctor in mizoram for lower back pain management." />
+       <link rel=“canonical” href=“https://spineandbrainindia.com/back-pain-treatment-in-mizoram”/>
 
         <!--Schema Markup-->
         
@@ -29,9 +29,9 @@
 {
   "@context": "https://schema.org/",
   "@type": "Product",
-  "name": "Back Pain Treatment in India | Dr. Arun Saroha",
+  "name": "Back Pain Treatment in Mizoram | Dr. Arun Saroha",
   "image": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
-  "description": "Get expert back pain treatment in India with Dr. Arun Saroha, top spine surgeon offering advanced, minimally invasive solutions for lasting relief. ",
+  "description": "Get expert back pain treatment in Mizoram with Dr. Arun Saroha, top spine surgeon offering advanced, minimally invasive solutions for lasting relief. ",
   "brand": "Dr. Arun Saroha",
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -50,10 +50,10 @@
         {
   "@context": "http://schema.org",
   "@type": "MedicalClinic",
-  "name": "Spine and Brain India",
-  "url": "https://spineandbrainindia.com/back-pain-treatment-in-India",
+  "name": "Spine and Brain Mizoram",
+  "url": "https://spineandbrainindia.com/back-pain-treatment-in-mizoram",
   "logo": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
-  "description": "Comprehensive back pain treatment in India.",
+  "description": "Comprehensive back pain treatment in Mizoram.",
   "medicalSpecialty": "Orthopedic",
   "availableService": {
     "@type": "MedicalProcedure",
@@ -64,7 +64,7 @@
     "followup": "Regular follow-ups to monitor recovery",
     "preparation": "Consultation with the doctor",
     "indication": "Chronic back pain, disc issues, spinal injuries",
-    "url": "https://spineandbrainindia.com/back-pain-treatment-in-India"
+    "url": "https://spineandbrainindia.com/back-pain-treatment-in-mizoram"
   },
   "address": {
     "@type": "PostalAddress",
@@ -569,10 +569,10 @@
                     <div class="container">
                         <div class="page-title-wrap text-center w-100">
                             <div class="page-title-inner d-inline-block">
-                                <h1 class="mb-0">Back Pain Treatment In India: Dr. Arun Saroha </h1>
+                                <h1 class="mb-0">Back Pain Treatment In Mizoram: Dr. Arun Saroha </h1>
                                 <ol class="breadcrumb mb-0 justify-content-center">
                                     <li class="breadcrumb-item"><a href="index.php" title="spineandbrainindia.com">Home</a></li>
-                                    <li class="breadcrumb-item"><a href="back-pain-treatment.php" title="Back Pain Treatment in India: Expert Care by Dr. Arun Saroha">Back Pain Treatment In India</a></li>
+                                    <li class="breadcrumb-item"><a href="back-pain-treatment.php" title="Back Pain Treatment in Mizoram: Expert Care by Dr. Arun Saroha">Back Pain Treatment In Mizoram</a></li>
                                 </ol>
                             </div>
                         </div><!-- Page Title Wrap -->
@@ -592,7 +592,7 @@
                                         
                                         <h2 class="mb-0">What is Back Pain?</h2>
                                         
-                                        <p class="mb-0">Back pain, a common yet complex ailment, significantly impacts the lives of millions globally. When it comes to back pain treatment in India, Dr. Arun Saroha emerges as a prominent figure in combating this pervasive issue. Renowned for his profound expertise and commitment to innovative treatment methodologies, Dr. Saroha has established a legacy of excellence in spinal care. With his extensive experience and a patient-centered approach, he brings hope and comprehensive solutions to those grappling with chronic back pain.</p>
+                                        <p class="mb-0">Back pain, a common yet complex ailment, significantly impacts the lives of millions globally. When it comes to back pain treatment in Mizoram, Dr. Arun Saroha emerges as a prominent figure in combating this pervasive issue. Renowned for his profound expertise and commitment to innovative treatment methodologies, Dr. Saroha has established a legacy of excellence in spinal care. With his extensive experience and a patient-centered approach, he brings hope and comprehensive solutions to those grappling with chronic back pain.</p>
                                          
                                         <!--<h3 class="mt-5">Causes of Back Pain</h3>-->
                                         
@@ -736,7 +736,7 @@
                                        
         <div class="container mt-5">
             <div class="service-header">
-                <h1>Why Choose Dr. Arun Saroha for Back Pain in India?</h1>
+                <h1>Why Choose Dr. Arun Saroha for Back Pain in Mizoram?</h1>
               </div>
         
         <div class="container">
@@ -751,7 +751,7 @@
                 <div class="col-lg-7 col-md-12 mb-4 mb-lg-0">
                     
                     <p class="lead mt-3 fs-6 fs-md-5">
-                        Dr. Arun Saroha is widely recognized as the Best Doctor for Back Pain Treatment in India, offering unparalleled expertise and compassionate care for patients suffering from various spine-related conditions. With over 29 years of experience in neurosurgery and spine surgery, Dr. Saroha has successfully treated thousands of patients with chronic back pain, providing them with long-lasting relief and improved quality of life.
+                        Dr. Arun Saroha is widely recognized as the Best Doctor for Back Pain Treatment in Mizoram, offering unparalleled expertise and compassionate care for patients suffering from various spine-related conditions. With over 29 years of experience in neurosurgery and spine surgery, Dr. Saroha has successfully treated thousands of patients with chronic back pain, providing them with long-lasting relief and improved quality of life.
                     </p>    
                     <p class="lead fs-6 fs-md-5">
                         Dr. Saroha's approach to back pain treatment is comprehensive, addressing both medical and surgical options. He specializes in treating complex spine conditions such as degenerative spine disorders, herniated discs, and spinal stenosis. His expertise in minimally invasive spine surgery ensures faster recovery times, less post-operative pain, and reduced scarring, making him a top choice for patients looking for advanced back pain treatment.
@@ -768,12 +768,12 @@
         
         <div class="faq-item">
             <div class="faq-question" onclick="toggleFAQ(this)">
-                <span>How much does Back Pain cost in India?</span>
+                <span>How much does Back Pain cost in Mizoram?</span>
                 <div class="plus-icon"></div>
             </div>
             <div class="faq-answer">
                 <div class="faq-answer-content">
-                    <span class="keyword-highlight">Back Pain in India</span> offers affordable treatment options with costs varying based on procedure complexity, hospital facilities, implants used, and recovery duration. <span class="keyword-highlight">Back Pain india</span> and other procedures are significantly more cost-effective compared to Western countries while maintaining international quality standards. Contact specialists for detailed cost assessment based on individual medical requirements.
+                    <span class="keyword-highlight">Back Pain in Mizoram</span> offers affordable treatment options with costs varying based on procedure complexity, hospital facilities, implants used, and recovery duration. <span class="keyword-highlight">Back Pain mizoram</span> and other procedures are significantly more cost-effective compared to Western countries while maintaining international quality standards. Contact specialists for detailed cost assessment based on individual medical requirements.
                 </div>
             </div>
         </div>
@@ -792,12 +792,12 @@
         
         <div class="faq-item">
             <div class="faq-question" onclick="toggleFAQ(this)">
-                <span>What is the success rate of Back Pain in India?</span>
+                <span>What is the success rate of Back Pain in Mizoram?</span>
                 <div class="plus-icon"></div>
             </div>
             <div class="faq-answer">
                 <div class="faq-answer-content">
-                    <span class="keyword-highlight">Back Pain in India</span> shows 85-95% success rates. ACDF achieves 90-95% success for arm pain relief and 85-90% for neck pain. <span class="keyword-highlight">Cervical discectomy in india</span> procedures demonstrate excellent outcomes through advanced techniques, experienced <span class="keyword-highlight">cervical surgeons</span>, and international-standard facilities with minimally invasive approaches.
+                    <span class="keyword-highlight">Back Pain in Mizoram</span> shows 85-95% success rates. ACDF achieves 90-95% success for arm pain relief and 85-90% for neck pain. <span class="keyword-highlight">Cervical discectomy in mizoram</span> procedures demonstrate excellent outcomes through advanced techniques, experienced <span class="keyword-highlight">cervical surgeons</span>, and international-standard facilities with minimally invasive approaches.
                 </div>
             </div>
         </div>
@@ -809,7 +809,7 @@
             </div>
             <div class="faq-answer">
                 <div class="faq-answer-content">
-                    Dr. Arun Saroha specializes in <span class="keyword-highlight">Back Pain in India</span> with 25+ years experience. Book consultation by contacting his clinic directly. Provide medical reports and imaging studies. International patients can arrange online consultations. His team assists with treatment planning, cost estimates, and complete care from consultation to recovery.
+                    Dr. Arun Saroha specializes in <span class="keyword-highlight">Back Pain in Mizoram</span> with 25+ years experience. Book consultation by contacting his clinic directly. Provide medical reports and imaging studies. International patients can arrange online consultations. His team assists with treatment planning, cost estimates, and complete care from consultation to recovery.
                 </div>
             </div>
         </div>
@@ -833,7 +833,7 @@
                         <div class="container">
                             
                             <!--<div class="team-detail-wrap">-->
-                            <!--   <h3 class="mb-0">Best Doctor for Cervical Spondylosis in India</h3>-->
+                            <!--   <h3 class="mb-0">Best Doctor for Cervical Spondylosis in Mizoram</h3>-->
                             <!--   <p>Dr. Arun Saroha is a renowned neurosurgeon with expertise in treating cervical spondylosis. He has participated in various symposiums and workshops and has attended various national and international</p>-->
                                
                             <!--</div>-->
@@ -883,11 +883,11 @@
                     <div class="container">
                         <div class="request-consult-wrap d-flex flex-wrap align-items-center position-relative w-100">
                             <div class="request-consult-title">
-                                <h3 class="mb-0"> Consult Dr. Arun Saroha, For The Back Pain Treatment in India</h3>
+                                <h3 class="mb-0"> Consult Dr. Arun Saroha, For The Back Pain Treatment in Mizoram</h3>
                                
                             </div>
                             <div class="request-consult-form">
-                                <p class="mb-0">Get relief from discomfort with Back Pain Treatment in India. Consult the Best back pain doctor in India – book your appointment now.</p>
+                                <p class="mb-0">Get relief from discomfort with Back Pain Treatment in Mizoram. Consult the Best back pain doctor in Mizoram – book your appointment now.</p>
                             
                             <!--CTA Form-->
                             <?php include 'cta-form.php';?>
