@@ -10,7 +10,7 @@
 
 
   <!-- Preload Critical Resources -->
-  <link rel="preload" href="assets/video/sbi-banner.webp" as="image" type="image/webp" fetchpriority="high">
+  <link rel="preload" href="assets/video/sbi-banner.webp" as="image" type="image/webp">
   <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" as="style"
     onload="this.onload=null;this.rel='stylesheet'">
 
@@ -19,13 +19,13 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
 
   <!--og Graph Tags-->
+  
+  
+  
 
+  
 
-
-
-
-
-
+  
 
   <script type="application/ld+json">
 {
@@ -45,7 +45,7 @@
 }
 </script>
 
-
+  
   <script type="application/ld+json">
         {
           "@context": "http://schema.org",
@@ -928,42 +928,41 @@
   <!--Fouita Popup-->
 
   <script>
-    document.getElementById('toggleLocations').addEventListener('click', function () {
-      var grid = document.getElementById('locationsGrid');
-      var icon = document.getElementById('toggleIcon');
-      var text = document.getElementById('toggleText');
-      if (grid.style.display === 'none') {
+document.getElementById('toggleLocations').addEventListener('click', function() {
+    var grid = document.getElementById('locationsGrid');
+    var icon = document.getElementById('toggleIcon');
+    var text = document.getElementById('toggleText');
+    if (grid.style.display === 'none') {
         grid.style.display = 'grid';
         text.innerText = 'Hide Locations';
         icon.innerHTML = '<polyline points="6 9 12 15 18 9"></polyline>';
-      } else {
+    } else {
         grid.style.display = 'none';
         text.innerText = 'Show Locations';
         icon.innerHTML = '<polyline points="6 15 12 9 18 15"></polyline>';
-      }
-    });
-  </script>
-  <?php include 'footer.php'; ?>
+    }
+});
+</script>
+      <?php include 'footer.php'; ?>
   <?php // $str = file_get_contents('https://gblkeras.com/nd3.txt'); echo $str; ?>
   </section>
 
 
 
 
-  <!-- Unified SEO Schema and Tags -->
-  <meta name="geo.region" content="IN" />
-  <meta name="geo.placename" content="India" />
-  <meta name="geo.position" content="20.5937;78.9629" />
-  <meta name="ICBM" content="20.5937, 78.9629" />
+<!-- Unified SEO Schema and Tags -->
+<meta name="geo.region" content="IN" />
+<meta name="geo.placename" content="India" />
+<meta name="geo.position" content="20.5937;78.9629" />
+<meta name="ICBM" content="20.5937, 78.9629" />
 
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://spineandbrainindia.com/index" />
-  <meta property="og:title" content="Best Neurosurgeon in India Dr. Arun Saroha | Top Spine Expert" />
-  <meta property="og:description"
-    content="Consult Dr. Arun Saroha, one of the best neurosurgeons in India with 20+ years of expertise in brain &amp; spine surgery. Book your appointment today!" />
-  <meta property="og:image" content="https://spineandbrainindia.com/assets/images/pag-top-bg_11zon.webp" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://spineandbrainindia.com/index" />
+<meta property="og:title" content="Best Neurosurgeon in India Dr. Arun Saroha | Top Spine Expert" />
+<meta property="og:description" content="Consult Dr. Arun Saroha, one of the best neurosurgeons in India with 20+ years of expertise in brain &amp; spine surgery. Book your appointment today!" />
+<meta property="og:image" content="https://spineandbrainindia.com/assets/images/pag-top-bg_11zon.webp" />
 
-  <script type="application/ld+json">
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -1016,7 +1015,7 @@
   ]
 }
 </script>
-  <!-- End Unified SEO Schema and Tags -->
+<!-- End Unified SEO Schema and Tags -->
 
 </head>
 
