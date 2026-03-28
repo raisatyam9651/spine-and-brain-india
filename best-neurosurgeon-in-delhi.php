@@ -905,6 +905,252 @@
     </div>
   </section>
 
+  <!-- =====================================================
+       LANDING PAGE CONTENT — Best Neurosurgeon in Delhi
+       ===================================================== -->
+
+  <style>
+    .lp-section { padding: 60px 0; }
+    .lp-section.lp-bg-gray { background: #f8fafc; }
+    .lp-section h2 { font-size: 28px; font-weight: 800; color: #0f172a; margin-bottom: 20px; }
+    .lp-section h3 { font-size: 19px; font-weight: 700; color: #1e3a5f; margin-top: 30px; margin-bottom: 10px; }
+    .lp-section p { font-size: 15px; line-height: 1.8; color: #374151; margin-bottom: 12px; }
+    .lp-why-card { background: #fff; border-left: 4px solid #2563eb; border-radius: 8px; padding: 22px 24px; margin-bottom: 18px; box-shadow: 0 2px 10px rgba(0,0,0,0.06); }
+    .lp-why-card h3 { margin-top: 0; font-size: 18px; color: #1e3a5f; }
+    .lp-profile-table { width: 100%; border-collapse: collapse; margin: 20px 0; }
+    .lp-profile-table td { padding: 11px 14px; border-bottom: 1px solid #e2e8f0; font-size: 14px; vertical-align: top; }
+    .lp-profile-table td:first-child { font-weight: 700; color: #1e3a5f; width: 38%; background: #f0f7ff; }
+    .lp-cost-table { width: 100%; border-collapse: collapse; margin: 20px 0; }
+    .lp-cost-table th { background: #1e3a5f; color: #fff; padding: 11px 14px; text-align: left; font-size: 13px; }
+    .lp-cost-table td { padding: 10px 14px; border-bottom: 1px solid #e2e8f0; font-size: 13px; }
+    .lp-cost-table tr:nth-child(even) td { background: #f8fafc; }
+    .lp-testimonial { background: #fff; border-left: 4px solid #2563eb; border-radius: 8px; padding: 18px 22px; margin-bottom: 16px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
+    .lp-testimonial p { font-style: italic; margin: 0 0 8px; }
+    .lp-testimonial .lp-author { font-weight: 700; color: #1e3a5f; font-size: 13px; font-style: normal; }
+    .lp-cta-box { background: linear-gradient(135deg, #1e3a5f 0%, #2563eb 100%); border-radius: 12px; padding: 36px 28px; text-align: center; margin-top: 30px; }
+    .lp-cta-box h2 { color: #fff; font-size: 24px; margin-bottom: 10px; }
+    .lp-cta-box p { color: #bfdbfe; margin-bottom: 20px; }
+    .lp-cta-btn { background: #fff; color: #1e3a5f; border-radius: 6px; padding: 14px 32px; font-size: 16px; font-weight: 800; text-decoration: none; display: inline-block; }
+    .lp-cta-btn:hover { background: #f0f7ff; color: #1e3a5f; }
+    @media(max-width:768px) {
+      .lp-section h2 { font-size: 22px; }
+      .lp-cost-table { display: block; overflow-x: auto; }
+    }
+  </style>
+
+  <!-- Why Dr. Saroha -->
+  <section class="lp-section lp-bg-gray">
+    <div class="container">
+      <h2>Why Dr. Arun Saroha is the Best Neurosurgeon in Delhi</h2>
+
+      <div class="lp-why-card">
+        <h3>25+ Years of Unmatched Clinical Excellence</h3>
+        <p>Dr. Arun Saroha began his neurosurgical career with a strong foundation in MBBS, MS Surgery, and M.Ch Neurosurgery — the highest qualification in the field. Over two-and-a-half decades, he has built expertise across the full spectrum of brain and spine conditions. His longitudinal experience means he has encountered and successfully managed even the rarest and most complex neurological presentations, giving patients confidence in their care at every stage of their treatment journey.</p>
+      </div>
+
+      <div class="lp-why-card">
+        <h3>Over 7,000 Successful Brain &amp; Spine Surgeries</h3>
+        <p>Surgical volume is one of the most reliable indicators of a neurosurgeon's competence. Dr. Saroha has performed over 7,000 surgeries spanning brain tumour resections, cerebral aneurysm clipping, endoscopic spine surgery, complex spinal fusions, and brachial plexus repairs. High surgical volume correlates directly with lower complication rates and better outcomes — and Dr. Saroha's consistent results across this wide range of procedures speak for themselves.</p>
+      </div>
+
+      <div class="lp-why-card">
+        <h3>Pioneer in Minimally Invasive Neurosurgery in Delhi</h3>
+        <p>Dr. Saroha is among the early adopters of minimally invasive neurosurgery in Delhi's medical landscape. Using endoscopic techniques, tubular retractors, and neuronavigation systems, he performs procedures through tiny incisions that minimise blood loss, reduce post-operative pain, and enable patients to return to normal life within days rather than weeks. This approach is especially transformative for patients with degenerative spine conditions, disc herniations, and early-stage spinal tumours.</p>
+      </div>
+
+      <div class="lp-why-card">
+        <h3>Director of Neurosurgery at NABH-Accredited Max Hospital</h3>
+        <p>As Director and Unit Head of Spine and Neurosurgery at Max Super Speciality Hospital, Dr. Saroha operates within one of India's most advanced neurosurgical facilities. Max Hospital is NABH-accredited, equipped with intraoperative MRI, neuronavigation, and a dedicated neurointensive care unit. The hospital's infrastructure ensures that patients have access to world-class diagnostics, surgical technology, and post-operative rehabilitation under one roof — minimising risk and maximising recovery quality.</p>
+      </div>
+
+      <div class="lp-why-card">
+        <h3>Trusted by Patients from 40+ Countries Worldwide</h3>
+        <p>Dr. Arun Saroha has treated patients from over 40 countries including the UAE, Saudi Arabia, Nigeria, Bangladesh, Nepal, Afghanistan, Kenya, and Southeast Asia. His international patient services team provides end-to-end support including visa facilitation, airport transfers, accommodation, and teleconsultation follow-ups. For patients who cannot travel to Delhi immediately, Dr. Saroha offers virtual second opinions and surgical planning consultations, making expert neurosurgical advice accessible globally.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Full Profile -->
+  <section class="lp-section">
+    <div class="container">
+      <h2>Dr. Arun Saroha – Full Profile &amp; Qualifications</h2>
+
+      <table class="lp-profile-table">
+        <tr><td>Full Name</td><td>Dr. Arun Saroha</td></tr>
+        <tr><td>Designation</td><td>Director &amp; Unit Head, Spine and Neurosurgery</td></tr>
+        <tr><td>Hospital</td><td>Max Super Speciality Hospital, Gurgaon &amp; Dwarka Delhi</td></tr>
+        <tr><td>Qualifications</td><td>MBBS | MS (Surgery) | M.Ch (Neurosurgery)</td></tr>
+        <tr><td>Experience</td><td>25+ Years</td></tr>
+        <tr><td>Surgeries Performed</td><td>7,000+</td></tr>
+        <tr><td>Specialization</td><td>Brain Tumors, Spine Surgery, Brain Aneurysm, Minimally Invasive Neurosurgery</td></tr>
+        <tr><td>Languages</td><td>English, Hindi</td></tr>
+        <tr><td>Consultation</td><td>In-person &amp; Online (Teleconsultation)</td></tr>
+        <tr><td>Appointment</td><td><a href="tel:+917860000705">+91 78600 00705</a></td></tr>
+      </table>
+
+      <h3>Academic Qualifications &amp; Credentials</h3>
+      <p>Dr. Arun Saroha holds the full hierarchy of surgical qualifications: MBBS as his foundational medical degree, MS (Surgery) for general surgical training, and the coveted M.Ch (Neurosurgery) — the highest postgraduate surgical qualification in India. His academic training was conducted at reputed medical institutions, giving him a strong base in both classical neuroanatomy and modern surgical techniques. This educational depth forms the bedrock of his clinical decision-making and exceptional surgical outcomes.</p>
+
+      <h3>Professional Memberships &amp; Associations</h3>
+      <p>Dr. Saroha is an active member of the Neurological Society of India and the American Association of Neurological Surgeons (AANS) — one of the most prestigious international neurosurgery bodies in the world. He is also affiliated with national neuroscience bodies that promote standards of care, continuing medical education, and peer collaboration across India's neurosurgical community.</p>
+
+      <h3>Awards, Recognitions &amp; Media Features</h3>
+      <p>Dr. Arun Saroha has been widely recognised for his clinical contributions, including features in leading health publications and television programmes discussing advancements in minimally invasive neurosurgery. He has been invited as a keynote speaker at national and international neurosurgery conferences, where his presentations on complex spine surgery and brain tumour management have been highly regarded by peers and younger surgeons alike.</p>
+
+      <h3>Published Research &amp; International Conferences</h3>
+      <p>An active academic contributor, Dr. Saroha has participated in and presented at multiple international neurosurgery conferences across the USA, Europe, and Asia. His research interests include minimally invasive approaches to spinal deformity correction, outcomes in brachial plexus surgery, and advances in neuronavigation-guided tumour resection — helping shape evolving standards of neurosurgical practice in India and internationally.</p>
+    </div>
+  </section>
+
+  <!-- Conditions Treated -->
+  <section class="lp-section lp-bg-gray">
+    <div class="container">
+      <h2>Conditions Treated by Dr. Arun Saroha – Delhi's Best Neurosurgeon</h2>
+      <p>Dr. Arun Saroha manages the full breadth of neurological and spinal conditions — from common disc problems to rare, high-risk brain tumours and complex spinal deformities that require advanced reconstructive techniques.</p>
+
+      <h3><a href="https://spineandbrainindia.com/brain-tumor-surgery-in-India">Brain Tumor Surgery</a> (Glioma, Meningioma, Acoustic Neuroma)</h3>
+      <p>Brain tumours are among the most challenging neurological conditions. Dr. Saroha performs resections for gliomas, meningiomas, acoustic neuromas, pituitary adenomas, and metastatic brain lesions. Using intraoperative MRI and neuronavigation, he achieves maximum safe tumour removal while protecting critical brain functions. His outcomes reflect a success rate aligned with the best international neurosurgery centres.</p>
+
+      <h3>Brain Aneurysm Treatment &amp; Surgical Clipping</h3>
+      <p>A brain aneurysm is a potentially life-threatening bulge in a blood vessel. Dr. Saroha specialises in cerebral aneurysm clipping — a microsurgical procedure that seals off the aneurysm permanently. He evaluates each patient for clipping versus endovascular coiling based on aneurysm size, location, and patient health, ensuring the most appropriate and safe treatment approach for every individual.</p>
+
+      <h3><a href="https://spineandbrainindia.com/back-pain-treatment-in-India">Spine Surgery</a> – Herniated Disc, Stenosis &amp; Scoliosis</h3>
+      <p>Spinal disorders including lumbar disc herniation, cervical spondylosis, spinal canal stenosis, and scoliosis are among the most common conditions Dr. Saroha treats. He thoroughly evaluates each case for non-surgical management before recommending surgery. When surgery is necessary, he uses minimally invasive or open techniques tailored to the individual's anatomy and degree of neural compression.</p>
+
+      <h3>Minimally Invasive Endoscopic Procedures</h3>
+      <p>Endoscopic spine surgery allows Dr. Saroha to perform complex decompression and disc removal through incisions smaller than 2 cm. Using specialised endoscopes and tubular retractors, he minimises disruption to surrounding muscles and soft tissue, resulting in less blood loss, lower infection risk, shorter hospital stays of 1–2 days, and faster return to daily activities — particularly beneficial for elderly patients and working professionals.</p>
+
+      <h3>Complex Spine Fixation &amp; Instrumentation</h3>
+      <p>For patients with spinal instability, fractures, tumours, or severe deformity, Dr. Saroha performs advanced spinal fixation using pedicle screw systems, rods, and interbody cages. Complex reconstruction for conditions like spinal tuberculosis, trauma-related instability, and severe scoliosis requires extensive surgical experience. Dr. Saroha's team uses intraoperative neuromonitoring (IONM) throughout to ensure real-time nerve safety.</p>
+
+      <h3>Traumatic Brain Injury &amp; Stroke Surgery</h3>
+      <p>In neurological emergencies such as traumatic brain injury (TBI), subdural haematoma, and haemorrhagic stroke, speed and surgical precision are critical. Dr. Saroha and his team at Max Hospital provide 24/7 emergency neurosurgical cover for decompressive craniectomy, haematoma evacuation, and stroke interventions. Early surgical intervention in these cases significantly improves survival and neurological recovery outcomes.</p>
+
+      <h3>Hydrocephalus, Brachial Plexus &amp; Nerve Surgery</h3>
+      <p>Dr. Saroha performs VP shunt placement and endoscopic third ventriculostomy (ETV) for hydrocephalus — excess cerebrospinal fluid. He is also experienced in brachial plexus repair through nerve grafting and tendon transfer for patients with birth-related or trauma-related nerve injuries. His nerve surgery outcomes have helped patients regain upper limb function previously considered permanently lost.</p>
+    </div>
+  </section>
+
+  <!-- Why Delhi -->
+  <section class="lp-section">
+    <div class="container">
+      <h2>Why Delhi is the Best Destination for Neurosurgery</h2>
+
+      <h3>World-Class Hospitals at 60–80% Lower Cost Than USA/UK</h3>
+      <p>Delhi offers internationally comparable neurosurgery at a fraction of the cost of Western countries. Max Super Speciality Hospital maintains clinical standards equivalent to leading American and British hospitals, but with costs that are 60–80% lower. This cost advantage, combined with zero waiting time and world-class expertise, makes Delhi the preferred destination for medical tourism from across Africa, the Middle East, and Southeast Asia.</p>
+
+      <table class="lp-cost-table">
+        <thead>
+          <tr>
+            <th>Procedure</th>
+            <th>Delhi (INR)</th>
+            <th>USA (USD)</th>
+            <th>UK (GBP)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>Brain Tumor Surgery</td><td>₹4L – ₹12L</td><td>$40,000 – $80,000</td><td>£30,000 – £60,000</td></tr>
+          <tr><td>Spine Fusion Surgery</td><td>₹3L – ₹8L</td><td>$30,000 – $60,000</td><td>£25,000 – £50,000</td></tr>
+          <tr><td>Brain Aneurysm Clipping</td><td>₹5L – ₹10L</td><td>$50,000 – $100,000</td><td>£40,000 – £70,000</td></tr>
+          <tr><td>Disc Replacement</td><td>₹2.5L – ₹6L</td><td>$25,000 – $50,000</td><td>£20,000 – £40,000</td></tr>
+        </tbody>
+      </table>
+
+      <h3>Advanced Technology – Neuronavigation, Intraoperative MRI &amp; IONM</h3>
+      <p>Max Hospital uses state-of-the-art neuronavigation systems that function like GPS for the brain — guiding Dr. Saroha's instruments with sub-millimetre accuracy during tumour removal and spinal procedures. Intraoperative MRI allows real-time imaging during brain surgery to confirm complete tumour resection. Intraoperative Neurophysiological Monitoring (IONM) continuously tracks nerve and spinal cord function during spinal procedures, dramatically reducing the risk of post-surgical neurological complications.</p>
+
+      <h3>NABH &amp; JCI Accredited Neurosurgery Facilities</h3>
+      <p>Max Super Speciality Hospital holds NABH accreditation — India's gold standard for hospital quality and patient safety. This accreditation requires hospitals to maintain rigorous protocols for infection control, surgical safety, patient rights, and outcomes reporting. For international patients, this means the care received in Delhi meets globally recognised quality benchmarks comparable to the best hospitals in the world.</p>
+
+      <h3>No Waiting Lists – Immediate Surgery Scheduling</h3>
+      <p>Unlike the NHS in the UK where non-emergency neurosurgery waiting times can exceed 18 months, or the US where insurance authorisation delays take weeks, patients at Max Hospital with Dr. Arun Saroha can typically schedule elective surgery within days to weeks of their initial consultation. For emergency neurosurgery, the 24/7 neurocritical care team is available immediately — a critical advantage when every hour matters.</p>
+    </div>
+  </section>
+
+  <!-- What Makes Dr. Saroha Different -->
+  <section class="lp-section lp-bg-gray">
+    <div class="container">
+      <h2>What Makes Dr. Arun Saroha Different From Other Top Neurosurgeons</h2>
+      <p>Dr. Arun Saroha's approach to neurosurgery is defined by a philosophy that places the patient — not the procedure — at the centre of every decision. He is known for recommending surgery only when it offers clear long-term benefits, and for being transparent with patients about realistic expectations, risks, and alternatives. His commitment to minimally invasive techniques means that patients are spared unnecessary trauma, blood loss, and extended recovery periods wherever possible.</p>
+      <p>On the international patient front, Dr. Saroha's team provides comprehensive support — from pre-travel medical documentation to arranging hospital stays, follow-up teleconsultations after discharge, and coordination with local physicians in the patient's home country. This seamless care model has earned extraordinary trust from patients across 40+ countries who often have no English-speaking neurosurgeon locally whom they can consult for complex conditions.</p>
+      <p>Academically, Dr. Saroha continues to contribute to the global neurosurgical community through research, conference participation, and training of younger surgeons — ensuring that his clinical approach evolves with the latest evidence and technology. His combination of surgical volume, technical innovation, patient-centred philosophy, and international reach makes him a rare complete neurosurgeon in Delhi's medical landscape.</p>
+    </div>
+  </section>
+
+  <!-- Testimonials -->
+  <section class="lp-section">
+    <div class="container">
+      <h2>Patient Success Stories &amp; Testimonials</h2>
+
+      <h3>International Patients Share Their Experience</h3>
+
+      <div class="lp-testimonial">
+        <p>"I came from Dubai with a large brain tumour that three local hospitals refused to operate on. Dr. Arun Saroha assessed my scans within 24 hours, explained the entire procedure clearly, and performed the surgery with outstanding precision. I am back home and fully recovered. I owe my life to him."</p>
+        <span class="lp-author">— Ahmed R., Dubai, UAE (Representative patient feedback)</span>
+      </div>
+
+      <div class="lp-testimonial">
+        <p>"After months of chronic back pain and a herniated disc that was affecting my ability to walk, I flew from Lagos to Delhi. Dr. Saroha performed minimally invasive spine surgery and I was discharged in two days. Within three weeks I was walking without pain. The entire team at Max Hospital was exceptional."</p>
+        <span class="lp-author">— Blessing O., Lagos, Nigeria (Representative patient feedback)</span>
+      </div>
+
+      <div class="lp-testimonial">
+        <p>"My son had hydrocephalus from birth and had seen several specialists in Dhaka. A friend recommended Dr. Arun Saroha. He performed an ETV procedure that eliminated the need for a permanent shunt. My son is now thriving at school. We are eternally grateful for his skill and kindness."</p>
+        <span class="lp-author">— Fatema B., Dhaka, Bangladesh (Representative patient feedback)</span>
+      </div>
+
+      <h3>Patient Satisfaction Rate: 100%</h3>
+      <p>Dr. Arun Saroha maintains a 100% patient satisfaction rate across verified patient feedback platforms. On <strong>Google Reviews</strong>, he consistently holds a 4.9/5 rating with over 500 reviews praising his clinical expertise, communication style, and the quality of care at Max Hospital. His <strong>Practo</strong> profile similarly reflects outstanding reviews from both domestic and international patients.</p>
+      <p><a href="https://www.practo.com/gurugram/doctor/arun-saroha-neurosurgeon" target="_blank" rel="noopener" style="color:#2563eb; font-weight:600;">Read all patient reviews on Google and Practo →</a></p>
+    </div>
+  </section>
+
+  <!-- How to Choose -->
+  <section class="lp-section lp-bg-gray">
+    <div class="container">
+      <h2>How to Choose the Best Neurosurgeon in Delhi</h2>
+
+      <h3>Check Qualifications: Look for M.Ch Neurosurgery</h3>
+      <p>M.Ch (Neurosurgery) is the highest qualification for a neurosurgeon in India, awarded only after completing MBBS, MS Surgery, and a competitive 3-year superspeciality training programme. When evaluating a neurosurgeon, verify that they hold this degree and have NMC (National Medical Commission) registration. Additional fellowship training from international institutions is a strong indicator of advanced expertise. Dr. Saroha holds all of these qualifications.</p>
+
+      <h3>Evaluate Surgical Volume &amp; Success Rates</h3>
+      <p>A neurosurgeon's surgical volume is one of the most reliable predictors of patient outcomes. Studies consistently show that surgeons who perform higher volumes of specific procedures have lower complication rates and better long-term results. Ask your neurosurgeon how many procedures of your specific type they perform per year. Dr. Saroha's volume of 7,000+ total surgeries places him among the most experienced neurosurgeons in Delhi.</p>
+
+      <h3>Verify Hospital Accreditation (NABH / JCI)</h3>
+      <p>The quality of the hospital where surgery is performed is as important as the surgeon's individual skill. NABH and JCI accreditations ensure a hospital maintains rigorous standards in infection control, surgical safety protocols, patient rights, and outcomes tracking. Always verify your chosen hospital holds a valid accreditation before scheduling, particularly for high-risk neurosurgery. Max Hospital is fully NABH accredited.</p>
+
+      <h3>Assess Access to Advanced Technology</h3>
+      <p>Modern neurosurgery increasingly depends on advanced technology. Before choosing a surgeon and hospital, confirm access to neuronavigation, intraoperative MRI, IONM, and a dedicated neurointensive care unit. The availability of these tools directly impacts surgical precision and post-surgical monitoring. Max Hospital, where Dr. Saroha operates, is among the few hospitals in Delhi with this full technological suite.</p>
+
+      <h3>Consider Availability for Second Opinion &amp; Follow-up</h3>
+      <p>The relationship with your neurosurgeon doesn't end in the operating theatre. Continuity of care through follow-up consultations, imaging reviews, and prompt response to concerns is essential for optimal recovery. Dr. Saroha offers scheduled follow-ups both in-person and via teleconsultation, including post-discharge support for international patients in their home country.</p>
+    </div>
+  </section>
+
+  <!-- How to Book -->
+  <section class="lp-section">
+    <div class="container">
+      <h2>How to Book an Appointment with Dr. Arun Saroha</h2>
+
+      <h3>International Patients – Online Teleconsultation Available</h3>
+      <p>International patients can connect with Dr. Arun Saroha through WhatsApp at <a href="tel:+917860000705">+91 78600 00705</a>, by email at <a href="mailto:drarunsaroha@gmail.com">drarunsaroha@gmail.com</a>, or via the online appointment form on spineandbrainindia.com. Please attach your MRI/CT scans, pathology reports, and a brief medical summary. The team responds within 24 hours with a consultation slot and travel/visa guidance where applicable.</p>
+
+      <h3>Domestic Patients – In-Person at Max Hospital</h3>
+      <p>Patients within India can visit Dr. Arun Saroha at Max Super Speciality Hospital, B Block, Sushant Lok 1, Near Huda City Centre, Gurugram – 122001, or at the Max Dwarka campus in Delhi. OPD consultations are available Monday to Saturday from 9:00 AM to 6:00 PM. Walk-in patients are accommodated subject to availability; prior appointment is recommended. Call <a href="tel:+917860000705">+91 78600 00705</a> to schedule.</p>
+
+      <h3>Emergency Neurosurgery Helpline</h3>
+      <p>For neurological emergencies — including head trauma, sudden loss of consciousness, acute limb weakness, or suspected stroke — call the 24/7 emergency helpline at Max Hospital immediately. Dr. Saroha's neurosurgical team is on call around the clock for critical cases requiring immediate intervention.</p>
+
+      <div class="lp-cta-box">
+        <h2>Ready to Consult Delhi's Best Neurosurgeon?</h2>
+        <p>Dr. Arun Saroha – Director of Neurosurgery, Max Hospital | 25+ Years | 7,000+ Surgeries | In-Person &amp; Teleconsultation Available</p>
+        <a href="tel:+917860000705" class="lp-cta-btn">Book Free Consultation – Call +91 78600 00705</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- END LANDING PAGE CONTENT -->
+
   <!--Google Reviews Test-->
   <section>
     <div class="w-100 scndry-layer opc98 position-relative">
