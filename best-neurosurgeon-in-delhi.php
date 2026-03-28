@@ -4,19 +4,23 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-  <title>Best Neurosurgeon in Delhi Dr. Arun Saroha | Top Spine Expert</title>
+  <title>Dr. Arun Saroha – Best Neurosurgeon in Delhi | 7000+ Surgeries | Max Hospital</title>
   <meta name="description"
-    content="Consult Dr. Arun Saroha, one of the best neurosurgeons in Delhi with 20+ years of expertise in brain & spine surgery. Book your appointment today!" />
+    content="Meet Dr. Arun Saroha — Delhi's leading neurosurgeon at Max Hospital with 25+ years & 7,000+ successful brain & spine surgeries. Trusted by patients worldwide. Book free consultation today." />
   <meta name="keywords"
-    content="best neurosurgeon in delhi, top brain specialist in Delhi, leading spine surgeon in Delhi, neurosurgery expert Delhi, neurology hospital, top neuro doctor in Delhi, best neurologists in delhi" />
+    content="best neurosurgeon in delhi, top neurosurgeon delhi, brain surgeon delhi, spine surgeon delhi, dr arun saroha, neurosurgery delhi gurgaon" />
+  <meta name="robots" content="index, follow" />
 
 
   <!-- Preload Critical Resources -->
   <link rel="preload" href="assets/video/sbi-banner.webp" as="image" type="image/webp">
   <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" as="style"
     onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://www.google-analytics.com">
 
-  <link rel="canonical" href="https://spineandbrainindia.com/best-neurosurgeon-in-uttar-pradesh.php">
+  <link rel="canonical" href="https://spineandbrainindia.com/best-neurosurgeon-in-delhi.php">
   <link rel="preload" href="/fonts/your-font.woff2" as="font" type="font/woff2" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
 
@@ -37,25 +41,164 @@
 
   <!--Twitter Tags-->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Best Neurosurgeon in Delhi – Dr. Arun Saroha | Top Spine Expert" />
+  <meta name="twitter:title" content="Dr. Arun Saroha – Best Neurosurgeon in Delhi" />
   <meta name="twitter:description"
-    content="Consult Dr. Arun Saroha, one of the best neurosurgeons in Delhi with 20+ years of expertise in brain & spine surgery. Book your appointment today!" />
+    content="25+ years, 7000+ surgeries. Delhi's top neurosurgeon at Max Hospital. Book a consultation today." />
 
   <script type="application/ld+json">
 {
-  "@context": "https://schema.org/",
-  "@type": "Product",
-  "name": "Best Neurosurgeon in Delhi – Dr. Arun Saroha | Top Spine Expert",
-  "image": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
-  "description": "Consult Dr. Arun Saroha, one of the best neurosurgeons in Delhi with 20+ years of expertise in brain & spine surgery. Book your appointment today!",
-  "brand": "Dr. Arun Saroha",
+  "@context": "https://schema.org",
+  "@type": "Physician",
+  "name": "Dr. Arun Saroha",
+  "image": "https://spineandbrainindia.com/assets/img/drimg.webp",
+  "jobTitle": "Senior Consultant Neurosurgeon & Spine Surgeon",
+  "description": "Dr. Arun Saroha is one of the best neurosurgeons in Delhi with 25+ years of experience and 7,000+ successful brain and spine surgeries at Max Super Speciality Hospital, Gurgaon and Delhi.",
+  "medicalSpecialty": "Neurosurgery",
+  "url": "https://spineandbrainindia.com/best-neurosurgeon-in-delhi.php",
+  "telephone": "+917860000705",
+  "email": "drarunsaroha@gmail.com",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Max Hospital, B Block, Sushant Lok 1, Near Huda City Centre",
+    "addressLocality": "Gurugram",
+    "addressRegion": "Haryana",
+    "postalCode": "122001",
+    "addressCountry": "IN"
+  },
+  "hasCredential": [
+    {"@type": "EducationalOccupationalCredential", "credentialCategory": "degree", "name": "MBBS"},
+    {"@type": "EducationalOccupationalCredential", "credentialCategory": "degree", "name": "MS Surgery"},
+    {"@type": "EducationalOccupationalCredential", "credentialCategory": "degree", "name": "M.Ch Neurosurgery"}
+  ],
+  "memberOf": [
+    {"@type": "MedicalOrganization", "name": "Neurological Society of India"},
+    {"@type": "MedicalOrganization", "name": "American Association of Neurological Surgeons (AANS)"}
+  ],
+  "worksFor": {
+    "@type": "Hospital",
+    "name": "Max Super Speciality Hospital",
+    "url": "https://www.maxhealthcare.in/"
+  },
+  "sameAs": [
+    "https://www.practo.com/gurugram/doctor/arun-saroha-neurosurgeon",
+    "https://www.linkedin.com/in/drarunsaroha"
+  ]
+}
+</script>
+
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "name": "Spine and Brain India – Dr. Arun Saroha, Best Neurosurgeon in Delhi",
+  "url": "https://spineandbrainindia.com/best-neurosurgeon-in-delhi.php",
+  "logo": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
+  "telephone": "+917860000705",
+  "email": "drarunsaroha@gmail.com",
+  "medicalSpecialty": ["Neurosurgery", "SpineSurgery", "BrainSurgery"],
+  "openingHours": "Mo-Sa 09:00-18:00",
+  "priceRange": "₹₹₹",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Max Hospital, B Block, Sushant Lok 1",
+    "addressLocality": "Gurugram",
+    "addressRegion": "Haryana",
+    "postalCode": "122001",
+    "addressCountry": "IN"
+  },
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": "4.8",
+    "ratingValue": "4.9",
     "bestRating": "5",
-    "worstRating": "1",
-    "ratingCount": "700"
-  }
+    "reviewCount": "500"
+  },
+  "hasMap": "https://maps.google.com/?q=Max+Hospital+Gurugram+Sushant+Lok"
+}
+</script>
+
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is the No 1 Neurosurgeon in Delhi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dr. Arun Saroha is considered one of the top neurosurgeons in Delhi, with over 25 years of experience and more than 7,000 successful brain and spine surgeries. He is the Director and Unit Head of Spine & Neurosurgery at Max Super Speciality Hospital, Gurgaon and Dwarka, Delhi."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the cost of brain surgery in Delhi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Brain surgery in Delhi typically costs between ₹3 lakhs to ₹12 lakhs (approximately USD 4,000 to USD 15,000), depending on the type and complexity of the procedure. This is 60–80% more affordable than comparable surgeries in the USA or UK."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which hospital in Delhi is best for neurosurgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Max Super Speciality Hospital (Gurgaon and Dwarka, Delhi), where Dr. Arun Saroha serves as Director of Neurosurgery, is one of Delhi's top hospitals for brain and spine surgery. It is NABH accredited and equipped with advanced neuronavigation and intraoperative MRI technology."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Dr. Arun Saroha available for international patients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Dr. Arun Saroha regularly treats international patients from the Middle East, Africa, Bangladesh, Nepal, and Southeast Asia. Teleconsultation is available for patients outside Delhi. You can book via spineandbrainindia.com or call +91 78600 00705."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the recovery time after neurosurgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Recovery time varies by procedure: minimally invasive spine surgery typically requires 1–4 weeks, open brain tumor surgery requires 4–8 weeks, and complex spine reconstruction may require 6–12 weeks with physiotherapy follow-up."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What conditions does Dr. Arun Saroha treat?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dr. Arun Saroha treats brain tumors, brain aneurysms, herniated discs, spinal stenosis, scoliosis, hydrocephalus, brachial plexus injuries, degenerative disc disease, spinal tuberculosis, and complex spine fixations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does neurosurgery mean?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Neurosurgery, also known as neurological surgery, is a specialized branch of medicine focused on diagnosing, treating, and surgically managing disorders affecting the brain, spinal cord, peripheral nerves, and cerebrovascular system."
+      }
+    }
+  ]
+}
+</script>
+
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://spineandbrainindia.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Best Neurosurgeon in Delhi",
+      "item": "https://spineandbrainindia.com/best-neurosurgeon-in-delhi.php"
+    }
+  ]
 }
 </script>
 
@@ -66,7 +209,7 @@
           "@type": "MedicalBusiness",
           "name": "Spine and Brain India",
           "description": "Best Neurosurgeon in Delhi - Leading neurosurgery services in Delhi by Dr. Arun Saroha. Specializing in spine and brain surgery with over 25 years of experience.",
-          "url": "https://spineandbrainindia.com/best-neurosurgeon-in-uttar-pradesh.php",
+          "url": "https://spineandbrainindia.com/best-neurosurgeon-in-delhi.php",
           "address": {
             "@type": "PostalAddress",
             "streetAddress": "Max Hospital Gurugram, Sushant Lok Phase I, Sector 43",
@@ -391,13 +534,50 @@
         <div class="feat-cap3-wrap z1 position-absolute w-100">
           <div class="feat-cap3 d-inline-block w-100">
             <h1 class="main-heading">
-              Dr. Arun Saroha: Leading Neurosurgeon in Delhi—Merging Innovation with Expertise
+              Dr. Arun Saroha – Best Neurosurgeon in Delhi | Brain &amp; Spine Surgery Expert
             </h1>
           </div>
         </div>
       </div>
     </div>
   </section>
+
+  <!-- EEAT Credentials + 2026 Freshness Signal -->
+  <section style="background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 100%); padding: 40px 0;">
+    <div class="container">
+      <div class="text-center mb-4">
+        <h2 style="color:#fff; font-size:26px; font-weight:700;">Dr. Arun Saroha's Qualifications &amp; Credentials</h2>
+        <p style="color:#94a3b8; font-size:14px;">Updated: March 2026 &nbsp;|&nbsp; <span style="background:#22c55e; color:#fff; border-radius:4px; padding:2px 8px; font-size:12px; font-weight:600;">2026</span></p>
+      </div>
+      <div style="display:grid; grid-template-columns:repeat(auto-fill,minmax(260px,1fr)); gap:16px;">
+        <div style="background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.1); border-radius:10px; padding:18px 20px; display:flex; align-items:flex-start; gap:14px;">
+          <span style="font-size:24px;">🎓</span>
+          <div><strong style="color:#e2e8f0;">MBBS | MS Surgery | M.Ch (Neurosurgery)</strong><br><span style="color:#94a3b8; font-size:13px;">Highest neurosurgical qualification in India</span></div>
+        </div>
+        <div style="background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.1); border-radius:10px; padding:18px 20px; display:flex; align-items:flex-start; gap:14px;">
+          <span style="font-size:24px;">🏥</span>
+          <div><strong style="color:#e2e8f0;">Director &amp; Unit Head — Max Super Speciality Hospital</strong><br><span style="color:#94a3b8; font-size:13px;">Gurgaon &amp; Dwarka, Delhi</span></div>
+        </div>
+        <div style="background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.1); border-radius:10px; padding:18px 20px; display:flex; align-items:flex-start; gap:14px;">
+          <span style="font-size:24px;">🌐</span>
+          <div><strong style="color:#e2e8f0;">Member — Neurological Society of India</strong><br><span style="color:#94a3b8; font-size:13px;">American Association of Neurological Surgeons (AANS)</span></div>
+        </div>
+        <div style="background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.1); border-radius:10px; padding:18px 20px; display:flex; align-items:flex-start; gap:14px;">
+          <span style="font-size:24px;">🏆</span>
+          <div><strong style="color:#e2e8f0;">25+ Years of Neurosurgical Excellence</strong><br><span style="color:#94a3b8; font-size:13px;">7,000+ successful brain &amp; spine surgeries</span></div>
+        </div>
+        <div style="background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.1); border-radius:10px; padding:18px 20px; display:flex; align-items:flex-start; gap:14px;">
+          <span style="font-size:24px;">✅</span>
+          <div><strong style="color:#e2e8f0;">NMC Registered Neurosurgeon</strong><br><span style="color:#94a3b8; font-size:13px;">Practising at NABH-Accredited Max Hospital</span></div>
+        </div>
+        <div style="background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.1); border-radius:10px; padding:18px 20px; display:flex; align-items:flex-start; gap:14px;">
+          <span style="font-size:24px;">📄</span>
+          <div><strong style="color:#e2e8f0;">International Conference Speaker &amp; Published Author</strong><br><span style="color:#94a3b8; font-size:13px;">Active contributor to neurosurgery research</span></div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End EEAT Credentials -->
 
   <section>
     <div class="w-100 position-relative mt-5">
@@ -409,7 +589,7 @@
               <i><img class="icon-img" src="assets/img/icons/icon_1.webp" loading="lazy"
                   alt="A telephone to Icon" /></i>
               <div class="special-box-inner">
-                <h4 class="mb-0">Emergency & Online Consultation</h4>
+                <h3 class="mb-0">Emergency & Online Consultation</h3>
                 <p><a href="tel:+91 78600 00705">+91 78600 00705</a></p>
 
               </div>
@@ -462,7 +642,7 @@
           <div class="row mrg30">
             <div class="col-md-12 col-sm-12 col-lg-6 order-lg-1">
               <div class="about-img position-relative w-100">
-                <img class="img-fluid w-100" src="assets/img/drimg.webp" loading="lazy" alt="About Image" />
+                <img class="img-fluid w-100" src="assets/img/drimg.webp" loading="lazy" width="600" height="700" alt="Dr. Arun Saroha - Best Neurosurgeon in Delhi at Max Hospital" title="Dr. Arun Saroha - Leading Brain and Spine Surgeon Delhi" />
                 <div class="about-info z1 scndry-bg position-absolute">
                   <i class="flaticon-coach position-absolute"></i>
                   <h3 class="d-block">
@@ -506,15 +686,15 @@
 
 
           <p>In addition to his surgical expertise, Dr. Arun Saroha, widely recognized as the <a
-              href="https://spineandbrainindia.com/best-neurosurgeon-in-uttar-pradesh.php" target="_blank">best neurosurgeon in Delhi</a>, is actively
+              href="https://spineandbrainindia.com/best-neurosurgeon-in-delhi.php">best neurosurgeon in Delhi</a>, is actively
             involved in academic training, research, and international conferences, where he shares his knowledge with
             fellow professionals. His commitment to advancing neurosurgical techniques keeps him at the forefront of
             innovation in brain and spine care.</p>
 
           <p>Patients from across Delhi and around the world seek treatment under the <a
-              href="https://spineandbrainindia.com/best-neurosurgeon-in-uttar-pradesh.php" target="_blank">best neurosurgeon in Delhi</a>, drawn by his
+              href="https://spineandbrainindia.com/best-neurosurgeon-in-delhi.php">best neurosurgeon in Delhi</a>, drawn by his
             reputation for clinical excellence, compassionate care, and high success rates. Whether you're dealing with
-            chronic back pain, spine deformities, or neurological trauma, Dr. Arun Saroha offers comprehensive solutions
+            chronic <a href="https://spineandbrainindia.com/back-pain-treatment-in-India">back pain</a>, spine deformities, or neurological trauma, Dr. Arun Saroha offers comprehensive solutions
             tailored to each individual case.</p>
         </div>
       </div>
@@ -531,8 +711,7 @@
       <div class="row mt-5">
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="service-front text-center">
-            <img loading="lazy" src="assets/img/Disc Herniation-01.svg" alt="back pain"
-              style="width:100px; height:100px">
+            <img loading="lazy" src="assets/img/Disc Herniation-01.svg" alt="Back Pain Treatment by Dr. Arun Saroha, Neurosurgeon Delhi" width="100" height="100" style="width:100px; height:100px">
             <h3>Back Pain</h3>
             <p>Back pain, a common yet complex ailment, significantly impacts the lives of millions globally. Dr. Arun
               Saroha emerges as a prominent figure in combating this pervasive issue.</p>
@@ -543,8 +722,7 @@
 
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="service-front text-center">
-            <img loading="lazy" src="assets/img/SPONDYLOSIS-01-01.svg" alt="cervical spine surgery"
-              style="width:100px; height:100px">
+            <img loading="lazy" src="assets/img/SPONDYLOSIS-01-01.svg" alt="Cervical Spine Surgery Delhi - Dr. Arun Saroha" width="100" height="100" style="width:100px; height:100px">
             <h3>Cervical Spine Surgery</h3>
             <p>Cervical spine surgery is a procedure designed to address conditions affecting the neck portion of the
               spine. The goal of the surgery is to relieve pressure on the spinal cord or nerves.</p>
@@ -555,8 +733,7 @@
 
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="service-front text-center">
-            <img loading="lazy" src="assets/img/degenerative disc-01-01.svg" alt="best neurosurgeon in delhi"
-              style="width:100px; height:100px">
+            <img loading="lazy" src="assets/img/degenerative disc-01-01.svg" alt="Degenerative Disc Disease Treatment Delhi by Dr. Arun Saroha" width="100" height="100" style="width:100px; height:100px">
             <h3>Degenerative Disc</h3>
             <p>Degenerative disc disease occurs when the cushioning discs between the vertebrae in the spine begin to
               wear down, causing pain, discomfort, and in severe cases, disability.</p>
@@ -571,8 +748,7 @@
 
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="service-front text-center">
-            <img loading="lazy" src="assets/img/brain tumar surgery.svg" alt="best neurosurgeon in the world"
-              style="width:100px; height:100px">
+            <img loading="lazy" src="assets/img/brain tumar surgery.svg" alt="Brain Tumor Surgery in Delhi by Dr. Arun Saroha" width="100" height="100" style="width:100px; height:100px">
             <h3>Brain Tumor Surgery</h3>
             <p>A brain tumor is an abnormal growth of cells in or around the brain, which can be either benign
               (non-cancerous) or malignant (cancerous).</p>
@@ -583,8 +759,7 @@
 
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="service-front text-center">
-            <img loading="lazy" src="assets/img/brain surgery-01.svg" alt="best neurosurgeon in delhi"
-              style="width:100px; height:100px">
+            <img loading="lazy" src="assets/img/brain surgery-01.svg" alt="Brain Aneurysm Surgery Delhi by Dr. Arun Saroha Neurosurgeon" width="100" height="100" style="width:100px; height:100px">
             <h3>Brain Aneurysm</h3>
             <p>A brain aneurysm, also known as a cerebral aneurysm, is a weak or thin spot on a blood vessel in the
               brain that balloons out and fills with blood. </p>
@@ -595,8 +770,7 @@
 
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="service-front text-center">
-            <img loading="lazy" src="assets/img/headache treatment-01.svg" alt="best neurosurgeon in the world"
-              style="width:100px; height:100px">
+            <img loading="lazy" src="assets/img/headache treatment-01.svg" alt="Headache Treatment Delhi by Dr. Arun Saroha Best Neurosurgeon" width="100" height="100" style="width:100px; height:100px">
             <h3>Headache Treatment</h3>
             <p>Headaches, often considered a routine discomfort, can in fact significantly disrupt daily life.</p>
             <a href="https://spineandbrainindia.com/headache-treatment-in-India"><b>Read More</b> <i
@@ -645,7 +819,7 @@
                       alt="A Happy Smiley Face potraying a happy face." /></i>
                   <div class="fact-box-inner">
                     <span style="color: white" class="scndry-clr d-block"><i class="counter">100</i>%</span>
-                    <h4 class="mb-0">Patient Satisfaction Rate</h4>
+                    <h3 class="mb-0">Patient Satisfaction Rate</h3>
                   </div>
                 </div>
                 <div class="fact-box position-relative d-flex flex-wrap w-100 blue-layer-text-small-div">
@@ -653,7 +827,7 @@
                       alt="A start Badge Icon Displaying Years of Experience." /></i>
                   <div class="fact-box-inner">
                     <span style="color: white" class="scndry-clr d-block"><i class="counter">25</i>+</span>
-                    <h4 class="mb-0">Years of Experience</h4>
+                    <h3 class="mb-0">Years of Experience</h3>
                   </div>
                 </div>
                 <div class="fact-box position-relative d-flex flex-wrap w-100 blue-layer-text-small-div">
@@ -661,9 +835,9 @@
                     alt="A Brain Image Illustrating Successful Surgeries." /></i>
                   <div class="fact-box-inner">
                     <span style="color: white" class="scndry-clr d-block"><i class="counter">7000</i>+</span>
-                    <h4 class="mb-0">
+                    <h3 class="mb-0">
                       Brain & Spine Surgeries
-                    </h4>
+                    </h3>
                   </div>
                 </div>
               </div>
