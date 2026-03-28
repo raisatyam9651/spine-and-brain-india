@@ -23,8 +23,8 @@ Redirect 301 '/best-treatment-cervical-spondylosis-in-India' 'https://spineandbr
 Redirect 301 '/best-treatment-cervical-spondylosis-in-India' 'https://spineandbrainindia.com/'
 Redirect 301 '/blog/2024/12/' 'https://spineandbrainindia.com/'
 Redirect 301 '/blog/how-is-neurosurgery-done/' 'https://spineandbrainindia.com/blog/en/how-is-neurosurgery-done/'
-Redirect 301 '/best-hospital-' 'https://spineandbrainindia.com/'
-Redirect 301 '/best-' 'https://spineandbrainindia.com/'
+# Redirect 301 '/best-hospital-' 'https://spineandbrainindia.com/'  # DISABLED - was redirecting all best-* pages to homepage
+# Redirect 301 '/best-' 'https://spineandbrainindia.com/'  # DISABLED - was redirecting all best-* pages to homepage
 
 Redirect 301 '/best-treatment-cervical-spondylosis-in-India.php' 'https://spineandbrainindia.com/'
 Redirect 301 'https://spineandbrainindia.com/degenerative-disc-disease-treatment-in-India/' 'https://spineandbrainindia.com/degenerative-disc-disease-treatment-in-India'
@@ -40,11 +40,11 @@ Redirect 301 '/blog/how-is-cervical-spine-surgery-done/' 'https://spineandbraini
 Redirect 301 '/scoliosis-treatment-in-india' 'https://spineandbrainindia.com/'
 Redirect 301 '/best-hospital-doctor-' 'https://spineandbrainindia.com/'
 Redirect 301 '/about-us/doctors-profile/' 'https://spineandbrainindia.com/'
-Redirect 301 '/about/ 'https://spineandbrainindia.com/about'
+Redirect 301 '/about/' 'https://spineandbrainindia.com/about'
 Redirect 301 '/about/doctors-profile/' 'https://spineandbrainindia.com/'
 Redirect 301 '/best-spine-surgeon-in-delhi/' 'https://spineandbrainindia.com/'
 Redirect 301 '/portfolio/brain-tumor/' 'https://spineandbrainindia.com/'
-Redirect 301 '/best' 'https://spineandbrainindia.com/'
+# Redirect 301 '/best' 'https://spineandbrainindia.com/'  # DISABLED - was redirecting all best-* pages to homepage
 Redirect 301 '/services.html' 'https://spineandbrainindia.com/'
 Redirect 301 '/portfolio/disc-herniation/' 'https://spineandbrainindia.com/'
 Redirect 301 '/contact-us/' 'https://spineandbrainindia.com/'
@@ -121,8 +121,8 @@ Redirect 301 'https://spineandbrainindia.com/blog/how-long-does-it-take-to-recov
 Redirect 301 'https://spineandbrainindia.com/best-treatment-cervical-spondylosis-in-India' 'https://spineandbrainindia.com/'
 Redirect 301 'https://spineandbrainindia.com/blog/2024/12/' 'https://spineandbrainindia.com/'
 Redirect 301 'https://spineandbrainindia.com/blog/how-is-neurosurgery-done/' 'https://spineandbrainindia.com/'
-Redirect 301 'https://spineandbrainindia.com/best-hospital-' 'https://spineandbrainindia.com/'
-Redirect 301 'https://spineandbrainindia.com/best-' 'https://spineandbrainindia.com/'
+# Redirect 301 'https://spineandbrainindia.com/best-hospital-' 'https://spineandbrainindia.com/'  # DISABLED
+# Redirect 301 'https://spineandbrainindia.com/best-' 'https://spineandbrainindia.com/'  # DISABLED
 Redirect 301 'https://spineandbrainindia.com/best-treatment-cervical-spondylosis-in-India.php' 'https://spineandbrainindia.com/'
 Redirect 301 'https://spineandbrainindia.com/brain-haemorrhage/' 'https://spineandbrainindia.com/'
 Redirect 301 'https://spineandbrainindia.com/blog/how-i-cured-my-degenerative-disc-disease/feed/' 'https://spineandbrainindia.com/'
@@ -131,7 +131,7 @@ Redirect 301 'https://spineandbrainindia.com/best-hospital-doctor-' 'https://spi
 Redirect 301 'https://spineandbrainindia.com/about-us/doctors-profile/' 'https://spineandbrainindia.com/'
 Redirect 301 'https://spineandbrainindia.com/best-spine-surgeon-in-delhi/' 'https://spineandbrainindia.com/'
 Redirect 301 'https://spineandbrainindia.com/portfolio/brain-tumor/' 'https://spineandbrainindia.com/'
-Redirect 301 'https://spineandbrainindia.com/best' 'https://spineandbrainindia.com/'
+# Redirect 301 'https://spineandbrainindia.com/best' 'https://spineandbrainindia.com/'  # DISABLED
 Redirect 301 'https://spineandbrainindia.com/services.html' 'https://spineandbrainindia.com/'
 Redirect 301 'https://spineandbrainindia.com/portfolio/disc-herniation/' 'https://spineandbrainindia.com/'
 Redirect 301 'https://spineandbrainindia.com/contact-us/' 'https://spineandbrainindia.com/'
