@@ -7,7 +7,8 @@
       "Bash(curl -s http://localhost:8000/about.php)",
       "Bash(curl -s -o /dev/null -w \"HTTP Status: %{http_code}\\\\nRedirect: %{redirect_url}\\\\n\" \"https://spineandbrainindia.com/about\")",
       "Bash(curl -sL -o /dev/null -w \"HTTP Status: %{http_code}\\\\n\" \"https://spineandbrainindia.com/about\")",
-      "Bash(curl -sL http://localhost:8000/about.php)"
+      "Bash(curl -sL http://localhost:8000/about.php)",
+      "Bash(curl -s -o /dev/null -w \"HTTP Status: %{http_code}\\\\n\" http://localhost:8000/about.php)"
     ]
   }
 }

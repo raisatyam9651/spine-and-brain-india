@@ -1,21 +1,23 @@
-RewriteEngine on 
+RewriteEngine on
 
 RewriteCond %{HTTP_HOST} ^www.spineandbrainindia.com$ [NC]
 RewriteRule ^(.*)$ https://spineandbrainindia.com/$1 [L,R=301]
-
-RewriteCond %{REQUEST_FILENAME} !-d 
-RewriteCond %{REQUEST_FILENAME}\.php -f 
-RewriteRule ^(.*)$ $1.php
-
 
 # To externally redirect /dir/foo.php to /dir/foo
 RewriteCond %{REQUEST_METHOD} !POST
 RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.php [NC]
 RewriteRule ^ %1 [R=302,L,NE]
 
-Redirect 301 '/index.html' 'https://www.spineandbrainindia.com'
-Redirect 301 '/about-us/docto...' 'https://spineandbrainindia.com/about'
-Redirect 301 '/about-us' 'https://spineandbrainindia.com/about'
+# Internally add .php extension for clean URLs
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [L]
+
+# Old about-us redirects (using RewriteRule to avoid mod_alias conflicts)
+RewriteRule ^about-us/docto(.*)$ /about [R=301,L]
+RewriteRule ^about-us/?$ /about [R=301,L]
+RewriteRule ^about/doctors-profile/?$ / [R=301,L]
+RewriteRule ^about/$ /about [R=301,L]
 Redirect 301 '/blog/how-long-does-it-take-to-recover-from-cervical-spine-surgery/' 'https://spineandbrainindia.com//blog/en/how-long-does-it-take-to-recover-from-cervical-spine-surgery/'
 Redirect 301 '/best-treatment-cervical-spondylosis-in-India' 'https://spineandbrainindia.com'
 
@@ -39,9 +41,7 @@ Redirect 301 '/blog/is-scoliosis-surgery-safe/' 'https://spineandbrainindia.com/
 Redirect 301 '/blog/how-is-cervical-spine-surgery-done/' 'https://spineandbrainindia.com/en/blog/how-is-cervical-spine-surgery-done/'
 Redirect 301 '/scoliosis-treatment-in-india' 'https://spineandbrainindia.com/'
 Redirect 301 '/best-hospital-doctor-' 'https://spineandbrainindia.com/'
-Redirect 301 '/about-us/doctors-profile/' 'https://spineandbrainindia.com/'
-Redirect 301 '/about/' 'https://spineandbrainindia.com/about'
-Redirect 301 '/about/doctors-profile/' 'https://spineandbrainindia.com/'
+# about redirects handled via RewriteRule above to avoid mod_alias conflicts
 Redirect 301 '/best-spine-surgeon-in-delhi/' 'https://spineandbrainindia.com/'
 Redirect 301 '/portfolio/brain-tumor/' 'https://spineandbrainindia.com/'
 # Redirect 301 '/best' 'https://spineandbrainindia.com/'  # DISABLED - was redirecting all best-* pages to homepage
