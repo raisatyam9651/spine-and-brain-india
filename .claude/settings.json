@@ -2,7 +2,12 @@
   "permissions": {
     "allow": [
       "WebSearch",
-      "Bash(xargs -I {} basename {})"
+      "Bash(xargs -I {} basename {})",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8000/about.php)",
+      "Bash(curl -s http://localhost:8000/about.php)",
+      "Bash(curl -s -o /dev/null -w \"HTTP Status: %{http_code}\\\\nRedirect: %{redirect_url}\\\\n\" \"https://spineandbrainindia.com/about\")",
+      "Bash(curl -sL -o /dev/null -w \"HTTP Status: %{http_code}\\\\n\" \"https://spineandbrainindia.com/about\")",
+      "Bash(curl -sL http://localhost:8000/about.php)"
     ]
   }
 }
