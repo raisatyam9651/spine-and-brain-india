@@ -162,16 +162,51 @@
             .faq-question {
                 padding: 15px 20px;
                 font-size: 15px;
+                min-height: 48px;
             }
 
             .faq-answer.active {
                 padding: 20px;
+                max-height: 800px;
             }
 
             .plus-icon {
                 width: 20px;
                 height: 20px;
                 font-size: 16px;
+            }
+
+            /* Mobile table optimization */
+            .table-responsive table {
+                font-size: 13px;
+            }
+            .table-responsive th,
+            .table-responsive td {
+                padding: 8px 10px;
+                white-space: nowrap;
+            }
+
+            /* Touch-friendly buttons and links */
+            a, button {
+                min-height: 44px;
+                min-width: 44px;
+            }
+
+            /* Form input sizing for mobile */
+            input[type="text"],
+            input[type="email"],
+            input[type="tel"],
+            textarea,
+            select {
+                font-size: 16px;
+                padding: 12px;
+                min-height: 48px;
+            }
+
+            /* Stack service header on mobile */
+            .service-header h2 {
+                font-size: 1.4em;
+                line-height: 1.3;
             }
         }
 
@@ -721,7 +756,29 @@
                                         <p class="mb-0" style="margin-top:15px;"><em>Contact us at <strong>+91-7860000705</strong> or email <strong>drarunsaroha@gmail.com</strong> for a personalized cost estimate based on your specific condition.</em></p>
 
                                         <!-- INTERNAL LINKS SECTION -->
-                                        <h3 class="mb-0" style="margin-top:25px;">Related Neurosurgical Services</h3>
+                                        <h3 class="mb-0" style="margin-top:25px;">Tumor-Specific Treatment Pages</h3>
+                                        <p class="mb-0">Learn more about treatment for specific brain tumor types:</p>
+                                        <ul class="mb-0">
+                                            <li><a href="glioblastoma-treatment-in-india" title="Glioblastoma Treatment in India">Glioblastoma (GBM) Treatment in India</a> &mdash; advanced multimodal therapy for aggressive brain cancer</li>
+                                            <li><a href="meningioma-surgery-in-india" title="Meningioma Surgery in India">Meningioma Surgery in India</a> &mdash; expert benign brain tumor removal with 90-95% success rate</li>
+                                            <li><a href="pituitary-adenoma-treatment-in-india" title="Pituitary Adenoma Treatment in India">Pituitary Adenoma Treatment in India</a> &mdash; minimally invasive endoscopic transsphenoidal surgery</li>
+                                        </ul>
+
+                                        <h3 class="mb-0" style="margin-top:20px;">Compare Treatment Options</h3>
+                                        <ul class="mb-0">
+                                            <li><a href="cyberknife-vs-gamma-knife-vs-surgery" title="CyberKnife vs Gamma Knife vs Surgery">CyberKnife vs Gamma Knife vs Surgery</a> &mdash; comprehensive comparison to help you choose the right treatment</li>
+                                            <li><a href="open-vs-minimally-invasive-brain-surgery" title="Open vs Minimally Invasive Brain Surgery">Open vs Minimally Invasive Brain Surgery</a> &mdash; recovery, cost, and outcome comparison</li>
+                                        </ul>
+
+                                        <h3 class="mb-0" style="margin-top:20px;">Brain Tumor Surgery by Location</h3>
+                                        <ul class="mb-0">
+                                            <li><a href="brain-tumor-surgery-in-delhi" title="Brain Tumor Surgery in Delhi">Brain Tumor Surgery in Delhi</a></li>
+                                            <li><a href="brain-tumor-surgery-in-gurgaon" title="Brain Tumor Surgery in Gurgaon">Brain Tumor Surgery in Gurgaon</a></li>
+                                            <li><a href="brain-tumor-surgery-in-mumbai" title="Brain Tumor Surgery in Mumbai">Brain Tumor Surgery in Mumbai</a></li>
+                                            <li><a href="brain-tumor-surgery-in-bangalore" title="Brain Tumor Surgery in Bangalore">Brain Tumor Surgery in Bangalore</a></li>
+                                        </ul>
+
+                                        <h3 class="mb-0" style="margin-top:20px;">Related Neurosurgical Services</h3>
                                         <p class="mb-0">Dr. Arun Saroha also provides expert treatment for related neurological conditions:</p>
                                         <ul class="mb-0">
                                             <li><a href="brain-surgery-in-India" title="Brain Surgery in India">Brain Surgery in India</a> &mdash; comprehensive neurosurgical services for all brain conditions</li>

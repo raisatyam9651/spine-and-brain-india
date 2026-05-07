@@ -136,7 +136,7 @@
                                                 <li><a href="brain-tumor-surgery-in-India" title="">Brain Tumor Surgery</a></li>
                                                 <li><a href="headache-treatment-in-India" title="">Headache Treatment</a></li>
                                                 <li><a href="hydrocephalus-treatment-in-india">Hydrocephalus Treatment</a></li>
-                                                    <!--<li><a href="contact" title="">Many more</a></li>-->
+                                                <li><a href="head-injury" title="">Head Injury Treatment</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="international" title="">International Patients</a></li>
@@ -200,8 +200,9 @@
                                                 <li><a href="brain-tumor-surgery-in-India" title="">Brain Tumor Surgery</a></li>
                                                 <li><a href="headache-treatment-in-India" title="">Headache Treatment</a></li>
                                                 <li><a href="hydrocephalus-treatment-in-india">Hydrocephalus Treatment</a></li>
+                                                <li><a href="head-injury" title="">Head Injury Treatment</a></li>
                                             </ul>
-                                         
+
                                     </li>
                                     <li ><a href="international" title="">International Patients</a>
                                        
@@ -269,9 +270,10 @@
                                                 <li><a href="brain-tumor-surgery-in-India" title="">Brain Tumor Surgery</a></li>
                                                 <li><a href="headache-treatment-in-India" title="">Best Headache Treatment</a></li>
                                                 <li><a href="hydrocephalus-treatment-in-india">Hydrocephalus Treatment</a></li>
+                                                <li><a href="head-injury" title="">Head Injury Treatment</a></li>
                                             </ul>
                          </li>
-                        
+
                         <li ><a href="international" title="">International Patients</a>
                            
                         </li>

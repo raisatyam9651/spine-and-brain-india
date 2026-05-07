@@ -677,7 +677,7 @@
                 </thead>
                 <tbody>
                   <tr>
-                    <td>Brain Tumor Surgery</td>
+                    <td><a href="brain-tumor-surgery-in-India" title="Brain Tumor Surgery in India" style="color:inherit;text-decoration:underline;">Brain Tumor Surgery</a></td>
                     <td>$3,500 – $7,000</td>
                     <td>$50,000 – $150,000</td>
                   </tr>

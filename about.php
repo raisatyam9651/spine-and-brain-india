@@ -1094,7 +1094,7 @@
             <div class="col-12">
                 <div class="bio-content">
                     <p>Beyond his professional achievements, Dr. Saroha is deeply committed to serving society. He actively associates with social organizations, providing <strong>free treatment to underprivileged patients</strong> who cannot afford surgical care. His dedication to healthcare extends to mentoring the next generation of neurosurgeons, participating in national and international conferences, and contributing to research that advances the field of neurosurgery.</p>
-                    <p>Choosing Dr. Arun Saroha means embracing a journey toward recovery — guided by <strong>unwavering expertise, compassion, and dedication</strong>. Whether you are dealing with a complex spine condition, a brain tumor, or any other neurological challenge, Dr. Saroha and his team at Spine and Brain India offer comprehensive care, personalized treatment plans, and a commitment to restoring your quality of life.</p>
+                    <p>Choosing Dr. Arun Saroha means embracing a journey toward recovery — guided by <strong>unwavering expertise, compassion, and dedication</strong>. Whether you are dealing with a complex spine condition, <a href="brain-tumor-surgery-in-India" title="Brain Tumor Surgery in India">a brain tumor</a>, or any other neurological challenge, Dr. Saroha and his team at Spine and Brain India offer comprehensive care, personalized treatment plans, and a commitment to restoring your quality of life.</p>
                 </div>
             </div>
         </div>
@@ -1408,7 +1408,7 @@
                     <span class="faq-toggle"><i class="fas fa-plus"></i></span>
                 </button>
                 <div class="faq-answer">
-                    <p>Dr. Saroha specializes in minimally invasive spine surgery, brain tumor surgery, complex spine fixations, disc replacement, spinal stenosis treatment, scoliosis correction, pediatric neurosurgery, endoscopic spine procedures, microvascular decompression, brachial plexus surgery, and nerve grafting.</p>
+                    <p>Dr. Saroha specializes in minimally invasive spine surgery, <a href="brain-tumor-surgery-in-India" title="Brain Tumor Surgery in India">brain tumor surgery</a>, complex spine fixations, disc replacement, spinal stenosis treatment, scoliosis correction, pediatric neurosurgery, endoscopic spine procedures, microvascular decompression, brachial plexus surgery, and nerve grafting.</p>
                 </div>
             </div>
             <div class="faq-item">

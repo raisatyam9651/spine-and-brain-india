@@ -116,18 +116,42 @@
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "What is a head injury?",
+          "name": "What is a head injury and how serious can it be?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A head injury, also known as traumatic brain injury (TBI), is any injury to the brain, skull, or scalp caused by external force such as a blow, jolt, or penetrating wound. Head injuries range from mild concussions to severe brain damage requiring emergency neurosurgery."
+            "text": "A head injury, also known as traumatic brain injury (TBI), is any injury to the brain, skull, or scalp caused by external force such as a blow, jolt, or penetrating wound. Head injuries range from mild concussions that resolve in days to severe brain damage that can be life-threatening or cause permanent disability. Early diagnosis and treatment by an experienced neurosurgeon significantly improves outcomes."
           }
         },
         {
           "@type": "Question",
-          "name": "What are the common symptoms of a head injury?",
+          "name": "What are the warning signs of a serious head injury?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Common symptoms include headache, dizziness, nausea, vomiting, confusion, memory loss, blurred vision, slurred speech, loss of consciousness, unequal pupil size, clear fluid from nose or ears, seizures, and weakness in limbs. Severe injuries may cause prolonged unconsciousness or coma."
+            "text": "Warning signs of a serious head injury include: prolonged loss of consciousness, repeated vomiting, seizures, unequal pupil size, clear fluid from nose or ears, severe headache that worsens, weakness or numbness in limbs, slurred speech, increasing confusion, and difficulty waking from sleep. If any of these symptoms appear after a head trauma, seek emergency neurosurgical care immediately by calling +91-7860000705."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What causes head injuries?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The most common causes of head injuries in India include road traffic accidents (the leading cause at nearly 60%), falls (especially in elderly and children), sports-related injuries, workplace accidents, physical assault, and falling objects. Two-wheeler accidents without helmets are a particularly significant cause of severe TBI in India."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is a head injury diagnosed?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Head injury diagnosis involves a thorough neurological examination using the Glasgow Coma Scale (GCS), followed by CT scan (the primary imaging tool for emergency cases) and MRI for detailed brain tissue assessment. Additional tests may include X-rays for skull fractures, angiography for blood vessel damage, and intracranial pressure (ICP) monitoring for severe cases."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the treatment options for head injuries?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Treatment depends on severity. Mild injuries (concussions) are managed with rest, observation, and pain medication. Moderate to severe injuries may require surgical intervention including craniotomy (opening the skull to remove blood clots), decompressive craniectomy (removing skull bone to relieve pressure), hematoma evacuation, depressed fracture repair, and ICP monitoring. Dr. Arun Saroha determines the best approach based on each patient's specific condition."
           }
         },
         {
@@ -135,7 +159,7 @@
           "name": "How much does head injury treatment cost in India?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Head injury treatment in India costs between INR 1,50,000 to INR 8,00,000 depending on severity. Mild injuries may cost INR 50,000-1,50,000 for observation. Moderate injuries requiring surgery cost INR 2,00,000-5,00,000. Severe cases with ICU stays can cost INR 5,00,000-12,00,000+."
+            "text": "Head injury treatment costs in India vary based on severity. Mild injury observation costs INR 50,000-1,50,000. Surgical procedures like craniotomy or hematoma evacuation range from INR 2,00,000-5,00,000. Decompressive craniectomy costs INR 3,00,000-6,00,000. ICU stays cost INR 15,000-35,000 per day. These costs are significantly lower than Western countries while maintaining world-class care standards. Contact us at +91-7860000705 for a personalized estimate."
           }
         },
         {
@@ -143,7 +167,47 @@
           "name": "What is the recovery time after head injury surgery?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Recovery time varies by severity. Mild concussions recover in 1-2 weeks. Moderate injuries take 3-6 months. Severe TBI may require 6-18 months of rehabilitation. Full neurological recovery depends on the extent of brain damage, patient age, and rehabilitation quality."
+            "text": "Recovery time varies significantly based on injury severity. Mild concussions typically resolve in 2-4 weeks. Moderate head injuries require 3-6 months for recovery. Severe TBI cases may need 6-18 months or more of rehabilitation. Factors affecting recovery include patient age, overall health, extent of brain damage, and quality of post-surgical rehabilitation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the Golden Hour in head injury treatment?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Golden Hour refers to the first 60 minutes after a severe head injury. Getting the patient to a qualified neurosurgeon within this critical window dramatically improves survival rates and recovery outcomes. During this time, life-saving interventions like stopping brain bleeding, reducing intracranial pressure, and preventing secondary brain damage can be performed. Dr. Arun Saroha's team at Max Hospital is available 24/7 for emergency head injury cases."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can a head injury cause long-term complications?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, depending on severity. Possible long-term complications include post-traumatic epilepsy (seizures), cognitive difficulties (memory, concentration), behavioral and personality changes, chronic headaches, balance problems, speech difficulties, and in severe cases, physical disability. However, with expert treatment from a skilled neurosurgeon like Dr. Saroha, followed by proper rehabilitation, many patients achieve significant recovery and return to their daily activities."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is head injury treatment available for international patients?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, Dr. Arun Saroha and Spine and Brain India regularly treat international patients from the Middle East, Africa, and Southeast Asia. We provide complete assistance including medical visa support, airport pickup, accommodation arrangements, interpreter services, and telemedicine follow-up consultations. India offers the best head injury treatment at 60-80% lower costs compared to the US, UK, or Europe."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What rehabilitation is needed after head injury surgery?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Post-surgical rehabilitation is crucial for optimal recovery and may include: physiotherapy (for motor function and strength), occupational therapy (for daily living skills), speech and language therapy, cognitive rehabilitation (for memory and thinking skills), neuropsychological counseling, and nutritional support. Dr. Saroha's team creates personalized rehabilitation plans for each patient based on their specific deficits and recovery goals."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can head injuries be prevented?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Key prevention measures include: always wearing helmets while riding two-wheelers or cycling, using seatbelts in vehicles, installing safety gates for children, using non-slip mats for elderly, following workplace safety protocols, avoiding driving under the influence of alcohol, supervising children during sports, and wearing protective gear during contact sports. While not all head injuries can be prevented, these precautions significantly reduce the risk."
           }
         }
       ]
@@ -195,7 +259,7 @@
                                 <div class="col-md-12 col-sm-12 col-lg-8">
                                     <div class="post-detail w-100">
                                         <div class="post-feat-img serv-detail-img brd-rd10 position-relative overflow-hidden w-100">
-                                            <img class="img-fluid w-100" src="assets/img/services/Blood Clot Brain.webp" alt="Best Head Injury Treatment in India - Dr. Arun Saroha">
+                                            <img class="img-fluid w-100" src="assets/img/services/Brain surgery_11zon.webp" alt="Best Head Injury Treatment in India - Dr. Arun Saroha, Neurosurgeon at Max Hospital">
                                         </div>
 
                                         <!-- HERO SECTION -->
@@ -256,6 +320,55 @@
                                             <i class="flaticon-quote d-block"></i>
                                             <p class="mb-0"><strong>IMPORTANT: </strong> The first 60 minutes after a severe head injury is called the "Golden Hour." Getting the patient to a neurosurgeon within this time significantly improves survival and recovery chances. Call Dr. Arun Saroha's emergency line at <strong>+91-7860000705</strong> for immediate assistance.</p>
                                         </blockquote>
+
+                                        <!-- DIAGNOSIS SECTION -->
+                                        <h2 class="mb-0" style="margin-top:25px;">How is a Head Injury Diagnosed?</h2>
+                                        <p class="mb-0">Accurate and rapid diagnosis is critical in head injury management. Dr. Arun Saroha uses a multi-step diagnostic approach to determine the type, location, and severity of the injury:</p>
+
+                                        <h3 class="mb-0" style="margin-top:20px;">Glasgow Coma Scale (GCS) Assessment</h3>
+                                        <p class="mb-0">The <strong>Glasgow Coma Scale</strong> is the internationally recognized standard for assessing the severity of a head injury. It evaluates three responses:</p>
+                                        <div class="table-responsive" style="margin-top:15px;margin-bottom:15px;">
+                                            <table class="table table-bordered table-striped">
+                                                <thead style="background-color:#2f94e1;color:#fff;">
+                                                    <tr>
+                                                        <th>Response</th>
+                                                        <th>Score Range</th>
+                                                        <th>What is Tested</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <td><strong>Eye Opening</strong></td>
+                                                        <td>1&ndash;4</td>
+                                                        <td>Spontaneous, to voice, to pain, or none</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><strong>Verbal Response</strong></td>
+                                                        <td>1&ndash;5</td>
+                                                        <td>Oriented, confused, inappropriate words, incomprehensible, none</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><strong>Motor Response</strong></td>
+                                                        <td>1&ndash;6</td>
+                                                        <td>Obeys commands, localizes pain, withdrawal, abnormal flexion, extension, none</td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                        <ul class="mb-0">
+                                            <li><strong>Mild TBI (GCS 13&ndash;15):</strong> Patient is conscious and alert, may have brief confusion or loss of consciousness</li>
+                                            <li><strong>Moderate TBI (GCS 9&ndash;12):</strong> Patient has impaired consciousness, may require close monitoring and possible surgery</li>
+                                            <li><strong>Severe TBI (GCS 3&ndash;8):</strong> Patient is in a comatose state, requires emergency neurosurgical intervention and ICU care</li>
+                                        </ul>
+
+                                        <h3 class="mb-0" style="margin-top:20px;">Imaging &amp; Diagnostic Tests</h3>
+                                        <ul class="mb-0">
+                                            <li><strong>CT Scan (Computed Tomography):</strong> The first-line imaging tool in emergency settings. A CT scan can detect skull fractures, brain bleeding (hemorrhage), blood clots (hematomas), brain swelling, and bone fragments within minutes.</li>
+                                            <li><strong>MRI (Magnetic Resonance Imaging):</strong> Provides detailed images of brain tissue and is used for detecting diffuse axonal injury, small contusions, and subtle damage not visible on CT scans. Typically used once the patient is stabilized.</li>
+                                            <li><strong>X-Ray:</strong> Used to identify skull fractures, particularly linear and depressed fractures.</li>
+                                            <li><strong>Cerebral Angiography:</strong> Used when vascular damage is suspected, to visualize blood vessel injuries in the brain.</li>
+                                            <li><strong>Intracranial Pressure (ICP) Monitoring:</strong> A sensor is placed inside the skull to continuously measure pressure buildup, which is critical for managing severe TBI cases in the ICU.</li>
+                                        </ul>
 
                                         <!-- TYPES OF HEAD INJURIES -->
                                         <h2 class="mb-0" style="margin-top:25px;">Types of Head Injuries We Treat</h2>
@@ -420,6 +533,44 @@
                                             <li>Follow workplace safety protocols and use protective headgear at construction sites</li>
                                             <li>Avoid driving under the influence of alcohol or drugs</li>
                                             <li>Supervise children during play and sports activities</li>
+                                        </ul>
+
+                                        <!-- HEAD INJURY IN CHILDREN -->
+                                        <h2 class="mb-0" style="margin-top:25px;">Head Injury in Children &mdash; Special Considerations</h2>
+                                        <p class="mb-0">Children are especially vulnerable to head injuries due to their larger head-to-body ratio, thinner skull bones, and still-developing brains. Pediatric head injuries require specialized neurosurgical expertise, and Dr. Arun Saroha has extensive experience treating children of all ages.</p>
+
+                                        <h4 style="margin-top:15px;margin-bottom:5px;">Common Causes in Children:</h4>
+                                        <ul class="mb-0">
+                                            <li>Falls from beds, stairs, playground equipment, or while learning to walk</li>
+                                            <li>Sports-related injuries (cricket, football, cycling)</li>
+                                            <li>Road traffic accidents (especially as pedestrians or bicycle riders)</li>
+                                            <li>Accidental hits from falling objects</li>
+                                        </ul>
+
+                                        <h4 style="margin-top:15px;margin-bottom:5px;">Warning Signs in Children (Seek Immediate Help):</h4>
+                                        <ul class="mb-0">
+                                            <li>Persistent crying that cannot be consoled</li>
+                                            <li>Refusal to eat or breastfeed</li>
+                                            <li>Vomiting repeatedly after head trauma</li>
+                                            <li>Unusual drowsiness or difficulty waking up</li>
+                                            <li>Bulging fontanelle (soft spot) in infants</li>
+                                            <li>Seizures, unsteady walking, or loss of previously learned skills</li>
+                                            <li>Any loss of consciousness, even brief</li>
+                                        </ul>
+
+                                        <p class="mb-0" style="margin-top:15px;">At Max Hospital, Dr. Saroha's team is equipped with pediatric neuro ICU facilities and child-friendly rehabilitation services to ensure the best possible outcomes for young patients. <strong>If your child has suffered a head injury, call +91-7860000705 for immediate consultation.</strong></p>
+
+                                        <!-- FIRST AID SECTION -->
+                                        <h2 class="mb-0" style="margin-top:25px;">First Aid for Head Injuries &mdash; What to Do Before Reaching the Hospital</h2>
+                                        <p class="mb-0">Knowing what to do immediately after a head injury can save a life. Follow these steps while waiting for emergency help:</p>
+                                        <ul class="mb-0">
+                                            <li><strong>Call emergency services immediately</strong> if the person is unconscious, bleeding heavily, or showing signs of severe injury</li>
+                                            <li><strong>Do not move the person</strong> if you suspect a spinal injury &mdash; keep the head and neck still</li>
+                                            <li><strong>Apply gentle pressure</strong> with a clean cloth to stop any bleeding from the scalp</li>
+                                            <li><strong>Do not remove objects</strong> embedded in the skull &mdash; stabilize them and wait for medical help</li>
+                                            <li><strong>Monitor breathing and consciousness</strong> &mdash; if the person stops breathing, begin CPR if trained</li>
+                                            <li><strong>Keep the person still and calm</strong> &mdash; do not give food, water, or medication</li>
+                                            <li><strong>Note the time</strong> of the injury and any symptoms for the medical team</li>
                                         </ul>
 
                                     </div>
