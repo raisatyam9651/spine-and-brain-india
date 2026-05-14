@@ -52,8 +52,7 @@
   gtag('config', 'G-BMVTX50S4V');
 </script>
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4910239000711715"
-     crossorigin="anonymous"></script>
+
 
 
 
