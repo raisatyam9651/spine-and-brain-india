@@ -279,7 +279,7 @@
                         <li ><a href="international" title="">International Patients</a>
                            
                         </li>
-                        <li><a href="https://blog.spineandbrainindia.com/" title="Blogs">Blog</a></li>
+                        <li><a href="https://spineandbrainindia.com/blog/" title="Blogs">Blog</a></li>
                         <li><a href="contact" title="">Contact</a></li>
                     </ul>
                 </div><!-- Responsive Menu -->
