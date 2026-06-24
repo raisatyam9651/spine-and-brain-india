@@ -4,15 +4,15 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-  <title>Best Neurosurgeon in India (2026) – Dr. Arun Saroha | 7000+ Surgeries</title>
+  <title>Top Neurosurgeon in India – Dr. Arun Saroha | 7000+ Successful Brain &amp; Spine Surgeries | Max Hospital</title>
   <meta name="description"
-    content="Dr. Arun Saroha – Best neurosurgeon in India with 25+ years &amp; 7000+ successful brain &amp; spine surgeries at Max Hospital. Internationally trained. Book free consultation: +91 78600 00705" />
+    content="Looking for the #1 neurosurgeon in India? Dr. Arun Saroha offers 25+ years of expertise, 7000+ successful brain &amp; spine surgeries at Max Hospital. Get a free consultation today: +91 78600 00705" />
 
   <!-- Open Graph Tags -->
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://spineandbrainindia.com/" />
-  <meta property="og:title" content="Best Neurosurgeon in India (2026) – Dr. Arun Saroha | 7000+ Surgeries" />
-  <meta property="og:description" content="Dr. Arun Saroha – Best neurosurgeon in India with 25+ years &amp; 7000+ successful brain &amp; spine surgeries at Max Hospital. Book free consultation today!" />
+  <meta property="og:title" content="Top Neurosurgeon in India – Dr. Arun Saroha | 7000+ Successful Brain &amp; Spine Surgeries | Max Hospital" />
+  <meta property="og:description" content="Looking for the #1 neurosurgeon in India? Dr. Arun Saroha offers 25+ years of expertise, 7000+ successful brain &amp; spine surgeries at Max Hospital. Get a free consultation today!" />
   <meta property="og:image" content="https://spineandbrainindia.com/assets/images/pag-top-bg_11zon.webp" />
 
   <!-- Geo Tags -->
