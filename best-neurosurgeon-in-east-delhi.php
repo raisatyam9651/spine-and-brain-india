@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <title>Best Neurosurgeon in East Delhi Dr. Arun Saroha | Top Spine Expert</title>
   <meta name="description"
-    content="Consult Dr. Arun Saroha, one of the best neurosurgeons in East Delhi with 20+ years of expertise in brain & spine surgery. Book your appointment today!" />
+    content="Looking for the best neurosurgeon in East Delhi? Dr. Arun Saroha at Max Hospital has 25+ years experience & 7000+ successful brain and spine surgeries. Book your appointment now!" />
   <meta name="keywords"
     content="best neurosurgeon in east delhi, top brain specialist in East Delhi, leading spine surgeon in East Delhi, neurosurgery expert East Delhi, neurology hospital, top neuro doctor in East Delhi, best neurologists in east delhi" />
 

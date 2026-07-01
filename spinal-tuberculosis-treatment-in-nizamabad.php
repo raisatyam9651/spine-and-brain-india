@@ -7,7 +7,7 @@
         
 <title>Spinal Tuberculosis Treatment in Nizamabad | Dr Arun Saroha</title>
 
-<meta name="description" content="Receive expert spinal tuberculosis treatment in Nizamabad with Dr. Arun Saroha, specializing in advanced therapies for optimal health outcomes." />
+<meta name="description" content="Expert spinal tuberculosis treatment in Nizamabad by Dr. Arun Saroha. Advanced therapies and surgical care for optimal recovery. 25+ years experience. Book consultation today!" />
         
 <meta name="keywords" content="" />
 <link rel="canonical" href="https://spineandbrainindia.com/spinal-tuberculosis-treatment-in-nizamabad" />

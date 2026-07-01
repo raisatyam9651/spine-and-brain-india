@@ -4,7 +4,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="" />
+        <meta name="description" content="Expert spina bifida treatment by Dr. Arun Saroha. Advanced neurosurgical care for spinal cord birth defects. 25+ years experience. Get expert care. Consult today!" />
         <meta name="keywords" content="" />
        
         <title>Spina Bifida</title>

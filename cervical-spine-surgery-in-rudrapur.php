@@ -7,7 +7,7 @@
         
 <title>Expert Cervical Spine Surgery in Rudrapur - Dr. Arun Saroha, Leading Spine Specialist</title>
 
-<meta name="description" content="Expert cervical spine surgery in Rudrapur with Dr. Arun Saroha, leading spine specialist offering advanced treatment for neck pain, herniated discs, and spinal stenosis." />
+<meta name="description" content="Get expert cervical spine surgery in Rudrapur by Dr. Arun Saroha, India's leading spine surgeon. Advanced treatment for neck pain, herniated discs and spinal stenosis. Book now!" />
         
 <meta name="keywords" content="Cervical Spine Surgery in Rudrapur, Cervical Spine Surgeon, Cervical Disc Surgery" />
 <link rel="canonical" href="https://spineandbrainindia.com/cervical-spine-surgery-in-rudrapur" />

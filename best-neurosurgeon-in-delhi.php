@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <title>Dr. Arun Saroha – Best Neurosurgeon in Delhi | 7000+ Surgeries | Max Hospital</title>
   <meta name="description"
-    content="Meet Dr. Arun Saroha — Delhi's leading neurosurgeon at Max Hospital with 25+ years & 7,000+ successful brain & spine surgeries. Trusted by patients worldwide. Book free consultation today." />
+    content="Looking for the best neurosurgeon in Delhi? Dr. Arun Saroha at Max Hospital has 25+ years experience & 7000+ successful brain and spine surgeries. Book your appointment now!" />
   <meta name="keywords"
     content="best neurosurgeon in delhi, top neurosurgeon delhi, brain surgeon delhi, spine surgeon delhi, dr arun saroha, neurosurgery delhi gurgaon" />
   <meta name="robots" content="index, follow" />

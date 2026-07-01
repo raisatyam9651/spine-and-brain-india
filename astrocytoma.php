@@ -4,7 +4,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="" />
+        <meta name="description" content="Expert astrocytoma brain tumor treatment by Dr. Arun Saroha. Advanced neurosurgical techniques with 1000+ successful brain surgeries. Get expert care. Consult now!" />
         <meta name="keywords" content="" />
 
         <title>Astrocytoma</title>

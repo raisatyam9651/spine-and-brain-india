@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <title>Best Neurosurgeon in Bhagalpur Dr. Arun Saroha | Top Spine Expert</title>
   <meta name="description"
-    content="Consult Dr. Arun Saroha, one of the best neurosurgeons in Bhagalpur with 20+ years of expertise in brain & spine surgery. Book your appointment today!" />
+    content="Looking for the best neurosurgeon in Bhagalpur? Dr. Arun Saroha at Max Hospital has 25+ years experience & 7000+ successful brain and spine surgeries. Book your appointment now!" />
   <meta name="keywords"
     content="best neurosurgeon in bhagalpur, top brain specialist in Bhagalpur, leading spine surgeon in Bhagalpur, neurosurgery expert Bhagalpur, neurology hospital, top neuro doctor in Bhagalpur, best neurologists in bhagalpur" />
 

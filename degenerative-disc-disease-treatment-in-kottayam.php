@@ -7,7 +7,7 @@
         
         <title>Degenerative Disc Disease Treatment in Kottayam | Degenerative Disc Treatment </title>
         
-        <meta name="description" content="Meet Dr. Arun Saroha a leading expert in Degenerative Disc Disease Treatment in Kottayam. Offering artificial discs for Degenerative Disc Surgery in Kottayam." />
+        <meta name="description" content="Get degenerative disc disease treatment in Kottayam by Dr. Arun Saroha. Advanced non-surgical and surgical options including artificial disc replacement. Lasting relief. Book now!" />
         
         <meta name="keywords" content="Degenerative Disc Disease Treatment in Kottayam, Disc Disease Specialist" />
         <link rel="canonical" href="https://spineandbrainindia.com/degenerative-disc-disease-treatment-in-kottayam" />

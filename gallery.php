@@ -3,7 +3,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="" />
+        <meta name="description" content="View gallery of Dr. Arun Saroha - India's leading neurosurgeon. See state-of-the-art facilities and successful patient journeys at Max Hospital. Explore now!" />
         <meta name="keywords" content="" />
        
         <title>Gallery</title>

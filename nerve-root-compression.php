@@ -4,7 +4,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="" />
+        <meta name="description" content="Expert nerve root compression treatment by Dr. Arun Saroha. Advanced minimally invasive spine surgery for lasting relief. 7000+ successful surgeries. Book consultation now!" />
         <meta name="keywords" content="" />
        
         <title>Nerve Root Compression</title>

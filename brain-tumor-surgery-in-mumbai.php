@@ -7,7 +7,7 @@
 
 <title>Brain Tumor Surgery in Mumbai | Expert Neurosurgeon Dr. Arun Saroha</title>
 
-<meta name="description" content="Affordable brain tumor surgery for Mumbai patients by Dr. Arun Saroha at Max Hospital Delhi NCR. 1000+ successful surgeries. 85-95% success rate. Free consultation." />
+<meta name="description" content="Need expert brain tumor surgery in Mumbai? Dr. Arun Saroha has performed 1000+ successful brain tumor surgeries with 85-95% success rate. Get advanced care. Consult today!" />
 
 <meta name="keywords" content="brain tumor surgery Mumbai, brain tumor surgeon Mumbai, neurosurgeon Mumbai, brain tumor treatment Mumbai, brain surgery cost Mumbai" />
 <link rel="canonical" href="https://spineandbrainindia.com/brain-tumor-surgery-in-mumbai" />

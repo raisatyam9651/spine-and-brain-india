@@ -7,7 +7,7 @@
         
 <title>Back Pain Treatment in Vasant Kunj | Dr. Arun Saroha </title>
         
-<meta name="description" content="Get expert back pain treatment in Vasant Kunj with Dr. Arun Saroha, top spine surgeon offering advanced, minimally invasive solutions for lasting relief. " />
+<meta name="description" content="Suffering from back pain in Vasant Kunj? Dr. Arun Saroha offers advanced minimally invasive spine surgery with 7000+ successful surgeries. Get lasting relief. Book consultation today!" />
         
 <meta name="keywords" content="best back pain treatment in vasant kunj, Back Pain Specialist in Vasant Kunj" />
 <link rel="canonical" href="https://spineandbrainindia.com/back-pain-treatment-in-vasant kunj" />

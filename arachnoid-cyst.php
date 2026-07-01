@@ -3,7 +3,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="" />
+        <meta name="description" content="Expert arachnoid cyst treatment by Dr. Arun Saroha. Advanced surgical and endoscopic options for brain cyst removal. 1000+ successful brain surgeries. Consult now!" />
         <meta name="keywords" content="" />
 
         <title>Arachnoid Cyst</title>

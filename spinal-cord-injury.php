@@ -4,7 +4,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="" />
+        <meta name="description" content="Expert spinal cord injury treatment by Dr. Arun Saroha. Advanced rehabilitation and surgical care. 7000+ successful surgeries. Get expert care. Consult now!" />
         <meta name="keywords" content="" />
        
         <title>Spinal Cord Injury</title>

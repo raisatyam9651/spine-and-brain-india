@@ -7,7 +7,7 @@
 
 <title>Cluster Headache Treatment in India | Dr. Arun Saroha | Expert Care</title>
 
-<meta name="description" content="Expert cluster headache treatment in India by Dr. Arun Saroha. Advanced diagnosis and treatment for severe cluster headaches. 25+ years experience. Book now." />
+<meta name="description" content="Expert cluster headache treatment in India by Dr. Arun Saroha. Advanced treatment for severe cluster headaches. 25+ years experience. Get relief. Book now!" />
 
 <meta name="keywords" content="cluster headache treatment India, cluster headache specialist, suicide headache treatment, cluster headache relief India" />
 <link rel="canonical" href="https://spineandbrainindia.com/cluster-headache-treatment-in-India" />

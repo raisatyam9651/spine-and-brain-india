@@ -7,7 +7,7 @@
         
 <title>Nerve Graft Surgery in India | Dr Arun Saroha</title>
 
-<meta name="description" content="Seeking expert care for nerve graft surgery in India? Dr. Arun Saroha offers advanced nerve repair techniques to restore function after spinal cord injuries." />
+<meta name="description" content="Need nerve graft surgery in India? Dr. Arun Saroha offers advanced nerve repair techniques. Expert care with proven results. Book consultation now!" />
         
 <meta name="keywords" content="" />
 <link rel="canonical" href="https://spineandbrainindia.com/nerve-graft-surgery-in-india" />

@@ -7,7 +7,7 @@
         
 <title>Best Neurosurgeon in Meerut | Dr. Arun Saroha</title>
         
-<meta name="description" content="Seeking the best neurosurgeon in Meerut? Dr. Arun Saroha offers expert care for brain and spine disorders with over two decades of experience and advanced techniques." />
+<meta name="description" content="Consult the best neurosurgeon in Meerut - Dr. Arun Saroha at Max Hospital. Expert brain and spine surgery with 7000+ successful procedures. Book appointment now!" />
         
 <meta name="keywords" content="Best neurosurgeon in Meerut, neurosurgeon in Meerut" />
 <link rel="canonical" href="https://spineandbrainindia.com/neurosurgeon-in-meerut" />

@@ -7,7 +7,7 @@
         
         <title>Scoliosis Treatment in Bhilai | Dr. Arun Saroha</title>
         
-        <meta name="description" content="Seeking expert scoliosis treatment in Bhilai? Dr. Arun Saroha offers advanced, personalized care with minimally invasive techniques for effective recovery." />
+        <meta name="description" content="Expert scoliosis treatment in Bhilai by Dr. Arun Saroha. Advanced minimally invasive spine correction with 7000+ successful surgeries. Effective recovery. Book consultation!" />
         
         <meta name="keywords" content="Scoliosis Treatment in Bhilai, Expert Scoliosis Specialist, Best Scoliosis Care" />
         <link rel="canonical" href="https://spineandbrainindia.com/scoliosis-treatment-in-bhilai" />

@@ -7,7 +7,7 @@
         
         <title>Degenerative Disc Disease Treatment in Ambikapur | Degenerative Disc Treatment </title>
         
-        <meta name="description" content="Meet Dr. Arun Saroha a leading expert in Degenerative Disc Disease Treatment in Ambikapur. Offering artificial discs for Degenerative Disc Surgery in Ambikapur." />
+        <meta name="description" content="Get degenerative disc disease treatment in Ambikapur by Dr. Arun Saroha. Advanced non-surgical and surgical options including artificial disc replacement. Lasting relief. Book now!" />
         
         <meta name="keywords" content="Degenerative Disc Disease Treatment in Ambikapur, Disc Disease Specialist" />
         <link rel="canonical" href="https://spineandbrainindia.com/degenerative-disc-disease-treatment-in-ambikapur" />

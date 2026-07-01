@@ -7,7 +7,7 @@
         
         <title>Degenerative Disc Disease Treatment in Gyalshing | Degenerative Disc Treatment </title>
         
-        <meta name="description" content="Meet Dr. Arun Saroha a leading expert in Degenerative Disc Disease Treatment in Gyalshing. Offering artificial discs for Degenerative Disc Surgery in Gyalshing." />
+        <meta name="description" content="Get degenerative disc disease treatment in Gyalshing by Dr. Arun Saroha. Advanced non-surgical and surgical options including artificial disc replacement. Lasting relief. Book now!" />
         
         <meta name="keywords" content="Degenerative Disc Disease Treatment in Gyalshing, Disc Disease Specialist" />
         <link rel="canonical" href="https://spineandbrainindia.com/degenerative-disc-disease-treatment-in-gyalshing" />

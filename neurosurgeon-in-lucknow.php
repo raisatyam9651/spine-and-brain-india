@@ -7,7 +7,7 @@
         
 <title>Best Neurosurgeon in Lucknow | Dr. Arun Saroha</title>
         
-<meta name="description" content="Seeking the best neurosurgeon in Lucknow? Dr. Arun Saroha specializes in brain and spine disorders, ensuring faster recovery and long-term results." />
+<meta name="description" content="Consult the best neurosurgeon in Lucknow - Dr. Arun Saroha at Max Hospital. Expert brain and spine surgery with 7000+ successful procedures. Book appointment now!" />
         
 <meta name="keywords" content="Best neurosurgeon in Lucknow, neurosurgeon in Lucknow" />
 <link rel="canonical" href="https://spineandbrainindia.com/neurosurgeon-in-lucknow" />

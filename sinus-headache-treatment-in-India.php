@@ -7,7 +7,7 @@
 
 <title>Sinus Headache Treatment in India | Dr. Arun Saroha | Expert Relief</title>
 
-<meta name="description" content="Expert sinus headache treatment in India by Dr. Arun Saroha. Accurate diagnosis, advanced treatment for sinus headaches and facial pain. Book consultation now." />
+<meta name="description" content="Expert sinus headache treatment in India by Dr. Arun Saroha. Advanced diagnosis and relief for chronic headaches. 25+ years experience. Book consultation today!" />
 
 <meta name="keywords" content="sinus headache treatment India, sinus headache relief, sinus pain treatment, sinusitis headache India, facial pain treatment" />
 <link rel="canonical" href="https://spineandbrainindia.com/sinus-headache-treatment-in-India" />

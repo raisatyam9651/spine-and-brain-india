@@ -7,7 +7,7 @@
         
 <title>Artificial Disc Replacement Surgery in Sonipat | Dr. Arun Saroha</title>
         
-<meta name="description" content="Seeking Artificial Disc Replacement Surgery in Sonipat? Dr. Arun Saroha offers expert care with minimally invasive techniques, ensuring effective treatment." />
+<meta name="description" content="Get artificial disc replacement surgery in Sonipat by Dr. Arun Saroha. Minimally invasive techniques for lasting pain relief and restored mobility. 7000+ surgeries. Consult today!" />
         
 <meta name="keywords" content="Disc Replacement Surgery in Sonipat, Disc Replacement Surgeon, Best Disc Replacement Care" />
 <link rel="canonical" href="https://spineandbrainindia.com/disc-replacement-surgery-in-sonipat" />

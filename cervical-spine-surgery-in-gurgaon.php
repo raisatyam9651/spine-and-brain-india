@@ -4,7 +4,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="" />
+        <meta name="description" content="Expert cervical spine surgery in Gurgaon by Dr. Arun Saroha. Advanced treatment for neck pain, herniated discs and spinal stenosis at Max Hospital. Book consultation now!" />
         <meta name="keywords" content="" />
        
         <title>Dr. Arun Saroha: Best Neurosurgeon & Spine Surgeon in India</title>

@@ -4,7 +4,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="" />
+        <meta name="description" content="Expert CSF leak treatment by Dr. Arun Saroha. Advanced endoscopic repair for cerebrospinal fluid leaks. High success rate. 25+ years experience. Consult today!" />
         <meta name="keywords" content="" />
 
         <title>Dr. Arun Saroha: Best Neurosurgeon & Spine Surgeon in India</title>

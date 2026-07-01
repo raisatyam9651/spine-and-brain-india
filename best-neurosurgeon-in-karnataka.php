@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <title>Best Neurosurgeon in Karnataka Dr. Arun Saroha | Top Spine Expert</title>
   <meta name="description"
-    content="Consult Dr. Arun Saroha, one of the best neurosurgeons in Karnataka with 20+ years of expertise in brain & spine surgery. Book your appointment today!" />
+    content="Looking for the best neurosurgeon in Karnataka? Dr. Arun Saroha at Max Hospital has 25+ years experience & 7000+ successful brain and spine surgeries. Book your appointment now!" />
   <meta name="keywords"
     content="best neurosurgeon in karnataka, top brain specialist in Karnataka, leading spine surgeon in Karnataka, neurosurgery expert Karnataka, neurology hospital, top neuro doctor in Karnataka, best neurologists in karnataka" />
 

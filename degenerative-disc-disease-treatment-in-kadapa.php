@@ -7,7 +7,7 @@
         
         <title>Degenerative Disc Disease Treatment in Kadapa | Degenerative Disc Treatment </title>
         
-        <meta name="description" content="Meet Dr. Arun Saroha a leading expert in Degenerative Disc Disease Treatment in Kadapa. Offering artificial discs for Degenerative Disc Surgery in Kadapa." />
+        <meta name="description" content="Get degenerative disc disease treatment in Kadapa by Dr. Arun Saroha. Advanced non-surgical and surgical options including artificial disc replacement. Lasting relief. Book now!" />
         
         <meta name="keywords" content="Degenerative Disc Disease Treatment in Kadapa, Disc Disease Specialist" />
         <link rel="canonical" href="https://spineandbrainindia.com/degenerative-disc-disease-treatment-in-andhra-pradesh" />

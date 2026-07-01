@@ -4,7 +4,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="" />
+        <meta name="description" content="Get the best cervical spondylosis treatment in Gurgaon by Dr. Arun Saroha. Advanced minimally invasive spine surgery for neck pain relief. 25+ years experience. Book now!" />
         <meta name="keywords" content="" />
        
         <title>Best treatment cervical spondylosis in gurgaon</title>

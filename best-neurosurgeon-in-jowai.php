@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <title>Best Neurosurgeon in Jowai Dr. Arun Saroha | Top Spine Expert</title>
   <meta name="description"
-    content="Consult Dr. Arun Saroha, one of the best neurosurgeons in Jowai with 20+ years of expertise in brain & spine surgery. Book your appointment today!" />
+    content="Looking for the best neurosurgeon in Jowai? Dr. Arun Saroha at Max Hospital has 25+ years experience & 7000+ successful brain and spine surgeries. Book your appointment now!" />
   <meta name="keywords"
     content="best neurosurgeon in jowai, top brain specialist in Jowai, leading spine surgeon in Jowai, neurosurgery expert Jowai, neurology hospital, top neuro doctor in Jowai, best neurologists in jowai" />
 

@@ -7,7 +7,7 @@
 
 <title>Best Tension Headache Treatment in India | Dr. Arun Saroha | 25+ Years</title>
 
-<meta name="description" content="Expert tension headache treatment in India by Dr. Arun Saroha. Chronic tension headache relief with medication, nerve blocks, therapy. Book consultation now." />
+<meta name="description" content="Expert tension headache treatment in India by Dr. Arun Saroha. Advanced diagnosis and relief for chronic tension headaches. 25+ years experience. Consult now!" />
 
 <meta name="keywords" content="tension headache treatment India, chronic tension headache, tension headache relief, muscle tension headache, office headache treatment" />
 <link rel="canonical" href="https://spineandbrainindia.com/tension-headache-treatment-in-India" />

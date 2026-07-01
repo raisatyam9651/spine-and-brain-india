@@ -4,7 +4,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="" />
+        <meta name="description" content="Read expert blogs on neurosurgery by Dr. Arun Saroha. Latest insights on brain surgery, spine surgery and neurological treatments in India. Stay informed. Explore now!" />
         <meta name="keywords" content="" />
        
         <title>Dr. Arun Saroha: Best Neurosurgeon & Spine Surgeon in India</title>

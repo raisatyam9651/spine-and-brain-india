@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <title>Best Neurosurgeon in Darjeeling Dr. Arun Saroha | Top Spine Expert</title>
   <meta name="description"
-    content="Consult Dr. Arun Saroha, one of the best neurosurgeons in Darjeeling with 20+ years of expertise in brain & spine surgery. Book your appointment today!" />
+    content="Looking for the best neurosurgeon in Darjeeling? Dr. Arun Saroha at Max Hospital has 25+ years experience & 7000+ successful brain and spine surgeries. Book your appointment now!" />
   <meta name="keywords"
     content="best neurosurgeon in darjeeling, top brain specialist in Darjeeling, leading spine surgeon in Darjeeling, neurosurgery expert Darjeeling, neurology hospital, top neuro doctor in Darjeeling, best neurologists in darjeeling" />
 

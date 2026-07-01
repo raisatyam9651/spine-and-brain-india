@@ -4,7 +4,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="" />
+        <meta name="description" content="Expert spinal herniation treatment by Dr. Arun Saroha. Advanced minimally invasive spine surgery for disc herniation. 7000+ successful surgeries. Book now!" />
         <meta name="keywords" content="" />
        
         <title>Spinal Herniation</title>

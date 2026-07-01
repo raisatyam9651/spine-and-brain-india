@@ -4,7 +4,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="" />
+        <meta name="description" content="Expert hydrocephalus treatment by Dr. Arun Saroha. Advanced VP shunt surgery and endoscopic procedures. 7000+ successful surgeries. Get expert care. Consult today!" />
         <meta name="keywords" content="" />
        
         <title>Dr. Arun Saroha: Best Neurosurgeon & Spine Surgeon in India</title>

@@ -7,7 +7,7 @@
         
 <title>Best Brain Tumor Surgery in Uttar Pradesh | Dr. Arun Saroha</title>
         
-<meta name="description" content="Seeking the best brain tumor surgery in Uttar Pradesh? Dr. Arun Saroha offers advanced, precise brain tumor treatment focusing on successful outcomes." />
+<meta name="description" content="Need expert brain tumor surgery in Uttar Pradesh? Dr. Arun Saroha has performed 1000+ successful brain tumor surgeries with 85-95% success rate. Get advanced care. Consult today!" />
         
 <meta name="keywords" content="Brain Tumor Surgery in Uttar Pradesh, Expert Brain Tumor Surgeon, Dr. Arun Saroha, Spine and Brain Surgery, Best Brain Tumor Surgery Care, Comprehensive Tumor Surgery" />
 <link rel="canonical" href="https://spineandbrainindia.com/brain-tumor-surgery-in-uttar-pradesh" />

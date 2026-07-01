@@ -7,7 +7,7 @@
         
 <title>Best Neurologist in Ghaziabad | Dr. Arun Saroha</title>
         
-<meta name="description" content="Seeking the Best Neurologist in Ghaziabad? Dr. Arun Saroha is an expert in treating brain and spine disorders with over 20 years of experience and advanced care." />
+<meta name="description" content="Consult the best neurologist in Ghaziabad - Dr. Arun Saroha at Max Hospital. Expert care for brain, spine and nerve disorders with 25+ years experience. Book appointment now!" />
         
 <meta name="keywords" content="Best neurosurgeon in Ghaziabad, neurosurgeon in Ghaziabad, Spine Surgeon in Ghaziabad, Neurologist in Ghaziabad, Best Neurologist in Ghaziabad" />
 <link rel="canonical" href="https://spineandbrainindia.com/neurologist-in-ghaziabad" />

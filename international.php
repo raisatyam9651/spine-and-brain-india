@@ -7,7 +7,7 @@
         
         <title>International Patients: Seek Expert Neurosurgery Care by Dr. Arun Saroha</title>
         
-        <meta name="description" content="Spine and Brain India welcomes international patients seeking world-class neurosurgery . Explore our international patient services for expert neurosurgery care by Dr. Arun Saroha. Our international patients' services includes, medical tourism assistance, and how to obtain a medical visa." />
+        <meta name="description" content="International patients seeking world-class neurosurgery in India? Dr. Arun Saroha offers expert brain and spine surgery at Max Hospital. Affordable care, medical visa assistance. Book consultation!" />
         
         <meta name="keywords" content="International Patients, International Healthcare, International Patients Services, Dr. Arun Saroha, Spine and Brain Surgery" />
         

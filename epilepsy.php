@@ -7,7 +7,7 @@
 
         <title>Best Epilepsy Treatment in India | Expert Neurosurgeon Dr. Arun Saroha</title>
 
-        <meta name="description" content="Advanced epilepsy treatment by top neurosurgeon Dr. Arun Saroha. Medication, surgery & latest techniques at Max Hospital, Delhi & Gurgaon. 8000+ surgeries. Book free consultation." />
+        <meta name="description" content="Expert epilepsy treatment by Dr. Arun Saroha. Advanced neurological care and surgical options for seizure control. 25+ years experience. Consult today!" />
         <meta name="keywords" content="epilepsy treatment in india, best epilepsy doctor india, epilepsy surgery india, epilepsy specialist delhi, epilepsy treatment gurgaon, drug resistant epilepsy india, temporal lobe epilepsy treatment, seizure treatment india, epilepsy neurosurgeon, Dr Arun Saroha epilepsy" />
 
         <link rel="canonical" href="https://spineandbrainindia.com/epilepsy" />

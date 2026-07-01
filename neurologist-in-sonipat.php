@@ -7,7 +7,7 @@
         
 <title>Best Neurologist in Sonipat | Dr. Arun Saroha</title>
         
-<meta name="description" content="Seeking the Best Neurologist in Sonipat? Consult Dr. Arun Saroha, renowned for over 20 years of expertise in treating brain, spine, and neurological conditions." />
+<meta name="description" content="Consult the best neurologist in Sonipat - Dr. Arun Saroha at Max Hospital. Expert care for brain, spine and nerve disorders with 25+ years experience. Book appointment now!" />
         
 <meta name="keywords" content="Best neurosurgeon in Sonipat, neurosurgeon in Sonipat, Spine Surgeon in Sonipat, Neurologist in Sonipat, Best Neurologist in Sonipat" />
 <link rel="canonical" href="https://spineandbrainindia.com/neurologist-in-sonipat" />

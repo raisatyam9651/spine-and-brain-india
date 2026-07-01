@@ -4,7 +4,7 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 <title>Best Neurosurgeon in Faridabad – Dr. Arun Saroha | Top Spine Expert</title>
-<meta name="description" content="Consult Dr. Arun Saroha, one of the best neurosurgeons in India with 20+ years of expertise in brain & spine surgery. Book your appointment today!" />
+<meta name="description" content="Consult the best neurosurgeon in Faridabad - Dr. Arun Saroha at Max Hospital. Expert brain and spine surgery with 7000+ successful procedures. Book appointment now!" />
 
 <!-- Preload Critical Resources -->
 <link rel="preload" href="assets/video/sbi-banner.webp" as="image" type="image/webp">

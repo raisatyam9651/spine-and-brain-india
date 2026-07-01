@@ -7,7 +7,7 @@
 
 <title>Open vs Minimally Invasive Brain Surgery | Comparison &amp; Guide</title>
 
-<meta name="description" content="Compare open craniotomy vs minimally invasive brain surgery. Recovery time, cost, success rates, scarring comparison. Expert neurosurgeon Dr. Arun Saroha explains." />
+<meta name="description" content="Open vs minimally invasive brain surgery - expert guide by Dr. Arun Saroha. Learn benefits, risks and recovery. Advanced neurosurgery at Max Hospital. Read now!" />
 
 <meta name="keywords" content="open brain surgery vs minimally invasive, craniotomy vs endoscopic surgery, minimally invasive brain surgery India, keyhole brain surgery, endoscopic neurosurgery" />
 <link rel="canonical" href="https://spineandbrainindia.com/open-vs-minimally-invasive-brain-surgery" />

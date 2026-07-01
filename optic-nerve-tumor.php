@@ -4,7 +4,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="" />
+        <meta name="description" content="Expert optic nerve tumor treatment by Dr. Arun Saroha. Advanced skull base surgery for vision preservation. 25+ years experience. Get expert care. Consult now!" />
         <meta name="keywords" content="" />
        
         <title>Optic Nerve Tumor</title>

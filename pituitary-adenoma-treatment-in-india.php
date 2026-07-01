@@ -7,7 +7,7 @@
 
 <title>Pituitary Adenoma Treatment in India | Endoscopic Surgery by Dr. Arun Saroha</title>
 
-<meta name="description" content="Expert pituitary adenoma treatment in India by Dr. Arun Saroha. Minimally invasive endoscopic transsphenoidal surgery. 90%+ success rate. No visible scar. Book consultation." />
+<meta name="description" content="Expert pituitary adenoma treatment in India by Dr. Arun Saroha. Advanced endoscopic skull base surgery. 1000+ successful brain surgeries. Consult today!" />
 
 <meta name="keywords" content="pituitary adenoma treatment India, pituitary tumor surgery, endoscopic transsphenoidal surgery India, pituitary adenoma surgeon, pituitary gland tumor treatment, Dr Arun Saroha pituitary" />
 <link rel="canonical" href="https://spineandbrainindia.com/pituitary-adenoma-treatment-in-india" />

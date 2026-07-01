@@ -4,7 +4,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="" />
+        <meta name="description" content="Expert acoustic neuroma treatment by Dr. Arun Saroha. Advanced skull base surgery for brain tumor removal with 1000+ successful surgeries. Preserve hearing and facial nerve. Consult now!" />
         <meta name="keywords" content="" />
 
         <title>Acoustic Neuroma</title>

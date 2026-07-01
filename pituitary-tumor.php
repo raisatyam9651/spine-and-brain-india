@@ -4,7 +4,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="" />
+        <meta name="description" content="Expert pituitary tumor treatment by Dr. Arun Saroha. Advanced endoscopic skull base surgery. 1000+ successful brain surgeries. Preserve hormonal function. Consult today!" />
         <meta name="keywords" content="" />
        
         <title>Pituitary Tumor</title>

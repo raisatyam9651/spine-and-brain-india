@@ -4,7 +4,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="Explore expert diagnosis and treatment options for Atlantoaxial Dislocation with Dr. Arun Saroha, a leading specialist in Bathinda." />
+        <meta name="description" content="Expert atlantoaxial dislocation treatment in Bathinda by Dr. Arun Saroha. Advanced surgical solutions for spine stability and recovery. 25+ years experience. Book consultation now!" />
         <meta name="keywords" content="" />
         <link rel="canonical" href="https://spineandbrainindia.com/atlanto-axial-dislocations-in-bathinda" />
        

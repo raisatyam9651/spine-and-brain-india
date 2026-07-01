@@ -4,7 +4,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="" />
+        <meta name="description" content="Need herniated disc surgery in India? Dr. Arun Saroha offers advanced minimally invasive spine surgery. 7000+ successful surgeries. Get lasting relief. Consult today!" />
         <meta name="keywords" content="" />
        
         <title>Dr. Arun Saroha: Best Neurosurgeon & Spine Surgeon in India</title>

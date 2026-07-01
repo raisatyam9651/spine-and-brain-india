@@ -7,7 +7,7 @@
         
 <title>Spinal Stenosis Surgery in Coimbatore | Dr. Arun Saroha</title>
 
-<meta name="description" content="Seeking expert Spinal Stenosis Surgery in Coimbatore? Dr. Arun Saroha offers advanced, minimally invasive techniques for effective relief and faster recovery." />
+<meta name="description" content="Need spinal stenosis surgery in Coimbatore? Dr. Arun Saroha offers advanced minimally invasive techniques for effective relief and faster recovery. 25+ years experience. Book now!" />
         
 <link rel="canonical" href="https://spineandbrainindia.com/spinal-stenosis-surgery-in-coimbatore" />
         

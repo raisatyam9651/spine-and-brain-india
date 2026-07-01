@@ -4,7 +4,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="" />
+        <meta name="description" content="Expert brain stem glioma treatment by Dr. Arun Saroha. Advanced neurosurgical techniques for brain tumor removal. 25+ years experience. Book consultation now!" />
         <meta name="keywords" content="" />
 
         <title>Dr. Arun Saroha: Best Neurosurgeon & Spine Surgeon in India</title>

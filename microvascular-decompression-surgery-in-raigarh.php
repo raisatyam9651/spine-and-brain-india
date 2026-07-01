@@ -8,7 +8,7 @@
 <title>Microvascular Decompression Surgery in Raigarh | Cost of MVD Surgery
 </title>
 
-<meta name="description" content="Dr. Arun Saroha provides the best Microvascular Decompression Surgery in Raigarh. Learn about the cost and options for Microvascular Decompression Surgery." />
+<meta name="description" content="Expert microvascular decompression surgery in Raigarh by Dr. Arun Saroha. Advanced treatment for trigeminal neuralgia and nerve compression. 7000+ surgeries. Consult now!" />
         
 <meta name="keywords" content="" />
 <link rel="canonical" href="https://spineandbrainindia.com/microvascular-decompression-surgery-in-raigarh" />

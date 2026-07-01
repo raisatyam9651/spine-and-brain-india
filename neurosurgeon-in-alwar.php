@@ -7,7 +7,7 @@
         
 <title>Best Neurosurgeon in Alwar | Dr. Arun Saroha</title>
         
-<meta name="description" content="Seeking the best neurosurgeon in Alwar? Dr. Arun Saroha offers expert care for brain & spine conditions, utilizing advanced techniques for effective treatments" />
+<meta name="description" content="Consult the best neurosurgeon in Alwar - Dr. Arun Saroha at Max Hospital. Expert brain and spine surgery with 7000+ successful procedures. Book appointment now!" />
         
 <meta name="keywords" content="Best neurosurgeon in Alwar, neurosurgeon in Alwar, Spine Surgeon in Alwar" />
 <link rel="canonical" href="https://spineandbrainindia.com/neurosurgeon-in-alwar" />

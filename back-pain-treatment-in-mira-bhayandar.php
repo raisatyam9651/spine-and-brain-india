@@ -7,7 +7,7 @@
         
 <title>Back Pain Treatment in Mira Bhayandar | Dr. Arun Saroha </title>
         
-<meta name="description" content="Get expert back pain treatment in Mira Bhayandar with Dr. Arun Saroha, top spine surgeon offering advanced, minimally invasive solutions for lasting relief. " />
+<meta name="description" content="Suffering from back pain in Mira Bhayandar? Dr. Arun Saroha offers advanced minimally invasive spine surgery with 7000+ successful surgeries. Get lasting relief. Book consultation today!" />
         
 <meta name="keywords" content="best back pain treatment in mira bhayandar, Back Pain Specialist in Mira Bhayandar" />
 <link rel="canonical" href="https://spineandbrainindia.com/back-pain-treatment-in-mira bhayandar" />

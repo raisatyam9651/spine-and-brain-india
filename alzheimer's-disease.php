@@ -4,7 +4,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="" />
+        <meta name="description" content="Expert Alzheimer's disease treatment by Dr. Arun Saroha. Advanced neurological care and management. 25+ years experience in brain disorders. Book consultation today!" />
         <meta name="keywords" content="" />
 
         <title>Alzheimer's Disease</title>

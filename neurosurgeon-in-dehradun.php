@@ -7,7 +7,7 @@
         
 <title>Best Neurosurgeon in Dehradun | Dr. Arun Saroha</title>
         
-<meta name="description" content="Seeking the Best Neurosurgeon in Dehradun? Dr. Arun Saroha offers expert care for brain and spine conditions with advanced techniques, ensuring faster recovery" />
+<meta name="description" content="Consult the best neurosurgeon in Dehradun - Dr. Arun Saroha at Max Hospital. Expert brain and spine surgery with 7000+ successful procedures. Book appointment now!" />
         
 <meta name="keywords" content="Best neurosurgeon in Dehradun, neurosurgeon in Dehradun, Spine Surgeon in Dehradun" />
 <link rel="canonical" href="https://spineandbrainindia.com/neurosurgeon-in-dehradun" />

@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <title>Best Neurosurgeon in Andhra Pradesh Dr. Arun Saroha | Top Spine Expert</title>
   <meta name="description"
-    content="Consult Dr. Arun Saroha, one of the best neurosurgeons in Andhra Pradesh with 20+ years of expertise in brain & spine surgery. Book your appointment today!" />
+    content="Looking for the best neurosurgeon in Andhra Pradesh? Dr. Arun Saroha at Max Hospital has 25+ years experience & 7000+ successful brain and spine surgeries. Book your appointment now!" />
   <meta name="keywords"
     content="best neurosurgeon in andhra pradesh, top brain specialist in Andhra Pradesh, leading spine surgeon in Andhra Pradesh, neurosurgery expert Andhra Pradesh, neurology hospital, top neuro doctor in Andhra Pradesh, best neurologists in andhra pradesh" />
 

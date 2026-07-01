@@ -7,7 +7,7 @@
         
 <title>Spinal Tuberculosis Treatment in Baramulla | Dr Arun Saroha</title>
 
-<meta name="description" content="Receive expert spinal tuberculosis treatment in Baramulla with Dr. Arun Saroha, specializing in advanced therapies for optimal health outcomes." />
+<meta name="description" content="Expert spinal tuberculosis treatment in Baramulla by Dr. Arun Saroha. Advanced therapies and surgical care for optimal recovery. 25+ years experience. Book consultation today!" />
         
 <meta name="keywords" content="" />
 <link rel="canonical" href="https://spineandbrainindia.com/spinal-tuberculosis-treatment-in-baramulla" />

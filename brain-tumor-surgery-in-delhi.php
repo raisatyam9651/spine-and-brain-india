@@ -7,7 +7,7 @@
 
 <title>Brain Tumor Surgery in Delhi | Best Neurosurgeon Dr. Arun Saroha | Max Hospital</title>
 
-<meta name="description" content="Expert brain tumor surgery in Delhi by Dr. Arun Saroha at Max Hospital. 1000+ successful surgeries. &#8377;2.4L-4.8L cost. 85-95% success rate. Book free consultation today." />
+<meta name="description" content="Need expert brain tumor surgery in Delhi? Dr. Arun Saroha has performed 1000+ successful brain tumor surgeries with 85-95% success rate. Get advanced care. Consult today!" />
 
 <meta name="keywords" content="brain tumor surgery in Delhi, best brain tumor surgeon Delhi, neurosurgeon Delhi, brain tumor treatment Delhi, brain tumor surgery cost Delhi" />
 <link rel="canonical" href="https://spineandbrainindia.com/brain-tumor-surgery-in-delhi" />

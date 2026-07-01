@@ -7,7 +7,7 @@
 
 <title>Best Migraine Treatment in India | Dr. Arun Saroha | Expert Neurologist</title>
 
-<meta name="description" content="Advanced migraine treatment in India by Dr. Arun Saroha. Botox, CGRP inhibitors, neuromodulation for chronic migraines. 25+ years experience. Book now." />
+<meta name="description" content="Expert migraine treatment in India by Dr. Arun Saroha. Advanced diagnosis and treatment for chronic migraines and headaches. 25+ years experience. Get relief. Consult now!" />
 
 <meta name="keywords" content="migraine treatment India, migraine specialist India, chronic migraine cure, migraine relief, CGRP inhibitors India, Botox for migraine" />
 <link rel="canonical" href="https://spineandbrainindia.com/migraine-treatment-in-India" />

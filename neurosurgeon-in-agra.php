@@ -7,7 +7,7 @@
         
 <title>Best Neurosurgeon in Agra | Dr. Arun Saroha</title>
         
-<meta name="description" content="Seeking the best neurosurgeon in Agra? Dr. Arun Saroha offers expert care for neurological conditions with advanced treatments. Schedule your consultation today." />
+<meta name="description" content="Consult the best neurosurgeon in Agra - Dr. Arun Saroha at Max Hospital. Expert brain and spine surgery with 7000+ successful procedures. Book appointment now!" />
         
 <meta name="keywords" content="Best neurosurgeon in Agra, neurosurgeon in Agra" />
 <link rel="canonical" href="https://spineandbrainindia.com/neurosurgeon-in-agra" />

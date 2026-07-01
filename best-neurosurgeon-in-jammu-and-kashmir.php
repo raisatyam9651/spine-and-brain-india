@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <title>Best Neurosurgeon in Jammu and Kashmir Dr. Arun Saroha | Top Spine Expert</title>
   <meta name="description"
-    content="Consult Dr. Arun Saroha, one of the best neurosurgeons in Jammu and Kashmir with 20+ years of expertise in brain & spine surgery. Book your appointment today!" />
+    content="Looking for the best neurosurgeon in Jammu and Kashmir? Dr. Arun Saroha at Max Hospital has 25+ years experience & 7000+ successful brain and spine surgeries. Book your appointment now!" />
   <meta name="keywords"
     content="best neurosurgeon in jammu and kashmir, top brain specialist in Jammu and Kashmir, leading spine surgeon in Jammu and Kashmir, neurosurgery expert Jammu and Kashmir, neurology hospital, top neuro doctor in Jammu and Kashmir, best neurologists in jammu and kashmir" />
 

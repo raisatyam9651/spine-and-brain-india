@@ -4,7 +4,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="Expert head injury treatment by Dr. Arun Saroha with 20+ years experience. Advanced neurosurgical care, emergency trauma services, proven recovery success. Call +91-7860000705." />
+        <meta name="description" content="Expert head injury treatment by Dr. Arun Saroha. Advanced emergency trauma care and brain surgery. 25+ years experience. Get expert neurological care. Consult now!" />
         <meta name="keywords" content="best head injury treatment in india, head injury treatment, neurosurgeon for head injury, brain trauma surgery india, head injury surgery cost, traumatic brain injury treatment, head injury specialist, head injury rehabilitation india, TBI treatment india, best neurologist for head injury" />
 
         <title>Best Head Injury Treatment in India | Dr. Arun Saroha</title>

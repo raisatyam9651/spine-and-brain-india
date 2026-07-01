@@ -7,7 +7,7 @@
         
 <title>Spinal Stenosis Surgery in Himachal Pradesh | Dr. Arun Saroha</title>
 
-<meta name="description" content="Seeking expert Spinal Stenosis Surgery in Himachal Pradesh? Dr. Arun Saroha offers advanced, minimally invasive techniques for effective relief and faster recovery." />
+<meta name="description" content="Need spinal stenosis surgery in Himachal Pradesh? Dr. Arun Saroha offers advanced minimally invasive techniques for effective relief and faster recovery. 25+ years experience. Book now!" />
         
 <link rel="canonical" href="https://spineandbrainindia.com/spinal-stenosis-surgery-in-himachal-pradesh" />
         

@@ -7,7 +7,7 @@
         
         <title>Degenerative Disc Disease Treatment in Dhanbad | Degenerative Disc Treatment </title>
         
-        <meta name="description" content="Meet Dr. Arun Saroha a leading expert in Degenerative Disc Disease Treatment in Dhanbad. Offering artificial discs for Degenerative Disc Surgery in Dhanbad." />
+        <meta name="description" content="Get degenerative disc disease treatment in Dhanbad by Dr. Arun Saroha. Advanced non-surgical and surgical options including artificial disc replacement. Lasting relief. Book now!" />
         
         <meta name="keywords" content="Degenerative Disc Disease Treatment in Dhanbad, Disc Disease Specialist" />
         <link rel="canonical" href="https://spineandbrainindia.com/degenerative-disc-disease-treatment-in-dhanbad" />

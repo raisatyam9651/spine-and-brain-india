@@ -8,7 +8,7 @@
     <title>Brachial Plexus Treatment in Telangana | Dr. Arun Saroha</title>
 
     <meta name="description"
-        content="Seeking expert care for Brachial Plexus Treatment in Telangana? Dr. Arun Saroha offers surgical solutions for nerve injuries, and restoring function with expertise." />
+        content="Need brachial plexus treatment in Telangana? Dr. Arun Saroha offers advanced nerve surgery to restore arm function. Expert care with proven results. Book consultation now!" />
 
     <meta name="keywords" content="" />
     <link rel="canonical" href="https://spineandbrainindia.com/brachial-plexus-treatment-in-telangana" />

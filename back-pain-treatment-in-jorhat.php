@@ -7,7 +7,7 @@
         
 <title>Back Pain Treatment in Jorhat | Dr. Arun Saroha </title>
         
-<meta name="description" content="Get expert back pain treatment in Jorhat with Dr. Arun Saroha, top spine surgeon offering advanced, minimally invasive solutions for lasting relief. " />
+<meta name="description" content="Suffering from back pain in Jorhat? Dr. Arun Saroha offers advanced minimally invasive spine surgery with 7000+ successful surgeries. Get lasting relief. Book consultation today!" />
         
 <meta name="keywords" content="best back pain treatment in jorhat, Back Pain Specialist in Jorhat" />
 <link rel="canonical" href="https://spineandbrainindia.com/back-pain-treatment-in-jorhat" />

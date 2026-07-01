@@ -7,7 +7,7 @@
         
         <title>Degenerative Disc Disease Treatment in Lunglei | Degenerative Disc Treatment </title>
         
-        <meta name="description" content="Meet Dr. Arun Saroha a leading expert in Degenerative Disc Disease Treatment in Lunglei. Offering artificial discs for Degenerative Disc Surgery in Lunglei." />
+        <meta name="description" content="Get degenerative disc disease treatment in Lunglei by Dr. Arun Saroha. Advanced non-surgical and surgical options including artificial disc replacement. Lasting relief. Book now!" />
         
         <meta name="keywords" content="Degenerative Disc Disease Treatment in Lunglei, Disc Disease Specialist" />
         <link rel="canonical" href="https://spineandbrainindia.com/degenerative-disc-disease-treatment-in-lunglei" />

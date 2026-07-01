@@ -7,7 +7,7 @@
         
 <title>Brachial Plexus Treatment in Dindigul | Dr. Arun Saroha</title>
 
-<meta name="description" content="Seeking expert care for Brachial Plexus Treatment in Dindigul? Dr. Arun Saroha offers surgical solutions for nerve injuries, and restoring function with expertise." />
+<meta name="description" content="Need brachial plexus treatment in Dindigul? Dr. Arun Saroha offers advanced nerve surgery to restore arm function. Expert care with proven results. Book consultation now!" />
         
 <meta name="keywords" content="" />
 <link rel="canonical" href="https://spineandbrainindia.com/brachial-plexus-treatment-in-dindigul" />

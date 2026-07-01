@@ -7,7 +7,7 @@
 
 <title>Brain Tumor Surgery in India | Expert Neurosurgeon Dr. Arun Saroha</title>
 
-<meta name="description" content="World-class brain tumor surgery in India by Dr. Arun Saroha. 1000+ successful surgeries. Cost from &#8377;2.4L-4.8L. 85-95% success rate. Minimally invasive options. Book free consultation today." />
+<meta name="description" content="Need expert brain tumor surgery in India? Dr. Arun Saroha has performed 1000+ successful brain tumor surgeries with 85-95% success rate. Get advanced care. Consult today!" />
 
 <meta name="keywords" content="brain tumor surgery in India, brain tumor removal, best neurosurgeon Delhi, brain tumor treatment, affordable brain tumor surgery, minimally invasive brain surgery, Dr. Arun Saroha, glioblastoma treatment india, meningioma surgery india, pituitary adenoma surgery, brain tumor surgery cost india, craniotomy india" />
 <link rel="canonical" href="https://spineandbrainindia.com/brain-tumor-surgery-in-India" />

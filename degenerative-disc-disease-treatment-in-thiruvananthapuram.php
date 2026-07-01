@@ -7,7 +7,7 @@
         
         <title>Degenerative Disc Disease Treatment in Thiruvananthapuram | Degenerative Disc Treatment </title>
         
-        <meta name="description" content="Meet Dr. Arun Saroha a leading expert in Degenerative Disc Disease Treatment in Thiruvananthapuram. Offering artificial discs for Degenerative Disc Surgery in Thiruvananthapuram." />
+        <meta name="description" content="Get degenerative disc disease treatment in Thiruvananthapuram by Dr. Arun Saroha. Advanced non-surgical and surgical options including artificial disc replacement. Lasting relief. Book now!" />
         
         <meta name="keywords" content="Degenerative Disc Disease Treatment in Thiruvananthapuram, Disc Disease Specialist" />
         <link rel="canonical" href="https://spineandbrainindia.com/degenerative-disc-disease-treatment-in-thiruvananthapuram" />

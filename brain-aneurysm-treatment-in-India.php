@@ -7,7 +7,7 @@
         
 <title>Brain Aneurysm Treatment in India | Dr. Arun Saroha</title>
         
-<meta name="description" content=" Seeking expert care for brain aneurysm treatment in India? Dr. Arun Saroha offers advanced solutions to treat brain aneurysms with precision and care safely." />
+<meta name="description" content="Need expert brain aneurysm treatment in India? Dr. Arun Saroha offers advanced aneurysm clipping and coiling with high success rate. 25+ years experience. Consult today!" />
         
         <meta name="keywords" content="Brain Aneurysm Treatment in India, Brain Aneurysm Specialist" />
         <link rel="canonical" href="https://spineandbrainindia.com/brain-aneurysm-treatment-in-India" />

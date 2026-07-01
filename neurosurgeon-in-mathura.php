@@ -7,7 +7,7 @@
         
 <title>Best Neurosurgeon in Mathura | Dr. Arun Saroha</title>
         
-<meta name="description" content="Seeking the best neurosurgeon in Mathura? Dr. Arun Saroha offers expert care for brain & spine conditions, utilizing advanced techniques for effective treatments" />
+<meta name="description" content="Consult the best neurosurgeon in Mathura - Dr. Arun Saroha at Max Hospital. Expert brain and spine surgery with 7000+ successful procedures. Book appointment now!" />
         
 <meta name="keywords" content="Best neurosurgeon in Mathura, neurosurgeon in Mathura, Spine Surgeon in Mathura" />
 <link rel="canonical" href="https://spineandbrainindia.com/neurosurgeon-in-Mathura" />

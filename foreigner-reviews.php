@@ -4,7 +4,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="" />
+        <meta name="description" content="Read reviews from international patients who chose Dr. Arun Saroha for neurosurgery in India. World-class care at affordable costs. See their success stories!" />
         <meta name="keywords" content="" />
        
         <title>Testimonials</title>

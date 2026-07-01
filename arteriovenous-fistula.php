@@ -4,7 +4,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="" />
+        <meta name="description" content="Expert AV fistula treatment by Dr. Arun Saroha. Advanced neurosurgical techniques for brain vascular malformations. 25+ years experience. Book consultation now!" />
         <meta name="keywords" content="" />
 
         <title>Arteriovenous Fistula</title>

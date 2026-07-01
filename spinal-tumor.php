@@ -4,7 +4,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="" />
+        <meta name="description" content="Expert spinal tumor surgery by Dr. Arun Saroha. Advanced minimally invasive spine tumor removal with 7000+ successful surgeries. Preserve nerve function. Consult today!" />
         <meta name="keywords" content="" />
        
         <title>Spinal Tumor</title>

@@ -7,7 +7,7 @@
         
 <title>Nerve Graft Surgery in Tiruchirappalli | Dr Arun Saroha</title>
 
-<meta name="description" content="Seeking expert care for nerve graft surgery in Tiruchirappalli? Dr. Arun Saroha offers advanced nerve repair techniques to restore function after spinal cord injuries." />
+<meta name="description" content="Need nerve graft surgery in Tiruchirappalli? Dr. Arun Saroha offers advanced nerve repair techniques to restore function after injury. 25+ years expertise. Book consultation now!" />
         
 <meta name="keywords" content="" />
 <link rel="canonical" href="https://spineandbrainindia.com/nerve-graft-surgery-in-tiruchirappalli" />

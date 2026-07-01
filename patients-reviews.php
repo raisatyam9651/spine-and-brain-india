@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <title>Patients Reviews - Dr.Arun Saroha</title>
         
-        <meta name="description" content="Discover inspiring Patients Reviews, Dr. Arun Saroha. Real stories of exceptional brain and spine care at Spine and Brain India." />
+        <meta name="description" content="Read patient reviews and testimonials for Dr. Arun Saroha - India's top neurosurgeon. 7000+ successful surgeries and happy patients. See their stories!" />
         <meta name="keywords" content="" />
        
         

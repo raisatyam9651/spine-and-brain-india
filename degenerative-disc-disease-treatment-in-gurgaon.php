@@ -4,7 +4,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="" />
+        <meta name="description" content="Get degenerative disc disease treatment in Gurgaon by Dr. Arun Saroha. Advanced surgical and non-surgical options. Lasting relief. 7000+ surgeries. Book now!" />
         <meta name="keywords" content="" />
        
         <title>Dr. Arun Saroha: Best Neurosurgeon & Spine Surgeon in Gurgaon</title>

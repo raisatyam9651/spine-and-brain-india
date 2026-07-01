@@ -4,7 +4,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="" />
+        <meta name="description" content="Get disc replacement surgery in Gurgaon by Dr. Arun Saroha. Minimally invasive artificial disc replacement for lasting pain relief. 25+ years experience. Consult today!" />
         <meta name="keywords" content="" />
        
         <title>Dr. Arun Saroha: Best Neurosurgeon & Spine Surgeon in Gurgaon</title>

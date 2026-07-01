@@ -7,7 +7,7 @@
         
 <title>Best Neurologist in Panipat | Dr. Arun Saroha</title>
         
-<meta name="description" content="Seeking the Best Neurologist in Panipat? Consult Dr. Arun Saroha, renowned for his expertise in treating complex brain and spine conditions with precision and care." />
+<meta name="description" content="Consult the best neurologist in Panipat - Dr. Arun Saroha at Max Hospital. Expert care for brain, spine and nerve disorders with 25+ years experience. Book appointment now!" />
         
 <meta name="keywords" content="Best neurosurgeon in Panipat, neurosurgeon in Panipat, Spine Surgeon in Panipat, Neurologist in Panipat, Best Neurologist in Panipat" />
 <link rel="canonical" href="https://spineandbrainindia.com/neurologist-in-panipat" />

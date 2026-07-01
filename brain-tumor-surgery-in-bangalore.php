@@ -7,7 +7,7 @@
 
 <title>Brain Tumor Surgery in Bangalore | Expert Neurosurgeon Dr. Arun Saroha</title>
 
-<meta name="description" content="Expert brain tumor surgery for Bangalore patients by Dr. Arun Saroha at Max Hospital Delhi NCR. 1000+ surgeries. 85-95% success rate. Book free consultation today." />
+<meta name="description" content="Need expert brain tumor surgery in Bangalore? Dr. Arun Saroha has performed 1000+ successful brain tumor surgeries with 85-95% success rate. Get advanced care. Consult today!" />
 
 <meta name="keywords" content="brain tumor surgery Bangalore, brain tumor surgeon Bangalore, neurosurgeon Bangalore, brain tumor treatment Bangalore, brain surgery cost Bangalore" />
 <link rel="canonical" href="https://spineandbrainindia.com/brain-tumor-surgery-in-bangalore" />

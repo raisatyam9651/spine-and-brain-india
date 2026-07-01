@@ -8,7 +8,7 @@
 <title>Microvascular Decompression Surgery in Kathua | Cost of MVD Surgery
 </title>
 
-<meta name="description" content="Dr. Arun Saroha provides the best Microvascular Decompression Surgery in Kathua. Learn about the cost and options for Microvascular Decompression Surgery." />
+<meta name="description" content="Expert microvascular decompression surgery in Kathua by Dr. Arun Saroha. Advanced treatment for trigeminal neuralgia and nerve compression. 7000+ surgeries. Consult now!" />
         
 <meta name="keywords" content="" />
 <link rel="canonical" href="https://spineandbrainindia.com/microvascular-decompression-surgery-in-kathua" />

@@ -4,7 +4,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="" />
+        <meta name="description" content="Expert hydrocephalus treatment in Bhadrak by Dr. Arun Saroha. Advanced VP shunt surgery and endoscopic procedures with 7000+ successful surgeries. Consult today!" />
         <meta name="keywords" content="" />
        
         <title>Dr. Arun Saroha: Best Neurosurgeon & Spine Surgeon in Bhadrak</title>

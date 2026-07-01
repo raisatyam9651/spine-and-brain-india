@@ -4,7 +4,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="" />
+        <meta name="description" content="Expert medulloblastoma treatment by Dr. Arun Saroha. Advanced pediatric brain tumor surgery. 25+ years experience. Get expert neurological care. Book consultation now!" />
         <meta name="keywords" content="" />
        
         <title>Medulloblastoma</title>

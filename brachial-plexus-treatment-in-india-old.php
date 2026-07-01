@@ -7,7 +7,7 @@
         
 <title>Endoscopic Spine Tumor Surgery in India | Dr. Arun Saroha</title>
 
-<meta name="description" content="Seeking expert care for Endoscopic Spine Tumor Surgery in India? Consult Dr. Arun Saroha for advanced, minimally invasive spine surgery with personalized care." />
+<meta name="description" content="Need brachial plexus treatment in India Old? Dr. Arun Saroha offers advanced nerve surgery to restore arm function. Expert care with proven results. Book consultation now!" />
         
 <meta name="keywords" content="" />
 <link rel="canonical" href="https://spineandbrainindia.com/endoscopic-spine-tumor-surgery-in-india" />

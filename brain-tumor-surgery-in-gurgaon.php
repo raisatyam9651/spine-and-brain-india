@@ -7,7 +7,7 @@
 
 <title>Brain Tumor Surgery in Gurgaon | Dr. Arun Saroha | Max Hospital Sushant Lok</title>
 
-<meta name="description" content="Top brain tumor surgery in Gurgaon by Dr. Arun Saroha at Max Hospital Sushant Lok. 1000+ successful surgeries. Advanced minimally invasive techniques. Book consultation today." />
+<meta name="description" content="Need expert brain tumor surgery in Gurgaon? Dr. Arun Saroha has performed 1000+ successful brain tumor surgeries with 85-95% success rate. Get advanced care. Consult today!" />
 
 <meta name="keywords" content="brain tumor surgery in Gurgaon, best brain tumor surgeon Gurgaon, neurosurgeon Gurgaon, brain tumor treatment Gurgaon, Max Hospital Gurgaon neurosurgery" />
 <link rel="canonical" href="https://spineandbrainindia.com/brain-tumor-surgery-in-gurgaon" />
