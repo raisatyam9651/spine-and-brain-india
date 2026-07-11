@@ -385,4 +385,22 @@ document.addEventListener('click', function (e) {
 });
 </script>
 
+<!-- related-articles (auto) -->
+<section>
+    <div class="w-100 pb-90">
+        <div class="container">
+            <div class="related-articles" style="border-top:2px solid #e5e9f0; padding-top:26px;">
+                <h2 style="font-size:24px; color:#16243e; margin-bottom:16px;">Related Articles</h2>
+                <ul style="list-style:none; padding:0; margin:0; display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:8px 28px;">
+                            <li><a href="/blog/brain-tumor-symptoms-most-patients-miss-until-its-too-late-early-warning-guide/">Brain Tumor Symptoms Most Patients Miss Until It&#039;s Too Late: An Early Warning Guide</a></li>
+                            <li><a href="/blog/brain-tumor-treatment-without-surgery/">Brain Tumor Treatment Without Surgery: Non-Surgical Options Explained</a></li>
+                            <li><a href="/blog/can-brain-tumor-be-treated-without-surgery/">Can a Brain Tumor Be Treated Without Surgery?</a></li>
+                            <li><a href="/blog/does-brain-tumor-surgery-work/">Does Brain Tumor Surgery Work? Success Rates and What to Expect</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- /related-articles -->
+
 <?php include __DIR__ . '/../footer.php';?>

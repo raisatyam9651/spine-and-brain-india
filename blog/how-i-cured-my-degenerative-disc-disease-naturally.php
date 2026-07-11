@@ -403,4 +403,22 @@ document.addEventListener('click', function (e) {
 });
 </script>
 
+<!-- related-articles (auto) -->
+<section>
+    <div class="w-100 pb-90">
+        <div class="container">
+            <div class="related-articles" style="border-top:2px solid #e5e9f0; padding-top:26px;">
+                <h2 style="font-size:24px; color:#16243e; margin-bottom:16px;">Related Articles</h2>
+                <ul style="list-style:none; padding:0; margin:0; display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:8px 28px;">
+                            <li><a href="/blog/how-i-cured-my-degenerative-disc-disease-2/">How I Cured My Degenerative Disc Disease: A Recovery Roadmap</a></li>
+                            <li><a href="/blog/how-i-cured-my-degenerative-disc-disease/">How I Cured My Degenerative Disc Disease: What Actually Helped</a></li>
+                            <li><a href="/blog/things-to-avoid-with-degenerative-disc-disease-in-neck/">Things to Avoid With Degenerative Disc Disease in the Neck</a></li>
+                            <li><a href="/blog/artificial-disc-replacement-recovery-time/">Artificial Disc Replacement Recovery Time: A Week-by-Week Guide</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- /related-articles -->
+
 <?php include __DIR__ . '/../footer.php';?>

@@ -397,4 +397,22 @@ document.addEventListener('click', function (e) {
 });
 </script>
 
+<!-- related-articles (auto) -->
+<section>
+    <div class="w-100 pb-90">
+        <div class="container">
+            <div class="related-articles" style="border-top:2px solid #e5e9f0; padding-top:26px;">
+                <h2 style="font-size:24px; color:#16243e; margin-bottom:16px;">Related Articles</h2>
+                <ul style="list-style:none; padding:0; margin:0; display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:8px 28px;">
+                            <li><a href="/blog/early-signs-of-brain-tumor-in-adults/">Early Signs of a Brain Tumor in Adults You Should Never Ignore</a></li>
+                            <li><a href="/blog/what-are-the-symptoms-of-brain-tumor/">What Are the Symptoms of a Brain Tumor? A Complete Guide</a></li>
+                            <li><a href="/blog/best-doctor-for-complex-brain-tumor-in-delhi/">Best Doctor for a Complex Brain Tumor in Delhi: How to Choose the Right Neurosurgeon</a></li>
+                            <li><a href="/blog/brain-stroke-symptoms/">Brain Stroke Symptoms: How to Recognise a Stroke Fast (BE-FAST)</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- /related-articles -->
+
 <?php include __DIR__ . '/../footer.php';?>

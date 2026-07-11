@@ -393,4 +393,22 @@ document.addEventListener('click', function (e) {
 });
 </script>
 
+<!-- related-articles (auto) -->
+<section>
+    <div class="w-100 pb-90">
+        <div class="container">
+            <div class="related-articles" style="border-top:2px solid #e5e9f0; padding-top:26px;">
+                <h2 style="font-size:24px; color:#16243e; margin-bottom:16px;">Related Articles</h2>
+                <ul style="list-style:none; padding:0; margin:0; display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:8px 28px;">
+                            <li><a href="/blog/can-cervical-spondylosis-be-cured-recovery-treatment-guide/">Can Cervical Spondylosis Be Cured? A Recovery and Treatment Guide</a></li>
+                            <li><a href="/blog/cervical-pain-causes-symptoms-expert-treatment-options/">Cervical Pain: Causes, Symptoms and Expert Treatment Options</a></li>
+                            <li><a href="/blog/how-are-brain-and-spinal-cord-protected-complete-guide-to-protection-function/">How Are the Brain and Spinal Cord Protected? A Complete Guide</a></li>
+                            <li><a href="/blog/how-to-cure-cervical-spondylosis-permanently-treatment-guide/">How to Cure Cervical Spondylosis Permanently: A Practical Treatment Guide</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- /related-articles -->
+
 <?php include __DIR__ . '/../footer.php';?>

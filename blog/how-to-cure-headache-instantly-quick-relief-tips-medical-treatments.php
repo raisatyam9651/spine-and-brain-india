@@ -406,4 +406,22 @@ document.addEventListener('click', function (e) {
 });
 </script>
 
+<!-- related-articles (auto) -->
+<section>
+    <div class="w-100 pb-90">
+        <div class="container">
+            <div class="related-articles" style="border-top:2px solid #e5e9f0; padding-top:26px;">
+                <h2 style="font-size:24px; color:#16243e; margin-bottom:16px;">Related Articles</h2>
+                <ul style="list-style:none; padding:0; margin:0; display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:8px 28px;">
+                            <li><a href="/blog/quick-relief-how-to-relieve-upper-back-pain-fast-at-home/">Quick Relief: How to Relieve Upper Back Pain Fast at Home</a></li>
+                            <li><a href="/blog/can-cervical-spondylosis-affect-the-brain-key-medical-facts/">Can Cervical Spondylosis Affect the Brain? Key Medical Facts</a></li>
+                            <li><a href="/blog/can-cold-cause-headache-causes-symptoms-when-to-worry/">Can a Cold Cause Headache? Causes, Symptoms &amp;amp; When to Worry</a></li>
+                            <li><a href="/blog/easy-tips-to-avoid-back-pain-quickly/">Easy Tips to Avoid Back Pain Quickly: A Neurosurgeon&#039;s Guide</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- /related-articles -->
+
 <?php include __DIR__ . '/../footer.php';?>

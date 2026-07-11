@@ -415,4 +415,22 @@ document.addEventListener('click', function (e) {
 });
 </script>
 
+<!-- related-articles (auto) -->
+<section>
+    <div class="w-100 pb-90">
+        <div class="container">
+            <div class="related-articles" style="border-top:2px solid #e5e9f0; padding-top:26px;">
+                <h2 style="font-size:24px; color:#16243e; margin-bottom:16px;">Related Articles</h2>
+                <ul style="list-style:none; padding:0; margin:0; display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:8px 28px;">
+                            <li><a href="/blog/what-is-minimally-invasive-spine-surgery/">What Is Minimally Invasive Spine Surgery? A Neurosurgeon Explains</a></li>
+                            <li><a href="/blog/artificial-disc-replacement-recovery-time/">Artificial Disc Replacement Recovery Time: A Week-by-Week Guide</a></li>
+                            <li><a href="/blog/do-i-really-need-brain-or-spine-surgery-7-warning-signs-you-should-never-ignore/">Do I Really Need Brain or Spine Surgery? 7 Warning Signs You Should Never Ignore</a></li>
+                            <li><a href="/blog/how-is-cervical-spine-surgery-done/">How Is Cervical Spine Surgery Done? Procedure and Recovery</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- /related-articles -->
+
 <?php include __DIR__ . '/../footer.php';?>

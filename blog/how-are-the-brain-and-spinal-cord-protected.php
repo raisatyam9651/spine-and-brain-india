@@ -411,4 +411,22 @@ document.addEventListener('click', function (e) {
 });
 </script>
 
+<!-- related-articles (auto) -->
+<section>
+    <div class="w-100 pb-90">
+        <div class="container">
+            <div class="related-articles" style="border-top:2px solid #e5e9f0; padding-top:26px;">
+                <h2 style="font-size:24px; color:#16243e; margin-bottom:16px;">Related Articles</h2>
+                <ul style="list-style:none; padding:0; margin:0; display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:8px 28px;">
+                            <li><a href="/blog/cervical-spinal-cord-stimulation-a-revolutionary-treatment/">Cervical Spinal Cord Stimulation: A Revolutionary Treatment for Chronic Nerve Pain</a></li>
+                            <li><a href="/blog/how-is-brain-protected-in-our-body-structure-layers-safety-mechanism-explained/">How Is the Brain Protected in Our Body? Structure, Layers and Safety Mechanisms Explained</a></li>
+                            <li><a href="/blog/how-is-the-brain-protected/">How Is the Brain Protected? The Body&#039;s Natural Defense System</a></li>
+                            <li><a href="/blog/are-all-brain-tumors-cancerous/">Are All Brain Tumors Cancerous? Benign vs. Malignant Explained</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- /related-articles -->
+
 <?php include __DIR__ . '/../footer.php';?>

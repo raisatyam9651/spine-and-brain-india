@@ -425,4 +425,22 @@ document.addEventListener('click', function (e) {
 });
 </script>
 
+<!-- related-articles (auto) -->
+<section>
+    <div class="w-100 pb-90">
+        <div class="container">
+            <div class="related-articles" style="border-top:2px solid #e5e9f0; padding-top:26px;">
+                <h2 style="font-size:24px; color:#16243e; margin-bottom:16px;">Related Articles</h2>
+                <ul style="list-style:none; padding:0; margin:0; display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:8px 28px;">
+                            <li><a href="/blog/lower-back-pain-in-women-common-causes-and-when-to-worry/">Lower Back Pain in Women: Common Causes and When to Worry</a></li>
+                            <li><a href="/blog/what-is-better-for-lower-back-pain/">What Is Better for Lower Back Pain? A Practical Comparison Guide</a></li>
+                            <li><a href="/blog/what-is-the-best-treatment-for-lower-back-pain/">What Is the Best Treatment for Lower Back Pain?</a></li>
+                            <li><a href="/blog/artificial-disc-replacement-recovery-time/">Artificial Disc Replacement Recovery Time: A Week-by-Week Guide</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- /related-articles -->
+
 <?php include __DIR__ . '/../footer.php';?>

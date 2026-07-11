@@ -418,4 +418,22 @@ document.addEventListener('click', function (e) {
 });
 </script>
 
+<!-- related-articles (auto) -->
+<section>
+    <div class="w-100 pb-90">
+        <div class="container">
+            <div class="related-articles" style="border-top:2px solid #e5e9f0; padding-top:26px;">
+                <h2 style="font-size:24px; color:#16243e; margin-bottom:16px;">Related Articles</h2>
+                <ul style="list-style:none; padding:0; margin:0; display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:8px 28px;">
+                            <li><a href="/blog/what-is-the-role-of-the-brain-in-reflex-action-an-easy-guide/">What Is the Role of the Brain in Reflex Action? An Easy Guide</a></li>
+                            <li><a href="/blog/which-part-of-the-brain-controls-voluntary-action-the-science-of-movement/">Which Part of the Brain Controls Voluntary Action? The Science of Movement</a></li>
+                            <li><a href="/blog/are-all-brain-tumors-cancerous/">Are All Brain Tumors Cancerous? Benign vs. Malignant Explained</a></li>
+                            <li><a href="/blog/best-doctor-for-complex-brain-tumor-in-delhi/">Best Doctor for a Complex Brain Tumor in Delhi: How to Choose the Right Neurosurgeon</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- /related-articles -->
+
 <?php include __DIR__ . '/../footer.php';?>

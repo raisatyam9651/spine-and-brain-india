@@ -403,4 +403,22 @@ document.addEventListener('click', function (e) {
 });
 </script>
 
+<!-- related-articles (auto) -->
+<section>
+    <div class="w-100 pb-90">
+        <div class="container">
+            <div class="related-articles" style="border-top:2px solid #e5e9f0; padding-top:26px;">
+                <h2 style="font-size:24px; color:#16243e; margin-bottom:16px;">Related Articles</h2>
+                <ul style="list-style:none; padding:0; margin:0; display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:8px 28px;">
+                            <li><a href="/blog/which-part-of-the-brain-controls-blood-pressure/">Which Part of the Brain Controls Blood Pressure?</a></li>
+                            <li><a href="/blog/which-part-of-the-brain-controls-respiration/">Which Part of the Brain Controls Respiration?</a></li>
+                            <li><a href="/blog/which-part-of-brain-is-responsible-for-intelligence-functions-of-brain-explained-in-detail/">Which Part of the Brain Is Responsible for Intelligence? Functions of the Brain Explained in Detail</a></li>
+                            <li><a href="/blog/which-part-of-the-human-brain-is-the-most-developed-facts-functions-importance/">Which Part of the Human Brain Is the Most Developed?</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- /related-articles -->
+
 <?php include __DIR__ . '/../footer.php';?>
