@@ -1,6 +1,15 @@
+<?php
+// The blog listing now lives in the internal card grid at /blog/ (blog/index.php).
+// This old file embedded the external QuickBlog widget; send /blog(.php) to the
+// internal listing so the QuickBlog no longer shows. Once the blog/ folder is on
+// the server, /blog is served by that folder anyway and this file is only reached
+// at /blog.php -> which this redirect sends to /blog/.
+header('Location: https://spineandbrainindia.com/blog/', true, 301);
+exit;
+?>
 <!DOCTYPE html>
 <html lang="en">
-    
+
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
