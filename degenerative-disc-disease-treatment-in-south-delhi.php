@@ -614,7 +614,7 @@
                                             
                              <div class="container">
         <div class="service-header">
-            <h1>Degenerative Disc Treatment in South Delhi</h1>
+            <h2>Degenerative Disc Treatment in South Delhi</h2>
             <p class="mb-0">Degenerative disc disorder is a common condition that occurs when the discs in the spine start to wear down due to age or injury. It can lead to pain, numbness, and tingling sensations in the back and legs, making it difficult for individuals to perform daily activities. Luckily, there are several treatment options available for degenerative disc disorder in South Delhi. Dr. Arun Saroha provides consultation for degenerative spine disorders and offers various treatment options, including:</p>
         </div>
         
@@ -695,7 +695,7 @@
     
     <div class="container mt-5">
         <div class="service-header">
-            <h1>Why Choose Dr. Arun Saroha?</h1>
+            <h2>Why Choose Dr. Arun Saroha?</h2>
         </div>
         
         <div class="container">
@@ -741,7 +741,7 @@
     </div>
     
  <div class="faq-container">
-        <h1>Frequently Asked Questions</h1>
+        <h2>Frequently Asked Questions</h2>
         
         <div class="faq-item">
             <div class="faq-question" onclick="toggleFAQ(this)">

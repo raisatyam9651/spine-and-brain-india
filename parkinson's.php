@@ -8,6 +8,7 @@
         <meta name="keywords" content="" />
        
         <title>Parkinson's</title>
+<link rel="canonical" href="https://spineandbrainindia.com/parkinson's" />
 
 
 <!-- Unified SEO Schema and Tags -->

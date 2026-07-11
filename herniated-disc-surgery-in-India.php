@@ -7,7 +7,8 @@
         <meta name="description" content="Need herniated disc surgery in India? Dr. Arun Saroha offers advanced minimally invasive spine surgery. 7000+ successful surgeries. Get lasting relief. Consult today!" />
         <meta name="keywords" content="" />
        
-        <title>Dr. Arun Saroha: Best Neurosurgeon & Spine Surgeon in India</title>
+        <title>Herniated Disc Surgery in India | Dr. Arun Saroha</title>
+<link rel="canonical" href="https://spineandbrainindia.com/herniated-disc-surgery-in-India" />
 
 
 <!-- Unified SEO Schema and Tags -->

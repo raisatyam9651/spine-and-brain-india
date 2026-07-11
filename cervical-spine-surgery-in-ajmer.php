@@ -513,7 +513,7 @@
         
         <div class="container">
         <div class="service-header">
-            <h1>Cervical Spine Surgery Types</h1>
+            <h2>Cervical Spine Surgery Types</h2>
         </div>
         
         <div class="service-cards-grid">
@@ -555,7 +555,7 @@
     
     <div class="container">
         <div class="service-header">
-            <h1>Treatments for Cervical Spine</h1>
+            <h2>Treatments for Cervical Spine</h2>
         </div>
         
         <div class="service-cards-grid">
@@ -596,7 +596,7 @@
     
     <div class="container mt-5">
         <div class="service-header">
-            <h1>Why Choose Dr. Arun Saroha for Cervical Spine Surgery in Ajmer?</h1>
+            <h2>Why Choose Dr. Arun Saroha for Cervical Spine Surgery in Ajmer?</h2>
         </div>
         
         <div class="container">
@@ -622,7 +622,7 @@
     </div>
     
  <div class="faq-container">
-        <h1>Frequently Asked Questions - Cervical Spine Surgery</h1>
+        <h2>Frequently Asked Questions - Cervical Spine Surgery</h2>
         
         <div class="faq-item">
             <div class="faq-question" onclick="toggleFAQ(this)">

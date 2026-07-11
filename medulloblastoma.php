@@ -8,6 +8,7 @@
         <meta name="keywords" content="" />
        
         <title>Medulloblastoma</title>
+<link rel="canonical" href="https://spineandbrainindia.com/medulloblastoma" />
 
 
 <!-- Unified SEO Schema and Tags -->

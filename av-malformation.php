@@ -8,6 +8,7 @@
         <meta name="keywords" content="" />
 
         <title>AV Malformation</title>
+<link rel="canonical" href="https://spineandbrainindia.com/av-malformation" />
 
 
 <!-- Unified SEO Schema and Tags -->

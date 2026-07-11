@@ -8,6 +8,7 @@
         <meta name="keywords" content="" />
        
         <title>Spinal Tumor</title>
+<link rel="canonical" href="https://spineandbrainindia.com/spinal-tumor" />
 
 
 <!-- Unified SEO Schema and Tags -->

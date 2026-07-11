@@ -8,6 +8,7 @@
         <meta name="keywords" content="" />
 
         <title>Acoustic Neuroma</title>
+<link rel="canonical" href="https://spineandbrainindia.com/acoustic-neuroma" />
 
 
 <!-- Unified SEO Schema and Tags -->

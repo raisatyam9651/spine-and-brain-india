@@ -7,6 +7,7 @@
         <meta name="keywords" content="" />
        
         <title>Gallery</title>
+<link rel="canonical" href="https://spineandbrainindia.com/gallery" />
         <description> </description>
         
 

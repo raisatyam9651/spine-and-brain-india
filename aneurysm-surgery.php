@@ -8,6 +8,7 @@
         <meta name="keywords" content="" />
 
         <title>Aneurysm Surgery</title>
+<link rel="canonical" href="https://spineandbrainindia.com/aneurysm-surgery" />
 
 
 <!-- Unified SEO Schema and Tags -->

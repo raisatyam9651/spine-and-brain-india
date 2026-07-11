@@ -7,7 +7,8 @@
         <meta name="description" content="Expert brain stem glioma treatment by Dr. Arun Saroha. Advanced neurosurgical techniques for brain tumor removal. 25+ years experience. Book consultation now!" />
         <meta name="keywords" content="" />
 
-        <title>Dr. Arun Saroha: Best Neurosurgeon & Spine Surgeon in India</title>
+        <title>Brain Stem Glioma Treatment | Dr. Arun Saroha</title>
+<link rel="canonical" href="https://spineandbrainindia.com/brain-stem-glioma" />
 
 
 <!-- Unified SEO Schema and Tags -->

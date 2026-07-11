@@ -8,6 +8,7 @@
         <meta name="keywords" content="" />
        
         <title>Meningioma</title>
+<link rel="canonical" href="https://spineandbrainindia.com/meningioma" />
 
 
 <!-- Unified SEO Schema and Tags -->

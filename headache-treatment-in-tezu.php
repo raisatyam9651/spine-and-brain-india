@@ -470,7 +470,7 @@
                                        
                                          <div class="container mt-4">
         <div class="service-header">
-            <h1>Types of Headaches</h1>
+            <h2>Types of Headaches</h2>
             <p class="mb-0">There are several types of headaches, and they are classified based on their causes and symptoms. The most common types of headaches are:</p>
         </div>
         
@@ -531,7 +531,7 @@
                            
                                          <div class="container mt-5">
         <div class="service-header">
-        <h1>Why Choose Dr. Arun Saroha for Headache Treatment in Tezu?</h1>
+        <h2>Why Choose Dr. Arun Saroha for Headache Treatment in Tezu?</h2>
         </div>
         
         <div class="container">
@@ -559,7 +559,7 @@
     </div>
     
  <div class="faq-container">
-        <h1>Frequently Asked Questions</h1>
+        <h2>Frequently Asked Questions</h2>
         
         <div class="faq-item mt-4">
             <div class="faq-question" onclick="toggleFAQ(this)">

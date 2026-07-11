@@ -8,6 +8,7 @@
         <meta name="keywords" content="" />
        
         <title>Stroke</title>
+<link rel="canonical" href="https://spineandbrainindia.com/stroke" />
 
 
 <!-- Unified SEO Schema and Tags -->

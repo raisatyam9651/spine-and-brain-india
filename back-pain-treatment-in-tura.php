@@ -607,7 +607,7 @@
                                         
     <div class="container mt-4">
         <div class="header">
-            <h1>Understanding Back Pain</h1>
+            <h2>Understanding Back Pain</h2>
             <p>Explore the common causes of back pain to better understand prevention and treatment options</p>
         </div>
 
@@ -745,7 +745,7 @@
                                        
         <div class="container mt-5">
             <div class="service-header">
-                <h1>Why Choose Dr. Arun Saroha for Back Pain in Tura?</h1>
+                <h2>Why Choose Dr. Arun Saroha for Back Pain in Tura?</h2>
               </div>
         
         <div class="container">
@@ -773,7 +773,7 @@
         </div>
         
      <div class="faq-container">
-        <h1>Frequently Asked Questions</h1>
+        <h2>Frequently Asked Questions</h2>
         
         <div class="faq-item">
             <div class="faq-question" onclick="toggleFAQ(this)">

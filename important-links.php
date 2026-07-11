@@ -7,6 +7,7 @@
         <meta name="keywords" content="" />
        
         <title>Important Links</title>
+<link rel="canonical" href="https://spineandbrainindia.com/important-links" />
         
 
 <!-- Unified SEO Schema and Tags -->

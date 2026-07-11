@@ -459,7 +459,7 @@
                                     
         <div class="container mt-4">
         <div class="service-header">
-            <h1>Causes of Blood Clots in Brain</h1>
+            <h2>Causes of Blood Clots in Brain</h2>
         </div>
         
         <div class="service-cards-grid">
@@ -531,7 +531,7 @@
                                         
                       <div class="container mt-4">
         <div class="service-header">
-            <h1>Common Symptoms of Blood Clots in Brain</h1>
+            <h2>Common Symptoms of Blood Clots in Brain</h2>
         </div>
         
         <div class="service-cards-grid">
@@ -598,7 +598,7 @@
                                        
         <div class="container mt-5">
         <div class="service-header">
-        <h1>Why Choose Dr. Arun Saroha for Blood Clot Brain Treatment in Kottayam?</h1>
+        <h2>Why Choose Dr. Arun Saroha for Blood Clot Brain Treatment in Kottayam?</h2>
         </div>
         
         <div class="container">
@@ -626,7 +626,7 @@
     </div>
     
  <div class="faq-container">
-        <h1>Frequently Asked Questions</h1>
+        <h2>Frequently Asked Questions</h2>
         
         <div class="faq-item mt-4">
             <div class="faq-question" onclick="toggleFAQ(this)">

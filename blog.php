@@ -17,6 +17,7 @@ exit;
         <meta name="keywords" content="" />
        
         <title>Dr. Arun Saroha: Best Neurosurgeon & Spine Surgeon in India</title>
+<link rel="canonical" href="https://spineandbrainindia.com/blog" />
         <style>
             .qb-banner{
                 margin-bottom:20px;

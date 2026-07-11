@@ -556,7 +556,7 @@
                                     
         <div class="container mt-4">
         <div class="service-header">
-            <h1>Scoliosis Treatment Options</h1>
+            <h2>Scoliosis Treatment Options</h2>
             <p class="mb-0"> When it comes to Scoliosis Treatment in Pali, there are several options available based on the severity of the condition, the age of the patient, and how much the curvature is affecting daily life. The goal of treatment is to stop the progression of the curve, relieve symptoms, and improve quality of life. Below are the most common treatment options:</p>
         </div>
         
@@ -606,7 +606,7 @@
     
     <div class="container mt-5">
         <div class="service-header">
-            <h1>Why Choose Dr. Arun Saroha for Cervical Spine Surgery in Pali?</h1>
+            <h2>Why Choose Dr. Arun Saroha for Cervical Spine Surgery in Pali?</h2>
         </div>
         
         <div class="container">
@@ -634,7 +634,7 @@
     </div>
     
  <div class="faq-container">
-        <h1>Frequently Asked Questions</h1>
+        <h2>Frequently Asked Questions</h2>
         
         <div class="faq-item">
             <div class="faq-question" onclick="toggleFAQ(this)">

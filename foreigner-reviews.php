@@ -8,6 +8,7 @@
         <meta name="keywords" content="" />
        
         <title>Testimonials</title>
+<link rel="canonical" href="https://spineandbrainindia.com/foreigner-reviews" />
       
 
 <!-- Unified SEO Schema and Tags -->

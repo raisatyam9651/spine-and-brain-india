@@ -7,6 +7,7 @@
         <meta name="keywords" content="" />
        
         <title>Thankyou</title>
+<link rel="canonical" href="https://spineandbrainindia.com/thankyou" />
         
 
 <!-- Unified SEO Schema and Tags -->

@@ -7,7 +7,8 @@
         <meta name="description" content="Expert hydrocephalus treatment by Dr. Arun Saroha. Advanced VP shunt surgery and endoscopic procedures. 7000+ successful surgeries. Get expert care. Consult today!" />
         <meta name="keywords" content="" />
        
-        <title>Dr. Arun Saroha: Best Neurosurgeon & Spine Surgeon in India</title>
+        <title>Hydrocephalus Treatment | Dr. Arun Saroha</title>
+<link rel="canonical" href="https://spineandbrainindia.com/hydrocephalus" />
         
         <style>
 
@@ -308,7 +309,7 @@
                                         
             <div class="container mt-5">
         <div class="service-header">
-        <h1>Why Choose Dr. Arun Saroha for Hydrocephalus in India?</h1>
+        <h2>Why Choose Dr. Arun Saroha for Hydrocephalus in India?</h2>
         </div>
         
         <div class="container">
@@ -342,7 +343,7 @@
     </div>
     
  <div class="faq-container">
-        <h1>Frequently Asked Questions</h1>
+        <h2>Frequently Asked Questions</h2>
         
         <div class="faq-item mt-4">
             <div class="faq-question" onclick="toggleFAQ(this)">

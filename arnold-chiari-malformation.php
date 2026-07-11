@@ -8,6 +8,7 @@
         <meta name="keywords" content="" />
 
         <title>Arnold Chiari Malformation</title>
+<link rel="canonical" href="https://spineandbrainindia.com/arnold-chiari-malformation" />
 
 
 <!-- Unified SEO Schema and Tags -->

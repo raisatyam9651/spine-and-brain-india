@@ -8,6 +8,7 @@
         <meta name="keywords" content="" />
        
         <title>Spinal Cord Injury</title>
+<link rel="canonical" href="https://spineandbrainindia.com/spinal-cord-injury" />
 
 
 <!-- Unified SEO Schema and Tags -->

@@ -8,6 +8,7 @@
         <meta name="keywords" content="" />
        
         <title>Nerve Root Compression</title>
+<link rel="canonical" href="https://spineandbrainindia.com/nerve-root-compression" />
 
 
 <!-- Unified SEO Schema and Tags -->

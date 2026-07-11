@@ -8,6 +8,7 @@
         <meta name="keywords" content="" />
        
         <title>Best treatment cervical spondylosis in gurgaon</title>
+<link rel="canonical" href="https://spineandbrainindia.com/best-treatment-cervical-spondylosis-in-gurgaon" />
 
 
 <!-- Unified SEO Schema and Tags -->

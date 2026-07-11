@@ -8,6 +8,7 @@
         <meta name="keywords" content="" />
        
         <title>Spina Bifida</title>
+<link rel="canonical" href="https://spineandbrainindia.com/spina-bifida" />
 
 
 <!-- Unified SEO Schema and Tags -->

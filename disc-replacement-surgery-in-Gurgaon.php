@@ -8,6 +8,7 @@
         <meta name="keywords" content="" />
        
         <title>Dr. Arun Saroha: Best Neurosurgeon & Spine Surgeon in Gurgaon</title>
+<link rel="canonical" href="https://spineandbrainindia.com/disc-replacement-surgery-in-Gurgaon" />
 
 
 <!-- Unified SEO Schema and Tags -->

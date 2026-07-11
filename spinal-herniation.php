@@ -8,6 +8,7 @@
         <meta name="keywords" content="" />
        
         <title>Spinal Herniation</title>
+<link rel="canonical" href="https://spineandbrainindia.com/spinal-herniation" />
 
 
 <!-- Unified SEO Schema and Tags -->

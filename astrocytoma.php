@@ -8,6 +8,7 @@
         <meta name="keywords" content="" />
 
         <title>Astrocytoma</title>
+<link rel="canonical" href="https://spineandbrainindia.com/astrocytoma" />
 
 
 <!-- Unified SEO Schema and Tags -->

@@ -537,7 +537,7 @@
                                         
         <div class="container mt-4">
         <div class="service-header">
-            <h1>Types of Nerve Transfers</h1>
+            <h2>Types of Nerve Transfers</h2>
             <p class="mb-0">Nerve transfers involve rerouting healthy nerves to restore function in muscles that have lost their nerve supply due to injury. There are several types of nerve transfers, each tailored to address specific injuries and restore function in different parts of the body. Here are some common types:</p>
         </div>
         
@@ -592,7 +592,7 @@
 
         <div class="container mt-5">
         <div class="service-header">
-        <h1>Why Choose Dr. Arun Saroha for Nerve Graft Surgery in Meerut?</h1>
+        <h2>Why Choose Dr. Arun Saroha for Nerve Graft Surgery in Meerut?</h2>
         </div>
         
         <div class="container">
@@ -620,7 +620,7 @@
     </div>
     
  <div class="faq-container">
-        <h1>Frequently Asked Questions</h1>
+        <h2>Frequently Asked Questions</h2>
         
         <div class="faq-item mt-4">
             <div class="faq-question" onclick="toggleFAQ(this)">

@@ -40,6 +40,7 @@
 
        
         <title>Contact Spine and Brain India - Dr. Arun Saroha's Neurosurgery Clinic</title>
+<link rel="canonical" href="https://spineandbrainindia.com/contact" />
 
 
 <!-- Unified SEO Schema and Tags -->

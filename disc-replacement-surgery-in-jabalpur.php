@@ -410,7 +410,7 @@
                                         <!--<p>Dr. Saroha uses the latest advancements in spinal surgery and state-of-the-art equipment to provide personalized care for each patient. His approach includes a thorough diagnosis, treatment plan, and follow-up to ensure long-lasting results. His proficiency in disc replacement surgery, combined with a patient-centric focus, makes him a top choice for patients seeking the best care for their spine health.</p>-->
                                         
                         <div class="service-header mt-4">
-                <h1>Why Choose Dr. Arun Saroha for Cervical Spine Surgery in Jabalpur?</h1>
+                <h2>Why Choose Dr. Arun Saroha for Cervical Spine Surgery in Jabalpur?</h2>
               </div>
               
               <div class="container">
@@ -438,7 +438,7 @@
         </div>
         
         <div class="faq-container">
-        <h1>Frequently Asked Questions</h1>
+        <h2>Frequently Asked Questions</h2>
         
         <div class="faq-item">
             <div class="faq-question" onclick="toggleFAQ(this)">

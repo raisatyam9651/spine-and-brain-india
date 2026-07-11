@@ -8,6 +8,7 @@
         <meta name="keywords" content="" />
        
         <title>Pituitary Tumor</title>
+<link rel="canonical" href="https://spineandbrainindia.com/pituitary-tumor" />
 
 
 <!-- Unified SEO Schema and Tags -->

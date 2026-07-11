@@ -8,6 +8,7 @@
         <meta name="keywords" content="" />
 
         <title>Arteriovenous Fistula</title>
+<link rel="canonical" href="https://spineandbrainindia.com/arteriovenous-fistula" />
 
 
 <!-- Unified SEO Schema and Tags -->

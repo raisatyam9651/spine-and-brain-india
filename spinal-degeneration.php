@@ -8,6 +8,7 @@
         <meta name="keywords" content="" />
        
         <title>Spinal Degeneration</title>
+<link rel="canonical" href="https://spineandbrainindia.com/spinal-degeneration" />
 
 
 <!-- Unified SEO Schema and Tags -->

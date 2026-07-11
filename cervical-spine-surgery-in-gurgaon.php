@@ -7,7 +7,8 @@
         <meta name="description" content="Expert cervical spine surgery in Gurgaon by Dr. Arun Saroha. Advanced treatment for neck pain, herniated discs and spinal stenosis at Max Hospital. Book consultation now!" />
         <meta name="keywords" content="" />
        
-        <title>Dr. Arun Saroha: Best Neurosurgeon & Spine Surgeon in India</title>
+        <title>Cervical Spine Surgery in Gurgaon | Dr. Arun Saroha</title>
+<link rel="canonical" href="https://spineandbrainindia.com/cervical-spine-surgery-in-gurgaon" />
 
 
 <!-- Unified SEO Schema and Tags -->

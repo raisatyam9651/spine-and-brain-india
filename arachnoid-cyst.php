@@ -7,6 +7,7 @@
         <meta name="keywords" content="" />
 
         <title>Arachnoid Cyst</title>
+<link rel="canonical" href="https://spineandbrainindia.com/arachnoid-cyst" />
 
 
 <!-- Unified SEO Schema and Tags -->

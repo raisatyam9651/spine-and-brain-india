@@ -6,6 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         
         <title>International Patients: Seek Expert Neurosurgery Care by Dr. Arun Saroha</title>
+<link rel="canonical" href="https://spineandbrainindia.com/international" />
         
         <meta name="description" content="International patients seeking world-class neurosurgery in India? Dr. Arun Saroha offers expert brain and spine surgery at Max Hospital. Affordable care, medical visa assistance. Book consultation!" />
         

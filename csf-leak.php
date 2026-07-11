@@ -7,7 +7,8 @@
         <meta name="description" content="Expert CSF leak treatment by Dr. Arun Saroha. Advanced endoscopic repair for cerebrospinal fluid leaks. High success rate. 25+ years experience. Consult today!" />
         <meta name="keywords" content="" />
 
-        <title>Dr. Arun Saroha: Best Neurosurgeon & Spine Surgeon in India</title>
+        <title>CSF Leak Treatment | Dr. Arun Saroha</title>
+<link rel="canonical" href="https://spineandbrainindia.com/csf-leak" />
 
 
 <!-- Unified SEO Schema and Tags -->

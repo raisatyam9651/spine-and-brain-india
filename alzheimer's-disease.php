@@ -8,6 +8,7 @@
         <meta name="keywords" content="" />
 
         <title>Alzheimer's Disease</title>
+<link rel="canonical" href="https://spineandbrainindia.com/alzheimer's-disease" />
 
 
 <!-- Unified SEO Schema and Tags -->

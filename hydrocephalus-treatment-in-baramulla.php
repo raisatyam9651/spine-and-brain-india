@@ -8,6 +8,7 @@
         <meta name="keywords" content="" />
        
         <title>Dr. Arun Saroha: Best Neurosurgeon & Spine Surgeon in Baramulla</title>
+<link rel="canonical" href="https://spineandbrainindia.com/hydrocephalus-treatment-in-baramulla" />
         
         <style>
 
@@ -308,7 +309,7 @@
                                         
             <div class="container mt-5">
         <div class="service-header">
-        <h1>Why Choose Dr. Arun Saroha for Hydrocephalus in Baramulla?</h1>
+        <h2>Why Choose Dr. Arun Saroha for Hydrocephalus in Baramulla?</h2>
         </div>
         
         <div class="container">
@@ -342,7 +343,7 @@
     </div>
     
  <div class="faq-container">
-        <h1>Frequently Asked Questions</h1>
+        <h2>Frequently Asked Questions</h2>
         
         <div class="faq-item mt-4">
             <div class="faq-question" onclick="toggleFAQ(this)">

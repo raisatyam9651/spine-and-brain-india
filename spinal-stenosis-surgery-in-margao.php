@@ -527,7 +527,7 @@
                                        
                                         <div class="container mt-4">
         <div class="service-header">
-            <h1>Spinal Stenosis Treatment Options</h1>
+            <h2>Spinal Stenosis Treatment Options</h2>
             <p class="mb-0"> Treatment for spinal stenosis depends on the severity of the symptoms and how much they affect your daily life. Early-stage spinal stenosis may be managed with non-surgical options, while severe cases may require surgical intervention. Here are some of the most common spinal stenosis treatment options</p>
         </div>
         
@@ -576,7 +576,7 @@
     
     <div class="container mt-4">
         <div class="service-header">
-            <h1>Types of Spinal Stenosis Surgery</h1>
+            <h2>Types of Spinal Stenosis Surgery</h2>
             <p class="mb-0"> There are two main types of spinal stenosis surgery:</p>
         </div>
         
@@ -603,7 +603,7 @@
     
     <div class="container mt-5">
         <div class="service-header">
-            <h1>Why Choose Dr. Arun Saroha for Spinal Stenosis Surgery in Margao?</h1>
+            <h2>Why Choose Dr. Arun Saroha for Spinal Stenosis Surgery in Margao?</h2>
         </div>
         
         <div class="container">
@@ -631,7 +631,7 @@
     </div>
     
  <div class="faq-container">
-        <h1>Frequently Asked Questions</h1>
+        <h2>Frequently Asked Questions</h2>
         
         <div class="faq-item">
             <div class="faq-question" onclick="toggleFAQ(this)">
