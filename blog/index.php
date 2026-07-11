@@ -1663,6 +1663,38 @@
                                     </div>
                                 </div>
 
+                                <div class="col-md-6 col-sm-6 col-lg-4">
+                                    <div class="news-box3 position-relative w-100">
+                                        <div class="news-img3 brd-rd5 position-relative overflow-hidden w-100">
+                                            <a href="/blog/best-doctor-for-complex-brain-tumor-in-delhi/" title="Best Doctor for a Complex Brain Tumor in Delhi: How to Choose the Right Neurosurgeon">
+                                                <img class="img-fluid w-100" src="assets/img/services/Brain Tumor Surgery.webp" alt="Best Doctor for a Complex Brain Tumor in Delhi: How to Choose the Right Neurosurgeon">
+                                            </a>
+                                        </div>
+                                        <div class="news-info3 w-100">
+                                            <h3 class="mb-0"><a href="/blog/best-doctor-for-complex-brain-tumor-in-delhi/" title="">Best Doctor for a Complex Brain Tumor in Delhi: How to Choose the Right Neurosurgeon</a></h3>
+                                            <ul class="meta2 mb-0 list-unstyled d-flex flex-wrap align-items-center w-100">
+                                                <li class="thm-clr"><a href="/blog/best-doctor-for-complex-brain-tumor-in-delhi/" title="">Dr. Arun Saroha</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-6 col-sm-6 col-lg-4">
+                                    <div class="news-box3 position-relative w-100">
+                                        <div class="news-img3 brd-rd5 position-relative overflow-hidden w-100">
+                                            <a href="/blog/can-brain-tumor-be-treated-without-surgery/" title="Can a Brain Tumor Be Treated Without Surgery?">
+                                                <img class="img-fluid w-100" src="assets/img/services/brain cancer.webp" alt="Can a Brain Tumor Be Treated Without Surgery?">
+                                            </a>
+                                        </div>
+                                        <div class="news-info3 w-100">
+                                            <h3 class="mb-0"><a href="/blog/can-brain-tumor-be-treated-without-surgery/" title="">Can a Brain Tumor Be Treated Without Surgery?</a></h3>
+                                            <ul class="meta2 mb-0 list-unstyled d-flex flex-wrap align-items-center w-100">
+                                                <li class="thm-clr"><a href="/blog/can-brain-tumor-be-treated-without-surgery/" title="">Dr. Arun Saroha</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
                             </div>
                         </div>
 

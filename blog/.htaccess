@@ -26,6 +26,9 @@ RewriteBase /blog/
 RewriteCond %{HTTP_HOST} ^www\.spineandbrainindia\.com$ [NC]
 RewriteRule ^(.*)$ https://spineandbrainindia.com/blog/$1 [L,R=301]
 
+# Fix a malformed legacy URL whose slug was accidentally doubled -> canonical page.
+RewriteRule ^what-is-cervical-cancer-in-hindi-causes-symptoms-and-treatment-detailswhat-is-cervical-cancer-in-hindi-causes-symptoms-and-treatment-details/?$ /blog/what-is-cervical-cancer-in-hindi-causes-symptoms-and-treatment-details/ [R=301,L]
+
 # 1) Direct .php request  ->  clean trailing-slash URL
 #    /blog/<slug>.php  ->  /blog/<slug>/
 RewriteCond %{THE_REQUEST} \s/blog/([^\s?]+)\.php[\s?] [NC]
