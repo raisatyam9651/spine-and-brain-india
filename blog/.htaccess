@@ -14,7 +14,9 @@
 # index.php untouched by the rules below.
 # ------------------------------------------------------------------
 
-DirectoryIndex index.php
+# No "DirectoryIndex" directive here: it needs AllowOverride Indexes and 500s the
+# whole folder on hosts that don't grant it. The server default index (index.php on
+# cPanel) already serves /blog/ from blog/index.php.
 
 RewriteEngine On
 RewriteBase /blog/
