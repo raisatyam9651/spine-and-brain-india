@@ -1,0 +1,43 @@
+# ------------------------------------------------------------------
+# /blog/ folder routing
+# Serves pretty, trailing-slash blog URLs like
+#   https://spineandbrainindia.com/blog/cervical-pain-symptoms-in-hindi/
+# from a physical file  blog/cervical-pain-symptoms-in-hindi.php
+#
+# Only mod_rewrite / mod_dir directives are used (AllowOverride FileInfo +
+# Indexes), matching what the site root already relies on. No "Options"
+# directive is used, so this stays safe on restrictive hosts.
+#
+# Apache does NOT inherit the parent (root) rewrite rules into this folder,
+# so all routing for /blog/* is handled here in isolation.
+# QuickBlog post URLs ( /blog/?qb-b=<slug> ) are query-based and hit
+# index.php untouched by the rules below.
+# ------------------------------------------------------------------
+
+DirectoryIndex index.php
+
+RewriteEngine On
+RewriteBase /blog/
+
+# Force non-www (mirrors the site-wide canonical host; the parent rule is
+# not inherited here, so it is repeated for /blog/ URLs).
+RewriteCond %{HTTP_HOST} ^www\.spineandbrainindia\.com$ [NC]
+RewriteRule ^(.*)$ https://spineandbrainindia.com/blog/$1 [L,R=301]
+
+# 1) Direct .php request  ->  clean trailing-slash URL
+#    /blog/<slug>.php  ->  /blog/<slug>/
+RewriteCond %{THE_REQUEST} \s/blog/([^\s?]+)\.php[\s?] [NC]
+RewriteRule ^ /blog/%1/ [R=301,L]
+
+# 2) Extensionless URL that maps to a .php file  ->  add trailing slash
+#    /blog/<slug>  ->  /blog/<slug>/
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{DOCUMENT_ROOT}/blog/$1.php -f
+RewriteRule ^([^/]+)$ /blog/$1/ [R=301,L]
+
+# 3) Canonical trailing-slash URL  ->  internally serve the .php file
+#    /blog/<slug>/  (served from)  blog/<slug>.php
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{DOCUMENT_ROOT}/blog/$1.php -f
+RewriteRule ^([^/]+)/$ $1.php [L]
