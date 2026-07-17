@@ -43,13 +43,13 @@
         
         
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-BMVTX50S4V"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FE8CKLPS6H"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-BMVTX50S4V');
+  gtag('config', 'G-FE8CKLPS6H');
 </script>
 
 
